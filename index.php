@@ -111,8 +111,8 @@
   { 
     echo("          <div class=\"box minireference\">
             <h4>Poslední reference</h4>
-            <p>".mylink("reference", "<img src=\"".$cesta."reference/hok_170.png\" alt=\"Náhled: projekt Nizozemsko-česká obchodní komora\" width=\"170\" height=\"170\" />", "ref_hok", "Nizozemsko-česká obchodní komora")."</p>
-            <p>Nizozemsko-česká obchodní komora, 2008, <a href=\"http://www.nccc.cz/\" title=\"Přejít na stránky Nizozemsko-české obchodní komory\">www.nccc.cz</a></p>
+            <p>".mylink("reference", "<img src=\"".$cesta."reference/psa_170.png\" alt=\"Náhled: projekt Pro Sport Activities\" width=\"170\" height=\"170\" />", "ref_psa", "Pro Sport Activities")."</p>
+            <p>Pro Sport Activities, 2008<br /><a href=\"http://www.pro-sport.cz/\" title=\"Přejít na stránky Pro Sport Activities\">www.pro-sport.cz</a></p>
             <p class=\"read_next\">".mylink("reference", "Další reference&hellip;")."</p>          
           </div>".nl);
 /*    echo("          <div class=\"box\">
