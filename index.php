@@ -1,16 +1,19 @@
 <?php  //Domovska stranka
 
-  header("Pragma: no-cache");  //Hlavicka HTTP, zakaz ukladani teto stranky do mezipameti, pro protokol HTTP 1.0
-  header("Cache-Control: no-cache, must-revalidate");  //Hlavicka HTTP, zakaz ukladani teto stranky do mezipameti, pro protokol HTTP 1.1
-  header('Cache-Control: pre-check=0, post-check=0, max-age=0');  //Hlavicka HTTP, zakaz ukladani teto stranky do mezipameti, pro protokol HTTP 1.1
-  header('Content-Type: text/html; charset=utf-8');  //Hlavicka s nastavenim znakove sady utf-8  
+  define ('SYSTEM_ROOT', './');                                   //Cesta k rootu webu (z pohledu PHP)
+  define ('INCLUDE_ROOT', SYSTEM_ROOT . 'source/');               //Cesta k adr. ve kterém je ukryt systém
+  define ('CLASS_PATH', INCLUDE_ROOT . 'class/');                 //Cesta k adr. s třídami
+  define ('INCLUDE_PATH', INCLUDE_ROOT . '');                     //Cesta k adr. s obecnými knihovnami systému
+  define ('INCLUDE_SECTIONS_PATH', INCLUDE_ROOT . 'pages/');   //Cesta k adr. se stránkami
+  define ('TEMPLATE_PATH', INCLUDE_ROOT . 'tmpls/');              //Cesta k adr. se šablonami
+  define ('CONFIG_FILE', SYSTEM_ROOT . 'config.php');             //Soubor config.php 
 
-  define ('CONFIG_FILE', './config.php');
-  require_once(CONFIG_FILE);
   
-  include "source/functions.php";  //Nacteni zakladnich funkci
-  include "source/my_db_functions.php";  //Nacteni zakladnich fci pro praci s databazi
-  include "source/create_page_info.php";  //Nacteni zakladnich fci pro praci s databazi
+  require_once(CONFIG_FILE);
+  include INCLUDE_PATH . "init.php";  //Spouštění globálních inicializačních procesů
+  include INCLUDE_PATH . "functions.php";  //Nacteni zakladnich funkci
+  include INCLUDE_PATH . "my_db_functions.php";  //Nacteni zakladnich fci pro praci s databazi
+  include INCLUDE_PATH . "create_page_info.php";  //Nacteni zakladnich fci pro praci s databazi
 
   //Domovska stranka - vlastni obsah
   echo('<'.'?xml version="1.0" encoding="utf-8"?'.'>'.nl);  //XML
@@ -67,7 +70,7 @@
         <h4>Nacházíte se zde</h4>
         <div class=\"main\">
           <p><a href=\"$cesta\" title=\"Koldasoft - úvodní stránka\">Koldasoft</a> > ");
-  include "source/navbar.php";  //Nacteni navigacni listy, vytvoreni zanoreni 
+  include INCLUDE_PATH . "navbar.php";  //Nacteni navigacni listy, vytvoreni zanoreni 
   echo("        </div>
         <div class=\"cleaner\"></div> 
       </div>
@@ -80,12 +83,12 @@
   If(file_exists($page_source))  //Pokud extistuje stranka, ktera se ma otevrit
     include $page_source;  //Nacteni poazdovane stranky
   Else  //Pokud stranka neexistuje
-    include "source/pages/not-found.php";  //Nacteni chybove stranky 
+    include INCLUDE_SECTIONS_PATH . "not-found.php";  //Nacteni chybove stranky 
 
   echo("        </div>
         <div class=\"second\">
           <hr />".nl);
-  include "source/vertical_menu.php";  //Nacteni vertikalniho menu
+  include INCLUDE_PATH . "vertical_menu.php";  //Nacteni vertikalniho menu
   If($open != "kontakt")  //Pro vsechny krome kontaktu        
     echo("          <div class=\"box\">
             <h4>Rychlé kontakty</h4>
