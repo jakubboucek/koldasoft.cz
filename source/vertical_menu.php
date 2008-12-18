@@ -1,6 +1,6 @@
 <?php  //Vertikalni menu
 
-  $all_page_info = my_db_read_all("source/page.db");  //Nacteni informaci o vsech strankach
+  $all_page_info = my_db_read_all(INCLUDE_PATH."page.db");  //Nacteni informaci o vsech strankach
   $found_i = 0;  //Nulovani pom. prom., urcuje, zda byla nalezena polozka 
   $found_j = 0;  //Nulovani pom. prom., urcuje, zda byla nalezena polozka 
   For($i = 0; $i < count($all_page_info); $i++)  //Cyklus projde vsechny stranky
@@ -28,7 +28,7 @@
       {
         If(!$found_i)  //Pokud dosud nebylo nalezeno
         {
-          $titulek = my_db_read_line("source/page.db", $page_info[4][0]);  //Nacteni informaci o hlavni nadrizene sekci
+          $titulek = my_db_read_line(INCLUDE_PATH."page.db", $page_info[4][0]);  //Nacteni informaci o hlavni nadrizene sekci
           echo("          <div class=\"box\">
             <h4>".$titulek[1]."</h4>
             <ul class=\"link_farm\">".nl);

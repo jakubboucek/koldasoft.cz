@@ -5,7 +5,7 @@
     
     For($i = 0; $i < count($page_info[4]); $i++)  //Cyklus projde cele zanoreni stranky
     {
-      $zanoreni = my_db_read_line("source/page.db", $page_info[4][$i]);  //Nacteni informaci o akt. prochazene strance zanoreni        
+      $zanoreni = my_db_read_line(INCLUDE_PATH."page.db", $page_info[4][$i]);  //Nacteni informaci o akt. prochazene strance zanoreni        
       echo("<a href=\"".$cesta.$page_info[4][$i]."/\" title=\"$zanoreni[3]\">".$zanoreni[2]."</a> > ");  //Zobrazeni zanoreni vcetne odkazu
       $page_source .= $page_info[4][$i]."/";  //Pridani zanoreni do adresy stranky        
     }  

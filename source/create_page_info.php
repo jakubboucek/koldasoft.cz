@@ -9,10 +9,10 @@
     $page_ph = "snadná cesta k vlastnímu webu"; //Ulozeni pridane hodnoty
   }    
 
-  $page_source = "source/pages/";  //Ulozeni zacatku adresy pro danou stranku
+  $page_source = INCLUDE_SECTIONS_PATH;  //Ulozeni zacatku adresy pro danou stranku
 
   // Nacteni informaci o dane strance \\
-  If(!$page_info = my_db_read_line("source/page.db", $open))  //Pokud NElze nacist informace o pozadovane strance
+  If(!$page_info = my_db_read_line(INCLUDE_PATH."page.db", $open))  //Pokud NElze nacist informace o pozadovane strance
   {
     unset($page_info);  //Odstraneni puvodni promenne  
     $page_info[0] = "not-found";  //Ulozeni nazvu 
