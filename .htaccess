@@ -1,0 +1,10 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^koldasoft\.cz$
+RewriteRule ^(.*)$ http://www.koldasoft.cz$1 [R=301,L]
+RewriteRule ^_gat/.*\.js$ _gat.php [L,QSA]
+RewriteRule  ^([A-Za-z0-9-]+)$  $1/  [R]
+RewriteRule  ^([A-Za-z0-9-]+)/$  index.php?open=$1  [L]
+
+

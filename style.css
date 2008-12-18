@@ -1,0 +1,362 @@
+/************* Style for screen *************/
+
+body {  /* Telo stranky */
+  text-align: center;
+  font: .8em/1.3 "Arial CE", "Helvetica CE", arial, helvetica, sans-serif;
+  position: relative;
+  background: #ffffff;
+  color: #676366;
+  margin: 0;
+}
+
+.background {  /* Pozadi bloku (presah grafiky) */
+  background: url('pictures/bcg.jpg') top center repeat-y;
+}
+
+.page {  /* Blok sirky stranky */
+  background: #747474 url('pictures/bcg.jpg') -41px 0 repeat-y;
+  border: 0px solid navy;
+  width: 770px;
+  margin: 0 auto;
+}
+
+.main {  /* Hlavni cast (sloupec) */
+  float: left;
+  width: 550px;
+  color: #ffffff;  
+}
+
+.second {  /* Vedlejsi cast (sloupec - akt. pravy) */
+  float: right;
+  width: 220px;
+  background: #87e73b url('pictures/bcg.jpg') -591px 0 repeat-y;
+}
+
+
+
+
+
+#menu, #navbar, #middle {  /* Menu, navigacni lista, obsahova cast */
+  border-bottom: .5em solid #ffffff;  /* Mezera za bloky */
+}
+
+
+
+
+/***** Pred hlavicka *****/
+#pre_header .empty {  /* Text v pred hlavicce */
+  height: 1.6em;
+  margin: 0;
+}
+
+
+/***** Hlavicka *****/
+#header {  /* Hlavicka */
+  background: url('pictures/header.jpg') top center no-repeat;
+}
+
+#header .page {  /* Obsah hlavicky */
+  background: url('pictures/header.jpg') top center no-repeat;
+  height: 160px;
+  overflow: hidden;
+  position: relative;
+}
+
+#header .logo {  /* Logo */
+  position: absolute;
+  left: 20px;
+  top: 12px;
+  border: 0;
+}
+
+#skip_menu {  /* Preskoceni menu */
+  position: absolute;
+  top: -100px;
+}
+
+
+
+/***** Menu *****/
+#menu .page {  /*  Pozadi menu */
+  background: #747474 url('pictures/menu_bcg.gif') bottom left repeat-x;
+}
+
+#menu a {  /* Polozka menu */
+  display: block;
+  padding: .4em 0;
+  font-size: 1.1em;
+  float: left;
+  width: 94px;
+  _width: 96px;
+  font-weight: bold;
+  color: #ffffff;
+  text-decoration: none;
+  background: #747474 url('pictures/menu_bcg.gif') bottom left repeat-x;
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;  
+  border-left: 1px solid silver;
+  border-right: 1px solid #3d3d3d;
+}
+
+#menu a:hover, #menu .active, #menu a:active, #menu a:focus {  /* Aktivni polozka menu */
+  background: #3d3d3d url('pictures/menu_bcg_act.gif') bottom left repeat-x;
+  color: #36e81e;
+}
+
+#menu .last {  /* Posledni (o trosku vetsi) polozka menu */
+  width: 96px;
+  _width: 98px;
+}
+
+#menu h4 {  /* Nadpis menu */
+  position: absolute;
+  top: -1000px;
+}
+
+
+/***** Navigacni lista *****/
+#navbar .main p {  /* Text v navigaci  */
+  padding: .5em .2em .55em 1.8em;
+  text-align: left;
+  font-size: .9em;
+  margin: 0;
+}
+
+#navbar a {color: #ffffff;}  /* Odkaz v navigaci */
+
+#navbar a:hover, #navbar a:active, #navbar a:focus {color: #36e81e;}  /* Aktivni odkaz v textu */
+
+#navbar h4 {  /* Nadpis navigacni listy */
+  position: absolute;
+  top: -1000px;
+}
+
+
+/***** Obsahova cast *****/
+#middle .page {position: relative;}  /* Stranka v obsahove casti */
+
+#middle .text_box {  /* Textovy box */
+  text-align: left;
+  margin: 10px 9px;
+  padding: 0 12px;
+  background: #ffffff url('pictures/text_bcg.gif') top center repeat-y;
+  color: #666666;
+}
+
+#middle .box{  /* Box ve sloupci */
+  text-align: left;
+  margin: 10px 9px;
+  padding: 0 12px;
+  background: #ffffff url('pictures/box_bcg.gif') top center repeat-y;
+  color: #666666;
+  position: relative;
+  z-index: 10;
+}
+
+h1 {  /* Nadpis 1. urovne */
+  text-align: left;
+  font-size: 1.6em;
+  color: #2ebf31;
+  margin: 0;
+  margin-bottom: .25em;
+  padding: .3em 0 .2em 0;
+  background: url('pictures/title_line.gif') bottom center no-repeat;
+}
+
+h2 {  /* Nadpis 2. urovne */
+  text-align: left;
+  font-size: 1.3em;
+  padding: .6em 0 .3em 0;
+  color: #444444;
+  margin: 0;  
+}
+
+h3 {  /* Nadpis 3. urovne */
+  text-align: left;
+  font-size: 1.1em;
+  padding: .6em 0 .3em 0;
+  color: #444444;
+  margin: 0;  
+}
+
+h4 {  /* Nadpis 4. urovne - sloupec */
+  text-align: left;
+  font-size: 1.1em;
+  padding: .6em 0 .3em 0;
+  color: #444444;
+  margin: 0;
+  margin-bottom: .2em;  
+  background: url('pictures/title_line.gif') bottom center no-repeat;
+}
+
+#middle p {  /* Text v obsahove casti */
+  padding-bottom: .6em;
+}
+
+#middle .read_next {  /* Vice o clanku */
+  text-align: right;
+  padding: 0 .5em .8em 0;
+}
+
+#middle a {color: #666666;}  /* Odkaz v textu */
+
+#middle .read_next a {color: #2ebf31;}  /* Odkaz vice */
+
+#middle ul.link_farm a {color: #2ebf31;}  /* Odkaz v seznamu odkazu */
+
+#middle strong {  /* Zvyrazneny text */
+  color: #444444;
+}
+
+#middle a:hover, #middle a:active, #middle a:focus, #middle a:hover strong, #middle a:active strong, #middle a:focus strong {color: #2ebf31;}  /* Aktivni odkaz v textu */
+
+#middle ul {  /* Seznam v obsahove casti */
+  text-align: left;
+  list-style-type: none;
+  margin: 0;
+  padding: 0 0 .6em .5em;
+}
+
+#middle ul ul {  /* Vnorenej seznam */
+  padding: .2em 0 0 .8em;
+}
+
+#middle li {  /* Polozka seznamu */
+  padding: .1em 0 .25em .6em;
+  background: url('pictures/odr.gif') 0 .6em no-repeat;
+}
+
+#iniciala {  /* Iniciala - grafika */
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 89px;
+  height: 91px;
+  background: url('pictures/iniciala.jpg') bottom right no-repeat; 
+}
+
+.subtitle {  /* Podnadpis */
+  font-style: italic;
+}
+
+.minireference p {
+  text-align: center;
+}
+
+.minireference img {
+  border: 1px solid #2ebf31;
+}
+
+.reference {  /* Box s referencnim projektem */
+  margin-bottom: .8em;
+}
+
+.reference .foto {  /* Fotografie v referenci */
+  width: 202px;
+  float: left;
+}
+
+.reference .foto a {  /* Foto jako odkaz */
+  display: block;
+}
+
+.reference .foto img { /* Foto - obrazek */
+  border: 0;  
+  border: 1px solid #2ebf31;
+}
+
+.reference .text {  /* Popis reference */
+  width: 300px;
+  float: right;
+}
+
+.reference h3 {  /* Nadpis reference */
+  font-size: 1.4em;
+  color: #2ebf31;
+  padding-top: 0;
+}
+
+.reference .short {  /* Strucny vypis (technologie) */
+  
+}
+
+.reference .long {  /* Podrobny popis reference */
+
+}
+
+.reference .link {  /* Odkaz na referencni projekt */
+
+}
+
+.reference .read_next {  /* Odkaz na vice informaci o projektu */
+  display: none;
+}
+
+.half {
+  width: 45%;
+  float: left;
+  border: 1px solid silver;
+  padding: 0 10px;
+  margin-bottom: 10px;
+}
+
+.right {
+  float: right;
+}
+
+/***** Paticka *****/
+#footer p {  /* Text v paticce */
+  padding: .4em .2em;
+  /*font: .75em/1.3 "Arial CE", "Helvetica CE", arial, helvetica, sans-serif;*/
+  font-size: .9em;
+  margin: 0;
+}
+
+#footer a {color: #ffffff;}  /* Odkaz v paticce */
+
+#footer a:hover, #footer a:active, #footer a:focus {color: #36e81e;}  /* Aktivni odkaz v paticce */
+
+#footer .second a {color: #747474;}  /* Aktivni odkaz v paticce */
+#footer .second a:hover, #footer .second a:active, #footer .second a:focus {color: #3d3d3d;}  /* Aktivni odkaz v paticce */
+
+#footer .odr {padding-right: 10px;}  /* Blok v paticce */
+
+#footer .odr.full {  /* Odrazka v paticce */
+  padding-left: 14px;
+  background: url('pictures/odr.gif') left center no-repeat;
+}
+
+
+
+
+
+
+/* Kvuli IE 5ce v tisku */
+#menu, #menu h4, #footer .second, #navbar h4, #skip_menu, .read_next, #middle .second {  /* Menu, nadpis menu, druha cast paticky, nadpis navigace, preskoceni, vice, sloupec v obsahove casti */
+  display: block;  /* IE 5 - Tisk */
+}
+#navbar, #footer {  /* Navigacni lista, paticka */
+  font-size: 1em;  /* IE 5 - Tisk */
+}
+
+
+
+p {
+  margin: 0;
+}
+
+.cleaner {
+clear: both;
+font-size: 1px;
+height: 1px;
+}
+
+.hidden {  /* Trida pro uplne skryti */
+  display: none;
+}
+
+hr {  /* Horizontalni linky */
+  display: none;
+}
+
