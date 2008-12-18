@@ -22,7 +22,6 @@
   <head>
     <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
     <meta http-equiv=\"Content-language\" content=\"cs\" />
-    <meta http-equiv=\"cache-control\" content=\"no-cache, must-revalidate, no-store\" />
     <meta name=\"generator\" content=\"Human factor in PSPad [http://www.pspad.com/]\" />
     <meta name=\"author\" content=\"Koldasoft - snadná cesta k vlastnímu webu [http://www.koldasoft.cz/]; mailto:info@koldasoft.cz\" />
     <meta name=\"copyright\" content=\"&copy; 2007".(date('Y') > 2007 ? " - ".date('Y') : "")." Koldasoft, Všechna práva vyhrazena.\" />    
