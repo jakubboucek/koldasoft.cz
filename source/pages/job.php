@@ -14,7 +14,7 @@
               <li>spolupráce v&nbsp;týmu založená na zaběhlých pravidlech</li>
               <li>oceníme kreativní přístup k&nbsp;vlastnímu řešení</li>
             </ul>  
-            <h2 id=\"pozice\">Kodér XHTML, CSS</h2>
+<!--            <h2 id=\"pozice\">Kodér XHTML, CSS</h2>
             <ul>
               <li>tvorba webových prezentací na základě standardů s&nbsp;přihlédnutím k&nbsp;moderním trendům</li>
               <li>optimalizace projektů podle zásad přístupnosti</li>
@@ -23,7 +23,8 @@
               <li>reference výhodou</li>
               <li>znalost Javascriptu výhodou</li>
               <li>oceníme kreativní přístup k&nbsp;vlastnímu řešení</li>
-            </ul>  
+            </ul>
+-->  
             <h2 id=\"pozice\">Grafik - webdesignér</h2>
             <ul>
               <li>vytváření vzhledů pro e-shopy i stránky menšího rozsahu</li>
@@ -59,7 +60,7 @@
             <p>Prohlédněte si naše letáčky ve formátu PDF:</p>
             <ul>
               <li><a href=\"".$cesta."files/koldasoft-naborovy-letacek-programator.pdf\" title=\"Náš letáček na pozici programátor (PDF, 52.1&nbsp;kB)\">letáček na pozici programátor</a></li>
-              <li><a href=\"".$cesta."files/koldasoft-naborovy-letacek-koder.pdf\" title=\"Náš letáček na pozici kodér (PDF, 52.1&nbsp;kB)\">letáček na pozici kodér</a></li>
+<!--             <li><a href=\"".$cesta."files/koldasoft-naborovy-letacek-koder.pdf\" title=\"Náš letáček na pozici kodér (PDF, 52.1&nbsp;kB)\">letáček na pozici kodér</a></li>  -->
               <li><a href=\"".$cesta."files/koldasoft-naborovy-letacek-webdesigner.pdf\" title=\"Náš letáček na pozici grafik (PDF, 52.1&nbsp;kB)\">letáček na pozici grafik</a></li>
             </ul>
           </div>".nl);

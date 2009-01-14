@@ -102,7 +102,6 @@
             <p>Do našeho týmu hledáme:</p>
             <ul>
               <li><strong>programátora</strong> PHP</li>
-              <li><strong>kodéra</strong> (X)HTML a CSS</li>
               <li><strong>grafika</strong></li>
             </ul>
             <p class=\"read_next\">".mylink("job", "Více informací&hellip;")."</p>          
