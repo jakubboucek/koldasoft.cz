@@ -4,44 +4,26 @@ body {  /* Telo stranky */
   text-align: center;
   font: .8em/1.3 "Arial CE", "Helvetica CE", arial, helvetica, sans-serif;
   position: relative;
-  background: #ffffff;
   color: #676366;
   margin: 0;
 }
 
-.background {  /* Pozadi bloku (presah grafiky) */
-  background: url('pictures/bcg.jpg') top center repeat-y;
-}
-
 .page {  /* Blok sirky stranky */
-  background: #747474 url('pictures/bcg.jpg') -41px 0 repeat-y;
-  border: 0px solid navy;
+  background: #cdcdcd;
   width: 770px;
   margin: 0 auto;
 }
 
-.main {  /* Hlavni cast (sloupec) */
+.mcontent {  /* Hlavni cast (sloupec) */
   float: left;
   width: 550px;
-  color: #ffffff;  
+  background: #ffffff;
 }
 
-.second {  /* Vedlejsi cast (sloupec - akt. pravy) */
+.panel {  /* Vedlejsi cast (sloupec - akt. pravy) */
   float: right;
   width: 220px;
-  background: #87e73b url('pictures/bcg.jpg') -591px 0 repeat-y;
 }
-
-
-
-
-
-#menu, #navbar, #middle {  /* Menu, navigacni lista, obsahova cast */
-  border-bottom: .5em solid #ffffff;  /* Mezera za bloky */
-}
-
-
-
 
 /***** Pred hlavicka *****/
 #pre_header .empty {  /* Text v pred hlavicce */
@@ -77,10 +59,6 @@ body {  /* Telo stranky */
 
 
 /***** Menu *****/
-#menu .page {  /*  Pozadi menu */
-  background: #747474 url('pictures/menu_bcg.gif') bottom left repeat-x;
-}
-
 #menu a {  /* Polozka menu */
   display: block;
   padding: .4em 0;
@@ -89,9 +67,7 @@ body {  /* Telo stranky */
   width: 94px;
   _width: 96px;
   font-weight: bold;
-  color: #ffffff;
   text-decoration: none;
-  background: #747474 url('pictures/menu_bcg.gif') bottom left repeat-x;
   position: relative;
   cursor: pointer;
   overflow: hidden;  
@@ -100,7 +76,6 @@ body {  /* Telo stranky */
 }
 
 #menu a:hover, #menu .active, #menu a:active, #menu a:focus {  /* Aktivni polozka menu */
-  background: #3d3d3d url('pictures/menu_bcg_act.gif') bottom left repeat-x;
   color: #36e81e;
 }
 
@@ -116,14 +91,12 @@ body {  /* Telo stranky */
 
 
 /***** Navigacni lista *****/
-#navbar .main p {  /* Text v navigaci  */
+#navbar .mcontent p {  /* Text v navigaci  */
   padding: .5em .2em .55em 1.8em;
   text-align: left;
   font-size: .9em;
   margin: 0;
 }
-
-#navbar a {color: #ffffff;}  /* Odkaz v navigaci */
 
 #navbar a:hover, #navbar a:active, #navbar a:focus {color: #36e81e;}  /* Aktivni odkaz v textu */
 
@@ -140,7 +113,6 @@ body {  /* Telo stranky */
   text-align: left;
   margin: 10px 9px;
   padding: 0 12px;
-  background: #ffffff url('pictures/text_bcg.gif') top center repeat-y;
   color: #666666;
 }
 
@@ -148,7 +120,6 @@ body {  /* Telo stranky */
   text-align: left;
   margin: 10px 9px;
   padding: 0 12px;
-  background: #ffffff url('pictures/box_bcg.gif') top center repeat-y;
   color: #666666;
   position: relative;
   z-index: 10;
@@ -157,18 +128,15 @@ body {  /* Telo stranky */
 h1 {  /* Nadpis 1. urovne */
   text-align: left;
   font-size: 1.6em;
-  color: #2ebf31;
   margin: 0;
   margin-bottom: .25em;
   padding: .3em 0 .2em 0;
-  background: url('pictures/title_line.gif') bottom center no-repeat;
 }
 
 h2 {  /* Nadpis 2. urovne */
   text-align: left;
   font-size: 1.3em;
   padding: .6em 0 .3em 0;
-  color: #444444;
   margin: 0;  
 }
 
@@ -176,18 +144,14 @@ h3 {  /* Nadpis 3. urovne */
   text-align: left;
   font-size: 1.1em;
   padding: .6em 0 .3em 0;
-  color: #444444;
   margin: 0;  
 }
 
 h4 {  /* Nadpis 4. urovne - sloupec */
   text-align: left;
   font-size: 1.1em;
-  padding: .6em 0 .3em 0;
-  color: #444444;
   margin: 0;
   margin-bottom: .2em;  
-  background: url('pictures/title_line.gif') bottom center no-repeat;
 }
 
 #middle p {  /* Text v obsahove casti */
@@ -317,9 +281,6 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 
 #footer a:hover, #footer a:active, #footer a:focus {color: #36e81e;}  /* Aktivni odkaz v paticce */
 
-#footer .second a {color: #747474;}  /* Aktivni odkaz v paticce */
-#footer .second a:hover, #footer .second a:active, #footer .second a:focus {color: #3d3d3d;}  /* Aktivni odkaz v paticce */
-
 #footer .odr {padding-right: 10px;}  /* Blok v paticce */
 
 #footer .odr.full {  /* Odrazka v paticce */
@@ -333,7 +294,7 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 
 
 /* Kvuli IE 5ce v tisku */
-#menu, #menu h4, #footer .second, #navbar h4, #skip_menu, .read_next, #middle .second {  /* Menu, nadpis menu, druha cast paticky, nadpis navigace, preskoceni, vice, sloupec v obsahove casti */
+#menu, #menu h4, #footer .panel, #navbar h4, #skip_menu, .read_next, #middle .panel {  /* Menu, nadpis menu, druha cast paticky, nadpis navigace, preskoceni, vice, sloupec v obsahove casti */
   display: block;  /* IE 5 - Tisk */
 }
 #navbar, #footer {  /* Navigacni lista, paticka */

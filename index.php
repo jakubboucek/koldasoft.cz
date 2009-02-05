@@ -67,7 +67,7 @@
     <div id=\"navbar\" class=\"background\">
       <div class=\"page\">
         <h4>Nacházíte se zde</h4>
-        <div class=\"main\">
+        <div class=\"mcontent\">
           <p><a href=\"$cesta\" title=\"Koldasoft - úvodní stránka\">Koldasoft</a> > ");
   include INCLUDE_PATH . "navbar.php";  //Nacteni navigacni listy, vytvoreni zanoreni 
   echo("        </div>
@@ -77,7 +77,7 @@
     <hr />
     <div id=\"middle\" class=\"background\">
       <div class=\"page\">
-        <div class=\"main\">".nl);         
+        <div class=\"mcontent\">".nl);
   // Vlastni nacetni obsahu \\ 
   If(file_exists($page_source))  //Pokud extistuje stranka, ktera se ma otevrit
     include $page_source;  //Nacteni poazdovane stranky
@@ -85,7 +85,7 @@
     include INCLUDE_SECTIONS_PATH . "not-found.php";  //Nacteni chybove stranky 
 
   echo("        </div>
-        <div class=\"second\">
+        <div class=\"panel\">
           <hr />".nl);
   include INCLUDE_PATH . "vertical_menu.php";  //Nacteni vertikalniho menu
   If($open != "kontakt")  //Pro vsechny krome kontaktu        
