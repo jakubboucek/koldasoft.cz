@@ -1,6 +1,6 @@
 <?php // auta mira
 
-          echo("<div class=\"reference\">
+          echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"".$cesta."reference/auta_mira.png\" title=\"Zobrazit velký náhled\">www.auta-mira.cz</a></p>
@@ -12,5 +12,5 @@
                 <p><a href=\"".$cesta."reference/auta_mira.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/auta_mira_200.png\" alt =\"Náhled: projekt Auta Míra\" width=\"200\" height=\"200\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+            ".nl);
 ?>

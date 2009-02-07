@@ -1,6 +1,6 @@
 <?php // Hracky Domino
 
-          echo("<div class=\"reference\">
+          echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://shop.hrackydomino.cz/\" title=\"Přejít na stránky Hračky Domino\">www.hrackydomino.cz</a></p>
@@ -12,5 +12,5 @@
                 <p><a href=\"http://shop.hrackydomino.cz/\" title=\"Přejít na stránky Hračky Domino\"><img src=\"".$cesta."reference/domino_eshop_200.png\" alt=\"Náhled: projekt Hračky Domino\" height=\"200\" width=\"200\"></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+            ".nl);
 ?>

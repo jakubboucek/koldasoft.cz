@@ -1,6 +1,6 @@
 <?php // autoservis s+k
 
-          echo("<div class=\"reference\">
+          echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.autoservis-sk.cz/\" title=\"Přejít na stránky Autoservis S+K\">www.autoservis-sk.cz</a></p>
@@ -12,5 +12,5 @@
                 <p><a href=\"http://www.autoservis-sk.cz/\" title=\"Přejít na stránky Autoservis S+K\"><img src=\"".$cesta."reference/autoservis_sk_200.png\" alt =\"Náhled: projekt Autoservis S+K\" width=\"200\" height=\"200\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+            ".nl);
 ?>

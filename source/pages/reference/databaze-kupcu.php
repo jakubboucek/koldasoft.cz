@@ -1,6 +1,6 @@
 <?php // databaze kupcu
 
-    echo("<div class=\"reference\">
+    echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.databazekupcu.cz/\" title=\"Přejít na stránky Databáze kupců\">www.databazekupcu.cz</a></p>
@@ -12,5 +12,5 @@
                 <p><a href=\"http://www.databazekupcu.cz/\" title=\"Přejít na stránky Databáze kupců\"><img src=\"".$cesta."reference/databazekupcu_200.png\" alt=\"Náhled: projekt Databáze kupců\" height=\"200\" width=\"200\"></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+            ".nl);
 ?>

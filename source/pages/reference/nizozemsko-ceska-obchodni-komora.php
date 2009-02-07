@@ -1,6 +1,6 @@
 <?php // HOK
 
-  echo("<div class=\"reference\">
+  echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"short\"><a href=\"http://www.nccc.cz/\" title=\"Přejít na stránky Nizozemsko-české obchodní komory\">www.nccc.cz</a></p>
@@ -12,5 +12,5 @@
                 <p><a href=\"http://www.nccc.cz/\" title=\"Přejít na stránky Nizozemsko-české obchodní komory\"><img src=\"".$cesta."reference/hok_200.png\" alt=\"Náhled: projekt Holandská obchodní komora\" height=\"200\" width=\"200\"></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+           ".nl);
 ?>

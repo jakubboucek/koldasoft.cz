@@ -1,6 +1,6 @@
 <?php // AirNet Hotspot
 
-          echo("<div class=\"reference\">
+          echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"short\">Speciální interní stránky</p>
@@ -12,5 +12,5 @@
                 <p><a href=\"".$cesta."reference/angnetwork_hotspot_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/angnetwork_hotspot_200.png\" alt=\"Náhled: projekt ANG - Network - Hotspot\" height=\"200\" width=\"200\"></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+           ".nl);
 ?>

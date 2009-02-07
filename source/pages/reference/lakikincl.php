@@ -1,6 +1,6 @@
 <?php // LAKI
 
-      echo("<div class=\"reference\">
+      echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.lakikincl.cz/index.php?open=homepage\" title=\"Přejít na stránky Fa. Laki\">www.lakikincl.cz</a></p>
@@ -12,5 +12,5 @@
                 <p><a href=\"http://www.lakikincl.cz/index.php?open=homepage\" title=\"Přejít na stránky Fa. Laki\"><img src=\"".$cesta."reference/laki_200.png\" alt=\"Náhled: projekt Fa. Laki\" height=\"200\" width=\"200\"></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+           ".nl);
 ?>

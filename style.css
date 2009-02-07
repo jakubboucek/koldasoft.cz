@@ -27,19 +27,17 @@ body {  /* Telo stranky */
 
 /***** Pred hlavicka *****/
 #pre_header .empty {  /* Text v pred hlavicce */
-  height: 1.6em;
   margin: 0;
 }
 
 
 /***** Hlavicka *****/
 #header {  /* Hlavicka */
-  background: url('pictures/header.jpg') top center no-repeat;
 }
 
 #header .page {  /* Obsah hlavicky */
-  background: url('pictures/header.jpg') top center no-repeat;
-  height: 160px;
+  height: 140px;
+  background: #ffffff;
   overflow: hidden;
   position: relative;
 }

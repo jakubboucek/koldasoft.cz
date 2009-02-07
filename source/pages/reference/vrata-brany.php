@@ -1,6 +1,6 @@
 <?php // vrata a brany
 
-          echo("<div class=\"reference\">
+          echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.vrataabrany.cz/\" title=\"Přejít na stránky Vrata a brány\">www.vrataabrany.cz</a></p>
@@ -12,5 +12,5 @@
                 <p><a href=\"http://www.vrataabrany.cz/\" title=\"Přejít na stránky Vrata a brány\"><img src=\"".$cesta."reference/vrataabrany_200.png\" alt =\"Náhled: projekt Vrata a brány\" width=\"200\" height=\"200\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+            ".nl);
 ?>

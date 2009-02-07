@@ -36,7 +36,7 @@
 
             <div class=\"reference\">
               <div class=\"text\">
-                <h3 id=\"ref_hok\">".mylink("nizozemsko-ceksa-obchodni-komora")."</h3>
+                <h3 id=\"ref_hok\">".mylink("nizozemsko-ceska-obchodni-komora")."</h3>
                 <p class=\"short\"><a href=\"http://www.nccc.cz/\" title=\"Přejít na stránky Nizozemsko-české obchodní komory\">www.nccc.cz</a></p>
                 <p class=\"short\"><strong>Kompletní realizace</strong>, prosinec&nbsp;2008</p>
                 <p class=\"long\">Kompletní realizace stránek pro firmu pomáhající společnostem i jednotlivcům podnikat v&nbsp;Nizozemí nebo v&nbsp;České republice. Stránky obsahují přehled o akcích pořádaných společností, jejich členech a spousty jiných informací o této společnosti. Web nabízí několik jazykových mutací.</p>
@@ -120,7 +120,7 @@
 
             <div class=\"reference\">
               <div class=\"text\">
-                <h3 id=\"ref_angnetwork_hotspot\">".mylink("airnet-hotspot")."t</h3>
+                <h3 id=\"ref_angnetwork_hotspot\">".mylink("airnet-hotspot")."</h3>
                 <p class=\"short\">Speciální interní stránky</p>
                 <p class=\"short\"><strong>Kompletní realizace</strong>, srpen&nbsp;2008</p>
                 <p class=\"long\">Kompletně realizované stránky pro službu Hotspot od firmy ANG-Network. Hotspot umožňuje všem klientům připojení k&nbsp;internetu pomocí wifi kdekoliv po Plzni. Grafický návrh byl zpracován tak, aby korespondoval s&nbsp;návrhem ostatních aplikací společnosti ANG-Network a tím tvořil jednotný styl.</p>

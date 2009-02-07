@@ -1,6 +1,6 @@
 <?php // airnet
 
-          echo("<div class=\"reference\">
+          echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.airnet-cz.net/\" title=\"Přejít na stránky Airnet Group\">www.airnet-cz.net</a></p>
@@ -13,5 +13,5 @@
                 <p><a href=\"http://www.airnet-cz.net/\" title=\"Přejít na stránky Airnet Group\"><img src=\"".$cesta."reference/airnet_200.png\" alt =\"Náhled: projekt Airnet Group\" width=\"200\" height=\"200\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+            ".nl);
 ?>

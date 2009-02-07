@@ -1,6 +1,6 @@
 <?php // PDProjekce
 
-          echo("<div class=\"reference\">
+          echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"short\">Projekt nebyl spuštěn.</p>
@@ -12,5 +12,5 @@
                 <p><a href=\"".$cesta."reference/pdp_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/pdp_200.png\" alt=\"Náhled: projekt PDProjekce\" height=\"200\" width=\"200\"></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+            ".nl);
 ?>

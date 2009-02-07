@@ -1,6 +1,6 @@
 <?php // zdravotni poradentstvi
 
-          echo("<div class=\"reference\">
+          echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.zdravotniporadenstvi.cz/\" title=\"Přejít na stránky Zdravotní poradenství\">www.zdravotniporadenstvi.cz</a></p>
@@ -14,5 +14,5 @@
               </div>
               <div class=\"cleaner\"></div>
             </div>
-          </div>".nl);
+         ".nl);
 ?>

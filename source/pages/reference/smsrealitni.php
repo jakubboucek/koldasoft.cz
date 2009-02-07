@@ -1,6 +1,6 @@
 <?php // smsrealitni
 
-          echo("<div class=\"reference\">
+          echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.smsrealitni.cz/\" title=\"Přejít na stránky smsRealitní.cz\">www.smsRealitni.cz</a></p>
@@ -12,5 +12,5 @@
                 <p><a href=\"http://www.smsrealitni.cz/\" title=\"Přejít na stránky smsRealitni.cz\"><img src=\"".$cesta."reference/smsrealitni_cz_200.png\" alt =\"Náhled: projekt smsRealitni.cz\" width=\"200\" height=\"200\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+            ".nl);
 ?>

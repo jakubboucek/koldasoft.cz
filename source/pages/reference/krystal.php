@@ -1,6 +1,6 @@
 <?php // krystal
 
-          echo("<div class=\"reference\">
+          echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.fa-krystal.cz/nase-sluzby/\" title=\"Přejít na stránky Krystal\">www.fa-krystal.cz</a></p>
@@ -13,5 +13,5 @@
                 <p><a href=\"http://www.fa-krystal.cz/nase-sluzby/\" title=\"Přejít na stránky Krystal\"><img src=\"".$cesta."reference/fa-krystal_cz_200.png\" alt =\"Náhled: projekt Krystal\" width=\"200\" height=\"200\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+            ".nl);
 ?>

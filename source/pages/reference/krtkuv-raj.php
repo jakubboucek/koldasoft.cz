@@ -1,6 +1,6 @@
 <?php // krtkuv raj
 
-          echo("<div class=\"reference\">
+          echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.krtkuv-raj.cz/\" title=\"Přejít na stránky Krtkův ráj\">www.krtkuv-raj.cz</a></p>
@@ -13,5 +13,5 @@
                 <p><a href=\"http://www.krtkuv-raj.cz/\" title=\"Přejít na stránky Krtkův ráj\"><img src=\"".$cesta."reference/krtkuv_raj_200.png\" alt =\"Náhled: projekt Krtkův ráj\" width=\"200\" height=\"200\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+            ".nl);
 ?>

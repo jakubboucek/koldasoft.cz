@@ -1,6 +1,6 @@
 <?php //Hracky domino - pokladni system
 
-    echo("<div class=\"reference\">
+    echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"short\">Interní aplikace</p>
@@ -12,5 +12,5 @@
                 <p><a href=\"".$cesta."reference/domino_kasa_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_kasa_200.png\" alt=\"Náhled: projekt Hračky Domino - pokladní systém\" height=\"200\" width=\"200\"></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+            ".nl);
 ?>

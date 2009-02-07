@@ -1,6 +1,6 @@
 <?php // h-moda
 
-          echo("<div class=\"reference\">
+          echo("
               <div class=\"text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.h-moda.cz/\" title=\"Přejít na stránky H-móda\">www.h-moda.cz</a></p>
@@ -12,5 +12,5 @@
                 <p><a href=\"http://www.h-moda.cz/\" title=\"Přejít na stránky H-móda\"><img src=\"".$cesta."reference/h_moda_200.png\" alt =\"Náhled: projekt H-móda\" width=\"200\" height=\"200\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            </div>".nl);
+            ".nl);
 ?>
