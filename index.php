@@ -129,10 +129,10 @@
     <div id=\"footer\" class=\"background\">
       <div class=\"page\">
         <div class=\"main\">
-          <p><span class=\"odr\">&copy; 2007".(date('Y') > 2007 ? " - ".date('Y') : "")." ".mylink("kontakt", "Koldasoft")."</span><span class=\"hidden\"> | </span><span class=\"odr full\">E-mail: <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></span><span class=\"hidden\"> | </span><span class=\"odr full\">Created by <a href=\"http://www.koldasoft.cz/\" title=\"Koldasoft - snadná cesta k vlastnímu webu\">Koldasoft</a></span> <span class=\"hidden\"> (www.koldasoft.cz)</span></p>
+          <p>&copy; 2007".(date('Y') > 2007 ? " - ".date('Y') : "")." ".mylink("kontakt", "Koldasoft")." | E-mail: <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a> | Created by <a href=\"http://www.koldasoft.cz/\" title=\"Koldasoft - snadná cesta k vlastnímu webu\">Koldasoft</a> | ".mylink("mapa-webu")." | ".mylink("partneri")." | ".mylink("prohlaseni-o-pristupnosti")." <span class=\"hidden\"> (www.koldasoft.cz)</span></p>
         </div>
         <div class=\"second\">
-          <p>".mylink("mapa-webu")."</p>  
+          <p></p>  
         </div> 
         <div class=\"cleaner\"></div> 
       </div>
@@ -157,6 +157,8 @@
   my_db_add_line("source/page.db", array("o-nas", "O nás", "O nás", "Title Informace o nás", "/"));
   my_db_add_line("source/page.db", array("kontakt", "Kontakt", "Kontakt", "Title Kontaktní informace", "/"));
   my_db_add_line("source/page.db", array("mapa-webu", "Mapa webu", "Mapa webu", "Title Mapa webu", "/"));
+  my_db_add_line("source/page.db", array("partneri", "Partneři", "Partneři", "Title Partneři", "/"));
+  my_db_add_line("source/page.db", array("prohlaseni-o-pristupnosti", "Prohlášení o přístupnosti", "Prohlášení o přístupnosti", "Title Prohlášení o přístupnosti", "/"));
 
   //Nabidka sluzeb
   my_db_add_line("source/page.db", array("tvorba", "Tvorba webových stránek",  "Tvorba webových stránek", "Title Tvorba webových stránek", array("nabidka-sluzeb")));
@@ -211,6 +213,7 @@
   my_db_add_line("source/page.db", array("stemax", "Stemax", "Stemax", "Title Stemax", array("reference")));
   my_db_add_line("source/page.db", array("vrata-brany", "Vrata a brány", "Vrata a brány", "Title Vrata a brány", array("reference")));
   my_db_add_line("source/page.db", array("zdravotni-poradenstvi", "Zdravotní poradenství", "Zdravotní poradenství", "Title Zdravotní poradenství", array("reference")));
+
   //O nas
   my_db_add_line("source/page.db", array("nas-tym", "Náš tým", "Náš tým", "Title Náš tým", array("o-nas")));
   my_db_add_line("source/page.db", array("proc-zvolit-koldasoft", "Proč zvolit Koldasoft?", "Proč zvolit Koldasoft?", "Title Proč zvolit Koldasoft?", array("o-nas")));
