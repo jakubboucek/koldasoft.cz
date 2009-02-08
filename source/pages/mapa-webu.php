@@ -41,7 +41,9 @@
                   <li>".mylink("proc-zvolit-koldasoft")."</li>
                 </ul></li>
               <li>".mylink("kontakt")."</li>
+              <li>".mylink("partneri")."</li>
               <li>".mylink("job")."</li>
+              <li>".mylink("prohlaseni-o-pristupnosti")."</li>
               <li>".mylink("mapa-webu")."</li>
             </ul>
           </div>".nl);
