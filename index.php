@@ -190,28 +190,19 @@
 
   //Reference
   my_db_add_line("source/page.db", array("pro-sport-activities", "Pro Sport Activities", "P.S.A.", "Pro Sport Actvities", array("reference")));
-  my_db_add_line("source/page.db", array("airnet", "Airnet Group o.s.", "Airnet", "Airnet Group o.s.", array("reference")));
   my_db_add_line("source/page.db", array("airnet-public", "ANG-Network - Public", "ANG-Network - Public", "ANG-Network - Public", array("reference")));
   my_db_add_line("source/page.db", array("airnet-interni", "ANG-Network - Interní web", "ANG-Network - Interní web", "ANG-Network - Interní web", array("reference")));
   my_db_add_line("source/page.db", array("airnet-hotspot", "ANG-Network - Hotspot", "ANG-Network - Hotspot", "ANG-Network - Hotspot", array("reference")));
-  my_db_add_line("source/page.db", array("auta-mira", "Auta Míra", "Auta Míra", "Auta Míra", array("reference")));
-  my_db_add_line("source/page.db", array("autoservis-sk", "Autoservis S+K", "Autoservis S+K", "Autoservis S+K", array("reference")));
   my_db_add_line("source/page.db", array("databaze-kupcu", "Databáze kupců", "Databáze kupců", "Databáze kupců", array("reference")));
-  my_db_add_line("source/page.db", array("h-moda", "H-móda", "H-móda", " H-móda", array("reference")));
   my_db_add_line("source/page.db", array("hrackydomino", "Hračky Domino - eshop", "Hračky Domino - eshop", "Hračky Domino - eshop", array("reference")));
   my_db_add_line("source/page.db", array("hrackydomino-kasa", "Hračky Domino - pokladna", "Hračky Domino - pokladna", "Hračky Domino - pokladna", array("reference")));
-  my_db_add_line("source/page.db", array("krtkuv-raj", "Krtkův ráj", "Krtkův ráj", "Krtkův ráj", array("reference")));
   my_db_add_line("source/page.db", array("krystal", "Krystal", "Krystal", "Krystal", array("reference")));
   my_db_add_line("source/page.db", array("lakikincl", "Fa. LAKI", "Fa. LAKI", "Fa. LAKI", array("reference")));
   my_db_add_line("source/page.db", array("mathis", "Mathis", "Mathis", "Mathis", array("reference")));
   my_db_add_line("source/page.db", array("nizozemsko-ceska-obchodni-komora", "Nizozemsko-česká obchodní komora", "Nizozemsko-česká obchodní komora", "Nizozemsko-česká obchodní komora", array("reference")));
   my_db_add_line("source/page.db", array("pdprojekce", "PDProjekce", "PDProjekce", "PDProjekce", array("reference")));
-  my_db_add_line("source/page.db", array("plzenske-ohynky", "Plzeňské ohýnky", "Plzeňské ohýnky", "Plzeňské ohýnky", array("reference")));
   my_db_add_line("source/page.db", array("smsrealitni", "smsRealitni.cz", "smsRealitni.cz", "smsRealitni.cz", array("reference")));
   my_db_add_line("source/page.db", array("stemax", "Stemax", "Stemax", "Stemax", array("reference")));
-  my_db_add_line("source/page.db", array("vrata-brany", "Vrata a brány", "Vrata a brány", "Vrata a brány", array("reference")));
-  my_db_add_line("source/page.db", array("zdravotni-poradenstvi", "Zdravotní poradenství", "Zdravotní poradenství", "Zdravotní poradenství", array("reference")));
-
   //O nas
   my_db_add_line("source/page.db", array("nas-tym", "Náš tým", "Náš tým", " Náš tým", array("o-nas")));
   my_db_add_line("source/page.db", array("proc-zvolit-koldasoft", "Proč zvolit Koldasoft?", "Proč zvolit Koldasoft?", " Proč zvolit Koldasoft?", array("o-nas")));
