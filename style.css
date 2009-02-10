@@ -243,9 +243,6 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 
 }
 
-.reference .read_next {  /* Odkaz na vice informaci o projektu */
-  display: none;
-}
 
 .half {
   width: 45%;
