@@ -37,20 +37,15 @@
     </style>
   </head>
   <body class=\"$page_type\"> 
-    <div id=\"pre_header\" class=\"background\">
+    <div id=\"header\" class=\"header_background\">
       <div class=\"page\">
-        <div class=\"empty\"></div>
-      </div>
-    </div>  
-    <div id=\"header\">
-      <div class=\"page\">
-        <a href=\"$cesta\" title=\"Koldasoft - snadná cesta k vlastnímu webu\"><img class=\"logo\" src=\"".$cesta."pictures/logo.png\" alt=\"Koldasoft - snadná cesta k vlastnímu webu\" width=\"190\" height=\"60\" /></a>
+        <a href=\"$cesta\" title=\"Koldasoft - snadná cesta k vlastnímu webu\"><img class=\"logo\" src=\"".$cesta."pictures/logo_main.png\" alt=\"Koldasoft - snadná cesta k vlastnímu webu\" width=\"212\" height=\"100\" /></a>
         <p class=\"hidden\">Koldasoft - snadná cesta k vlastnímu webu</p>
         <a id=\"skip_menu\" href=\"#middle\" title=\"Přeskočit na obsah\">Přeskočit na obsah</a>
       </div>  
     </div>  
     <hr />
-    <div id=\"menu\" class=\"background\">
+    <div id=\"hmenu\">
       <div class=\"page\">
         <h4>Hlavní nabídka</h4>
         <a".($open == "uvod" ? " class = \"active\"" : "")." href=\"$cesta\" title=\"Úvodní stránka\">Úvod</a><span class=\"hidden\"> | </span>
@@ -64,18 +59,18 @@
         <div class=\"cleaner\"></div>
       </div>
     </div>  
-    <div id=\"navbar\" class=\"background\">
+    <div id=\"breadcrumb\" class=\"background\">
       <div class=\"page\">
         <h4>Nacházíte se zde</h4>
         <div class=\"mcontent\">
           <p><a href=\"$cesta\" title=\"Koldasoft - úvodní stránka\">Koldasoft</a> > ");
-  include INCLUDE_PATH . "navbar.php";  //Nacteni navigacni listy, vytvoreni zanoreni 
+  include INCLUDE_PATH . "breadcrumb.php";  //Nacteni navigacni listy, vytvoreni zanoreni
   echo("        </div>
         <div class=\"cleaner\"></div> 
       </div>
     </div>  
     <hr />
-    <div id=\"middle\" class=\"background\">
+    <div id=\"main\" class=\"background\">
       <div class=\"page\">
         <div class=\"mcontent\">".nl);
   // Vlastni nacetni obsahu \\ 
@@ -126,7 +121,7 @@
       </div>
     </div>  
     <hr />
-    <div id=\"footer\" class=\"background\">
+    <div id=\"footer\" class=\"footer_background\">
       <div class=\"page\">
         <div class=\"main\">
           <p>&copy; 2007".(date('Y') > 2007 ? " - ".date('Y') : "")." ".mylink("kontakt", "Koldasoft")." | E-mail: <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a> | Created by <a href=\"http://www.koldasoft.cz/\" title=\"Koldasoft - snadná cesta k vlastnímu webu\">Koldasoft</a> <span class=\"hidden\">(www.koldasoft.cz)</span> | ".mylink("prohlaseni-o-pristupnosti")." | ".mylink("mapa-webu")."</p>
