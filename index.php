@@ -36,7 +36,7 @@
       @import \"".$cesta."style.css\";
     </style>
   </head>
-  <body> 
+  <body class=\"$page_type\"> 
     <div id=\"pre_header\" class=\"background\">
       <div class=\"page\">
         <div class=\"empty\"></div>

@@ -3,7 +3,7 @@
   echo("          <div class=\"text_box\">
             <h1>$page_name</h1>
             <ul>
-              <li><a href=\"/koldasoft/\" title=\"Úvodní stránka\">Úvod</a></li>
+              <li><a href=\"$cesta\" title=\"Úvodní stránka\">Úvod</a></li>
               <li>".mylink("nabidka-sluzeb")."
                 <ul>
                   <li>".mylink("tvorba")."

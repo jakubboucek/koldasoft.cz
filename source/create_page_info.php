@@ -22,5 +22,12 @@
 
   // Vytvoreni jmena stranky \\
   $page_name = $page_info[1];  //Ulozeni jmena stranky
-
+  
+  // Vytvoreni typu stranky - kvuli grafice v hlavicce \\
+  If(is_array($page_info[4]))  //Pokud se jedna o podstranku (stranka je zanorena)
+    $page_type = $page_info[4][0];  //Ulozeni jedinecneho nazvu stranky
+  Else  //Pokud je stranka hlavni (neni zanorena)  
+    $page_type = $page_info[0];  //Ulozeni jedinecneho nazvu stranky    
+  
+  
 ?>
