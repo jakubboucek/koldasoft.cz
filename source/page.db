@@ -1,58 +1,55 @@
-a:5:{i:0;s:4:"Page";i:1;s:9:"Full name";i:2;s:10:"Short name";i:3;s:5:"Title";i:4;s:6:"Uroven";}
-a:5:{i:0;s:4:"uvod";i:1;s:5:"Úvod";i:2;s:5:"Úvod";i:3;s:23:"Title Úvodní stránka";i:4;s:1:"/";}
-a:5:{i:0;s:14:"nabidka-sluzeb";i:1;s:16:"Nabídka služeb";i:2;s:16:"Nabídka služeb";i:3;s:22:"Title Nabídka služeb";i:4;s:1:"/";}
-a:5:{i:0;s:9:"informace";i:1;s:9:"Informace";i:2;s:9:"Informace";i:3;s:19:"Title Info o firmě";i:4;s:1:"/";}
-a:5:{i:0;s:8:"znalosti";i:1;s:8:"Znalosti";i:2;s:8:"Znalosti";i:3;s:14:"Title Znalosti";i:4;s:1:"/";}
-a:5:{i:0;s:9:"reference";i:1;s:9:"Reference";i:2;s:9:"Reference";i:3;s:25:"Title Referenční práce";i:4;s:1:"/";}
-a:5:{i:0;s:5:"cenik";i:1;s:6:"Ceník";i:2;s:6:"Ceník";i:3;s:19:"Title Ceník práce";i:4;s:1:"/";}
-a:5:{i:0;s:5:"o-nas";i:1;s:6:"O nás";i:2;s:6:"O nás";i:3;s:22:"Title Informace o nás";i:4;s:1:"/";}
-a:5:{i:0;s:7:"kontakt";i:1;s:7:"Kontakt";i:2;s:7:"Kontakt";i:3;s:26:"Title Kontaktní informace";i:4;s:1:"/";}
-a:5:{i:0;s:9:"mapa-webu";i:1;s:9:"Mapa webu";i:2;s:9:"Mapa webu";i:3;s:15:"Title Mapa webu";i:4;s:1:"/";}
-a:5:{i:0;s:3:"job";i:1;s:19:"Hledáme externisty";i:2;s:19:"Hledáme externisty";i:3;s:25:"Title Hledáme externisty";i:4;s:1:"/";}
-a:5:{i:0;s:8:"partneri";i:1;s:9:"Partneři";i:2;s:9:"Partneři";i:3;s:15:"Title Partneři";i:4;s:1:"/";}
-a:5:{i:0;s:25:"prohlaseni-o-pristupnosti";i:1;s:30:"Prohlášení o přístupnosti";i:2;s:30:"Prohlášení o přístupnosti";i:3;s:36:"Title Prohlášení o přístupnosti";i:4;s:1:"/";}
-a:5:{i:0;s:6:"tvorba";i:1;s:25:"Tvorba webových stránek";i:2;s:25:"Tvorba webových stránek";i:3;s:31:"Title Tvorba webových stránek";i:4;a:1:{i:0;s:14:"nabidka-sluzeb";}}
-a:5:{i:0;s:28:"optimalizace-pro-vyhledavace";i:1;s:36:"Optimalizace pro vyhledávače (SEO)";i:2;s:30:"Optimalizace pro vyhledávače";i:3;s:42:"Title Optimalizace pro vyhledávače (SEO)";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
-a:5:{i:0;s:22:"registrace-do-katalogu";i:1;s:23:"Registrace do katalogů";i:2;s:23:"Registrace do katalogů";i:3;s:29:"Title Registrace do katalogů";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
-a:5:{i:0;s:14:"domeny-hosting";i:1;s:17:"Domény a hosting";i:2;s:17:"Domény a hosting";i:3;s:23:"Title Domény a hosting";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
-a:5:{i:0;s:15:"nasledna-sprava";i:1;s:37:"Následná správa webových stránek";i:2;s:18:"Následná správa";i:3;s:43:"Title Následná správa webových stránek";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
-a:5:{i:0;s:8:"redesign";i:1;s:45:"Přepracování (redesign) webových stránek";i:2;s:26:"Přepracování (redesign)";i:3;s:51:"Title Přepracování (redesign) webových stránek";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
-a:5:{i:0;s:14:"graficke-prace";i:1;s:16:"Grafické práce";i:2;s:16:"Grafické práce";i:3;s:22:"Title Grafické práce";i:4;a:1:{i:0;s:14:"nabidka-sluzeb";}}
-a:5:{i:0;s:24:"pouzitelnost-pristupnost";i:1;s:48:"Použitelnost a přístupnost webových stránek";i:2;s:29:"Použitelnost a přístupnost";i:3;s:54:"Title Použitelnost a přístupnost webových stránek";i:4;a:1:{i:0;s:8:"znalosti";}}
-a:5:{i:0;s:6:"domeny";i:1;s:7:"Domény";i:2;s:7:"Domény";i:3;s:13:"Title Domény";i:4;a:1:{i:0;s:8:"znalosti";}}
-a:5:{i:0;s:7:"hosting";i:1;s:7:"Hosting";i:2;s:7:"Hosting";i:3;s:13:"Title Hosting";i:4;a:1:{i:0;s:8:"znalosti";}}
-a:5:{i:0;s:10:"metody-seo";i:1;s:43:"Metody optimalizace pro vyhledávače (SEO)";i:2;s:43:"Metody optimalizace pro vyhledávače (SEO)";i:3;s:49:"Title Metody optimalizace pro vyhledávače (SEO)";i:4;a:1:{i:0;s:8:"znalosti";}}
-a:5:{i:0;s:13:"prubeh-tvorby";i:1;s:34:"Průběh tvorby webových stránek";i:2;s:15:"Průběh tvorby";i:3;s:40:"Title Průběh tvorby webových stránek";i:4;a:1:{i:0;s:9:"informace";}}
-a:5:{i:0;s:16:"proc-mit-stranky";i:1;s:28:"Proč mít webové stránky?";i:2;s:28:"Proč mít webové stránky?";i:3;s:34:"Title Proč mít webové stránky?";i:4;a:1:{i:0;s:9:"informace";}}
-a:5:{i:0;s:17:"proc-nechat-delat";i:1;s:41:"Proč si webové stránky nechat udělat?";i:2;s:41:"Proč si webové stránky nechat udělat?";i:3;s:47:"Title Proč si webové stránky nechat udělat?";i:4;a:1:{i:0;s:9:"informace";}}
-a:5:{i:0;s:15:"co-si-pripravit";i:1;s:42:"Co si připravit před zahájením tvorby?";i:2;s:40:"Co si připravit (pro webové stránky)?";i:3;s:46:"Title Co si připravit (pro webové stránky)?";i:4;a:1:{i:0;s:9:"informace";}}
-a:5:{i:0;s:26:"pozadavky-kvalitni-stranky";i:1;s:48:"Jak by měla vypadat kvalitní webová stránka?";i:2;s:26:"Kvalitní webová stránka";i:3;s:54:"Title Jak by měla vypadat kvalitní webová stránka?";i:4;a:1:{i:0;s:9:"informace";}}
-a:5:{i:0;s:17:"naklady-na-provoz";i:1;s:40:"Jak je drahý provoz webových stránek?";i:2;s:18:"Náklady na provoz";i:3;s:46:"Title Jak je drahý provoz webových stránek?";i:4;a:1:{i:0;s:9:"informace";}}
-a:5:{i:0;s:15:"vyhody-nevyhody";i:1;s:38:"Výhody a nevýhody webových stránek";i:2;s:38:"Výhody a nevýhody webových stránek";i:3;s:44:"Title Výhody a nevýhody webových stránek";i:4;a:1:{i:0;s:9:"informace";}}
-a:5:{i:0;s:15:"slovnicek-pojmu";i:1;s:18:"Slovníček pojmů";i:2;s:18:"Slovníček pojmů";i:3;s:24:"Title Slovníček pojmů";i:4;a:1:{i:0;s:9:"informace";}}
-a:5:{i:0;s:3:"faq";i:1;s:41:"Často kladené otázky a odpovědi (FAQ)";i:2;s:41:"Často kladené otázky a odpovědi (FAQ)";i:3;s:47:"Title Často kladené otázky a odpovědi (FAQ)";i:4;a:1:{i:0;s:9:"informace";}}
-a:5:{i:0;s:20:"pro-sport-activities";i:1;s:20:"Pro Sport Activities";i:2;s:6:"P.S.A.";i:3;s:25:"Title Pro Sport Actvities";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:6:"airnet";i:1;s:17:"Airnet Group o.s.";i:2;s:6:"Airnet";i:3;s:23:"Title Airnet Group o.s.";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:13:"airnet-public";i:1;s:20:"ANG-Network - Public";i:2;s:20:"ANG-Network - Public";i:3;s:26:"Title ANG-Network - Public";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:14:"airnet-interni";i:1;s:26:"ANG-Network - Interní web";i:2;s:26:"ANG-Network - Interní web";i:3;s:32:"Title ANG-Network - Interní web";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:14:"airnet-hotspot";i:1;s:21:"ANG-Network - Hotspot";i:2;s:21:"ANG-Network - Hotspot";i:3;s:27:"Title ANG-Network - Hotspot";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:9:"auta-mira";i:1;s:10:"Auta Míra";i:2;s:10:"Auta Míra";i:3;s:16:"Title Auta Míra";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:13:"autoservis-sk";i:1;s:14:"Autoservis S+K";i:2;s:14:"Autoservis S+K";i:3;s:20:"Title Autoservis S+K";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:14:"databaze-kupcu";i:1;s:16:"Databáze kupců";i:2;s:16:"Databáze kupců";i:3;s:22:"Title Databáze kupců";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:6:"h-moda";i:1;s:7:"H-móda";i:2;s:7:"H-móda";i:3;s:13:"Title H-móda";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:12:"hrackydomino";i:1;s:22:"Hračky Domino - eshop";i:2;s:22:"Hračky Domino - eshop";i:3;s:28:"Title Hračky Domino - eshop";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:17:"hrackydomino-kasa";i:1;s:25:"Hračky Domino - pokladna";i:2;s:25:"Hračky Domino - pokladna";i:3;s:31:"Title Hračky Domino - pokladna";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:10:"krtkuv-raj";i:1;s:12:"Krtkův ráj";i:2;s:12:"Krtkův ráj";i:3;s:18:"Title Krtkův ráj";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:7:"krystal";i:1;s:7:"Krystal";i:2;s:7:"Krystal";i:3;s:13:"Title Krystal";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:9:"lakikincl";i:1;s:8:"Fa. LAKI";i:2;s:8:"Fa. LAKI";i:3;s:14:"Title Fa. LAKI";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:6:"mathis";i:1;s:6:"Mathis";i:2;s:6:"Mathis";i:3;s:12:"Title Mathis";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:32:"nizozemsko-ceska-obchodni-komora";i:1;s:35:"Nizozemsko-česká obchodní komora";i:2;s:35:"Nizozemsko-česká obchodní komora";i:3;s:41:"Title Nizozemsko-česká obchodní komora";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:10:"pdprojekce";i:1;s:10:"PDProjekce";i:2;s:10:"PDProjekce";i:3;s:16:"Title PDProjekce";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:15:"plzenske-ohynky";i:1;s:18:"Plzeňské ohýnky";i:2;s:18:"Plzeňské ohýnky";i:3;s:24:"Title Plzeňské ohýnky";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:11:"smsrealitni";i:1;s:14:"smsRealitni.cz";i:2;s:14:"smsRealitni.cz";i:3;s:20:"Title smsRealitni.cz";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:6:"stemax";i:1;s:6:"Stemax";i:2;s:6:"Stemax";i:3;s:12:"Title Stemax";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:11:"vrata-brany";i:1;s:14:"Vrata a brány";i:2;s:14:"Vrata a brány";i:3;s:20:"Title Vrata a brány";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:21:"zdravotni-poradenstvi";i:1;s:23:"Zdravotní poradenství";i:2;s:23:"Zdravotní poradenství";i:3;s:29:"Title Zdravotní poradenství";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:7:"nas-tym";i:1;s:10:"Náš tým";i:2;s:10:"Náš tým";i:3;s:16:"Title Náš tým";i:4;a:1:{i:0;s:5:"o-nas";}}
-a:5:{i:0;s:21:"proc-zvolit-koldasoft";i:1;s:23:"Proč zvolit Koldasoft?";i:2;s:23:"Proč zvolit Koldasoft?";i:3;s:29:"Title Proč zvolit Koldasoft?";i:4;a:1:{i:0;s:5:"o-nas";}}
-a:5:{i:0;s:11:"nase-znacka";i:1;s:13:"Naše značka";i:2;s:13:"Naše značka";i:3;s:19:"Title Naše značka";i:4;a:1:{i:0;s:5:"o-nas";}}
+a:5:{i:0;s:4:"Page";i:1;s:9:"Full name";i:2;s:10:"Short name";i:3;s:0:"";i:4;s:6:"Uroven";}
+a:5:{i:0;s:4:"uvod";i:1;s:5:"Úvod";i:2;s:5:"Úvod";i:3;s:18:" Úvodní stránka";i:4;s:1:"/";}
+a:5:{i:0;s:14:"nabidka-sluzeb";i:1;s:16:"Nabídka služeb";i:2;s:16:"Nabídka služeb";i:3;s:16:"Nabídka služeb";i:4;s:1:"/";}
+a:5:{i:0;s:9:"informace";i:1;s:9:"Informace";i:2;s:9:"Informace";i:3;s:9:"Informace";i:4;s:1:"/";}
+a:5:{i:0;s:8:"znalosti";i:1;s:8:"Znalosti";i:2;s:8:"Znalosti";i:3;s:8:"Znalosti";i:4;s:1:"/";}
+a:5:{i:0;s:9:"reference";i:1;s:9:"Reference";i:2;s:9:"Reference";i:3;s:9:"Reference";i:4;s:1:"/";}
+a:5:{i:0;s:5:"cenik";i:1;s:6:"Ceník";i:2;s:6:"Ceník";i:3;s:6:"Ceník";i:4;s:1:"/";}
+a:5:{i:0;s:5:"o-nas";i:1;s:6:"O nás";i:2;s:6:"O nás";i:3;s:7:" O nás";i:4;s:1:"/";}
+a:5:{i:0;s:7:"kontakt";i:1;s:7:"Kontakt";i:2;s:7:"Kontakt";i:3;s:20:"Kontaktní informace";i:4;s:1:"/";}
+a:5:{i:0;s:9:"mapa-webu";i:1;s:9:"Mapa webu";i:2;s:9:"Mapa webu";i:3;s:9:"Mapa webu";i:4;s:1:"/";}
+a:5:{i:0;s:3:"job";i:1;s:19:"Hledáme externisty";i:2;s:19:"Hledáme externisty";i:3;s:19:"Hledáme externisty";i:4;s:1:"/";}
+a:5:{i:0;s:8:"partneri";i:1;s:9:"Partneři";i:2;s:9:"Partneři";i:3;s:9:"Partneři";i:4;s:1:"/";}
+a:5:{i:0;s:25:"prohlaseni-o-pristupnosti";i:1;s:30:"Prohlášení o přístupnosti";i:2;s:30:"Prohlášení o přístupnosti";i:3;s:31:" Prohlášení o přístupnosti";i:4;s:1:"/";}
+a:5:{i:0;s:6:"tvorba";i:1;s:25:"Tvorba webových stránek";i:2;s:25:"Tvorba webových stránek";i:3;s:25:"Tvorba webových stránek";i:4;a:1:{i:0;s:14:"nabidka-sluzeb";}}
+a:5:{i:0;s:28:"optimalizace-pro-vyhledavace";i:1;s:36:"Optimalizace pro vyhledávače (SEO)";i:2;s:30:"Optimalizace pro vyhledávače";i:3;s:36:"Optimalizace pro vyhledávače (SEO)";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
+a:5:{i:0;s:22:"registrace-do-katalogu";i:1;s:23:"Registrace do katalogů";i:2;s:23:"Registrace do katalogů";i:3;s:23:"Registrace do katalogů";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
+a:5:{i:0;s:14:"domeny-hosting";i:1;s:17:"Domény a hosting";i:2;s:17:"Domény a hosting";i:3;s:17:"Domény a hosting";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
+a:5:{i:0;s:15:"nasledna-sprava";i:1;s:37:"Následná správa webových stránek";i:2;s:18:"Následná správa";i:3;s:37:"Následná správa webových stránek";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
+a:5:{i:0;s:8:"redesign";i:1;s:45:"Přepracování (redesign) webových stránek";i:2;s:26:"Přepracování (redesign)";i:3;s:45:"Přepracování (redesign) webových stránek";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
+a:5:{i:0;s:14:"graficke-prace";i:1;s:16:"Grafické práce";i:2;s:16:"Grafické práce";i:3;s:16:"Grafické práce";i:4;a:1:{i:0;s:14:"nabidka-sluzeb";}}
+a:5:{i:0;s:24:"pouzitelnost-pristupnost";i:1;s:48:"Použitelnost a přístupnost webových stránek";i:2;s:29:"Použitelnost a přístupnost";i:3;s:48:"Použitelnost a přístupnost webových stránek";i:4;a:1:{i:0;s:8:"znalosti";}}
+a:5:{i:0;s:10:"metody-seo";i:1;s:43:"Metody optimalizace pro vyhledávače (SEO)";i:2;s:43:"Metody optimalizace pro vyhledávače (SEO)";i:3;s:43:"Metody optimalizace pro vyhledávače (SEO)";i:4;a:1:{i:0;s:8:"znalosti";}}
+a:5:{i:0;s:13:"prubeh-tvorby";i:1;s:34:"Průběh tvorby webových stránek";i:2;s:15:"Průběh tvorby";i:3;s:34:"Průběh tvorby webových stránek";i:4;a:1:{i:0;s:9:"informace";}}
+a:5:{i:0;s:16:"proc-mit-stranky";i:1;s:28:"Proč mít webové stránky?";i:2;s:28:"Proč mít webové stránky?";i:3;s:28:"Proč mít webové stránky?";i:4;a:1:{i:0;s:9:"informace";}}
+a:5:{i:0;s:17:"proc-nechat-delat";i:1;s:41:"Proč si webové stránky nechat udělat?";i:2;s:41:"Proč si webové stránky nechat udělat?";i:3;s:41:"Proč si webové stránky nechat udělat?";i:4;a:1:{i:0;s:9:"informace";}}
+a:5:{i:0;s:15:"co-si-pripravit";i:1;s:42:"Co si připravit před zahájením tvorby?";i:2;s:42:"Co si připravit před zahájením tvorby?";i:3;s:42:"Co si připravit před zahájením tvorby?";i:4;a:1:{i:0;s:9:"informace";}}
+a:5:{i:0;s:26:"pozadavky-kvalitni-stranky";i:1;s:48:"Jak by měla vypadat kvalitní webová stránka?";i:2;s:26:"Kvalitní webová stránka";i:3;s:48:"Jak by měla vypadat kvalitní webová stránka?";i:4;a:1:{i:0;s:9:"informace";}}
+a:5:{i:0;s:17:"naklady-na-provoz";i:1;s:40:"Jak je drahý provoz webových stránek?";i:2;s:18:"Náklady na provoz";i:3;s:40:"Jak je drahý provoz webových stránek?";i:4;a:1:{i:0;s:9:"informace";}}
+a:5:{i:0;s:15:"vyhody-nevyhody";i:1;s:38:"Výhody a nevýhody webových stránek";i:2;s:38:"Výhody a nevýhody webových stránek";i:3;s:38:"Výhody a nevýhody webových stránek";i:4;a:1:{i:0;s:9:"informace";}}
+a:5:{i:0;s:15:"slovnicek-pojmu";i:1;s:18:"Slovníček pojmů";i:2;s:18:"Slovníček pojmů";i:3;s:18:"Slovníček pojmů";i:4;a:1:{i:0;s:9:"informace";}}
+a:5:{i:0;s:20:"pro-sport-activities";i:1;s:20:"Pro Sport Activities";i:2;s:6:"P.S.A.";i:3;s:19:"Pro Sport Actvities";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:6:"airnet";i:1;s:17:"Airnet Group o.s.";i:2;s:6:"Airnet";i:3;s:17:"Airnet Group o.s.";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:13:"airnet-public";i:1;s:20:"ANG-Network - Public";i:2;s:20:"ANG-Network - Public";i:3;s:20:"ANG-Network - Public";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:14:"airnet-interni";i:1;s:26:"ANG-Network - Interní web";i:2;s:26:"ANG-Network - Interní web";i:3;s:26:"ANG-Network - Interní web";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:14:"airnet-hotspot";i:1;s:21:"ANG-Network - Hotspot";i:2;s:21:"ANG-Network - Hotspot";i:3;s:21:"ANG-Network - Hotspot";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:9:"auta-mira";i:1;s:10:"Auta Míra";i:2;s:10:"Auta Míra";i:3;s:10:"Auta Míra";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:13:"autoservis-sk";i:1;s:14:"Autoservis S+K";i:2;s:14:"Autoservis S+K";i:3;s:14:"Autoservis S+K";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:14:"databaze-kupcu";i:1;s:16:"Databáze kupců";i:2;s:16:"Databáze kupců";i:3;s:16:"Databáze kupců";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:6:"h-moda";i:1;s:7:"H-móda";i:2;s:7:"H-móda";i:3;s:8:" H-móda";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:12:"hrackydomino";i:1;s:22:"Hračky Domino - eshop";i:2;s:22:"Hračky Domino - eshop";i:3;s:22:"Hračky Domino - eshop";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:17:"hrackydomino-kasa";i:1;s:25:"Hračky Domino - pokladna";i:2;s:25:"Hračky Domino - pokladna";i:3;s:25:"Hračky Domino - pokladna";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:10:"krtkuv-raj";i:1;s:12:"Krtkův ráj";i:2;s:12:"Krtkův ráj";i:3;s:12:"Krtkův ráj";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:7:"krystal";i:1;s:7:"Krystal";i:2;s:7:"Krystal";i:3;s:7:"Krystal";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:9:"lakikincl";i:1;s:8:"Fa. LAKI";i:2;s:8:"Fa. LAKI";i:3;s:8:"Fa. LAKI";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:6:"mathis";i:1;s:6:"Mathis";i:2;s:6:"Mathis";i:3;s:6:"Mathis";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:32:"nizozemsko-ceska-obchodni-komora";i:1;s:35:"Nizozemsko-česká obchodní komora";i:2;s:35:"Nizozemsko-česká obchodní komora";i:3;s:35:"Nizozemsko-česká obchodní komora";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:10:"pdprojekce";i:1;s:10:"PDProjekce";i:2;s:10:"PDProjekce";i:3;s:10:"PDProjekce";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:15:"plzenske-ohynky";i:1;s:18:"Plzeňské ohýnky";i:2;s:18:"Plzeňské ohýnky";i:3;s:18:"Plzeňské ohýnky";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:11:"smsrealitni";i:1;s:14:"smsRealitni.cz";i:2;s:14:"smsRealitni.cz";i:3;s:14:"smsRealitni.cz";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:6:"stemax";i:1;s:6:"Stemax";i:2;s:6:"Stemax";i:3;s:6:"Stemax";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:11:"vrata-brany";i:1;s:14:"Vrata a brány";i:2;s:14:"Vrata a brány";i:3;s:14:"Vrata a brány";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:21:"zdravotni-poradenstvi";i:1;s:23:"Zdravotní poradenství";i:2;s:23:"Zdravotní poradenství";i:3;s:23:"Zdravotní poradenství";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:7:"nas-tym";i:1;s:10:"Náš tým";i:2;s:10:"Náš tým";i:3;s:11:" Náš tým";i:4;a:1:{i:0;s:5:"o-nas";}}
+a:5:{i:0;s:21:"proc-zvolit-koldasoft";i:1;s:23:"Proč zvolit Koldasoft?";i:2;s:23:"Proč zvolit Koldasoft?";i:3;s:24:" Proč zvolit Koldasoft?";i:4;a:1:{i:0;s:5:"o-nas";}}
+a:5:{i:0;s:11:"nase-znacka";i:1;s:13:"Naše značka";i:2;s:13:"Naše značka";i:3;s:14:" Naše značka";i:4;a:1:{i:0;s:5:"o-nas";}}

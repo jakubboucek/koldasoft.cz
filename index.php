@@ -146,79 +146,76 @@
 <?php
 
   unlink ("source/page.db");
-  my_db_add_line("source/page.db", array("Page", "Full name",  "Short name", "Title", "Uroven"));
+  my_db_add_line("source/page.db", array("Page", "Full name",  "Short name", "", "Uroven"));
 
-  my_db_add_line("source/page.db", array("uvod", "Úvod", "Úvod", "Title Úvodní stránka", "/"));
-  my_db_add_line("source/page.db", array("nabidka-sluzeb", "Nabídka služeb", "Nabídka služeb", "Title Nabídka služeb", "/"));
-  my_db_add_line("source/page.db", array("informace", "Informace", "Informace", "Title Info o firmě", "/"));
-  my_db_add_line("source/page.db", array("znalosti", "Znalosti", "Znalosti", "Title Znalosti", "/"));
-  my_db_add_line("source/page.db", array("reference", "Reference", "Reference", "Title Referenční práce", "/"));
-  my_db_add_line("source/page.db", array("cenik", "Ceník", "Ceník", "Title Ceník práce", "/"));
-  my_db_add_line("source/page.db", array("o-nas", "O nás", "O nás", "Title Informace o nás", "/"));
-  my_db_add_line("source/page.db", array("kontakt", "Kontakt", "Kontakt", "Title Kontaktní informace", "/"));
-  my_db_add_line("source/page.db", array("mapa-webu", "Mapa webu", "Mapa webu", "Title Mapa webu", "/"));
-  my_db_add_line("source/page.db", array("job", "Hledáme externisty", "Hledáme externisty", "Title Hledáme externisty", "/"));
-  my_db_add_line("source/page.db", array("partneri", "Partneři", "Partneři", "Title Partneři", "/"));
-  my_db_add_line("source/page.db", array("prohlaseni-o-pristupnosti", "Prohlášení o přístupnosti", "Prohlášení o přístupnosti", "Title Prohlášení o přístupnosti", "/"));
+  my_db_add_line("source/page.db", array("uvod", "Úvod", "Úvod", " Úvodní stránka", "/"));
+  my_db_add_line("source/page.db", array("nabidka-sluzeb", "Nabídka služeb", "Nabídka služeb", "Nabídka služeb", "/"));
+  my_db_add_line("source/page.db", array("informace", "Informace", "Informace", "Informace", "/"));
+  my_db_add_line("source/page.db", array("znalosti", "Znalosti", "Znalosti", "Znalosti", "/"));
+  my_db_add_line("source/page.db", array("reference", "Reference", "Reference", "Reference", "/"));
+  my_db_add_line("source/page.db", array("cenik", "Ceník", "Ceník", "Ceník", "/"));
+  my_db_add_line("source/page.db", array("o-nas", "O nás", "O nás", " O nás", "/"));
+  my_db_add_line("source/page.db", array("kontakt", "Kontakt", "Kontakt", "Kontaktní informace", "/"));
+  my_db_add_line("source/page.db", array("mapa-webu", "Mapa webu", "Mapa webu", "Mapa webu", "/"));
+  my_db_add_line("source/page.db", array("job", "Hledáme externisty", "Hledáme externisty", "Hledáme externisty", "/"));
+  my_db_add_line("source/page.db", array("partneri", "Partneři", "Partneři", "Partneři", "/"));
+  my_db_add_line("source/page.db", array("prohlaseni-o-pristupnosti", "Prohlášení o přístupnosti", "Prohlášení o přístupnosti", " Prohlášení o přístupnosti", "/"));
 
   //Nabidka sluzeb
-  my_db_add_line("source/page.db", array("tvorba", "Tvorba webových stránek",  "Tvorba webových stránek", "Title Tvorba webových stránek", array("nabidka-sluzeb")));
+  my_db_add_line("source/page.db", array("tvorba", "Tvorba webových stránek",  "Tvorba webových stránek", "Tvorba webových stránek", array("nabidka-sluzeb")));
 
   //Nabidka sluzeb/Tvorba webovych stranek
-  my_db_add_line("source/page.db", array("optimalizace-pro-vyhledavace", "Optimalizace pro vyhledávače (SEO)", "Optimalizace pro vyhledávače", "Title Optimalizace pro vyhledávače (SEO)", array("nabidka-sluzeb", "tvorba")));
-  my_db_add_line("source/page.db", array("registrace-do-katalogu", "Registrace do katalogů", "Registrace do katalogů", "Title Registrace do katalogů", array("nabidka-sluzeb", "tvorba")));
-  my_db_add_line("source/page.db", array("domeny-hosting", "Domény a hosting", "Domény a hosting", "Title Domény a hosting", array("nabidka-sluzeb", "tvorba")));
-  my_db_add_line("source/page.db", array("nasledna-sprava", "Následná správa webových stránek", "Následná správa", "Title Následná správa webových stránek", array("nabidka-sluzeb", "tvorba")));
-  my_db_add_line("source/page.db", array("redesign", "Přepracování (redesign) webových stránek", "Přepracování (redesign)", "Title Přepracování (redesign) webových stránek", array("nabidka-sluzeb", "tvorba")));
+  my_db_add_line("source/page.db", array("optimalizace-pro-vyhledavace", "Optimalizace pro vyhledávače (SEO)", "Optimalizace pro vyhledávače", "Optimalizace pro vyhledávače (SEO)", array("nabidka-sluzeb", "tvorba")));
+  my_db_add_line("source/page.db", array("registrace-do-katalogu", "Registrace do katalogů", "Registrace do katalogů", "Registrace do katalogů", array("nabidka-sluzeb", "tvorba")));
+  my_db_add_line("source/page.db", array("domeny-hosting", "Domény a hosting", "Domény a hosting", "Domény a hosting", array("nabidka-sluzeb", "tvorba")));
+  my_db_add_line("source/page.db", array("nasledna-sprava", "Následná správa webových stránek", "Následná správa", "Následná správa webových stránek", array("nabidka-sluzeb", "tvorba")));
+  my_db_add_line("source/page.db", array("redesign", "Přepracování (redesign) webových stránek", "Přepracování (redesign)", "Přepracování (redesign) webových stránek", array("nabidka-sluzeb", "tvorba")));
 
   //Graficke prace
-  my_db_add_line("source/page.db", array("graficke-prace", "Grafické práce", "Grafické práce", "Title Grafické práce", array("nabidka-sluzeb")));
+  my_db_add_line("source/page.db", array("graficke-prace", "Grafické práce", "Grafické práce", "Grafické práce", array("nabidka-sluzeb")));
 
   //Znalosti
-  my_db_add_line("source/page.db", array("pouzitelnost-pristupnost", "Použitelnost a přístupnost webových stránek", "Použitelnost a přístupnost", "Title Použitelnost a přístupnost webových stránek", array("znalosti")));
-  my_db_add_line("source/page.db", array("domeny", "Domény", "Domény", "Title Domény", array("znalosti")));
-  my_db_add_line("source/page.db", array("hosting", "Hosting", "Hosting", "Title Hosting", array("znalosti")));
-  my_db_add_line("source/page.db", array("metody-seo", "Metody optimalizace pro vyhledávače (SEO)", "Metody optimalizace pro vyhledávače (SEO)", "Title Metody optimalizace pro vyhledávače (SEO)", array("znalosti")));
+  my_db_add_line("source/page.db", array("pouzitelnost-pristupnost", "Použitelnost a přístupnost webových stránek", "Použitelnost a přístupnost", "Použitelnost a přístupnost webových stránek", array("znalosti")));
+  my_db_add_line("source/page.db", array("metody-seo", "Metody optimalizace pro vyhledávače (SEO)", "Metody optimalizace pro vyhledávače (SEO)", "Metody optimalizace pro vyhledávače (SEO)", array("znalosti")));
 
   //Informace
-  my_db_add_line("source/page.db", array("prubeh-tvorby", "Průběh tvorby webových stránek", "Průběh tvorby", "Title Průběh tvorby webových stránek", array("informace")));
-  my_db_add_line("source/page.db", array("proc-mit-stranky", "Proč mít webové stránky?", "Proč mít webové stránky?", "Title Proč mít webové stránky?", array("informace")));
-  my_db_add_line("source/page.db", array("proc-nechat-delat", "Proč si webové stránky nechat udělat?", "Proč si webové stránky nechat udělat?", "Title Proč si webové stránky nechat udělat?", array("informace")));
-  my_db_add_line("source/page.db", array("co-si-pripravit", "Co si připravit před zahájením tvorby?", "Co si připravit (pro webové stránky)?", "Title Co si připravit (pro webové stránky)?", array("informace")));
-  my_db_add_line("source/page.db", array("pozadavky-kvalitni-stranky", "Jak by měla vypadat kvalitní webová stránka?", "Kvalitní webová stránka", "Title Jak by měla vypadat kvalitní webová stránka?", array("informace")));
-  my_db_add_line("source/page.db", array("naklady-na-provoz", "Jak je drahý provoz webových stránek?", "Náklady na provoz", "Title Jak je drahý provoz webových stránek?", array("informace")));
-  my_db_add_line("source/page.db", array("vyhody-nevyhody", "Výhody a nevýhody webových stránek", "Výhody a nevýhody webových stránek", "Title Výhody a nevýhody webových stránek", array("informace")));
-  my_db_add_line("source/page.db", array("slovnicek-pojmu", "Slovníček pojmů", "Slovníček pojmů", "Title Slovníček pojmů", array("informace")));
-  my_db_add_line("source/page.db", array("faq", "Často kladené otázky a odpovědi (FAQ)", "Často kladené otázky a odpovědi (FAQ)", "Title Často kladené otázky a odpovědi (FAQ)", array("informace")));
+  my_db_add_line("source/page.db", array("prubeh-tvorby", "Průběh tvorby webových stránek", "Průběh tvorby", "Průběh tvorby webových stránek", array("informace")));
+  my_db_add_line("source/page.db", array("proc-mit-stranky", "Proč mít webové stránky?", "Proč mít webové stránky?", "Proč mít webové stránky?", array("informace")));
+  my_db_add_line("source/page.db", array("proc-nechat-delat", "Proč si webové stránky nechat udělat?", "Proč si webové stránky nechat udělat?", "Proč si webové stránky nechat udělat?", array("informace")));
+  my_db_add_line("source/page.db", array("co-si-pripravit", "Co si připravit před zahájením tvorby?", "Co si připravit před zahájením tvorby?", "Co si připravit před zahájením tvorby?", array("informace")));
+  my_db_add_line("source/page.db", array("pozadavky-kvalitni-stranky", "Jak by měla vypadat kvalitní webová stránka?", "Kvalitní webová stránka", "Jak by měla vypadat kvalitní webová stránka?", array("informace")));
+  my_db_add_line("source/page.db", array("naklady-na-provoz", "Jak je drahý provoz webových stránek?", "Náklady na provoz", "Jak je drahý provoz webových stránek?", array("informace")));
+  my_db_add_line("source/page.db", array("vyhody-nevyhody", "Výhody a nevýhody webových stránek", "Výhody a nevýhody webových stránek", "Výhody a nevýhody webových stránek", array("informace")));
+  my_db_add_line("source/page.db", array("slovnicek-pojmu", "Slovníček pojmů", "Slovníček pojmů", "Slovníček pojmů", array("informace")));
 
   //Reference
-  my_db_add_line("source/page.db", array("pro-sport-activities", "Pro Sport Activities", "P.S.A.", "Title Pro Sport Actvities", array("reference")));
-  my_db_add_line("source/page.db", array("airnet", "Airnet Group o.s.", "Airnet", "Title Airnet Group o.s.", array("reference")));
-  my_db_add_line("source/page.db", array("airnet-public", "ANG-Network - Public", "ANG-Network - Public", "Title ANG-Network - Public", array("reference")));
-  my_db_add_line("source/page.db", array("airnet-interni", "ANG-Network - Interní web", "ANG-Network - Interní web", "Title ANG-Network - Interní web", array("reference")));
-  my_db_add_line("source/page.db", array("airnet-hotspot", "ANG-Network - Hotspot", "ANG-Network - Hotspot", "Title ANG-Network - Hotspot", array("reference")));
-  my_db_add_line("source/page.db", array("auta-mira", "Auta Míra", "Auta Míra", "Title Auta Míra", array("reference")));
-  my_db_add_line("source/page.db", array("autoservis-sk", "Autoservis S+K", "Autoservis S+K", "Title Autoservis S+K", array("reference")));
-  my_db_add_line("source/page.db", array("databaze-kupcu", "Databáze kupců", "Databáze kupců", "Title Databáze kupců", array("reference")));
-  my_db_add_line("source/page.db", array("h-moda", "H-móda", "H-móda", "Title H-móda", array("reference")));
-  my_db_add_line("source/page.db", array("hrackydomino", "Hračky Domino - eshop", "Hračky Domino - eshop", "Title Hračky Domino - eshop", array("reference")));
-  my_db_add_line("source/page.db", array("hrackydomino-kasa", "Hračky Domino - pokladna", "Hračky Domino - pokladna", "Title Hračky Domino - pokladna", array("reference")));
-  my_db_add_line("source/page.db", array("krtkuv-raj", "Krtkův ráj", "Krtkův ráj", "Title Krtkův ráj", array("reference")));
-  my_db_add_line("source/page.db", array("krystal", "Krystal", "Krystal", "Title Krystal", array("reference")));
-  my_db_add_line("source/page.db", array("lakikincl", "Fa. LAKI", "Fa. LAKI", "Title Fa. LAKI", array("reference")));
-  my_db_add_line("source/page.db", array("mathis", "Mathis", "Mathis", "Title Mathis", array("reference")));
-  my_db_add_line("source/page.db", array("nizozemsko-ceska-obchodni-komora", "Nizozemsko-česká obchodní komora", "Nizozemsko-česká obchodní komora", "Title Nizozemsko-česká obchodní komora", array("reference")));
-  my_db_add_line("source/page.db", array("pdprojekce", "PDProjekce", "PDProjekce", "Title PDProjekce", array("reference")));
-  my_db_add_line("source/page.db", array("plzenske-ohynky", "Plzeňské ohýnky", "Plzeňské ohýnky", "Title Plzeňské ohýnky", array("reference")));
-  my_db_add_line("source/page.db", array("smsrealitni", "smsRealitni.cz", "smsRealitni.cz", "Title smsRealitni.cz", array("reference")));
-  my_db_add_line("source/page.db", array("stemax", "Stemax", "Stemax", "Title Stemax", array("reference")));
-  my_db_add_line("source/page.db", array("vrata-brany", "Vrata a brány", "Vrata a brány", "Title Vrata a brány", array("reference")));
-  my_db_add_line("source/page.db", array("zdravotni-poradenstvi", "Zdravotní poradenství", "Zdravotní poradenství", "Title Zdravotní poradenství", array("reference")));
+  my_db_add_line("source/page.db", array("pro-sport-activities", "Pro Sport Activities", "P.S.A.", "Pro Sport Actvities", array("reference")));
+  my_db_add_line("source/page.db", array("airnet", "Airnet Group o.s.", "Airnet", "Airnet Group o.s.", array("reference")));
+  my_db_add_line("source/page.db", array("airnet-public", "ANG-Network - Public", "ANG-Network - Public", "ANG-Network - Public", array("reference")));
+  my_db_add_line("source/page.db", array("airnet-interni", "ANG-Network - Interní web", "ANG-Network - Interní web", "ANG-Network - Interní web", array("reference")));
+  my_db_add_line("source/page.db", array("airnet-hotspot", "ANG-Network - Hotspot", "ANG-Network - Hotspot", "ANG-Network - Hotspot", array("reference")));
+  my_db_add_line("source/page.db", array("auta-mira", "Auta Míra", "Auta Míra", "Auta Míra", array("reference")));
+  my_db_add_line("source/page.db", array("autoservis-sk", "Autoservis S+K", "Autoservis S+K", "Autoservis S+K", array("reference")));
+  my_db_add_line("source/page.db", array("databaze-kupcu", "Databáze kupců", "Databáze kupců", "Databáze kupců", array("reference")));
+  my_db_add_line("source/page.db", array("h-moda", "H-móda", "H-móda", " H-móda", array("reference")));
+  my_db_add_line("source/page.db", array("hrackydomino", "Hračky Domino - eshop", "Hračky Domino - eshop", "Hračky Domino - eshop", array("reference")));
+  my_db_add_line("source/page.db", array("hrackydomino-kasa", "Hračky Domino - pokladna", "Hračky Domino - pokladna", "Hračky Domino - pokladna", array("reference")));
+  my_db_add_line("source/page.db", array("krtkuv-raj", "Krtkův ráj", "Krtkův ráj", "Krtkův ráj", array("reference")));
+  my_db_add_line("source/page.db", array("krystal", "Krystal", "Krystal", "Krystal", array("reference")));
+  my_db_add_line("source/page.db", array("lakikincl", "Fa. LAKI", "Fa. LAKI", "Fa. LAKI", array("reference")));
+  my_db_add_line("source/page.db", array("mathis", "Mathis", "Mathis", "Mathis", array("reference")));
+  my_db_add_line("source/page.db", array("nizozemsko-ceska-obchodni-komora", "Nizozemsko-česká obchodní komora", "Nizozemsko-česká obchodní komora", "Nizozemsko-česká obchodní komora", array("reference")));
+  my_db_add_line("source/page.db", array("pdprojekce", "PDProjekce", "PDProjekce", "PDProjekce", array("reference")));
+  my_db_add_line("source/page.db", array("plzenske-ohynky", "Plzeňské ohýnky", "Plzeňské ohýnky", "Plzeňské ohýnky", array("reference")));
+  my_db_add_line("source/page.db", array("smsrealitni", "smsRealitni.cz", "smsRealitni.cz", "smsRealitni.cz", array("reference")));
+  my_db_add_line("source/page.db", array("stemax", "Stemax", "Stemax", "Stemax", array("reference")));
+  my_db_add_line("source/page.db", array("vrata-brany", "Vrata a brány", "Vrata a brány", "Vrata a brány", array("reference")));
+  my_db_add_line("source/page.db", array("zdravotni-poradenstvi", "Zdravotní poradenství", "Zdravotní poradenství", "Zdravotní poradenství", array("reference")));
 
   //O nas
-  my_db_add_line("source/page.db", array("nas-tym", "Náš tým", "Náš tým", "Title Náš tým", array("o-nas")));
-  my_db_add_line("source/page.db", array("proc-zvolit-koldasoft", "Proč zvolit Koldasoft?", "Proč zvolit Koldasoft?", "Title Proč zvolit Koldasoft?", array("o-nas")));
-  my_db_add_line("source/page.db", array("nase-znacka", "Naše značka", "Naše značka", "Title Naše značka", array("o-nas")));
+  my_db_add_line("source/page.db", array("nas-tym", "Náš tým", "Náš tým", " Náš tým", array("o-nas")));
+  my_db_add_line("source/page.db", array("proc-zvolit-koldasoft", "Proč zvolit Koldasoft?", "Proč zvolit Koldasoft?", " Proč zvolit Koldasoft?", array("o-nas")));
+  my_db_add_line("source/page.db", array("nase-znacka", "Naše značka", "Naše značka", " Naše značka", array("o-nas")));
 
 
 
