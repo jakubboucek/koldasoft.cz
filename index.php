@@ -92,8 +92,8 @@
     echo("          <div class=\"box\">
             <h4>Rychlé kontakty</h4>
             <p><strong>E-mail:</strong> <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></p>
-            <p><strong>Tel.:</strong> 724059012, 775770178</p>
-            <p class=\"read_next\">".mylink("kontakt", "Další kontakty&hellip;")."</p>          
+            <p><strong>Tel.:</strong> 775&nbsp;77&nbsp;15&nbsp;00,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;775&nbsp;77&nbsp;15&nbsp;10</p>
+            <p class=\"read_next\">".mylink("kontakt", "Další kontakty")."</p>          
           </div>".nl);
   // Hledame externisty \\
   If($open != "job")  //Pro vsechny krome job (hledame externisty)        
@@ -104,7 +104,7 @@
               <li><strong>programátora</strong> PHP</li>
               <li><strong>grafika</strong></li>
             </ul>
-            <p class=\"read_next\">".mylink("job", "Více informací&hellip;")."</p>          
+            <p class=\"read_next\">".mylink("job", "Více informací")."</p>          
           </div>".nl);
   If($open == "uvod")  //Pouze pro uvodni stranu
   { 
