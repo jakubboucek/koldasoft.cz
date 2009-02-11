@@ -33,6 +33,7 @@ body {  /* Telo stranky */
 .panel {  /* Vedlejsi cast (sloupec - akt. pravy) */
   float: right;
   width: 230px;
+  font-size: .9em;
 }
 
 /***** Hlavicka *****/
@@ -95,9 +96,8 @@ body {  /* Telo stranky */
   padding: .65em 0;
   font-size: 1.1em;
   float: left;
-  width: 115px;
-  background: url('/pictures/hmenu_button_normal.jpg') left top no-repeat;
-  _width: 115px;
+  width: 115px; _width: 115px;
+  background: url('/pictures/hmenu_button_normal.jpg') center top no-repeat;
   text-decoration: none;
   position: relative;
   cursor: pointer;
@@ -105,11 +105,11 @@ body {  /* Telo stranky */
 }
 
 #hmenu a:hover, #hmenu .active, #hmenu a:active, #hmenu a:focus {  /* Aktivni polozka menu */
-  background: url('/pictures/hmenu_button_normal.jpg') left bottom no-repeat;
+  background: url('/pictures/hmenu_button_normal.jpg') center bottom no-repeat;
 }
 
 #hmenu .active {  /* Aktivni polozka menu */
-  background: url('/pictures/hmenu_button_active.jpg') left bottom no-repeat;
+  background: url('/pictures/hmenu_button_active.jpg') center bottom no-repeat;
 
 }
 
@@ -156,7 +156,7 @@ body {  /* Telo stranky */
 
 #main .box {  /* Box ve sloupci */
   text-align: left;
-  margin: 10px 9px;
+  margin: 2px 9px 12px 9px;
   padding: 0 12px;
   color: #666666;
   position: relative;
@@ -241,6 +241,10 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 #main li li {  /* Polozka seznamu */
   padding: .22em 0 .22em 1.2em;
   background: url('/pictures/bullet_level_02.gif') .2em .6em no-repeat;
+}
+
+#main .panel li a {  /* Polozka seznamu */
+  color: #595959;
 }
 
 .subtitle {  /* Podnadpis */
