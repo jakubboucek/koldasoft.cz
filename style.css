@@ -234,7 +234,11 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 
 #main li {  /* Polozka seznamu */
   padding: .2em 0 .2em 1em;
-  background: url('/pictures/bullet_level_01.gif') 0% 50% no-repeat;
+  background: url('/pictures/bullet_level_01.gif') 0% .6em no-repeat;
+}
+
+#main li li {  /* Polozka seznamu */
+  background: url('/pictures/bullet_level_02.gif') 0% .6em no-repeat;
 }
 
 .subtitle {  /* Podnadpis */
