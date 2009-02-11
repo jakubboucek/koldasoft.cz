@@ -354,10 +354,6 @@ p {  /* Horizontalni linky */
   padding-bottom: .1em;
 }
 
-.float_box.more {
-  padding: 58px 0 54px 0;
-}
-
 .float_box.more .bottom {
   min-height: 48px; _height: 48px;
   background: url('/pictures/box_green_footer.gif') bottom center no-repeat;
@@ -376,6 +372,9 @@ p {  /* Horizontalni linky */
   padding: 60px 0 12px 0;
 }
 
+.float_box.more {
+  padding: 58px 0 54px 0;
+}
 
 #main .float_box ul {
   padding: .1em 1em; margin: 0;
