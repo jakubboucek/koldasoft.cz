@@ -6,9 +6,11 @@
           </div>  
           <div class=\"text_box\">
 
-          <div class=\"float_box\">
-            <p class=\"title\">?&nbsp;&nbsp;&nbsp;Jste programátor?</p>
+
+          <div class=\"float_box question\">
+            <div class=\"title\"><strong>Jste programátor?</strong></div>
             <p>Rádi programujete? Jsou u Vás slova jako třída, objekt, dědičnost či rekurze na denním pořádku? Chtěli byste se podílet na vývoji webových aplikací a skriptů? Pak hledáme přesně Vás!</p>
+            <div class=\"bottom\"></div>
           </div>  
 
             <h2 id=\"pozice\">Programátor PHP, MySQL</h2>
@@ -21,9 +23,10 @@
               <li>oceníme kreativní přístup k&nbsp;vlastnímu řešení</li>
             </ul>  
 
-          <div class=\"float_box\">
-            <p class=\"title\">?&nbsp;&nbsp;&nbsp;Jste grafik?</p>
+          <div class=\"float_box question\">
+            <div class=\"title\"><strong>Jste grafik?</strong></div>
             <p>Máte cit pro grafiku? Rádi navrhujete a tvoříte? Hrajete si s barvami a tvary? Chtěli byste se podílet návrhu grafických layoutů pro webové stránky? A ne jen pro ně? Pak hledáme přesně Vás!</p>
+            <div class=\"bottom\"></div>
           </div>  
 
             <h2 id=\"pozice\">Grafik - webdesignér</h2>
@@ -52,14 +55,14 @@
             </ul>  
             <h2 id=\"kontakt\">Kontakt</h2>
 
-
-          <div class=\"float_box left\">
-            <p class=\"title\">I&nbsp;&nbsp;&nbsp;Naše letáčky</p>
+          <div class=\"float_box left info\">
+            <div class=\"title\"><strong>Naše letáčky</strong></div>
             <p>Stáhněte si naše náborové letáčky ve formátu PDF</p>
             <ul>
               <li><a href=\"".$cesta."files/koldasoft-naborovy-letacek-programator.pdf\" title=\"Náš letáček na pozici programátor (PDF, 52.1&nbsp;kB)\">letáček na pozici programátor</a></li>
               <li><a href=\"".$cesta."files/koldasoft-naborovy-letacek-webdesigner.pdf\" title=\"Náš letáček na pozici grafik (PDF, 52.1&nbsp;kB)\">letáček na pozici grafik</a></li>
             </ul>
+            <div class=\"bottom\"></div>
           </div>  
 
 

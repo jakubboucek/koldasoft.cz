@@ -5,7 +5,7 @@
           <div class=\"float_box tip\">
             <p class=\"title\"><strong>Lidé v týmu</strong></p>
             <p>Hledáte někoho konkrétního? Potřebujete číslo nebo mailovou adresu? Rádi byste mluvili přímo s grafikem?</p>
-            <p class=\"read_next\">Koukněte na ".mylink("nas-tym", "náš tým")."</p>
+            <p class=\"read_next\">".mylink("nas-tym", "Koukněte na náš tým")."</p>
             <div class=\"bottom\"></div>
           </div>  
 

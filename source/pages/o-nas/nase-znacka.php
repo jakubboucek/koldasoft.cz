@@ -2,17 +2,22 @@
 
   echo("          <div class=\"text_box\">
             <h1>$page_name</h1>
-            <p>Základem značky je název <strong>Koldasoft</strong>. Důraz je kladen na počáteční písmeno&nbsp;K, symbolizující běžícího panáčka, v&nbsp;dominantní <strong>zelené barvě</strong>. Celá značka je pak tvořena příjemnou <strong>šedou barvou</strong>, která bývá základním prvkem současných moderních značek.</p>
-          </div>  
-          <div class=\"text_box\">
 
 
           <div class=\"float_box info\">
             <div class=\"title\"><strong>Náš grafický manuál</strong></div>
             <p>Grafický manuál je základem pro jednotný grafický styl, poskytuje informace o značce Koldasoft a její přesné použití.</p>
-            <p class=\"read_next\">Prohlédněte si náš <a href=\"".$cesta."files/koldasoft_graficky_manual_v1.1.pdf\" title=\"Stáhnout grafický manuál (formát PDF, 477 kB)\">grafický manuál</a></p>
+            <p class=\"read_next\"><a href=\"".$cesta."files/koldasoft_graficky_manual_v1.1.pdf\" title=\"Stáhnout grafický manuál (formát PDF, 477 kB)\">Prohlédněte si náš grafický manuál</a></p>
             <div class=\"bottom\"></div>
           </div>  
+
+
+            <p>Základem značky je název <strong>Koldasoft</strong>. Důraz je kladen na počáteční písmeno&nbsp;K, symbolizující běžícího panáčka, v&nbsp;dominantní <strong>zelené barvě</strong>. Celá značka je pak tvořena příjemnou <strong>šedou barvou</strong>, která bývá základním prvkem současných moderních značek.</p>
+
+          </div>  
+          <div class=\"text_box\">
+
+
 
 
             <h2 id=\"symbolika\">Symbolika</h2>

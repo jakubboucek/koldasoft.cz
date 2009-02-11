@@ -22,6 +22,8 @@ Přesvědčte se, že umíme být silným partnerem&hellip;</p>
             <h2 id=\"komplexni-sluzby\">Nabízíme komplexní služby</h2>
             <p>Nabízíme Vám ".mylink("nabidka-sluzeb", "komplexní služby")." v&nbsp;oblasti ".mylink("tvorba", "prezentace na internetu")." a ".mylink("graficke-prace", "grafických prací").". Vytváříme ".mylink("pozadavky-kvalitni-stranky", "kvalitní").", ".mylink("pouzitelnost-pristupnost", "přístupné a použitelné")." webové stránky, za dodržení standardů konsorcia <acronym>W3C</acronym>. Provádíme testování na různých operačních systémech (Windows, Linux) a internetových prohlížečích (Internet Explorer, Mozilla Firefox, Opera, Lynx, &hellip;). Pomůžeme Vám s&nbsp;volbou vhodného ".mylink("domeny-hosting", "doménového jména", "domeny", "Domény").", jeho registrací a následným umístěním Vašich stránek na internet &ndash; ".mylink("domeny-hosting", "hosting", "hosting", "Hosting").". Provedeme ".mylink("optimalizace-pro-vyhledavace", "optimalizaci pro vyhledávače (SEO)")." a ".mylink("registrace-do-katalogu", "registraci do katalogů").". Na přání Vám připravíme analýzu projektu nebo spustíme internetovou reklamní kampaň.</p>
             <h2 id=\"individualni-pristup\">Individuálním přístupem dosahujeme našich cílů</h2>
+            <p>Individuálním přístupem, využitím našich znalostí a kreativity v&nbsp;oblasti webdesignu, dosahujeme ".mylink("o-nas", "našich cílů", "cile", "Náš cíl").".</p>
+
 
           <div class=\"float_box left info\">
             <div class=\"title\"><strong>Každý je jedinečný</strong></div>
@@ -31,7 +33,6 @@ Přesvědčte se, že umíme být silným partnerem&hellip;</p>
           </div>  
 
 
-            <p>Individuálním přístupem, využitím našich znalostí a kreativity v&nbsp;oblasti webdesignu, dosahujeme ".mylink("o-nas", "našich cílů", "cile", "Náš cíl").".</p>
             <p>Víme, že <strong>každý projekt je jedinečný</strong> a zaslouží si tak vlastní, specifický přístup a řešení. Vycházíme z&nbsp;osvědčených postupů a řešení, ale naše dílo je vždy originálem. </p>
             <p>Stejně tak každý <strong>klient vyžaduje individuální přístup</strong>. Dle potřeby nastavujeme úroveň jednání, množství schůzek a procesy schvalování tak, aby byl klient spokojen. Chcete-li být u&nbsp;všeho, rádi Vás zasvětíme do každé naší činnosti. Naopak, necháte-li práci na jen nás, uděláme vše k&nbsp;Vaší plné spokojenosti sami.</p>
             <h2 id=\"zajimave-ceny\">Nabízíme zajímavé ceny</h2>

@@ -11,7 +11,7 @@
           <div class=\"float_box tip\">
             <div class=\"title\"><strong>Lidé v týmu</strong></div>
             <p>Hledáte někoho konkrétního? Potřebujete číslo nebo mailovou adresu? Rádi byste mluvili přímo s&nbsp;grafikem?</p>
-            <p class=\"read_next\">Koukněte na ".mylink("nas-tym", "náš tým")."</p>
+            <p class=\"read_next\">".mylink("nas-tym", "Koukněte na náš tým")."</p>
             <div class=\"bottom\"></div>
           </div>  
 
@@ -21,20 +21,20 @@
             <p>Nabízíme Vám ".mylink("nabidka-sluzeb", "komplexní služby")." v&nbsp;oblasti prezentace na internetu. Specializujeme se především na tvorbu ".mylink("pozadavky-kvalitni-stranky", "kvalitních").", ".mylink("pouzitelnost-pristupnost", "použitelných a přístupných")." webových stránek a internetových obchodů (E-shopů). Provádíme ".mylink("optimalizace-pro-vyhledavace", "optimalizace pro vyhledávače (SEO)")." a ".mylink("registrace-do-katalogu", "registrace do katalogů").". Na přání Vám připravíme analýzu návštěvnosti a úspěšnosti Vašeho webu. Pro úspěšnost projektu zajistíme internetovou reklamní kampaň. V&nbsp;neposlední řadě nabízíme poradenství v&nbsp;oblasti prezentace na internetu.</p>
             <p>Dále Vám můžeme nabídnout širokou škálu ".mylink("graficke-prace", "grafických prací").". Navrhneme Vám a vytvoříme ".mylink("graficke-prace", "logo").", ".mylink("graficke-prace", "tištěné materiály")." (vizitky, letáčky), vytvoříme ".mylink("graficke-prace", "prezentaci na CD/DVD", "prezentace-cd-dvd", "Prezentace na CD, DVD").". Zabýváme se ".mylink("graficke-prace", "3D grafikou", "3d-grafika", "3D grafika").".</p>
             <h2 id=\"cile\"><a name=\"cile\"></a>Náš cíl, naše vize</h2>  
+            <p>Naším cílem je vytvářet <strong>kvalitní, přístupné a uživatelsky příjemné webové stránky</strong>, které budou našim klientům k užitku. Zaměřujeme se především na střední a drobné podnikatele, na neziskové organizace a soukromý sektor. Chceme se podílet na vývoji, zlepšování a kultivaci prostředí českého i zahraničního internetu.</p>
 
           <div class=\"float_box left question\">
             <div id=\"proc-zvolit-koldasoft\" class=\"title\"><strong>Proč zvolit Koldasoft?</strong></div>
             <ul>
               <li>".mylink("proc-zvolit-koldasoft", "Máme chuť a odhodlání", "chut-odhodlani", "Máme chuť a odhodlání")."</li>  
               <li>".mylink("proc-zvolit-koldasoft", "Nabízíme komplexní služby", "komplexni-sluzby", "Nabízíme komplexní služby")."</li>
-              <li>".mylink("proc-zvolit-koldasoft", "Individuálním přístupem dosahujeme našich cílů", "individualni-pristup", "Individuálním přístupem dosahujeme našich cílů")."</li>  
+              <li>".mylink("proc-zvolit-koldasoft", "Preferujeme individuální přístup", "individualni-pristup", "Individuálním přístupem dosahujeme našich cílů")."</li>  
               <li>".mylink("proc-zvolit-koldasoft", "Nabízíme zajímavé ceny", "zajimave-ceny", "Nabízíme zajímavé ceny")."</li>  
             </ul>      
             <p class=\"read_next\">".mylink("proc-zvolit-koldasoft", "Více informací")."</p>
             <div class=\"bottom\"></div>
           </div>  
 
-            <p>Naším cílem je vytvářet <strong>kvalitní, přístupné a uživatelsky příjemné webové stránky</strong>, které budou našim klientům k užitku. Zaměřujeme se především na střední a drobné podnikatele, na neziskové organizace a soukromý sektor. Chceme se podílet na vývoji, zlepšování a kultivaci prostředí českého i zahraničního internetu.</p>
             <p>Snažíme se docílit <strong>zviditelnění Vaší firmy</strong> na internetu, získání nových zákazníků a zvýšení Vašich zisků prostřednictvím ".mylink("pozadavky-kvalitni-stranky", "kvalitních webových stránek").".</p>
             <p>K&nbsp;dosažení cílů využíváme své ".mylink("znalosti", "znalosti")." v&nbsp;oblasti webdesignu, kreativitu a zcela individuální přístup ke každému našemu klientovi.</p>
             <p>Naší vizí je poskytovat kvalitní služby v&nbsp;oblasti prezentace na internetu, <strong>získat tak dobré jméno</strong>, které bude v&nbsp;povědomí zákazníků i konkurence, a prosadit se na trhu.</p>
