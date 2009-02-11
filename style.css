@@ -374,6 +374,10 @@ p {  /* Horizontalni linky */
   padding: 60px 0 12px 0;
 }
 
+.float_box.mail {
+  width: auto;
+}
+
 .float_box.more {
   padding: 58px 0 54px 0;
 }
@@ -396,9 +400,9 @@ p {  /* Horizontalni linky */
 }
 
 .float_box .title {
-  background: url('/pictures/box_green_header.gif') 50% 0% no-repeat;
+  background: url('/pictures/box_green_header.gif') top center no-repeat;
   position: absolute; top: 0; left: 0;
-  width: 290px; height: 52px;
+  width: 100%; height: 52px;
   padding: 1.2em 0 0 0;
 }
 
@@ -442,4 +446,13 @@ form {
 
 .formular td {
   padding-bottom: .3em;
+}
+
+.errorbox {  /* Polozka seznamu */
+  margin: .5em 2em; padding: .3em;
+  color: #e9454f;
+}
+
+#main .errorbox li {  /* Polozka seznamu */
+  background: url('/pictures/bullet_level_01_red.gif') 0 .6em no-repeat;
 }
