@@ -163,7 +163,6 @@ body {  /* Telo stranky */
   text-align: left;
   margin: 2px 9px 12px 9px;
   padding: 0 12px 6px 12px;
-  color: #666666;
   border-bottom: 1px dotted #bdbdbd;
 }
 
@@ -455,4 +454,9 @@ form {
 
 #main .errorbox li {  /* Polozka seznamu */
   background: url('/pictures/bullet_level_01_red.gif') 0 .6em no-repeat;
+}
+
+.fakelink {  /* Polozka seznamu */
+  text-decoration: underline;
+  color: #0c9100;
 }
