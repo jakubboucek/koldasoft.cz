@@ -7,10 +7,11 @@
           <div class=\"text_box\">
 
 
-          <div class=\"float_box\">
-            <p class=\"title\">I/T&nbsp;&nbsp;&nbsp;Náš grafický manuál</p>
+          <div class=\"float_box info\">
+            <div class=\"title\"><strong>Náš grafický manuál</strong></div>
             <p>Grafický manuál je základem pro jednotný grafický styl, poskytuje informace o značce Koldasoft a její přesné použití.</p>
             <p class=\"read_next\">Prohlédněte si náš <a href=\"".$cesta."files/koldasoft_graficky_manual_v1.1.pdf\" title=\"Stáhnout grafický manuál (formát PDF, 477 kB)\">grafický manuál</a></p>
+            <div class=\"bottom\"></div>
           </div>  
 
 

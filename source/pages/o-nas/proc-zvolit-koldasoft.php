@@ -11,10 +11,11 @@ Přesvědčte se, že umíme být silným partnerem&hellip;</p>
             <p>Neustále se vzděláváme v&nbsp;oboru a sledujeme moderní trend vývoje prezentace na internetu.</p>
 
 
-          <div class=\"float_box\">
-            <p class=\"title\">T&nbsp;&nbsp;&nbsp;Naše reference</p>
+          <div class=\"float_box tip\">
+            <div class=\"title\"><strong>Naše reference</strong></div>
             <p>Zajímá Vás, co jsme dokázali? Jaké projekty vytvořili? Jak taková  webová stránka od nás může vypadat?</p>
             <p class=\"read_next\">".mylink("reference", "Prohlédnout reference")."</p>
+            <div class=\"bottom\"></div>
           </div>  
 
 
@@ -22,10 +23,11 @@ Přesvědčte se, že umíme být silným partnerem&hellip;</p>
             <p>Nabízíme Vám ".mylink("nabidka-sluzeb", "komplexní služby")." v&nbsp;oblasti ".mylink("tvorba", "prezentace na internetu")." a ".mylink("graficke-prace", "grafických prací").". Vytváříme ".mylink("pozadavky-kvalitni-stranky", "kvalitní").", ".mylink("pouzitelnost-pristupnost", "přístupné a použitelné")." webové stránky, za dodržení standardů konsorcia <acronym>W3C</acronym>. Provádíme testování na různých operačních systémech (Windows, Linux) a internetových prohlížečích (Internet Explorer, Mozilla Firefox, Opera, Lynx, &hellip;). Pomůžeme Vám s&nbsp;volbou vhodného ".mylink("domeny-hosting", "doménového jména", "domeny", "Domény").", jeho registrací a následným umístěním Vašich stránek na internet &ndash; ".mylink("domeny-hosting", "hosting", "hosting", "Hosting").". Provedeme ".mylink("optimalizace-pro-vyhledavace", "optimalizaci pro vyhledávače (SEO)")." a ".mylink("registrace-do-katalogu", "registraci do katalogů").". Na přání Vám připravíme analýzu projektu nebo spustíme internetovou reklamní kampaň.</p>
             <h2 id=\"individualni-pristup\">Individuálním přístupem dosahujeme našich cílů</h2>
 
-          <div class=\"float_box left\">
-            <p class=\"title\">I&nbsp;&nbsp;&nbsp;Každý je jedinečný</p>
+          <div class=\"float_box left info\">
+            <div class=\"title\"><strong>Každý je jedinečný</strong></div>
             <p>Každý z&nbsp;nás je jedinečný. A stejně tak projekty, které realizujeme.</p>
             <p>Nechte nás, vyjít Vám zcela vstříc&hellip;</p>
+            <div class=\"bottom\"></div>
           </div>  
 
 

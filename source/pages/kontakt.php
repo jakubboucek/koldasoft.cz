@@ -2,10 +2,11 @@
 
   echo("          <div class=\"text_box\">
 
-          <div class=\"float_box\">
-            <p class=\"title\">T&nbsp;&nbsp;&nbsp;Lidé v týmu</p>
+          <div class=\"float_box tip\">
+            <p class=\"title\"><strong>Lidé v týmu</strong></p>
             <p>Hledáte někoho konkrétního? Potřebujete číslo nebo mailovou adresu? Rádi byste mluvili přímo s grafikem?</p>
             <p class=\"read_next\">Koukněte na ".mylink("nas-tym", "náš tým")."</p>
+            <div class=\"bottom\"></div>
           </div>  
 
 

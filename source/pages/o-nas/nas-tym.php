@@ -18,7 +18,7 @@
             <div>
               <h2 id=\"kolda\">Jiří Kolařík</h2>
               <img style=\"float: left; margin-right: 10px;\" src=\"".$cesta."pictures/img.png\" alt=\"pasove foto\" width=\"110\" height=\"140\" />
-              <div class=\"float_box\">Lorem ipsum dolor sit amet consectetuer vel justo non ac id. Semper wisi tortor et adipiscing Pellentesque lobortis velit Pellentesque dui molestie.</div>
+              <div class=\"float_box\">Lorem ipsum dolor sit amet consectetuer vel justo non ac id. Semper wisi tortor et adipiscing Pellentesque lobortis velit Pellentesque dui molestie.<div class=\"bottom\"></div></div>
               <p class=\"subtitle\">ředitel společnosti</p>
               <p><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;00</p>
               <p><strong>E-mail:</strong> <a href=\"mailto:jiri.kolarik@koldasoft.cz\" title=\"\">jiri.kolarik@koldasoft.cz</a></p>
@@ -30,7 +30,7 @@
             <div>
               <h2 id=\"lucka\">Lucie Brandýská</h2>
               <img style=\"float: left; margin-right: 10px;\" src=\"".$cesta."pictures/img.png\" alt=\"pasove foto\" width=\"110\" height=\"140\" />
-              <div class=\"float_box\">Lorem ipsum dolor sit amet consectetuer vel justo non ac id. Semper wisi tortor et adipiscing Pellentesque lobortis velit Pellentesque dui molestie.</div>
+              <div class=\"float_box\">Lorem ipsum dolor sit amet consectetuer vel justo non ac id. Semper wisi tortor et adipiscing Pellentesque lobortis velit Pellentesque dui molestie.<div class=\"bottom\"></div></div>
               <p class=\"subtitle\">asistentka ředitele</p>
               <p><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;10</p>
               <p><strong>E-mail:</strong> <a href=\"mailto:lucie.brandyska@koldasoft.cz\" title=\"\">lucie.brandyska@koldasoft.cz</a></p>
@@ -40,7 +40,7 @@
             <div>
               <h2 id=\"bukaj\">Jakub Bouček</h2>
               <img style=\"float: left; margin-right: 10px;\" src=\"".$cesta."pictures/img.png\" alt=\"pasove foto\" width=\"110\" height=\"140\" />
-              <div class=\"float_box\">Lorem ipsum dolor sit amet consectetuer vel justo non ac id. Semper wisi tortor et adipiscing Pellentesque lobortis velit Pellentesque dui molestie.</div>
+              <div class=\"float_box\">Lorem ipsum dolor sit amet consectetuer vel justo non ac id. Semper wisi tortor et adipiscing Pellentesque lobortis velit Pellentesque dui molestie.<div class=\"bottom\"></div></div>
               <p class=\"subtitle\">programátor</p>
               <p><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;30</p>
               <p><strong>E-mail:</strong> <a href=\"mailto:jakub.boucek@koldasoft.cz\" title=\"\">jakub.boucek@koldasoft.cz</a></p>
@@ -52,7 +52,7 @@
             <div>
               <h2 id=\"morty\">Radek Věchet</h2>
               <img style=\"float: left; margin-right: 10px;\" src=\"".$cesta."pictures/img.png\" alt=\"pasove foto\" width=\"110\" height=\"140\" />
-              <div class=\"float_box\">Lorem ipsum dolor sit amet consectetuer vel justo non ac id. Semper wisi tortor et adipiscing Pellentesque lobortis velit Pellentesque dui molestie.</div>
+              <div class=\"float_box\">Lorem ipsum dolor sit amet consectetuer vel justo non ac id. Semper wisi tortor et adipiscing Pellentesque lobortis velit Pellentesque dui molestie.<div class=\"bottom\"></div></div>
               <p class=\"subtitle\">hlavní grafik</p>
               <p><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;20</p>
               <p><strong>E-mail:</strong> <a href=\"mailto:radek.vechet@koldasoft.cz\" title=\"\">radek.vechet@koldasoft.cz</a></p>
@@ -64,7 +64,7 @@
             <div>
               <h2 id=\"harem_master\">Jiří Drahorád</h2>
               <img style=\"float: left; margin-right: 10px;\" src=\"".$cesta."pictures/img.png\" alt=\"pasove foto\" width=\"110\" height=\"140\" />
-              <div class=\"float_box\">Lorem ipsum dolor sit amet consectetuer vel justo non ac id. Semper wisi tortor et adipiscing Pellentesque lobortis velit Pellentesque dui molestie.</div>
+              <div class=\"float_box\">Lorem ipsum dolor sit amet consectetuer vel justo non ac id. Semper wisi tortor et adipiscing Pellentesque lobortis velit Pellentesque dui molestie.<div class=\"bottom\"></div></div>
               <p class=\"subtitle\">designer</p>
               <p><strong>Mobil:</strong> (+420) 720&nbsp;24&nbsp;92&nbsp;92</p>
               <p><strong>E-mail:</strong> <a href=\"mailto:jiri.drahorad@koldasoft.cz\" title=\"\">jiri.drahorad@koldasoft.cz</a></p>

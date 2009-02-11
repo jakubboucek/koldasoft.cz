@@ -8,10 +8,11 @@
 
           <div class=\"text_box\">
 
-          <div class=\"float_box\">
-            <p class=\"title\">T&nbsp;&nbsp;&nbsp;Lidé v týmu</p>
+          <div class=\"float_box tip\">
+            <div class=\"title\"><strong>Lidé v týmu</strong></div>
             <p>Hledáte někoho konkrétního? Potřebujete číslo nebo mailovou adresu? Rádi byste mluvili přímo s&nbsp;grafikem?</p>
             <p class=\"read_next\">Koukněte na ".mylink("nas-tym", "náš tým")."</p>
+            <div class=\"bottom\"></div>
           </div>  
 
 
@@ -21,15 +22,16 @@
             <p>Dále Vám můžeme nabídnout širokou škálu ".mylink("graficke-prace", "grafických prací").". Navrhneme Vám a vytvoříme ".mylink("graficke-prace", "logo").", ".mylink("graficke-prace", "tištěné materiály")." (vizitky, letáčky), vytvoříme ".mylink("graficke-prace", "prezentaci na CD/DVD", "prezentace-cd-dvd", "Prezentace na CD, DVD").". Zabýváme se ".mylink("graficke-prace", "3D grafikou", "3d-grafika", "3D grafika").".</p>
             <h2 id=\"cile\"><a name=\"cile\"></a>Náš cíl, naše vize</h2>  
 
-          <div class=\"float_box left\">
-            <p  id=\"proc-zvolit-koldasoft\" class=\"title\">?&nbsp;&nbsp;&nbsp;Proč zvolit Koldasoft?</p>
-            <ul class=\"link_farm\">
+          <div class=\"float_box left question\">
+            <div id=\"proc-zvolit-koldasoft\" class=\"title\"><strong>Proč zvolit Koldasoft?</strong></div>
+            <ul>
               <li>".mylink("proc-zvolit-koldasoft", "Máme chuť a odhodlání", "chut-odhodlani", "Máme chuť a odhodlání")."</li>  
               <li>".mylink("proc-zvolit-koldasoft", "Nabízíme komplexní služby", "komplexni-sluzby", "Nabízíme komplexní služby")."</li>
               <li>".mylink("proc-zvolit-koldasoft", "Individuálním přístupem dosahujeme našich cílů", "individualni-pristup", "Individuálním přístupem dosahujeme našich cílů")."</li>  
               <li>".mylink("proc-zvolit-koldasoft", "Nabízíme zajímavé ceny", "zajimave-ceny", "Nabízíme zajímavé ceny")."</li>  
             </ul>      
-            <p class=\"read_next\">".mylink("proc-zvolit-koldasoft", "Více informací")."</p>  
+            <p class=\"read_next\">".mylink("proc-zvolit-koldasoft", "Více informací")."</p>
+            <div class=\"bottom\"></div>
           </div>  
 
             <p>Naším cílem je vytvářet <strong>kvalitní, přístupné a uživatelsky příjemné webové stránky</strong>, které budou našim klientům k užitku. Zaměřujeme se především na střední a drobné podnikatele, na neziskové organizace a soukromý sektor. Chceme se podílet na vývoji, zlepšování a kultivaci prostředí českého i zahraničního internetu.</p>
