@@ -11,6 +11,9 @@
       return("<a href=\"/koldasoft/\" title=\"Odkaz nelze najít\">".($text == "" ? "???" : $text)."</a>");  //Navratova hodnota - Odkaz na domovskou adresu - odkaz nebyl nalezen
   }
 
-
-
-?>
+  function getRequest($name, $default = null) {
+    if(isset($_REQUEST[$name]))
+      return $_REQUEST[$name];
+    
+    return $default;
+  }

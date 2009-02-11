@@ -14,6 +14,7 @@
   include INCLUDE_PATH . "functions.php";  //Nacteni zakladnich funkci
   include INCLUDE_PATH . "my_db_functions.php";  //Nacteni zakladnich fci pro praci s databazi
   include INCLUDE_PATH . "create_page_info.php";  //Nacteni zakladnich fci pro praci s databazi
+  include INCLUDE_PATH . "global.php";  //Nacteni zakladnich fci pro praci s databazi
 
   //Domovska stranka - vlastni obsah
   echo('<'.'?xml version="1.0" encoding="utf-8"?'.'>'.nl);  //XML
@@ -208,5 +209,3 @@
   my_db_add_line("source/page.db", array("nase-znacka", "Naše značka", "Naše značka", " Naše značka", array("o-nas")));
 
 */
-
-?>

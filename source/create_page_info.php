@@ -29,5 +29,3 @@
   Else  //Pokud je stranka hlavni (neni zanorena)  
     $page_type = $page_info[0];  //Ulozeni jedinecneho nazvu stranky    
   
-  
-?>

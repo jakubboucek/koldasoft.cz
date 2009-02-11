@@ -203,5 +203,3 @@
     return(my_db_read_line($database, "read_lastline"));  //volani fce se specifickym paramatrem
   }
 
-
-?>
