@@ -38,18 +38,6 @@
             </div>
             <div class=\"cleaner\"></div>
             <div>
-              <h2 id=\"bukaj\">Jakub Bouček</h2>
-              <img style=\"float: left; margin-right: 10px;\" src=\"".$cesta."pictures/img.png\" alt=\"pasove foto\" width=\"110\" height=\"140\" />
-              <div class=\"float_box\">Lorem ipsum dolor sit amet consectetuer vel justo non ac id. Semper wisi tortor et adipiscing Pellentesque lobortis velit Pellentesque dui molestie.<div class=\"bottom\"></div></div>
-              <p class=\"subtitle\">programátor</p>
-              <p><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;30</p>
-              <p><strong>E-mail:</strong> <a href=\"mailto:jakub.boucek@koldasoft.cz\" title=\"\">jakub.boucek@koldasoft.cz</a></p>
-              <p><strong>ICQ:</strong> 149-366-049</p>
-              <p><strong>Skype:</strong> jakub.boucek.info</p>
-              <p><a href=\"".$cesta."files/koldasoft_vizitka_boucek_v1.0.pdf\" title=\"Vizitka Jakub Bouček (formát PDF, 33 kB)\">Vizitka</a></p>
-            </div>
-            <div class=\"cleaner\"></div>
-            <div>
               <h2 id=\"morty\">Radek Věchet</h2>
               <img style=\"float: left; margin-right: 10px;\" src=\"".$cesta."pictures/img.png\" alt=\"pasove foto\" width=\"110\" height=\"140\" />
               <div class=\"float_box\">Lorem ipsum dolor sit amet consectetuer vel justo non ac id. Semper wisi tortor et adipiscing Pellentesque lobortis velit Pellentesque dui molestie.<div class=\"bottom\"></div></div>
@@ -59,6 +47,18 @@
               <p><strong>ICQ:</strong> 315-739-033</p>
               <p><strong>Skype:</strong> xxx_radek_xxx</p>
               <p><a href=\"".$cesta."files/koldasoft_vizitka_vechet_v1.0.pdf\" title=\"Vizitka Radek Věchet (formát PDF, 33 kB)\">Vizitka</a></p>
+            </div>
+            <div class=\"cleaner\"></div>
+            <div>
+              <h2 id=\"bukaj\">Jakub Bouček</h2>
+              <img style=\"float: left; margin-right: 10px;\" src=\"".$cesta."pictures/img.png\" alt=\"pasove foto\" width=\"110\" height=\"140\" />
+              <div class=\"float_box\">Lorem ipsum dolor sit amet consectetuer vel justo non ac id. Semper wisi tortor et adipiscing Pellentesque lobortis velit Pellentesque dui molestie.<div class=\"bottom\"></div></div>
+              <p class=\"subtitle\">programátor</p>
+              <p><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;30</p>
+              <p><strong>E-mail:</strong> <a href=\"mailto:jakub.boucek@koldasoft.cz\" title=\"\">jakub.boucek@koldasoft.cz</a></p>
+              <p><strong>ICQ:</strong> 149-366-049</p>
+              <p><strong>Skype:</strong> jakub.boucek.info</p>
+              <p><a href=\"".$cesta."files/koldasoft_vizitka_boucek_v1.0.pdf\" title=\"Vizitka Jakub Bouček (formát PDF, 33 kB)\">Vizitka</a></p>
             </div>
             <div class=\"cleaner\"></div>
             <div>
