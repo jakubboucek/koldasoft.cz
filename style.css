@@ -111,11 +111,11 @@ body {  /* Telo stranky */
 
 /***** Navigacni lista *****/
 #breadcrumb .page  {  /* Text v navigaci  */
-  background: url('/pictures/panel_border_left_top.gif') 670px 0px no-repeat;
+  background: url('/pictures/panel_border_left_top.gif') 670px 2em no-repeat;
   min-height: 100px; _height: 100px;
 }
 
-#breadcrumb p {  /* Text v navigaci  */
+#breadcrumb .page p {  /* Text v navigaci  */
   padding: .5em .2em .55em 1em;
   text-align: left;
   font-size: .85em;
@@ -142,7 +142,7 @@ body {  /* Telo stranky */
   color: #666666;
 }
 
-#main .box{  /* Box ve sloupci */
+#main .box {  /* Box ve sloupci */
   text-align: left;
   margin: 10px 9px;
   padding: 0 12px;
@@ -246,7 +246,7 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 }
 
 .reference .text {  /* Popis reference */
-  width: 300px;
+  width: 380px;
   float: right;
 }
 
@@ -254,10 +254,6 @@ h4 {  /* Nadpis 4. urovne - sloupec */
   font-size: 1.4em;
   color: #222222;
   padding-top: 0;
-}
-
-.reference .read_next {  /* Odkaz na vice informaci o projektu */
-  display: none;
 }
 
 .half {
