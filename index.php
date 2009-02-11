@@ -62,8 +62,10 @@
           <li>".mylink("kontakt", "", "", "", (($open == "kontakt" || $page_info[4][0] == "kontakt") ? "last active" : "last"))."</li>
         </ul>
       </div>
+      <div class=\"cleaner\"></div>
     </div>  
-    <div id=\"breadcrumb\" class=\"background\">
+    <hr />
+    <div id=\"breadcrumb\">
       <div class=\"page\">
         <h4>Nacházíte se zde</h4>
           <p><a href=\"$cesta\" title=\"Koldasoft - úvodní stránka\">Koldasoft</a><span class=\"hidden\"> &gt; </span>");

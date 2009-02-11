@@ -34,7 +34,8 @@ body {  /* Telo stranky */
 
 #header_background #header {  /* Hlavicka */
   background: #ffffff url('/pictures/header_background.jpg') 50% 0% no-repeat;
-  height: 164px;
+  height: 164px; 
+
 }
 
 #header .page {  /* Obsah hlavicky */
@@ -103,41 +104,43 @@ body {  /* Telo stranky */
 
 }
 
-#hmenu h4 {  /* Nadpis menu */
+#hmenu h4, #breadcrumb h4 {  /* skryte nadpisy */
   position: absolute;
-  top: -1000px;
+  top: -1000px; margin: 0; padding: 0;
 }
-
-
 /***** Navigacni lista *****/
 #breadcrumb .page  {  /* Text v navigaci  */
-  background: url('/pictures/panel_border_left_top.gif') 670px 2em no-repeat;
-  min-height: 100px; _height: 100px;
+  min-height: 42px; _height: 42px;
+  background: url('/pictures/panel_border_left_top_2.gif') 670px bottom no-repeat;
 }
 
-#breadcrumb .page p {  /* Text v navigaci  */
-  padding: .5em .2em .55em 1em;
+#breadcrumb p {  /* Text v navigaci  */
+  padding: .7em .2em .7em 1em;
   text-align: left;
   font-size: .85em;
   margin: 0;
+}
+
+#breadcrumb .spacer {  /* cervena odrazka */
+  padding: 0 0 0 12px;
+  background: url('/pictures/breadcrumb_spacer.gif') 5px 50% no-repeat;
 }
 
 #breadcrumb a {color: #595959;}
 
 #breadcrumb a:hover, #breadcrumb a:active, #breadcrumb a:focus {color: #222222;}  /* Aktivni odkaz v textu */
 
-#breadcrumb h4 {  /* Nadpis navigacni listy */
-  position: absolute;
-  top: -1000px;
-}
-
 
 /***** Obsahova cast *****/
-#main .page {position: relative;}  /* Stranka v obsahove casti */
+
+#main .page {
+  position: relative;
+
+}  /* Stranka v obsahove casti */
 
 #main .text_box {  /* Textovy box */
   text-align: left;
-  margin: 10px 9px;
+  margin: 0px 9px;
   padding: 0 12px;
   color: #666666;
 }
@@ -159,7 +162,7 @@ h1, h2, h3, h4 {
 h1 {  /* Nadpis 1. urovne */
   font-size: 1.6em;
   margin: 0 0 .25em 0;
-  padding: .3em 0 .2em 0;
+  padding: 0 0 .2em 0;
 }
 
 h2 {  /* Nadpis 2. urovne */
@@ -193,10 +196,6 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 #main .read_next a {color: #222222;}  /* Odkaz vice */
 
 #main ul.link_farm a {color: #222222;}  /* Odkaz v seznamu odkazu */
-
-#main strong {  /* Zvyrazneny text */
-  
-}
 
 #main a:hover, #main a:active, #main a:focus, #main a:hover strong, #main a:active strong, #main a:focus strong {color: #222222;}  /* Aktivni odkaz v textu */
 
@@ -284,14 +283,7 @@ h4 {  /* Nadpis 4. urovne - sloupec */
   margin: 0; padding: .9em .5em 0em .5em;
 }
 
-
 #footer p, #footer a {color: #ffffff}  /* Odkaz v paticce */
-
-
-
-p {
-  margin: 0;
-}
 
 .cleaner {
   clear: both;
