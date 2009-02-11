@@ -12,7 +12,7 @@ Přesvědčte se, že umíme být silným partnerem&hellip;</p>
 
 
           <div class=\"float_box tip\">
-            <div class=\"title\"><strong>Naše reference</strong></div>
+            <div class=\"title\"><strong>".mylink("reference", "Naše reference")."</strong></div>
             <p>Zajímá Vás, co jsme dokázali? Jaké projekty vytvořili? Jak taková  webová stránka od nás může vypadat?</p>
             <p class=\"read_next\">".mylink("reference", "Prohlédnout reference")."</p>
             <div class=\"bottom\"></div>

@@ -9,7 +9,7 @@
           <div class=\"text_box\">
 
           <div class=\"float_box tip\">
-            <div class=\"title\"><strong>Lidé v týmu</strong></div>
+            <div class=\"title\"><strong>".mylink("nas-tym", "Lidé v týmu")."</strong></div>
             <p>Hledáte někoho konkrétního? Potřebujete číslo nebo mailovou adresu? Rádi byste mluvili přímo s&nbsp;grafikem?</p>
             <p class=\"read_next\">".mylink("nas-tym", "Koukněte na náš tým")."</p>
             <div class=\"bottom\"></div>
@@ -24,7 +24,7 @@
             <p>Naším cílem je vytvářet <strong>kvalitní, přístupné a uživatelsky příjemné webové stránky</strong>, které budou našim klientům k užitku. Zaměřujeme se především na střední a drobné podnikatele, na neziskové organizace a soukromý sektor. Chceme se podílet na vývoji, zlepšování a kultivaci prostředí českého i zahraničního internetu.</p>
 
           <div class=\"float_box left question\">
-            <div id=\"proc-zvolit-koldasoft\" class=\"title\"><strong>Proč zvolit Koldasoft?</strong></div>
+            <div id=\"proc-zvolit-koldasoft\" class=\"title\"><strong>".mylink("proc-zvolit-koldasoft", "Proč zvolit Koldasoft?")."</strong></div>
             <ul>
               <li>".mylink("proc-zvolit-koldasoft", "Máme chuť a odhodlání", "chut-odhodlani", "Máme chuť a odhodlání")."</li>  
               <li>".mylink("proc-zvolit-koldasoft", "Nabízíme komplexní služby", "komplexni-sluzby", "Nabízíme komplexní služby")."</li>
