@@ -57,7 +57,7 @@
 
           <div class=\"float_box left info\">
             <div class=\"title\"><strong>Naše letáčky</strong></div>
-            <p>Stáhněte si naše náborové letáčky ve formátu PDF</p>
+            <p>Stáhněte si naše letáčky ve formátu PDF.</p>
             <ul>
               <li><a href=\"".$cesta."files/koldasoft-naborovy-letacek-programator.pdf\" title=\"Náš letáček na pozici programátor (PDF, 52.1&nbsp;kB)\">letáček na pozici programátor</a></li>
               <li><a href=\"".$cesta."files/koldasoft-naborovy-letacek-webdesigner.pdf\" title=\"Náš letáček na pozici grafik (PDF, 52.1&nbsp;kB)\">letáček na pozici grafik</a></li>
