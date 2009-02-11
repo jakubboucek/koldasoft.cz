@@ -42,7 +42,6 @@
     <div id=\"header_background\"><div id=\"header\">
       <div class=\"page\">
         <a href=\"$cesta\" title=\"Koldasoft - snadná cesta k vlastnímu webu\"><img class=\"logo\" src=\"".$cesta."pictures/logo_main.png\" alt=\"Koldasoft - snadná cesta k vlastnímu webu\" width=\"212\" height=\"100\" /></a>
-        <p class=\"hidden\">Koldasoft - snadná cesta k vlastnímu webu</p>
         <div id=\"change\"></div>
         <a id=\"skip_menu\" href=\"#main\" title=\"Přeskočit na obsah\">Přeskočit na obsah</a>
       </div>  
@@ -120,7 +119,6 @@
   }        
   echo("        </div> 
         <div class=\"cleaner\"></div>
-        <div id=\"iniciala\"></div> 
       </div>
     </div>  
     <hr />
