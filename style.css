@@ -28,11 +28,11 @@ body {  /* Telo stranky */
 
 /***** Hlavicka *****/
 
-.header_background {  /* Pozadi bloku (presah grafiky) */
+#header_background {  /* Pozadi bloku (presah grafiky) */
   background: #55b047 url('/pictures/body_top_stripe.jpg') 0% 50% repeat-x; height: 164px;
 }
 
-#header {  /* Hlavicka */
+#header_background #header {  /* Hlavicka */
   background: #ffffff url('/pictures/header_background.jpg') 50% 0% no-repeat;
   height: 164px;
 }
