@@ -43,13 +43,14 @@ body {  /* Telo stranky */
 }
 
 #header_background #header {  /* Hlavicka */
-  background: #ffffff url('/pictures/header_background.jpg') 50% 0% no-repeat;
+  background: url('/pictures/header_background.jpg') 50% 0% no-repeat;
   height: 164px; 
 
 }
 
 #header .page {  /* Obsah hlavicky */
   height: 164px;
+  background: #ffffff url('/pictures/header_background.jpg') 50% 0% no-repeat;
   overflow: hidden;
   position: relative;
 }
@@ -97,7 +98,7 @@ body {  /* Telo stranky */
   font-size: 1.1em;
   float: left;
   width: 115px; _width: 115px;
-  background: url('/pictures/hmenu_button_normal.jpg') center top no-repeat;
+  background: #036800 url('/pictures/hmenu_button_normal.jpg') center top no-repeat;
   text-decoration: none;
   position: relative;
   cursor: pointer;
@@ -109,7 +110,7 @@ body {  /* Telo stranky */
 }
 
 #hmenu .active {  /* Aktivni polozka menu */
-  background: url('/pictures/hmenu_button_active.jpg') center bottom no-repeat;
+  background: #47d713 url('/pictures/hmenu_button_active.jpg') center bottom no-repeat;
 
 }
 
@@ -309,11 +310,11 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 /***** Paticka *****/
 
 .footer_background {  /* Pozadi bloku (presah grafiky) */
-  background: url('/pictures/body_bottom_stripe.jpg') 0% 50% repeat-x;
+  background: #89d468 url('/pictures/body_bottom_stripe.jpg') 0% 50% repeat-x;
 }
 
 #footer .page {
-  background: #099d00 url('/pictures/footer_stripe.gif') 0 0 repeat-x;
+  background: #068500 url('/pictures/footer_stripe.gif') 0 0 repeat-x;
   min-height: 36px; _height: 36px;
 }
 
