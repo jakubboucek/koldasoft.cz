@@ -36,7 +36,18 @@
             <p><strong>E-mail:</strong> <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></p>
             <p>Webové stránky: <a href=\"http://www.koldasoft.cz/\" title=\"Přejít na webové stránky společnosti Koldasoft, s.r.o.\">www.koldasoft.cz</a></p>
             <p>Neváhejte také kontaktovat kohokoliv z&nbsp;".mylink("nas-tym", "našeho týmu").".</p>
-            <h3>Kontaktní formulář</h3>
+            <h3></h3>
+
+          <div class=\"float_box left mail\">
+            <p class=\"title\"><strong>Kontaktní formulář, aneb napište nám</strong></p>
+            <p>Chcete si domluvit nezávaznou schůzku? Rádi byste kalkulaci projektu? Nebo si jen potřebujete promluvit s&nbsp;někým, kdo Vám bude rozumět?</p>
+            <p>Neváhejte se na nás obrátit v&nbsp;jakékoliv záležitosti. Rádi Vám odpovíme a poradíme.</p>
+            <p class=\"read_next\"><a href=\"#\">zaslat dotaz</a></p>
+            <div class=\"bottom\"></div>
+          </div>  
+            
+            
+            
           </div>  
           <div class=\"text_box\">
           </div>".nl);
