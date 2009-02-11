@@ -23,6 +23,13 @@ body {  /* Telo stranky */
   background: url('/pictures/panel_border_left_stripe.gif') top right repeat-y;
 }
 
+.mcontent .mcontent_bottom {  /* zestihleni cary dole */
+  position: absolute;
+  width: 20px; height: 100px;
+  bottom: 0; right: 0;
+  background: url('/pictures/panel_border_left_bottom.gif') bottom right no-repeat;
+}
+
 .panel {  /* Vedlejsi cast (sloupec - akt. pravy) */
   float: right;
   width: 230px;
@@ -203,7 +210,12 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 
 #main a {color: #0c9100;}  /* Odkaz v textu */
 
-#main .read_next a {color: #222222;}  /* Odkaz vice */
+#main .read_next a {
+  color: #222222;
+  padding-left: 12px;
+  background: url('/pictures/icon_more.gif') 0% 55% no-repeat;
+
+  }  /* Odkaz vice */
 
 #main ul.link_farm a {color: #222222;}  /* Odkaz v seznamu odkazu */
 
@@ -221,7 +233,8 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 }
 
 #main li {  /* Polozka seznamu */
-  padding: .1em 0 .25em .6em;
+  padding: .2em 0 .2em 1em;
+  background: url('/pictures/bullet_level_01.gif') 0% 50% no-repeat;
 }
 
 .subtitle {  /* Podnadpis */

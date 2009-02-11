@@ -82,7 +82,7 @@
   Else  //Pokud stranka neexistuje
     include INCLUDE_SECTIONS_PATH . "not-found.php";  //Nacteni chybove stranky 
 
-  echo("        </div>
+  echo("        <div class=\"mcontent_bottom\"></div></div>
         <div class=\"panel\">
           <hr />".nl);
   include INCLUDE_PATH . "vertical_menu.php";  //Nacteni vertikalniho menu
