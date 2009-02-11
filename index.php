@@ -14,7 +14,7 @@
   include INCLUDE_PATH . "functions.php";  //Nacteni zakladnich funkci
   include INCLUDE_PATH . "my_db_functions.php";  //Nacteni zakladnich fci pro praci s databazi
   include INCLUDE_PATH . "create_page_info.php";  //Nacteni zakladnich fci pro praci s databazi
-  include INCLUDE_PATH . "global.php";  //Nacteni zakladnich fci pro praci s databazi
+  include INCLUDE_PATH . "actions.php";  //Zpracování globálních požadavků
 
   //Domovska stranka - vlastni obsah
   echo('<'.'?xml version="1.0" encoding="utf-8"?'.'>'.nl);  //XML
@@ -140,8 +140,6 @@
   </body>
 </html>".nl);
 
-?>
-<?php
 
 /*  Vytvoreni nazvu stranek 
 
