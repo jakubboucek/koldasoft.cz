@@ -49,15 +49,16 @@
     <div id=\"hmenu\">
       <div class=\"page\">
         <h4>Hlavní nabídka</h4>
-        <a".($page_type == "uvod" ? " class = \"active\"" : "")." href=\"$cesta\" title=\"Úvodní stránka\">Úvod</a><span class=\"hidden\"> | </span>
-        ".mylink("nabidka-sluzeb", "Služby", "", "", ($page_type == "nabidka-sluzeb" ? "active" : ""))."<span class=\"hidden\"> | </span>
-        ".mylink("informace", "", "", "", ($page_type == "informace" ? "active" : ""))."<span class=\"hidden\"> | </span>
-        ".mylink("znalosti", "", "", "", ($page_type == "znalosti" ? "active" : ""))."<span class=\"hidden\"> | </span>
-        ".mylink("reference", "", "", "", ($page_type == "reference" ? "active" : ""))."<span class=\"hidden\"> | </span>
-        ".mylink("cenik", "", "", "", ($page_type == "cenik" ? "active" : ""))."<span class=\"hidden\"> | </span>
-        ".mylink("o-nas", "", "", "", ($page_type == "o-nas" ? "active" : ""))."<span class=\"hidden\"> | </span>
-        ".mylink("kontakt", "", "", "", ($page_type == "kontakt" ? "last active" : "last"))."
-        <div class=\"cleaner\"></div>
+        <ul>
+          <li><a".($open == "uvod" ? " class = \"active\"" : "")." href=\"$cesta\" title=\"Úvodní stránka\">Úvod</a></li>
+          <li>".mylink("nabidka-sluzeb", "Služby", "", "", (($open == "nabidka-sluzeb" || $page_info[4][0] == "nabidka-sluzeb") ? "active" : ""))."</li>
+          <li>".mylink("informace", "", "", "", (($open == "informace" || $page_info[4][0] == "informace") ? "active" : ""))."</li>
+          <li>".mylink("znalosti", "", "", "", (($open == "znalosti" || $page_info[4][0] == "znalosti") ? "active" : ""))."</li>
+          <li>".mylink("reference", "", "", "", (($open == "reference" || $page_info[4][0] == "reference") ? "active" : ""))."</li>
+          <li>".mylink("cenik", "", "", "", (($open == "cenik" || $page_info[4][0] == "cenik") ? "active" : ""))."</li>
+          <li>".mylink("o-nas", "", "", "", (($open == "o-nas" || $page_info[4][0] == "o-nas") ? "active" : ""))."</li>
+          <li>".mylink("kontakt", "", "", "", (($open == "kontakt" || $page_info[4][0] == "kontakt") ? "last active" : "last"))."</li>
+        </ul>
       </div>
     </div>  
     <div id=\"breadcrumb\" class=\"background\">

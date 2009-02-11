@@ -10,12 +10,12 @@ body {  /* Telo stranky */
 }
 
 .header_background {  /* Pozadi bloku (presah grafiky) */
-      background: url('/pictures/body_top_stripe.jpg') 0% 50% repeat-x;
-      }
+  background: url('/pictures/body_top_stripe.jpg') 0% 50% repeat-x;
+}
       
 .footer_background {  /* Pozadi bloku (presah grafiky) */
-      background: url('/pictures/body_bottom_stripe.jpg') 0% 50% repeat-x;
-      }
+  background: url('/pictures/body_bottom_stripe.jpg') 0% 50% repeat-x;
+}
       
 .page {  /* Blok sirky stranky */
   background: ;
@@ -26,7 +26,6 @@ body {  /* Telo stranky */
 .mcontent {  /* Hlavni cast (sloupec) */
   float: left;
   width: 690px;
-  background: #ffffff;
   position: relative;
 }
 
@@ -61,22 +60,39 @@ body {  /* Telo stranky */
 }
 
 /***** Menu *****/
+
+#hmenu ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#hmenu li {  /* Polozka seznamu s obrazkem*/
+  padding: 0; margin: 0;
+  display: inline;
+}
+
 #hmenu a {  /* Polozka menu */
   color: #ffffff;
   display: block;
-  padding: .4em 0;
+  padding: .6em 0;
   font-size: 1.1em;
   float: left;
   width: 115px;
-  background: url('/pictures/hmenu_button_normal.jpg') 0 0 no-repeat;
+  background: url('/pictures/hmenu_button_normal.jpg') left top no-repeat;
   _width: 115px;
   text-decoration: none;
   position: relative;
   cursor: pointer;
-  overflow: hidden;  
+  overflow: hidden;
 }
 
 #hmenu a:hover, #hmenu .active, #hmenu a:active, #hmenu a:focus {  /* Aktivni polozka menu */
+  background: url('/pictures/hmenu_button_normal.jpg') left bottom no-repeat;
+}
+
+#hmenu .active {  /* Aktivni polozka menu */
+  background: url('/pictures/hmenu_button_active.jpg') left bottom no-repeat;
 
 }
 
@@ -280,9 +296,6 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 /* Kvuli IE 5ce v tisku */
 #menu, #hmenu h4, #footer .panel, #breadcrumb h4, #skip_menu, .read_next, #main .panel {  /* Menu, nadpis menu, druha cast paticky, nadpis navigace, preskoceni, vice, sloupec v obsahove casti */
   display: block;  /* IE 5 - Tisk */
-}
-#navbar, #footer {  /* Navigacni lista, paticka */
-  font-size: 1em;  /* IE 5 - Tisk */
 }
 
 
