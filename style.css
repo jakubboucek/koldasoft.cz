@@ -10,7 +10,7 @@ body {  /* Telo stranky */
 }
 
 .header_background {  /* Pozadi bloku (presah grafiky) */
-  background: url('/pictures/body_top_stripe.jpg') 0% 50% repeat-x;
+  background: #55b047 url('/pictures/body_top_stripe.jpg') 0% 50% repeat-x;
 }
       
 .footer_background {  /* Pozadi bloku (presah grafiky) */
@@ -75,7 +75,7 @@ body {  /* Telo stranky */
 #hmenu a {  /* Polozka menu */
   color: #ffffff;
   display: block;
-  padding: .6em 0;
+  padding: .65em 0;
   font-size: 1.1em;
   float: left;
   width: 115px;
@@ -104,9 +104,9 @@ body {  /* Telo stranky */
 
 /***** Navigacni lista *****/
 #breadcrumb .mcontent p {  /* Text v navigaci  */
-  padding: .5em .2em .55em 1.8em;
+  padding: .5em .2em .55em 1em;
   text-align: left;
-  font-size: .9em;
+  font-size: .85em;
   margin: 0;
 }
 
@@ -276,27 +276,19 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 
 /***** Paticka *****/
 
-#footer .page {  /* Text v paticce */
+
+#footer .page {
   background: url('/pictures/footer_stripe.gif') 50% 0% repeat-x;
+  min-height: 36px; _height: 36px;
 }
 
-#footer p {  /* Text v paticce */
-  padding: .3em;
-  font-size: .9em;
-  margin: 0;
+#footer p {
+  font-size: 0.9em;
+  margin: 0; padding: .9em .5em .3em .5em;
 }
 
-#footer a {color: #222222}  /* Odkaz v paticce */
 
-#footer a:hover, #footer a:active, #footer a:focus {color: #222222}  /* Aktivni odkaz v paticce */
-
-
-
-
-/* Kvuli IE 5ce v tisku */
-#menu, #hmenu h4, #footer .panel, #breadcrumb h4, #skip_menu, .read_next, #main .panel {  /* Menu, nadpis menu, druha cast paticky, nadpis navigace, preskoceni, vice, sloupec v obsahove casti */
-  display: block;  /* IE 5 - Tisk */
-}
+#footer p, #footer a {color: #ffffff}  /* Odkaz v paticce */
 
 
 
