@@ -61,15 +61,20 @@
   //Zde prosím nastylovat formulář
 echo ("
             <form action=\"\" method=\"post\" />  
-              <input type=\"hidden\" name=\"action\" value=\"sendform\"/>  
-              <input type=\"hidden\" name=\"formid\" value=\"contactform\"/>  
-              Předmět: <input type=\"input\" name=\"subject\" value=\"{$form->getHtml('subject')}\" /><br />  
-              Zpráva:<br />  
-              <textarea name=\"message\" cols=\"25\" rows=\"8\">{$form->getHtml('message')}</textarea><br />  
-              Jméno: <input type=\"input\" name=\"name\" value=\"{$form->getHtml('name')}\" /><br />  
-              E-mail: <input type=\"input\" name=\"mail\" value=\"{$form->getHtml('mail')}\" />  
-              Telefon: <input type=\"input\" name=\"phone\" value=\"{$form->getHtml('phone')}\" /><br />  
-              <input type=\"submit\" value=\"Odeslat\" /><br />  
+              <table class=\"formular\">
+                <tr><td colspan=\"2\"><input type=\"hidden\" name=\"action\" value=\"sendform\" /></td></tr>
+                <tr><td colspan=\"2\"><input type=\"hidden\" name=\"formid\" value=\"contactform\"/></td></tr>
+                <tr><th colspan=\"2\">Předmět:</th></tr>
+                <tr><td colspan=\"2\"><input type=\"input\" name=\"subject\" size=\"30\" value=\"{$form->getHtml('subject')}\" /></td></tr>
+                <tr><th colspan=\"2\">Zpráva:</th></tr>
+                <tr><td colspan=\"2\"><textarea name=\"message\" cols=\"40\" rows=\"8\">{$form->getHtml('message')}</textarea></td></tr>
+                <tr><th colspan=\"2\">Jméno:</th></tr>
+                <tr><td colspan=\"2\"><input type=\"input\" name=\"name\" size=\"49\" value=\"{$form->getHtml('name')}\" /></td></tr>
+                <tr><th>E-mail:</th><th>Telefon:</th></tr>
+                <tr><td><input type=\"input\" name=\"mail\" size=\"20\" value=\"{$form->getHtml('mail')}\" /></td>
+                <td><input type=\"input\" name=\"phone\" size=\"20\" value=\"{$form->getHtml('phone')}\" /></td></tr>
+                <tr><th colspan=\"2\"><input type=\"submit\" value=\"Odeslat\" /></th></tr>
+              </table>
             </form>
 ");
 

@@ -428,3 +428,18 @@ p {  /* Horizontalni linky */
 .float_box.alert .bottom {
   background: url('/pictures/box_alert_simple_footer.gif') bottom center no-repeat;
 }
+
+/* formular */
+
+form {
+  margin: 0; padding: 0;
+}
+
+.formular {
+  _font-size: .9em;
+  text-align: left;
+}
+
+.formular td {
+  padding-bottom: .3em;
+}
