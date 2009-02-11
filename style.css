@@ -80,10 +80,14 @@ body {  /* Telo stranky */
 
 /***** Menu *****/
 
+#hmenu .page {
+  width: 921px;
+}
+
 #hmenu ul {
   list-style-type: none;
   padding: 0;
-  margin: 0 auto;
+  margin: 0;
 }
 
 #hmenu li {  /* Polozka seznamu s obrazkem*/
@@ -105,7 +109,7 @@ body {  /* Telo stranky */
   overflow: hidden;
 }
 
-#hmenu a:hover, #hmenu .active, #hmenu a:active, #hmenu a:focus {  /* Aktivni polozka menu */
+#hmenu a:hover, #hmenu a:active, #hmenu a:focus {  /* Aktivni polozka menu */
   background: url('/pictures/hmenu_button_normal.jpg') center bottom no-repeat;
 }
 
