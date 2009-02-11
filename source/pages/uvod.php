@@ -26,20 +26,14 @@
             <div class=\"cleaner\">&nbsp;</div>
           </div>  
           <div class=\"text_box\">
-            <h2 id=\"proc-mit-stranky\">Proč mít webové stránky?</h2>
-            <p>Přemýšlíte, zda je dobré mít vlastní webové stránky? A proč? Nabídneme Vám několik pádných důvodů, proč byste je měli mít právě Vy&hellip;</p>
-            <p class=\"read_next\">".mylink("proc-mit-stranky")."</p>
-            <h2 id=\"proc-nechat-delat\">Proč si webové stránky nechat udělat?</h2>
-            <p>S vytvořením, umístěním a provozem webových stránek je spojeno mnoho náležitostí. Chcete znát důvody pro přenechání práce odborníkům?</p>
-            <p class=\"read_next\">".mylink("proc-nechat-delat")."</p>
-            <h2 id=\"kvalitni-webova-stranka\">Jak by měla vypadat kvalitní webová stránka?</h2>
-            <p>Mít kvalitní webové stránky je základem úspěchu! Zajímá Vás, co si představit pod pojmem kvalitní webová stránka? Jak vypadá, jak se pozná a jaké jsou její náležitosti?</p>
-            <p class=\"read_next\">".mylink("pozadavky-kvalitni-stranky")."</p>
-          </div>
-          <div class=\"text_box\">
-            <h2>O nás</h2>
-            <p>Jsme mladý tým odborníků, který se zabývá prezentací na internetu. Naší snahou je zdokonalovat své schopnosti a tím i zvyšovat <strong>kvalitu naší práce</strong>. Chceme se podílet na vývoji, zlepšování a kultivaci prostředí českého i zahraničního internetu.</p>
-            <p class=\"read_next\">".mylink("o-nas", "Více o nás&hellip;")."</p>          
+            <h2 id=\"proc-mit-stranky\">".mylink("proc-mit-stranky")."</h2>
+            <p>Přemýšlíte, zda je dobré mít vlastní webové stránky? A proč? Nabídneme Vám několik pádných důvodů, proč byste je měli mít právě Vy&hellip; ".mylink("proc-mit-stranky", "čtěte dále")."</p>
+            <h2 id=\"proc-nechat-delat\">".mylink("proc-nechat-delat")."</h2>
+            <p>S vytvořením, umístěním a provozem webových stránek je spojeno mnoho náležitostí. Chcete znát důvody pro přenechání práce odborníkům? ".mylink("proc-nechat-delat", "čtěte dále")."</p>
+            <h2 id=\"kvalitni-webova-stranka\">".mylink("pozadavky-kvalitni-stranky")."</h2>
+            <p>Mít kvalitní webové stránky je základem úspěchu! Zajímá Vás, co si představit pod pojmem kvalitní webová stránka? Jak vypadá, jak se pozná a jaké jsou její náležitosti? ".mylink("pozadavky-kvalitni-stranky", "čtěte dále")."</p>
+            <h2>".mylink("o-nas")."</h2>
+            <p>Jsme mladý tým odborníků, který se zabývá prezentací na internetu. Naší snahou je zdokonalovat své schopnosti a tím i zvyšovat <strong>kvalitu naší práce</strong>. Chceme se podílet na vývoji, zlepšování a kultivaci prostředí českého i zahraničního internetu. ".mylink("o-nas", "čtěte dále")."</p>
           </div>".nl);
 
 ?>
