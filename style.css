@@ -109,7 +109,12 @@ body {  /* Telo stranky */
 
 
 /***** Navigacni lista *****/
-#breadcrumb .mcontent p {  /* Text v navigaci  */
+#breadcrumb .page  {  /* Text v navigaci  */
+  background: url('/pictures/panel_border_left_top.gif') 670px 0px no-repeat;
+  min-height: 100px; _height: 100px;
+}
+
+#breadcrumb p {  /* Text v navigaci  */
   padding: .5em .2em .55em 1em;
   text-align: left;
   font-size: .85em;

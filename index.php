@@ -66,12 +66,11 @@
     <div id=\"breadcrumb\" class=\"background\">
       <div class=\"page\">
         <h4>Nacházíte se zde</h4>
-        <div class=\"mcontent\">
+        
           <p><a href=\"$cesta\" title=\"Koldasoft - úvodní stránka\">Koldasoft</a><span class=\"hidden\"> &gt; </span>");
   include INCLUDE_PATH . "breadcrumb.php";  //Nacteni navigacni listy, vytvoreni zanoreni
   echo("        </div>
         <div class=\"cleaner\"></div> 
-      </div>
     </div>  
     <hr />
     <div id=\"main\" class=\"background\">
