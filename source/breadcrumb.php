@@ -15,3 +15,6 @@
 
  
 ?>
+<!--
+<p><a href="/" title="">Koldasoft</a><span class="hidden"> &gt; </span><span class="spacer"><a href="">Neco</a></span><span class="hidden"> &gt; </span><span class="spacer"><strong>konec<strong></span></p>
+-->
