@@ -333,24 +333,45 @@ p {  /* Horizontalni linky */
 .float_box .bottom {
   position: absolute;
   left: 0px; bottom: 0px;
-  width: 100%; height: 10px;
-  background: url('/pictures/box_red_simple_footer.gif') bottom center no-repeat;
+  width: 100%; min-height: 10px; _height: 10px;
+  background: url('/pictures/box_green_simple_footer.gif') bottom center no-repeat;
+  padding-bottom: .1em;
 }
 
+.float_box.more {
+  padding: 58px 0 54px 0;
+}
+
+.float_box.more .bottom {
+  min-height: 48px; _height: 48px;
+  background: url('/pictures/box_green_footer.gif') bottom center no-repeat;
+}
+
+#main .float_box .bottom .read_next {
+  padding: .75em 1em .2em 0;
+}
 
 .float_box {
   float: right;
   position: relative;
   width: 290px;
-  background: url('/pictures/box_red_stripe.gif') 50% 0% repeat-y;
+  background: url('/pictures/box_green_stripe.gif') 50% 0% repeat-y;
   margin: .2em .2em .2em .6em;
   padding: 60px 0 12px 0;
 }
 
-.float_box p, #main .float_box ul li {
-  padding: .1em .9em; margin: 0;
+
+#main .float_box ul {
+  padding: .1em 1em; margin: 0;
 }
 
+#main .float_box ul li {
+  padding: .2em .9em; margin: 0;
+}
+
+.float_box p {
+  padding: .1em .9em; 
+}
 
 .float_box.left {
   float: left;
@@ -358,7 +379,7 @@ p {  /* Horizontalni linky */
 }
 
 .float_box .title {
-  background: url('/pictures/box_red_header.gif') 50% 0% no-repeat;
+  background: url('/pictures/box_green_header.gif') 50% 0% no-repeat;
   position: absolute; top: 0; left: 0;
   width: 290px; height: 52px;
   padding: 1.2em 0 0 0;
@@ -366,23 +387,27 @@ p {  /* Horizontalni linky */
 
 .float_box .title strong {
   font-size: 1.2em;
-  color: #993900;
+  color: green;
   padding: 0 0 0 3.3em;
 }
 
+.float_box .title a {
+  text-decoration: none;
+}
+
 /* otaznik */
-.float_box.question .title {
-  background: url('/pictures/box_green_header_otaznik.gif') 50% 0% no-repeat;
+.float_box.alert .title {
+  background: url('/pictures/box_red_header.gif') 50% 0% no-repeat;
 }
 
-.float_box.question {
-  background: url('/pictures/box_green_stripe.gif') 50% 0% repeat-y;
+.float_box.alert {
+  background: url('/pictures/box_red_stripe.gif') 50% 0% repeat-y;
 }
 
-.float_box.question .title strong {
-  color: green;
+.float_box.alert .title strong {
+  color: #993900;
 }
 
-.float_box.question .bottom {
-  background: url('/pictures/box_green_simple_footer.gif') bottom center no-repeat;
+.float_box.alert .bottom {
+  background: url('/pictures/box_alert_simple_footer.gif') bottom center no-repeat;
 }

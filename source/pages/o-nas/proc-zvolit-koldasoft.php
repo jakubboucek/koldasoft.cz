@@ -11,11 +11,10 @@ Přesvědčte se, že umíme být silným partnerem&hellip;</p>
             <p>Neustále se vzděláváme v&nbsp;oboru a sledujeme moderní trend vývoje prezentace na internetu.</p>
 
 
-          <div class=\"float_box tip\">
+          <div class=\"float_box tip more\">
             <div class=\"title\"><strong>".mylink("reference", "Naše reference")."</strong></div>
             <p>Zajímá Vás, co jsme dokázali? Jaké projekty vytvořili? Jak taková  webová stránka od nás může vypadat?</p>
-            <p class=\"read_next\">".mylink("reference", "Prohlédnout reference")."</p>
-            <div class=\"bottom\"></div>
+            <div class=\"bottom\"><p class=\"read_next\">".mylink("reference", "Prohlédnout reference")."</p></div>
           </div>  
 
 

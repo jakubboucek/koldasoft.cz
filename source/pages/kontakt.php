@@ -2,11 +2,10 @@
 
   echo("          <div class=\"text_box\">
 
-          <div class=\"float_box tip\">
+          <div class=\"float_box tip more\">
             <p class=\"title\"><strong>".mylink("nas-tym", "Lidé v týmu")."</strong></p>
             <p>Hledáte někoho konkrétního? Potřebujete číslo nebo mailovou adresu? Rádi byste mluvili přímo s grafikem?</p>
-            <p class=\"read_next\">".mylink("nas-tym", "Koukněte na náš tým")."</p>
-            <div class=\"bottom\"></div>
+            <div class=\"bottom\"><p class=\"read_next\">".mylink("nas-tym", "Koukněte na náš tým")."</p></div>
           </div>  
 
 
@@ -38,12 +37,11 @@
             <p>Neváhejte také kontaktovat kohokoliv z&nbsp;".mylink("nas-tym", "našeho týmu").".</p>
             <h3></h3>
 
-          <div class=\"float_box left mail\">
+          <div class=\"float_box left mail more\">
             <p class=\"title\"><strong>Kontaktní formulář, aneb napište nám</strong></p>
             <p>Chcete si domluvit nezávaznou schůzku? Rádi byste kalkulaci projektu? Nebo si jen potřebujete promluvit s&nbsp;někým, kdo Vám bude rozumět?</p>
             <p>Neváhejte se na nás obrátit v&nbsp;jakékoliv záležitosti. Rádi Vám odpovíme a poradíme.</p>
-            <p class=\"read_next\"><a href=\"#\">zaslat dotaz</a></p>
-            <div class=\"bottom\"></div>
+            <div class=\"bottom\"><p class=\"read_next\"><a href=\"#\">zaslat dotaz</a></p></div>
           </div>  
             
             

@@ -8,11 +8,10 @@
 
           <div class=\"text_box\">
 
-          <div class=\"float_box tip\">
+          <div class=\"float_box tip more\">
             <div class=\"title\"><strong>".mylink("nas-tym", "Lidé v týmu")."</strong></div>
             <p>Hledáte někoho konkrétního? Potřebujete číslo nebo mailovou adresu? Rádi byste mluvili přímo s&nbsp;grafikem?</p>
-            <p class=\"read_next\">".mylink("nas-tym", "Koukněte na náš tým")."</p>
-            <div class=\"bottom\"></div>
+            <div class=\"bottom\"><p class=\"read_next\">".mylink("nas-tym", "Koukněte na náš tým")."</p></div>
           </div>  
 
 
@@ -23,7 +22,7 @@
             <h2 id=\"cile\"><a name=\"cile\"></a>Náš cíl, naše vize</h2>  
             <p>Naším cílem je vytvářet <strong>kvalitní, přístupné a uživatelsky příjemné webové stránky</strong>, které budou našim klientům k užitku. Zaměřujeme se především na střední a drobné podnikatele, na neziskové organizace a soukromý sektor. Chceme se podílet na vývoji, zlepšování a kultivaci prostředí českého i zahraničního internetu.</p>
 
-          <div class=\"float_box left question\">
+          <div class=\"float_box left question more\">
             <div id=\"proc-zvolit-koldasoft\" class=\"title\"><strong>".mylink("proc-zvolit-koldasoft", "Proč zvolit Koldasoft?")."</strong></div>
             <ul>
               <li>".mylink("proc-zvolit-koldasoft", "Máme chuť a odhodlání", "chut-odhodlani", "Máme chuť a odhodlání")."</li>  
@@ -31,8 +30,7 @@
               <li>".mylink("proc-zvolit-koldasoft", "Preferujeme individuální přístup", "individualni-pristup", "Individuálním přístupem dosahujeme našich cílů")."</li>  
               <li>".mylink("proc-zvolit-koldasoft", "Nabízíme zajímavé ceny", "zajimave-ceny", "Nabízíme zajímavé ceny")."</li>  
             </ul>      
-            <p class=\"read_next\">".mylink("proc-zvolit-koldasoft", "Více informací")."</p>
-            <div class=\"bottom\"></div>
+            <div class=\"bottom\"><p class=\"read_next\">".mylink("proc-zvolit-koldasoft", "Více informací")."</p></div>
           </div>  
 
             <p>Snažíme se docílit <strong>zviditelnění Vaší firmy</strong> na internetu, získání nových zákazníků a zvýšení Vašich zisků prostřednictvím ".mylink("pozadavky-kvalitni-stranky", "kvalitních webových stránek").".</p>

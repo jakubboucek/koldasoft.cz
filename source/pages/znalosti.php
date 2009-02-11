@@ -4,11 +4,10 @@
             <h1>$page_name</h1>
 
 
-          <div class=\"float_box tip\">
+          <div class=\"float_box tip more\">
             <p class=\"title\"><strong>".mylink("slovnicek-pojmu")."</strong></p>
             <p>Nabízíme seznam nejpoužívanějších pojmů v&nbsp;oblasti webdesignu&hellip;</p>
-            <p class=\"read_next\">".mylink("nas-tym", "Prohlédněte si slovníček pojmů")."</p>
-            <div class=\"bottom\"></div>
+            <div class=\"bottom\"><p class=\"read_next\">".mylink("nas-tym", "Prohlédněte si slovníček pojmů")."</p></div>
           </div>  
 
 
