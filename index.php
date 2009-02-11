@@ -127,7 +127,7 @@
     <div id=\"footer\" class=\"footer_background\">
       <div class=\"page\">
         <div class=\"main\">
-          <p>&copy; 2007".(date('Y') > 2007 ? " - ".date('Y') : "")." ".mylink("kontakt", "Koldasoft")." | E-mail: <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a> | Created by <a href=\"http://www.koldasoft.cz/\" title=\"Koldasoft - snadná cesta k vlastnímu webu\">Koldasoft</a> <span class=\"hidden\">(www.koldasoft.cz)</span> | ".mylink("prohlaseni-o-pristupnosti")." | ".mylink("mapa-webu")."</p>
+          <p>&copy; 2007".(date('Y') > 2007 ? " - ".date('Y') : "")." ".mylink("kontakt", "Koldasoft")."<span class=\"hidden\"> | </span><span class=\"spacer\">E-mail: <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></span><span class=\"hidden\"> | </span><span class=\"spacer\">Created by <a href=\"http://www.koldasoft.cz/\" title=\"Koldasoft - snadná cesta k vlastnímu webu\">Koldasoft</a></span><span class=\"hidden\">(www.koldasoft.cz)</span><span class=\"hidden\"> | </span><span class=\"spacer\">".mylink("prohlaseni-o-pristupnosti")."</span><span class=\"hidden\"> | </span><span class=\"spacer\">".mylink("mapa-webu")."</span></p>
         </div>
         <div class=\"second\">
           <p></p>  

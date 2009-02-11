@@ -157,10 +157,11 @@ body {  /* Telo stranky */
 #main .box {  /* Box ve sloupci */
   text-align: left;
   margin: 2px 9px 12px 9px;
-  padding: 0 12px;
+  padding: 0 12px 6px 12px;
   color: #666666;
   position: relative;
   z-index: 10;
+  border-bottom: 1px dotted #bdbdbd;
 }
 
 h1, h2, h3, h4 {
@@ -193,6 +194,11 @@ h3 {  /* Nadpis 3. urovne */
 h4 {  /* Nadpis 4. urovne - sloupec */
   font-size: 1.1em;
   margin: 0 0 .2em 0;
+}
+
+.panel h4 {  /* Nadpis 4. urovne - sloupec */
+  font-size: 1.17em;
+  font-weight: bold;
 }
 
 #main p {  /* Text v obsahove casti */
@@ -317,6 +323,11 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 }
 
 #footer p, #footer a {color: #ffffff}  /* Odkaz v paticce */
+
+#footer .spacer {  /* cervena odrazka */
+  padding: 0 0 0 16px;
+  background: url('/pictures/footer_spacer.gif') 6px 55% no-repeat;
+}
 
 .cleaner {
   clear: both;
