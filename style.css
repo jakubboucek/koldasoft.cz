@@ -28,7 +28,7 @@ body {  /* Telo stranky */
 
 /***** Hlavicka *****/
 #header {  /* Hlavicka */
- 
+  background: #ffffff url('/pictures/header_background.jpg') 50% 0% no-repeat;
   height: 164px;
 }
 
