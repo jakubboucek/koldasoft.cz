@@ -10,7 +10,7 @@ body {  /* Telo stranky */
 }
 
 .header_background {  /* Pozadi bloku (presah grafiky) */
-      background: url('/pictures/body_top_stripe.jpg') 0 50% repeat-x;
+      background: url('/pictures/body_top_stripe.jpg') 0% 50% repeat-x;
       }
       
 .footer_background {  /* Pozadi bloku (presah grafiky) */
