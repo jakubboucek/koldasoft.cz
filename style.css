@@ -169,7 +169,7 @@ h1 {  /* Nadpis 1. urovne */
 
 h2 {  /* Nadpis 2. urovne */
   font-size: 1.3em;
-  padding: .6em 0 .3em 0;
+  padding: 1em 0 .3em 0;
   margin: 0;  
 }
 
@@ -307,7 +307,7 @@ p {  /* Horizontalni linky */
   margin: 0;
 }
 
-#main .float_box .bottom {
+.float_box .bottom {
   position: absolute;
   left: 0px; bottom: 0px;
   width: 100%; height: 10px;
@@ -315,7 +315,7 @@ p {  /* Horizontalni linky */
 }
 
 
-#main .float_box {
+.float_box {
   float: right;
   position: relative;
   width: 290px;
@@ -324,25 +324,42 @@ p {  /* Horizontalni linky */
   padding: 60px 0 12px 0;
 }
 
-#main .float_box p, #main .float_box ul li {
+.float_box p, #main .float_box ul li {
   padding: .1em .9em; margin: 0;
 }
 
 
-#main .float_box.left {
+.float_box.left {
   float: left;
   margin: .2em .6em .2em .2em;
 }
 
-#main .float_box .title {
+.float_box .title {
   background: url('/pictures/box_red_header.gif') 50% 0% no-repeat;
   position: absolute; top: 0; left: 0;
   width: 290px; height: 52px;
   padding: 1.2em 0 0 0;
 }
 
-#main .float_box .title strong {
+.float_box .title strong {
   font-size: 1.2em;
   color: #993900;
-  padding: 0 0 0 2.5em;
+  padding: 0 0 0 3.3em;
+}
+
+/* otaznik */
+.float_box.question .title {
+  background: url('/pictures/box_green_header_otaznik.gif') 50% 0% no-repeat;
+}
+
+.float_box.question {
+  background: url('/pictures/box_green_stripe.gif') 50% 0% repeat-y;
+}
+
+.float_box.question .title strong {
+  color: green;
+}
+
+.float_box.question .bottom {
+  background: url('/pictures/box_green_simple_footer.gif') bottom center no-repeat;
 }
