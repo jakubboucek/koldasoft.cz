@@ -27,6 +27,7 @@ body {  /* Telo stranky */
   float: left;
   width: 690px;
   background: #ffffff;
+  position: relative;
 }
 
 .panel {  /* Vedlejsi cast (sloupec - akt. pravy) */
@@ -302,5 +303,27 @@ height: 1px;
 
 hr {  /* Horizontalni linky */
   display: none;
+}
+
+.float_box {
+  float: right;
+  top: 0;
+  right: 0;
+  width: 250px;
+  background-color: silver;
+  border: 1px solid black;
+  padding: .2em;
+  margin: .2em;
+  text-align: left;
+}
+
+.float_box.left {
+  float: left;
+}
+
+.float_box .title {
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 30px;
 }
 
