@@ -2,29 +2,30 @@
 
   echo("          <div class=\"text_box\">
             <h1>$page_name</h1>
-            <p>".(mylink("o-nas", "Rozvíjející se firma")).", působící především v&nbsp;oblasti tvorby ".(mylink("pozadavky-kvalitni-stranky", "kvalitních webových stránek")).", hledá nové externisty do týmu na pozice:</p>
+            <p>".(mylink("o-nas", "Rozvíjející se firma")).", působící především v&nbsp;oblasti tvorby ".(mylink("pozadavky-kvalitni-stranky", "kvalitních webových stránek")).", hledá nové kolegy do ".(mylink("nas-tym", "týmu"))." na pozice externistů:</p>
           </div>  
           <div class=\"text_box\">
+
+          <div class=\"float_box\">
+            <p class=\"title\">?&nbsp;&nbsp;&nbsp;Jste programátor?</p>
+            <p>Rádi programujete? Jsou u Vás slova jako třída, objekt, dědičnost či rekurze na denním pořádku? Chtěli byste se podílet na vývoji webových aplikací a skriptů? Pak hledáme přesně Vás!</p>
+          </div>  
+
             <h2 id=\"pozice\">Programátor PHP, MySQL</h2>
             <ul>
               <li>vývoj aplikací a jejich částí na základě analýzy</li>
               <li>práce s&nbsp;aktuálními verzemi PHP, MySQL, atd.</li>
               <li>ladění a optimalizace výkonu aplikací</li>
-              <li>přidělování práce podle schopností a s&nbsp;příhlédnutím k&nbsp;vlastním preferencím</li>
+              <li>přidělování práce podle schopností a s&nbsp;přihlédnutím k&nbsp;vlastním preferencím</li>
               <li>spolupráce v&nbsp;týmu založená na zaběhlých pravidlech</li>
               <li>oceníme kreativní přístup k&nbsp;vlastnímu řešení</li>
             </ul>  
-<!--            <h2 id=\"pozice\">Kodér XHTML, CSS</h2>
-            <ul>
-              <li>tvorba webových prezentací na základě standardů s&nbsp;přihlédnutím k&nbsp;moderním trendům</li>
-              <li>optimalizace projektů podle zásad přístupnosti</li>
-              <li>ztvárnění XHTML šablony na základě dodaného grafického návrhu</li>
-              <li>spolupráce v&nbsp;týmu založená na zaběhlých pravidlech</li>
-              <li>reference výhodou</li>
-              <li>znalost Javascriptu výhodou</li>
-              <li>oceníme kreativní přístup k&nbsp;vlastnímu řešení</li>
-            </ul>
--->  
+
+          <div class=\"float_box\">
+            <p class=\"title\">?&nbsp;&nbsp;&nbsp;Jste grafik?</p>
+            <p>Máte cit pro grafiku? Rádi navrhujete a tvoříte? Hrajete si s barvami a tvary? Chtěli byste se podílet návrhu grafických layoutů pro webové stránky? A ne jen pro ně? Pak hledáme přesně Vás!</p>
+          </div>  
+
             <h2 id=\"pozice\">Grafik - webdesignér</h2>
             <ul>
               <li>vytváření vzhledů pro e-shopy i stránky menšího rozsahu</li>
@@ -50,19 +51,24 @@
               <li>v případě, že se spolupráce osvědčí, možnost dalšího osobního růstu</li>
             </ul>  
             <h2 id=\"kontakt\">Kontakt</h2>
+
+
+          <div class=\"float_box left\">
+            <p class=\"title\">I&nbsp;&nbsp;&nbsp;Naše letáčky</p>
+            <p>Stáhněte si naše náborové letáčky ve formátu PDF</p>
             <ul>
-              <li>tel.: 724&nbsp;059&nbsp;012</li>
-              <li>e-mail: <a href=\"mailto:job@koldasoft.cz\" title=\"Poslat E-mail\">job@koldasoft.cz</a></li>
+              <li><a href=\"".$cesta."files/koldasoft-naborovy-letacek-programator.pdf\" title=\"Náš letáček na pozici programátor (PDF, 52.1&nbsp;kB)\">letáček na pozici programátor</a></li>
+              <li><a href=\"".$cesta."files/koldasoft-naborovy-letacek-webdesigner.pdf\" title=\"Náš letáček na pozici grafik (PDF, 52.1&nbsp;kB)\">letáček na pozici grafik</a></li>
+            </ul>
+          </div>  
+
+
+            <ul>
+              <li><strong>Mobil:</strong> 775&nbsp;77&nbsp;15&nbsp;10&nbsp;(".mylink("nas-tym", "Lucie Brandýská", "lucka", "Lucie Brandýská").", asistentka)</li>
+              <li><strong>E-mail:</strong> <a href=\"mailto:job@koldasoft.cz\" title=\"Poslat E-mail\">job@koldasoft.cz</a></li>
             </ul>  
             <p>Pokud Vás naše nabídka zaujala a myslíte, že byste právě Vy mohli být přínosem pro naši společnost, neváhejte nás <a href=\"mailto:job@koldasoft.cz\" title=\"Poslat E-mail\">kontaktovat</a>.</p>
             <p>Na spolupráci a nové kolegy se těší ".(mylink("nas-tym", "tým Koldasoft")).".</p>
-            <h2 id=\"nas-letacek\">Naše letáčky</h2>
-            <p>Prohlédněte si naše letáčky ve formátu PDF:</p>
-            <ul>
-              <li><a href=\"".$cesta."files/koldasoft-naborovy-letacek-programator.pdf\" title=\"Náš letáček na pozici programátor (PDF, 52.1&nbsp;kB)\">letáček na pozici programátor</a></li>
-<!--             <li><a href=\"".$cesta."files/koldasoft-naborovy-letacek-koder.pdf\" title=\"Náš letáček na pozici kodér (PDF, 52.1&nbsp;kB)\">letáček na pozici kodér</a></li>  -->
-              <li><a href=\"".$cesta."files/koldasoft-naborovy-letacek-webdesigner.pdf\" title=\"Náš letáček na pozici grafik (PDF, 52.1&nbsp;kB)\">letáček na pozici grafik</a></li>
-            </ul>
           </div>".nl);
 
 ?>

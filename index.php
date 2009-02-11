@@ -96,8 +96,8 @@
   // Hledame externisty \\
   If($open != "job")  //Pro vsechny krome job (hledame externisty)        
     echo("          <div class=\"box\">
-            <h4>Hledáme externisty</h4>
-            <p>Do našeho týmu hledáme:</p>
+            <h4>Hledáme nové kolegy</h4>
+            <p>Do ".mylink("nas-tym", "našeho týmu")." hledáme:</p>
             <ul>
               <li><strong>programátora</strong> PHP</li>
               <li><strong>grafika</strong></li>
