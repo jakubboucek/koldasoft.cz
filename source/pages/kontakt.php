@@ -43,12 +43,36 @@
             <p>Neváhejte se na nás obrátit v&nbsp;jakékoliv záležitosti. Rádi Vám odpovíme a poradíme.</p>
             <div class=\"bottom\"><p class=\"read_next\"><a href=\"#\">zaslat dotaz</a></p></div>
           </div>  
-            
-            
-            
           </div>  
-          <div class=\"text_box\">
-          </div>".nl);
-                  
+          <div class=\"text_box\">            
+          <div class=\"cleaner\"></div>
+");          
+  if($form = App::getForm('contactform')) {            
+    if($form->isError()) {              
+      echo "
+      <div class=\"errorbox\">Formulář nebyl odeslán, protože došlo k těmto chybám:<ul><li>";              
+      echo implode('</li><li>', $form->getErrors());              
+      echo "</li></ul></div>";                          
+    }          
+  }
+  else
+    $form = new Form;
+  
+  //Zde prosím nastylovat formulář
+echo ("
+            <form action=\"\" method=\"post\" />  
+              <input type=\"hidden\" name=\"action\" value=\"sendform\"/>  
+              <input type=\"hidden\" name=\"formid\" value=\"contactform\"/>  
+              Předmět: <input type=\"input\" name=\"subject\" value=\"{$form->getHtml('subject')}\" /><br />  
+              Zpráva:<br />  
+              <textarea name=\"message\" cols=\"25\" rows=\"8\">{$form->getHtml('message')}</textarea><br />  
+              Jméno: <input type=\"input\" name=\"fname\" value=\"{$form->getHtml('fname')}\" />  
+              Příjmení: <input type=\"input\" name=\"lname\" value=\"{$form->getHtml('lname')}\" /><br />  
+              E-mail: <input type=\"input\" name=\"mail\" value=\"{$form->getHtml('mail')}\" />  
+              Telefon: <input type=\"input\" name=\"phone\" value=\"{$form->getHtml('phone')}\" /><br />  
+              <input type=\"submit\" value=\"Odeslat\" /><br />  
+            </form>
+");
 
-?>
+echo ("          </div>".nl);
+                  

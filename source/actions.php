@@ -19,7 +19,8 @@ $action = getRequest('action');
 
 switch($action) {
   case "sendform":
-  
+    include INCLUDE_PATH . "action.sendform.php";
+    
   break;
 }
   
