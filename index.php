@@ -49,14 +49,14 @@
     <div id=\"hmenu\">
       <div class=\"page\">
         <h4>Hlavní nabídka</h4>
-        <a".($open == "uvod" ? " class = \"active\"" : "")." href=\"$cesta\" title=\"Úvodní stránka\">Úvod</a><span class=\"hidden\"> | </span>
-        ".mylink("nabidka-sluzeb", "Služby", "", "", (($open == "nabidka-sluzeb" || $page_info[4][0] == "nabidka-sluzeb") ? "active" : ""))."<span class=\"hidden\"> | </span>
-        ".mylink("informace", "", "", "", (($open == "informace" || $page_info[4][0] == "informace") ? "active" : ""))."<span class=\"hidden\"> | </span>
-        ".mylink("znalosti", "", "", "", (($open == "znalosti" || $page_info[4][0] == "znalosti") ? "active" : ""))."<span class=\"hidden\"> | </span>
-        ".mylink("reference", "", "", "", (($open == "reference" || $page_info[4][0] == "reference") ? "active" : ""))."<span class=\"hidden\"> | </span>
-        ".mylink("cenik", "", "", "", (($open == "cenik" || $page_info[4][0] == "cenik") ? "active" : ""))."<span class=\"hidden\"> | </span>
-        ".mylink("o-nas", "", "", "", (($open == "o-nas" || $page_info[4][0] == "o-nas") ? "active" : ""))."<span class=\"hidden\"> | </span>
-        ".mylink("kontakt", "", "", "", (($open == "kontakt" || $page_info[4][0] == "kontakt") ? "last active" : "last"))."
+        <a".($page_type == "uvod" ? " class = \"active\"" : "")." href=\"$cesta\" title=\"Úvodní stránka\">Úvod</a><span class=\"hidden\"> | </span>
+        ".mylink("nabidka-sluzeb", "Služby", "", "", ($page_type == "nabidka-sluzeb" ? "active" : ""))."<span class=\"hidden\"> | </span>
+        ".mylink("informace", "", "", "", ($page_type == "informace" ? "active" : ""))."<span class=\"hidden\"> | </span>
+        ".mylink("znalosti", "", "", "", ($page_type == "znalosti" ? "active" : ""))."<span class=\"hidden\"> | </span>
+        ".mylink("reference", "", "", "", ($page_type == "reference" ? "active" : ""))."<span class=\"hidden\"> | </span>
+        ".mylink("cenik", "", "", "", ($page_type == "cenik" ? "active" : ""))."<span class=\"hidden\"> | </span>
+        ".mylink("o-nas", "", "", "", ($page_type == "o-nas" ? "active" : ""))."<span class=\"hidden\"> | </span>
+        ".mylink("kontakt", "", "", "", ($page_type == "kontakt" ? "last active" : "last"))."
         <div class=\"cleaner\"></div>
       </div>
     </div>  
@@ -141,6 +141,8 @@
 ?>
 <?php
 
+/*  Vytvoreni nazvu stranek 
+
   unlink ("source/page.db");
   my_db_add_line("source/page.db", array("Page", "Full name",  "Short name", "", "Uroven"));
 
@@ -204,6 +206,6 @@
   my_db_add_line("source/page.db", array("proc-zvolit-koldasoft", "Proč zvolit Koldasoft?", "Proč zvolit Koldasoft?", " Proč zvolit Koldasoft?", array("o-nas")));
   my_db_add_line("source/page.db", array("nase-znacka", "Naše značka", "Naše značka", " Naše značka", array("o-nas")));
 
-
+*/
 
 ?>
