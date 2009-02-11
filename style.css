@@ -111,7 +111,7 @@ body {  /* Telo stranky */
 /***** Navigacni lista *****/
 #breadcrumb .page  {  /* Text v navigaci  */
   min-height: 42px; _height: 42px;
-  background: url('/pictures/panel_border_left_top_2.gif') 670px bottom no-repeat;
+  background: url('/pictures/panel_border_left_top.gif') 670px bottom no-repeat;
 }
 
 #breadcrumb p {  /* Text v navigaci  */
