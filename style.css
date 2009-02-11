@@ -161,6 +161,10 @@ h1, h2, h3, h4 {
   text-align: left;
 }
 
+h2 a, h3 a, h4 a {
+  text-decoration: none;
+}
+
 h1 {  /* Nadpis 1. urovne */
   font-size: 1.6em;
   margin: 0 0 .25em 0;
