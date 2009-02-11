@@ -34,7 +34,7 @@ if(!preg_match('/^.+@.+\..+$/',$form->getField('mail')))
 if(!$form->isError()) {
   $mailer = new PHPMailer();
   
-  $mailer->AddAddress('jakub.boucek@koldasoft.cz');
+  $mailer->AddAddress('info@koldasoft.cz');
   
   $host = $_SERVER['HTTP_HOST'];
   $referer = $_SERVER['HTTP_REFERER'];
@@ -48,10 +48,24 @@ if(!$form->isError()) {
   $mailer->Body .= "\n-----------------------------------------------------\nOdesláno z IP: {$_SERVER['REMOTE_ADDR']} v " . date('d.m.Y H:i:s') . ".";
   
   if(!$mailer->Send())
-    $form->addError('Při pokusu o odeslání došlo k chybě');
+    $form->addError('Při pokusu o odeslání zprávy došlo k technickému problému.');
   
+  $mailer->ClearAddresses();
+  $mailer->AddAddress(trim($form->getField('mail')));
+  $mailer->Subject = "Potvrzení zaslání Vašeho dotazu společnosti Koldasoft, s.r.o.";
+  
+  $mailer->Body = "Dobrý den,
+  děkujeme Vám za zaslání dotazu. Tímto potvrzujeme, že Váš požadavek byl předán do společnosti.
+  
+  Text Vašeho dotazu:
+  {$form->getField('message')}
+  
+  Koldasoft, s.r.o.";
+
+  if(!$mailer->Send())
+    $form->addError('Při pokusu o odeslání potvrzení došlo k technickému problému.');
 }
 
 if(!$form->isError()) {
-  header("Location: /kontak-odeslano/", TRUE, 303);
+  header("Location: /kontakt-odeslano/", TRUE, 303);
 }
