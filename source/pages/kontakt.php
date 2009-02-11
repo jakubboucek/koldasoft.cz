@@ -66,8 +66,7 @@ echo ("
               Předmět: <input type=\"input\" name=\"subject\" value=\"{$form->getHtml('subject')}\" /><br />  
               Zpráva:<br />  
               <textarea name=\"message\" cols=\"25\" rows=\"8\">{$form->getHtml('message')}</textarea><br />  
-              Jméno: <input type=\"input\" name=\"fname\" value=\"{$form->getHtml('fname')}\" />  
-              Příjmení: <input type=\"input\" name=\"lname\" value=\"{$form->getHtml('lname')}\" /><br />  
+              Jméno: <input type=\"input\" name=\"name\" value=\"{$form->getHtml('name')}\" /><br />  
               E-mail: <input type=\"input\" name=\"mail\" value=\"{$form->getHtml('mail')}\" />  
               Telefon: <input type=\"input\" name=\"phone\" value=\"{$form->getHtml('phone')}\" /><br />  
               <input type=\"submit\" value=\"Odeslat\" /><br />  

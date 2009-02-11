@@ -17,10 +17,10 @@
 
 $form = App::createForm(getRequest('formid'));
 
-$form->loadRequests(split(',','fname,lname,mail,phone,message,subject'));
+$form->loadRequests(split(',','name,mail,phone,message,subject'));
  
-if($form->isEmpty(split(',','fname,lname')))
-  $form->addError('Jméno i příjmení musí být vyplněny!');
+if($form->isEmpty(split(',','name')))
+  $form->addError('Jméno musí být vyplněno!');
 
 if($form->isEmpty('mail'))
   $form->addError('E-mail musí být vyplněn!');
