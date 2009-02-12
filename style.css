@@ -140,8 +140,11 @@ body {  /* Telo stranky */
 
 #breadcrumb a {color: #595959;}
 
+#main .panel li a {  /* Polozka seznamu */
+  color: #595959;
+}
 /* Aktivni odkaz v textu a v panelu vpravo */
-#breadcrumb a:hover, #breadcrumb a:active, #breadcrumb a:focus, .panel .box li a:hover, .panel .box li a:focus, .panel .box li a:active {
+#breadcrumb a:hover, #breadcrumb a:active, #breadcrumb a:focus, #main .panel li a:hover, #main .panel li a:focus, #main .panel li a:active {
   color: #222222;
 }
 
@@ -249,10 +252,6 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 
 #main li li li {  /* Polozka seznamu */
   background: url('/pictures/bullet_level_03.gif') .2em .6em no-repeat;
-}
-
-#main .panel li a {  /* Polozka seznamu */
-  color: #595959;
 }
 
 .subtitle {  /* Podnadpis */
@@ -428,37 +427,32 @@ p {  /* Horizontalni linky */
 }
 
 /* member */
-.member {
-  background: url('/pictures/member_background.png') top center no-repeat;
-  width: 630; height: 189px;
-  padding: 1.2em 0 0 0;
-}
 
-.member {
+#main .text_box .member {
   background: url('/pictures/member_background.png') top center no-repeat;
   width: 630; height: 189px;
-  padding: 46px 0 5px 0;
   position: relative;
-  margin: 0;
+  margin: 1.5em 0 0 0;
 }
 
-.member h2 {
+#main .text_box .member h2 {
   margin: 0; padding: 0;
   position: absolute; top: 15px; left: 20px;
 }
 
-.member img {
+#main .text_box .member img {
   position: absolute;
   top: 44px; left: 11px;
 }
 
-#main .member p {
-  padding: 0 0 0 130px;
+#main .text_box .member p {
+  padding: 50px 0 5px 130px;
   line-height: 1.4em;
+  background: black;
 }
 
-#main .member ul {
-  padding: 6px 0 0 130px;
+#main .text_box .member ul {
+  padding: 50px 0 5px 136px; margin: 0;
 }
 
 /* formular */
