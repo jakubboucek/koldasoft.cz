@@ -17,9 +17,9 @@
           $found_i++;  //Nalezeno   
         }
         If($all_page_info[$i][0] != $open)  //Pokud neni tato stranka prave otevrena (bude odkazem)
-          echo("<li>".mylink($all_page_info[$i][0])."</li>".nl);  //Vytvoreni odkazu
+          echo("<li>".mylink($all_page_info[$i][0], $all_page_info[$i][2])."</li>".nl);  //Vytvoreni odkazu
         Else  //Pokud je tato stranka otevrena (bude zvyraznena)
-          echo("<li><strong>".$all_page_info[$i][1]."</strong></li>".nl);  //Vytvoreni odkazu
+          echo("<li><strong>".$all_page_info[$i][2]."</strong></li>".nl);  //Vytvoreni odkazu
       }  
     }
     Else  //Pokud se NEjedna o hlavni stranku (v rootu) ale o zanorenou
@@ -35,9 +35,9 @@
           $found_i++;  //Nalezeno   
         }
         If($all_page_info[$i][0] != $open)  //Pokud neni tato stranka prave otevrena (bude odkazem)
-          echo("            <li>".mylink($all_page_info[$i][0])."".nl);  //Vytvoreni odkazu
+          echo("            <li>".mylink($all_page_info[$i][0], $all_page_info[$i][2])."".nl);  //Vytvoreni odkazu
         Else  //Pokud je tato stranka otevrena (bude zvyraznena)
-          echo("            <li><strong>".$all_page_info[$i][1]."</strong>".nl);  //Vytvoreni odkazu
+          echo("            <li><strong>".$all_page_info[$i][2]."</strong>".nl);  //Vytvoreni odkazu
         $found_j = 0;  //Nulovani pom. prom.  
         For($j = 0; $j < count($all_page_info); $j++)  //Cyklus projde vsechny stranky (hleda se "potomek")
         {
@@ -49,7 +49,7 @@
               $found_j++;  //Nalezeno   
             }
             If($all_page_info[$j][0] != $open)  //Pokud neni tato stranka prave otevrena (bude odkazem)
-              echo("                <li>".mylink($all_page_info[$j][0])."</li>".nl);  //Vytvoreni odkazu
+              echo("                <li>".mylink($all_page_info[$j][0], $all_page_info[$j][2])."</li>".nl);  //Vytvoreni odkazu
             Else  //Pokud je tato stranka otevrena (bude zvyraznena)
               echo("                <li><strong>".$all_page_info[$j][2]."</strong></li>".nl);  //Vytvoreni odkazu
           }  
