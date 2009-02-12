@@ -32,7 +32,7 @@
                 <p class=\"read_next\">".mylink("pro-sport-activities", "Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("pro-sport-activities", "<img src=\"".$cesta."reference/psa_200.png\" alt=\"Zobrazit detail\" height=\"200\" width=\"200\">")."</p>
+                <p>".mylink("pro-sport-activities", "<img src=\"".$cesta."reference/psa.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\">")."</p>
               </div>
               <div class=\"cleaner\"></div>
             </div>
@@ -47,7 +47,7 @@
                 <p class=\"read_next\">".mylink("nizozemsko-ceska-obchodni-komora", "Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("nizozemsko-ceska-obchodni-komora", "<img src=\"".$cesta."reference/hok_200.png\" alt=\"Náhled: projekt Holandská obchodní komora\" height=\"200\" width=\"200\">")."</p>
+                <p>".mylink("nizozemsko-ceska-obchodni-komora", "<img src=\"".$cesta."reference/hok.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\">")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -61,7 +61,7 @@
                 <p class=\"read_next\">".mylink("hrackydomino", "Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("hrackydomino","<img src=\"".$cesta."reference/domino_eshop_200.png\" alt=\"Náhled: projekt Hračky Domino\" height=\"200\" width=\"200\">")."</p>
+                <p>".mylink("hrackydomino","<img src=\"".$cesta."reference/domino_eshop.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\">")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -75,7 +75,7 @@
                 <p class=\"read_next\">".mylink("hrackydomino-kasa", "Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("hrackydomino-kasa","<img src=\"".$cesta."reference/domino_kasa_200.png\" alt=\"Náhled: projekt Hračky Domino - pokladní systém\" height=\"200\" width=\"200\">")."</p>
+                <p>".mylink("hrackydomino-kasa","<img src=\"".$cesta."reference/domino_kasa.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\">")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -89,7 +89,7 @@
                 <p class=\"read_next\">".mylink("databaze-kupcu","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("databaze-kupcu","<img src=\"".$cesta."reference/databazekupcu_200.png\" alt=\"Náhled: projekt Databáze kupců\" height=\"200\" width=\"200\">")."</p>
+                <p>".mylink("databaze-kupcu","<img src=\"".$cesta."reference/databazekupcu.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\">")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -103,7 +103,7 @@
                 <p class=\"read_next\">".mylink("lakikincl","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("lakikincl","<img src=\"".$cesta."reference/laki_200.png\" alt=\"Náhled: projekt Fa. Laki\" height=\"200\" width=\"200\">")."</p>
+                <p>".mylink("lakikincl","<img src=\"".$cesta."reference/laki.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\">")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -117,7 +117,7 @@
                 <p class=\"read_next\">".mylink("airnet-public","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("airnet-public","<img src=\"".$cesta."reference/angnetwork_public_200.png\" alt=\"Náhled: projekt ANG - Network - Public\" height=\"200\" width=\"200\">")."</p>
+                <p>".mylink("airnet-public","<img src=\"".$cesta."reference/angnetwork_public.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\">")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -131,7 +131,7 @@
                 <p class=\"read_next\">".mylink("airnet-hotspot","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("airnet-hotspot","<img src=\"".$cesta."reference/angnetwork_hotspot_200.png\" alt=\"Náhled: projekt ANG - Network - Hotspot\" height=\"200\" width=\"200\">")."</p>
+                <p>".mylink("airnet-hotspot","<img src=\"".$cesta."reference/angnetwork_hotspot.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\">")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -145,7 +145,7 @@
                 <p class=\"read_next\">".mylink("airnet-interni","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("airnet-interni","<img src=\"".$cesta."reference/angnetwork_interni_200.png\" alt=\"Náhled: projekt ANG - Network - Interní web\" height=\"200\" width=\"200\">")."</p>
+                <p>".mylink("airnet-interni","<img src=\"".$cesta."reference/angnetwork_interni.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\">")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -159,7 +159,7 @@
                 <p class=\"read_next\">".mylink("pdprojekce","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("pdprojekce","<img src=\"".$cesta."reference/pdp_200.png\" alt=\"Náhled: projekt PDProjekce\" height=\"200\" width=\"200\">")."</p>
+                <p>".mylink("pdprojekce","<img src=\"".$cesta."reference/pdp.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\">")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -173,7 +173,7 @@
                 <p class=\"read_next\">".mylink("stemax","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("stemax","<img src=\"".$cesta."reference/stemax_200.png\" alt=\"Náhled: projekt Stemax\" height=\"200\" width=\"200\">")."</p>
+                <p>".mylink("stemax","<img src=\"".$cesta."reference/stemax.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\">")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -187,7 +187,7 @@
                 <p class=\"read_next\">".mylink("mathis","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("mathis","<img src=\"".$cesta."reference/mathis_200.png\" alt=\"Náhled: projekt Mathis\" height=\"200\" width=\"200\">")."</p>
+                <p>".mylink("mathis","<img src=\"".$cesta."reference/mathis.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\">")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -202,7 +202,7 @@
                 <p class=\"read_next\">".mylink("krystal","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("krystal","<img src=\"".$cesta."reference/fa-krystal_cz_200.png\" alt =\"Náhled: projekt Krystal\" width=\"200\" height=\"200\" />")."</p>
+                <p>".mylink("krystal","<img src=\"".$cesta."reference/fa-krystal.png\" alt =\"Více o tomto projektu\" width=\"206\" height=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -216,7 +216,7 @@
                 <p class=\"read_next\">".mylink("smsrealitni","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("smsrealitni","<img src=\"".$cesta."reference/smsrealitni_cz_200.png\" alt =\"Náhled: projekt smsRealitni.cz\" width=\"200\" height=\"200\" />")."</p>
+                <p>".mylink("smsrealitni","<img src=\"".$cesta."reference/smsrealitni.png\" alt =\"Více o tomto projektu\" width=\"206\" height=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>

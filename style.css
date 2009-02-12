@@ -57,9 +57,9 @@ body {  /* Telo stranky */
   position: relative;
 }
 
-#header .logo {  /* Logo */
+#header .page .logo {  /* Logo */
   position: absolute;
-  top: 12px; left: 20px;
+  top: 28px; left: 29px;
   border: 0;
 }
 
@@ -282,7 +282,6 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 
 .reference .foto img { /* Foto - obrazek */
   border: 0;  
-  border: 1px solid #222222;
 }
 
 .reference .text {  /* Popis reference */
