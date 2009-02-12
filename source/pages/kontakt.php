@@ -60,15 +60,15 @@ echo ("     <div id=\"contactform_form_box\">
                   <tr><td colspan=\"2\"><input type=\"hidden\" name=\"action\" value=\"sendform\" /></td></tr>
                   <tr><td colspan=\"2\"><input type=\"hidden\" name=\"formid\" value=\"contactform\"/></td></tr>
                   <tr><th colspan=\"2\">Předmět:</th></tr>
-                  <tr><td colspan=\"2\"><input type=\"input\" name=\"subject\" size=\"30\" value=\"{$form->getHtml('subject')}\" /></td></tr>
+                  <tr><td colspan=\"2\"><input type=\"input\" name=\"subject\" size=\"40\" value=\"{$form->getHtml('subject')}\" /></td></tr>
                   <tr><th colspan=\"2\">Zpráva:</th></tr>
-                  <tr><td colspan=\"2\"><textarea name=\"message\" cols=\"40\" rows=\"8\">{$form->getHtml('message')}</textarea></td></tr>
+                  <tr><td colspan=\"2\"><textarea name=\"message\" cols=\"48\" rows=\"8\">{$form->getHtml('message')}</textarea></td></tr>
                   <tr><th colspan=\"2\">Jméno:</th></tr>
-                  <tr><td colspan=\"2\"><input type=\"input\" name=\"name\" size=\"49\" value=\"{$form->getHtml('name')}\" /></td></tr>
+                  <tr><td colspan=\"2\"><input type=\"input\" name=\"name\" size=\"40\" value=\"{$form->getHtml('name')}\" /></td></tr>
                   <tr><th>E-mail:</th><th>Telefon:</th></tr>
-                  <tr><td><input type=\"input\" name=\"mail\" size=\"20\" value=\"{$form->getHtml('mail')}\" /></td>
-                  <td><input type=\"input\" name=\"phone\" size=\"20\" value=\"{$form->getHtml('phone')}\" /></td></tr>
-                  <tr><th colspan=\"2\"><input type=\"submit\" value=\"Odeslat\" /></th></tr>
+                  <tr><td><input type=\"input\" name=\"mail\" size=\"29\" value=\"{$form->getHtml('mail')}\" /></td>
+                  <td><input type=\"input\" name=\"phone\" size=\"28\" value=\"{$form->getHtml('phone')}\" /></td></tr>
+                  <tr><th class=\"send\" colspan=\"2\"><input type=\"submit\" value=\"Odeslat\" /></th></tr>
                 </table>
               </form>
             </div>

@@ -441,10 +441,16 @@ form {
 .formular {
   _font-size: .9em;
   text-align: left;
+  margin-left: 4em;
 }
 
 .formular td {
   padding-bottom: .3em;
+}
+
+.formular .send {
+  text-align: right;
+  padding: .4em 3px;
 }
 
 .errorbox {  /* Polozka seznamu */
