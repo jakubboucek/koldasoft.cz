@@ -14,12 +14,16 @@ body {  /* Telo stranky */
   margin: 0 auto;
 }
 
+#main {  /* dolni vnitrni okraj hlavni casto */
+  padding-bottom: 1.5em;
+  text-align: left;
+}
+
 .mcontent {  /* Hlavni cast (sloupec) */
   float: left;
   width: 690px;
   position: relative;
   min-height: 400px; _height: 400px;
-  padding-bottom: 1.5em;
   background: url('/pictures/panel_border_left_stripe.gif') top right repeat-y;
 }
 
@@ -44,8 +48,6 @@ body {  /* Telo stranky */
 
 #header_background #header {  /* Hlavicka */
   background: url('/pictures/header_background.jpg') 50% 0% no-repeat;
-  height: 164px; 
-
 }
 
 #header .page {  /* Obsah hlavicky */
@@ -57,8 +59,7 @@ body {  /* Telo stranky */
 
 #header .logo {  /* Logo */
   position: absolute;
-  left: 20px;
-  top: 12px;
+  top: 12px; left: 20px;
   border: 0;
 }
 
@@ -66,7 +67,7 @@ body {  /* Telo stranky */
   width: 680px;
   height: 157px;
   position: absolute;
-  right: 0; top: 0;
+  top: 0; right: 0;
 }
 
 .mapa-webu #change  {
@@ -79,19 +80,17 @@ body {  /* Telo stranky */
 }
 
 /***** Menu *****/
-
 #hmenu .page {
   width: 921px;
 }
 
 #hmenu ul {
   list-style-type: none;
-  padding: 0;
-  margin: 0;
+  margin: 0; padding: 0;
 }
 
-#hmenu li {  /* Polozka seznamu s obrazkem*/
-  padding: 0; margin: 0;
+#hmenu li {  /* Polozka seznamu */
+  margin: 0; padding: 0;
   display: inline;
 }
 
@@ -110,7 +109,7 @@ body {  /* Telo stranky */
 }
 
 #hmenu a:hover, #hmenu a:active, #hmenu a:focus {  /* Aktivni polozka menu */
-  background: url('/pictures/hmenu_button_normal.jpg') center bottom no-repeat;
+  background: #47d713 url('/pictures/hmenu_button_normal.jpg') center bottom no-repeat;
 }
 
 #hmenu .active {  /* Aktivni polozka menu */
@@ -132,7 +131,6 @@ body {  /* Telo stranky */
   padding: .9em .2em .7em 1.7em;
   text-align: left;
   font-size: .88em;
-  margin: 0;
 }
 
 #breadcrumb .spacer {  /* cervena odrazka */
@@ -142,36 +140,33 @@ body {  /* Telo stranky */
 
 #breadcrumb a {color: #595959;}
 
-#breadcrumb a:hover, #breadcrumb a:active, #breadcrumb a:focus {color: #222222;}  /* Aktivni odkaz v textu */
+/* Aktivni odkaz v textu a v panelu vpravo */
+#breadcrumb a:hover, #breadcrumb a:active, #breadcrumb a:focus, .panel .box li a:hover, .panel .box li a:focus, .panel .box li a:active {
+  color: #222222;
+}
 
 
 /***** Obsahova cast *****/
 
-#main .page {
-  position: relative;
-
-}  /* Stranka v obsahove casti */
+ /* Stranka v obsahove casti */
 
 #main .text_box {  /* Textovy box */
-  text-align: left;
   margin: 0px 9px;
   padding: 0 12px;
   color: #666666;
 }
 
 .panel .box {  /* Box ve sloupci */
-  text-align: left;
   margin: 2px 9px 12px 9px;
   padding: 0 12px 6px 12px;
   border-bottom: 1px dotted #bdbdbd;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, #main a {
   color: #0c9100;
-  text-align: left;
 }
 
-h2 a, h3 a, h4 a {
+h2 a, h3 a, h4 a, .float_box .title a {
   text-decoration: none;
 }
 
@@ -216,19 +211,20 @@ h4 {  /* Nadpis 4. urovne - sloupec */
   padding: 0 .5em .8em 0;
 }
 
-#main a {color: #0c9100;}  /* Odkaz v textu */
-
 #main .read_next a { /* Odkaz vice */
   padding-left: 12px;
   background: url('/pictures/icon_more.gif') 0% 55% no-repeat;
   }  
 
-#main a:hover, #main a:active, #main a:focus, #main a:hover strong, #main a:active strong, #main a:focus strong {color: #222222;}  /* Aktivni odkaz v textu */
+.panel .read_next a { /* Odkaz vice */
+  font-size: .9em;
+  }
+  
+#main a:hover, #main a:active, #main a:focus, #main a:hover strong, #main a:active strong, #main a:focus strong {color: #044100;}  /* Aktivni odkaz v textu */
 
 #main ul {  /* Seznam v obsahove casti */
-  text-align: left;
   list-style-type: none;
-  margin: 0;
+  margin: 0 0 0 1em;
   padding: 0 0 .6em .5em;
 }
 
@@ -249,6 +245,10 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 #main li li {  /* Polozka seznamu */
   padding: .22em 0 .22em 1.2em;
   background: url('/pictures/bullet_level_02.gif') .2em .6em no-repeat;
+}
+
+#main li li li {  /* Polozka seznamu */
+  background: url('/pictures/bullet_level_03.gif') .2em .6em no-repeat;
 }
 
 #main .panel li a {  /* Polozka seznamu */
@@ -409,10 +409,6 @@ p {  /* Horizontalni linky */
   font-size: 1.2em;
   color: green;
   padding: 0 0 0 3.3em;
-}
-
-.float_box .title a {
-  text-decoration: none;
 }
 
 /* otaznik */
