@@ -32,7 +32,7 @@
                 <p class=\"read_next\">".mylink("pro-sport-activities", "Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("pro-sport-activities", "<img src=\"".$cesta."reference/psa.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\" />")."</p>
+                <p>".mylink("pro-sport-activities", "<img src=\"".$cesta."reference/psa.png\" alt=\"Náhled Pro Sport Activities\" height=\"206\" width=\"206\" />")."</p>
               </div>
               <div class=\"cleaner\"></div>
             </div>
@@ -47,7 +47,7 @@
                 <p class=\"read_next\">".mylink("nizozemsko-ceska-obchodni-komora", "Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("nizozemsko-ceska-obchodni-komora", "<img src=\"".$cesta."reference/hok.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\" />")."</p>
+                <p>".mylink("nizozemsko-ceska-obchodni-komora", "<img src=\"".$cesta."reference/hok.png\" alt=\"Náhled Nizozemsko-české obchodní komory\" height=\"206\" width=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -61,7 +61,7 @@
                 <p class=\"read_next\">".mylink("hrackydomino", "Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("hrackydomino","<img src=\"".$cesta."reference/domino_eshop.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\" />")."</p>
+                <p>".mylink("hrackydomino","<img src=\"".$cesta."reference/domino_eshop.png\" alt=\"Náhled Hračky Domino\" height=\"206\" width=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -75,7 +75,7 @@
                 <p class=\"read_next\">".mylink("hrackydomino-kasa", "Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("hrackydomino-kasa","<img src=\"".$cesta."reference/domino_kasa.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\" />")."</p>
+                <p>".mylink("hrackydomino-kasa","<img src=\"".$cesta."reference/domino_kasa.png\" alt=\"Náhled Hračky Domino - kasa\" height=\"206\" width=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -89,7 +89,7 @@
                 <p class=\"read_next\">".mylink("databaze-kupcu","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("databaze-kupcu","<img src=\"".$cesta."reference/databazekupcu.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\" />")."</p>
+                <p>".mylink("databaze-kupcu","<img src=\"".$cesta."reference/databazekupcu.png\" alt=\"Náhled Databáze kupců\" height=\"206\" width=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -103,7 +103,7 @@
                 <p class=\"read_next\">".mylink("lakikincl","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("lakikincl","<img src=\"".$cesta."reference/laki.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\" />")."</p>
+                <p>".mylink("lakikincl","<img src=\"".$cesta."reference/laki.png\" alt=\"Náhled Fa.Laki\" height=\"206\" width=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -117,7 +117,7 @@
                 <p class=\"read_next\">".mylink("airnet-public","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("airnet-public","<img src=\"".$cesta."reference/angnetwork_public.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\" />")."</p>
+                <p>".mylink("airnet-public","<img src=\"".$cesta."reference/angnetwork_public.png\" alt=\"Náhled ANG-Network Public\" height=\"206\" width=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -131,7 +131,7 @@
                 <p class=\"read_next\">".mylink("airnet-hotspot","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("airnet-hotspot","<img src=\"".$cesta."reference/angnetwork_hotspot.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\" />")."</p>
+                <p>".mylink("airnet-hotspot","<img src=\"".$cesta."reference/angnetwork_hotspot.png\" alt=\"Náhled ANG-Network Hotspot\" height=\"206\" width=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -145,7 +145,7 @@
                 <p class=\"read_next\">".mylink("airnet-interni","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("airnet-interni","<img src=\"".$cesta."reference/angnetwork_interni.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\" />")."</p>
+                <p>".mylink("airnet-interni","<img src=\"".$cesta."reference/angnetwork_interni.png\" alt=\"Náhled ANG-Network interní\" height=\"206\" width=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -159,7 +159,7 @@
                 <p class=\"read_next\">".mylink("pdprojekce","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("pdprojekce","<img src=\"".$cesta."reference/pdp.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\" />")."</p>
+                <p>".mylink("pdprojekce","<img src=\"".$cesta."reference/pdp.png\" alt=\"Náhled PDProjekce\" height=\"206\" width=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -173,7 +173,7 @@
                 <p class=\"read_next\">".mylink("stemax","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("stemax","<img src=\"".$cesta."reference/stemax.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\" />")."</p>
+                <p>".mylink("stemax","<img src=\"".$cesta."reference/stemax.png\" alt=\"Náhled Stemax\" height=\"206\" width=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -187,7 +187,7 @@
                 <p class=\"read_next\">".mylink("mathis","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("mathis","<img src=\"".$cesta."reference/mathis.png\" alt=\"Více o tomto projektu\" height=\"206\" width=\"206\" />")."</p>
+                <p>".mylink("mathis","<img src=\"".$cesta."reference/mathis.png\" alt=\"Náhled Mathis\" height=\"206\" width=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -202,7 +202,7 @@
                 <p class=\"read_next\">".mylink("krystal","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("krystal","<img src=\"".$cesta."reference/fa-krystal.png\" alt =\"Více o tomto projektu\" width=\"206\" height=\"206\" />")."</p>
+                <p>".mylink("krystal","<img src=\"".$cesta."reference/fa-krystal.png\" alt =\"Náhled Fa.Krystal\" width=\"206\" height=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -216,7 +216,7 @@
                 <p class=\"read_next\">".mylink("smsrealitni","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
-                <p>".mylink("smsrealitni","<img src=\"".$cesta."reference/smsrealitni.png\" alt =\"Více o tomto projektu\" width=\"206\" height=\"206\" />")."</p>
+                <p>".mylink("smsrealitni","<img src=\"".$cesta."reference/smsrealitni.png\" alt =\"Náhled smsrealitni.cz\" width=\"206\" height=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -242,12 +242,12 @@
               <div class=\"text\">
                 <h3 id=\"ref_airnet\">Airnet Group o.s.</h3>
                 <p class=\"link\"><a href=\"http://www.airnet-cz.net/\" title=\"Přejít na stránky Airnet Group\">www.airnet-cz.net</a></p>
-                <p class=\"short\"><strong>Kompletní realizace</strong>, <strong><a href=\"#logotyp_airnet\" title=\"Reference logotypu Airnet\">logotyp</a></strong>, srpen&nbsp;2007</p>
+                <p class=\"short\"><strong>Kompletní realizace</strong>, <strong>logotyp</strong>, srpen&nbsp;2007</p>
                 <p class=\"long\">Intranetové stránky určené pro komunitní počítačovou síť občanského sdružení Airnet Group. Web obsahuje rozsáhlou správu uživatelů, správu plateb a základní účetní systém. Důraz byl kladen především na funkčnost a spolehlivost.</p>
                 <p>Webové stránky jsou provozovány na vlastních serverech sdružení Airnet Group.</p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"http://www.airnet-cz.net/\" title=\"Přejít na stránky Airnet Group\"><img src=\"".$cesta."reference/airnet_206.png\" alt =\"Náhled: projekt Airnet Group\" width=\"206\" height=\"206\" /></a></p>
+                <p><a href=\"".$cesta."reference/airnet.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/airnet_206.png\" alt =\"Náhled: projekt Airnet Group\" width=\"206\" height=\"206\" /></a></p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -269,7 +269,7 @@
               <div class=\"text\">
                 <h3>Auta Míra</h3>
                 <p class=\"link\"><a href=\"".$cesta."reference/auta_mira.png\" title=\"Zobrazit velký náhled\">www.auta-mira.cz</a></p>
-                <p class=\"short\"><strong>Kompletní realizace</strong>, <strong><a href=\"#logotyp_auta_mira\" title=\"Reference logotypu Auta-Míra\">logotyp</a></strong>, červen&nbsp;2007</p>
+                <p class=\"short\"><strong>Kompletní realizace</strong>, <strong>logotyp</strong>, červen&nbsp;2007</p>
                 <p class=\"long\">Aktuální nabídka ojetých vozů autobazaru Auta-Míra. Nabízené vozy, jejich popis a fotogalerii si spravuje sám majitel autobazaru prostřednictvím jednoduchého administračního rozhraní. Při tvorbě stránek jsme se zaměřili na jednoduché ovládání a přehlednost.</p>
               </div>
               <div class=\"foto\">
@@ -295,7 +295,7 @@
               <div class=\"text\">
                 <h3>Krtkův ráj</h3>
                 <p class=\"link\"><a href=\"http://www.krtkuv-raj.cz/\" title=\"Přejít na stránky Krtkův ráj\">www.krtkuv-raj.cz</a></p>
-                <p class=\"short\"><strong>Redesign</strong>, <strong>kompletní realizace</strong>, <strong><a href=\"#logotyp_krtkuv_raj\" title=\"Reference logotypu Krtkův ráj\">logotyp</a></strong>, duben&nbsp;2007</p>
+                <p class=\"short\"><strong>Redesign</strong>, <strong>kompletní realizace</strong>, <strong>logotyp</strong>, duben&nbsp;2007</p>
                 <p class=\"long\">Prezentace je určena zájemcům o&nbsp;nákup, příslušenství a servis zahradní techniky. Stránky obsahují rozsáhlý katalog výrobků od více známých výrobců (Honda, VARI, Karsit, atd.).</p>
                 <p>Jedná se o přepracování původních graficky a technicky zastaralých stránek. Jednotlivé části katalogu byly sjednoceny a jsou nadále rozšiřovány.</p>
               </div>
