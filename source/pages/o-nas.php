@@ -37,6 +37,7 @@
             <p>K&nbsp;dosažení cílů využíváme své ".mylink("znalosti", "znalosti")." v&nbsp;oblasti webdesignu, kreativitu a zcela individuální přístup ke každému našemu klientovi.</p>
             <p>Naší vizí je poskytovat kvalitní služby v&nbsp;oblasti prezentace na internetu, <strong>získat tak dobré jméno</strong>, které bude v&nbsp;povědomí zákazníků i konkurence, a prosadit se na trhu.</p>
 
+            <div class=\"cleaner\"></div>
             <h2 id=\"nase-znacka\">Naše značka</h2>
             <p>Získejte více informací o ".mylink("nase-znacka", "naší značce").", která je základem pro náš jednotný grafický styl.</p>
           </div>".nl);
