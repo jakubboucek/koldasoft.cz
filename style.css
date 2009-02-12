@@ -427,6 +427,40 @@ p {  /* Horizontalni linky */
   background: url('/pictures/box_alert_simple_footer.gif') bottom center no-repeat;
 }
 
+/* member */
+.member {
+  background: url('/pictures/member_background.png') top center no-repeat;
+  width: 630; height: 189px;
+  padding: 1.2em 0 0 0;
+}
+
+.member {
+  background: url('/pictures/member_background.png') top center no-repeat;
+  width: 630; height: 189px;
+  padding: 46px 0 5px 0;
+  position: relative;
+  margin: 0;
+}
+
+.member h2 {
+  margin: 0; padding: 0;
+  position: absolute; top: 15px; left: 20px;
+}
+
+.member img {
+  position: absolute;
+  top: 44px; left: 11px;
+}
+
+#main .member p {
+  padding: 0 0 0 130px;
+  line-height: 1.4em;
+}
+
+#main .member ul {
+  padding: 6px 0 0 130px;
+}
+
 /* formular */
 
 form {
