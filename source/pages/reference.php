@@ -1,22 +1,26 @@
 <?php  //Reference
 
   echo("          <div class=\"text_box\">
+
+
+          <div class=\"float_box tip\">
+            <p class=\"title\"><strong>Mohlo by Vás zajímat</strong></p>
+            <ul>
+              <li>".mylink("o-nas")." - aneb kdo jsme a co děláme</li>
+              <li>".mylink("cenik")." - co Vás to bude stát?</li>
+              <li>".mylink("kontakt")." - zavolejte nám, nebo napište&hellip;</li>
+            </ul>
+            <div class=\"bottom\"></div>
+          </div>  
+
+
             <h1>$page_name</h1>
-              <p>Prohlédněte si naši dosavadní tvorbu a přesvědčete se o kvalitě naší práce. Každá práce byla tvořena po celou dobu dle našich nejosvědčenějších postupů a se zcela individuálním přístupem k zákazníkovi.</p>
-              <p class=\"read_next\">
-              ".mylink("o-nas")."<br />
-              ".mylink("cenik")."</p>
-<!--              <ul class=\"link_farm\">
-                <li>".mylink("reference", "Webové stránky - 2007", "rok_2007", "Webové stránky - 2007")."</li>
-                <li>".mylink("reference", "Webové stránky - 2006", "rok_2006", "Webové stránky - 2006")."</li>
-                <li>".mylink("reference", "Webové stránky - 2005", "rok_2005", "Webové stránky - 2005")."</li>
-                <li>".mylink("reference", "Grafické práce", "grafika", "Grafické práce")."</li>
-                <li>".mylink("reference", "Nedokončené projekty", "nedokoncene", "Nedokončené projekty")."</li>
-              </ul>  -->  
+              <p>Prohlédněte si naši dosavadní tvorbu a přesvědčte se o kvalitě naší práce. Každý projekt jsme tvořili dle našich nejosvědčenějších postupů, za plného využití našeho potenciálu a se zcela individuálním přístupem.</p>
+              <p><strong>Jsme hrdi na svoji práci</strong>, nemáme se za co stydět. Však, posuďte sami&hellip; Líbí se Vám naše práce?</p>
           </div>  
           <div class=\"text_box\">
-            <h2 id=\"rok_2008\">Webové stránky - 2008</h2>
-            <p>Výběr stránek spuštěných v roce 2008.</p>
+            <h2 id=\"rok_2008\">Webové stránky spuštěné v&nbsp;roce 2008</h2>
+            <p>Výběr webových stránek a projektů realizovaných během roku 2008.</p>
 
 
             <div class=\"reference\">
@@ -137,7 +141,7 @@
                 <h3 id=\"ref_angnetwork_interni\">".mylink("airnet-interni")."</h3>
                 <p class=\"short\">Interní stránky</p>
                 <p class=\"short\"><strong>Kompletní realizace</strong>, srpen&nbsp;2008</p>
-                <p class=\"long\">Pro firmu ANG-Network naše společnost kompletně realizovala interní stránky určené výhradně klientum. Jednoduché a logicky barevně uspořádané prvky stránek slouží klientům ke snadné orientaci v&nbsp;důležitých upozorněních a potřebných informacích.</p>
+                <p class=\"long\">Pro firmu ANG-Network naše společnost kompletně realizovala interní stránky určené výhradně klientům. Jednoduché a logicky barevně uspořádané prvky stránek slouží klientům ke snadné orientaci v&nbsp;důležitých upozorněních a potřebných informacích.</p>
                 <p class=\"read_next\">".mylink("airnet-interni","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
@@ -165,7 +169,7 @@
                 <h3 id=\"ref_stemax\">".mylink("stemax")."</h3>
                 <p class=\"short\">Projekt nebyl spuštěn.</p>
                 <p class=\"short\"><strong>Grafický návrh</strong>, červen&nbsp;2008</p>
-                <p class=\"long\">Grafický návrh s&nbsp;tématikou pasivníc a nízkoenergetických domů. Důraz byl kladen na přehlednost a příjemně působící vzhled stránek. Grafický návrh také v&nbsp;oranžové barvě (náhled se připravuje).</p>
+                <p class=\"long\">Grafický návrh s&nbsp;tématikou pasivních a nízkoenergetických domů. Důraz byl kladen na přehlednost a příjemně působící vzhled stránek. Grafický návrh také v&nbsp;oranžové barvě (náhled se připravuje).</p>
                 <p class=\"read_next\">".mylink("stemax","Více o tomto projektu")."</p>
               </div>
               <div class=\"foto\">
@@ -218,8 +222,8 @@
             </div>
           </div>  
           <div class=\"text_box\">
-            <h2 id=\"rok_2007\">Webové stránky - 2007</h2>
-            <p>Výběr stránek spuštěných v roce 2007.</p>
+            <h2 id=\"rok_2007\">Webové stránky spuštěné v&nbsp;roce 2007</h2>
+            <p>Výběr webových stránek a projektů realizovaných během roku 2007.</p>
 
             <div class=\"reference\">
               <div class=\"text\">
