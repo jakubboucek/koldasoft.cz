@@ -43,16 +43,17 @@ body {  /* Telo stranky */
 /***** Hlavicka *****/
 
 #header_background {  /* Pozadi bloku (presah grafiky) */
-  background: #55b047 url('/pictures/body_top_stripe.jpg') 0% 50% repeat-x; height: 164px;
+  background: #55b047 url('/pictures/body_top_stripe.jpg') top center repeat-x;
+  height: 164px;
 }
 
 #header_background #header {  /* Hlavicka */
-  background: url('/pictures/header_background.jpg') 50% 0% no-repeat;
+  background: url('/pictures/header_background.jpg') top center no-repeat;
 }
 
 #header .page {  /* Obsah hlavicky */
   height: 164px;
-  background: #ffffff url('/pictures/header_background.jpg') 50% 0% no-repeat;
+  background: #ffffff url('/pictures/header_background.jpg') top center no-repeat;
   overflow: hidden;
   position: relative;
 }
@@ -446,9 +447,20 @@ p {  /* Horizontalni linky */
 }
 
 #main .text_box .member p {
-  padding: 50px 0 5px 130px;
+  position: absolute;
+  top: 50px; left: 360px;
+  background: url('/pictures/uvozovky_bottom.gif') 6px 4px no-repeat;
+  width: 250px; height: 120px;
+  padding: 5px 10px 0px 10px;
+  text-indent: 1.4em;
+  font-style: italic;
+  border-left: 1px dotted #7fd275;
   line-height: 1.4em;
-  background: black;
+}
+
+#main .text_box .member .end {
+  background: url('/pictures/uvozovky_top.gif') 0 0 no-repeat;
+  width: 17px; height: 15px; float: right; margin: 0 25px 4px 0;
 }
 
 #main .text_box .member ul {
