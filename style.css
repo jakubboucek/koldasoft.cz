@@ -313,13 +313,13 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 }
 
 #footer .page {
-  background: #068500 url('/pictures/footer_stripe.gif') 0 0 repeat-x;
+  background: #099d00 url('/pictures/footer_stripe.gif') 0 0 repeat-x;
   min-height: 36px; _height: 36px;
 }
 
 #footer p {
   font-size: 0.9em;
-  margin: 0; padding: 1em .5em 0em .5em;
+  margin: 0; padding: 1.1em .5em 0em .5em;
 }
 
 #footer p, #footer a {color: #ffffff}  /* Odkaz v paticce */
