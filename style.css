@@ -319,7 +319,7 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 
 #footer p {
   font-size: 0.9em;
-  margin: 0; padding: .9em .5em 0em .5em;
+  margin: 0; padding: 1em .5em 0em .5em;
 }
 
 #footer p, #footer a {color: #ffffff}  /* Odkaz v paticce */
