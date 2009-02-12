@@ -49,7 +49,7 @@
             <h2 id=\"naplneni-obsahem\">Naplnění obsahem</h2>
             <p>Odladěné webové stránky jsou naplněny Vaším textem. V&nbsp;případě potřeby je text upraven dle potřeb ".mylink("optimalizace-pro-vyhledavace", "SEO – optimalizace pro vyhledávače").". Dále jsou vloženy Vaše fotografie, ceník, případná multimédia a další. Webová stránka tak získá finální vzhled.</p>
             <h2 id=\"domena-hosting\">Zřízení domény a hostingu</h2>
-            <p>Nyní je zřízena ".mylink("domeny-hosting", "doména a hosting").", dle Vašeho požadavku. ".mylink("domeny", "Doména")." je adresa Vaší webové stránky (např.: www.vasefirma.cz). ".mylink("hosting", "Hosting")." je místo, kde jsou Vaše stránky fyzicky uložené.</p>
+            <p>Nyní je zřízena ".mylink("domeny-hosting", "doména a hosting").", dle Vašeho požadavku. Doména je adresa Vaší webové stránky (např.: www.vasefirma.cz). Hosting je místo, kde jsou Vaše stránky fyzicky uložené.</p>
             <p>Tento bod je možné realizovat kdykoliv dříve, paralelně s&nbsp;některým z předchozích bodů. Pokud doménu již vlastníte, může být samozřejmě použita.</p>
             <h2 id=\"umisteni-zprovozneni\">Umístění a zprovoznění</h2>
             <p>Odladěné a obsahem naplněné stránky jsou umístěné na internet. <strong>Webové stránky jsou nyní přístupné všem uživatelům internetu.</strong></p>
