@@ -78,7 +78,7 @@ echo ("     <div id=\"contactform_form_box\">
           <div class=\"text_box\">            
           <div class=\"cleaner\"></div>
           </div>".nl);
-//if(!                 
+if(!App::getForm('contactform')) :                 
 ?>
 <script type="text/javascript">
   var contactform = {
@@ -100,3 +100,5 @@ echo ("     <div id=\"contactform_form_box\">
   }
   
 </script>
+<?php
+endif;
