@@ -9,7 +9,7 @@ body {  /* Telo stranky */
   font-size: .8em;
 }
 
-#hmenu, #hmenu h4, #footer .second, #breadcrumb h4, #skip_menu, .read_next, #middle .second {  /* Menu, nadpis menu, druha cast paticky, nadpis navigace, preskoceni, vice, sloupec v obsahove casti */
+#hmenu, #hmenu h4, #footer .second, #breadcrumb h4, #skip_menu, .read_next, #main .panel {  /* Menu, nadpis menu, druha cast paticky, nadpis navigace, preskoceni, vice, sloupec v obsahove casti */
   display: none;
 }
 
