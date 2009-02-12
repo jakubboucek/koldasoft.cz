@@ -5,11 +5,11 @@ body {  /* Telo stranky */
   font: .8em/1.3 arial, "Geneva CE", lucida, sans-serif;
 }
 
-#navbar, #footer {  /* Navigacni lista, paticka */
+#breadcrumb, #footer {  /* Navigacni lista, paticka */
   font-size: .8em;
 }
 
-#menu, #menu h4, #footer .second, #navbar h4, #skip_menu, .read_next, #middle .second {  /* Menu, nadpis menu, druha cast paticky, nadpis navigace, preskoceni, vice, sloupec v obsahove casti */
+#hmenu, #hmenu h4, #footer .second, #breadcrumb h4, #skip_menu, .read_next, #middle .second {  /* Menu, nadpis menu, druha cast paticky, nadpis navigace, preskoceni, vice, sloupec v obsahove casti */
   display: none;
 }
 
