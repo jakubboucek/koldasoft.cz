@@ -53,9 +53,8 @@
               <li>vyzkoušení práce v&nbsp;oboru a týmu</li>
               <li>v případě, že se spolupráce osvědčí, možnost dalšího osobního růstu</li>
             </ul>  
-            <h2 id=\"kontakt\">Kontakt</h2>
 
-          <div class=\"float_box left info\">
+          <div class=\"float_box info\">
             <div class=\"title\"><strong>Naše letáčky</strong></div>
             <p>Stáhněte si naše letáčky ve formátu PDF.</p>
             <ul>
@@ -66,6 +65,7 @@
           </div>  
 
 
+            <h2 id=\"kontakt\">Kontakt</h2>
             <ul>
               <li><strong>Mobil:</strong> 775&nbsp;77&nbsp;15&nbsp;10&nbsp;(".mylink("nas-tym", "Lucie Brandýská", "lucka", "Lucie Brandýská").", asistentka)</li>
               <li><strong>E-mail:</strong> <a href=\"mailto:job@koldasoft.cz\" title=\"Poslat E-mail\">job@koldasoft.cz</a></li>
