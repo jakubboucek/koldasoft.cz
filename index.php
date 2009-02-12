@@ -63,7 +63,6 @@
       </div>
       <div class=\"cleaner\"></div>
     </div>  
-    <hr />
     <div id=\"breadcrumb\">
       <div class=\"page\">
         <h4>Nacházíte se zde</h4>

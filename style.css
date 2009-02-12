@@ -372,7 +372,7 @@ p {  /* Horizontalni linky */
   float: right;
   position: relative;
   width: 290px;
-  background: url('/pictures/box_green_stripe.gif') 50% 0% repeat-y;
+  background: #e3f8d5 url('/pictures/box_green_stripe.gif') 50% 0% repeat-y;
   margin: .2em .2em .2em .6em;
   padding: 60px 0 12px 0;
 }
@@ -421,7 +421,7 @@ p {  /* Horizontalni linky */
 }
 
 .float_box.alert {
-  background: url('/pictures/box_red_stripe.gif') 50% 0% repeat-y;
+  background: #fadfdd url('/pictures/box_red_stripe.gif') 50% 0% repeat-y;
 }
 
 .float_box.alert .title strong {
