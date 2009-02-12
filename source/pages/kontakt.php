@@ -4,7 +4,7 @@
 
           <div class=\"float_box tip more\">
             <p class=\"title\"><strong>".mylink("nas-tym", "Lidé v týmu")."</strong></p>
-            <p>Hledáte někoho konkrétního? Potřebujete číslo nebo mailovou adresu? Rádi byste mluvili přímo s grafikem?</p>
+            <p>Hledáte někoho konkrétního? Potřebujete číslo nebo mailovou adresu? Rádi byste hovořili přímo s grafikem či programátorem?</p>
             <div class=\"bottom\"><p class=\"read_next\">".mylink("nas-tym", "Koukněte na náš tým")."</p></div>
           </div>  
 
@@ -29,7 +29,7 @@
             <h3>Pobočka Pardubice</h3>
             <p>třída&nbsp;Míru&nbsp;2800 (<a href=\"http://www.mapy.cz/#x=136163648@y=135773312@z=14@mm=ZP@ax=136165888@ay=135774592@at=Pal%C3%A1c%20Magnum@ad=Koldasoft,%20s.r.o\" title=\"Najít adresu na Mapy.cz\">mapa</a>)</p>
             <p>530&nbsp;02 Pardubice &ndash; Zelené Předměstí</p>
-            <p>Budova MAGNUM, 6. patro</p>
+            <p>Budova Magnum, 6. patro</p>
             <h3>Další kontaktní informace</h3>
             <p><strong>Telefon:</strong> 775&nbsp;77&nbsp;15&nbsp;00&nbsp;(".mylink("nas-tym", "Jiří Kolařík", "kolda", "Jiří Kolařík").", ředitel) a 775&nbsp;77&nbsp;15&nbsp;10&nbsp;(".mylink("nas-tym", "Lucie Brandýská", "lucka", "Lucie Brandýská").", asistentka)</p>
             <p><strong>E-mail:</strong> <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></p>
@@ -39,26 +39,39 @@
 
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Kontaktní formulář, aneb napište nám</strong></p>
+");
+
+if(!($form = App::getForm('contactform'))) 
+  $form = new Form;
+
+if(issetRequest('success'))
+  echo ("
+            <p>Vaše zpráva byla odeslána do společnosti Koldasoft, s.r.o.</p>
+            <p>Děkujeme.</p>
+");         
+elseif($form->isError()) {              
+  echo "
+  <div class=\"errorbox\">Formulář nebyl odeslán, protože došlo k těmto chybám:<ul><li>";              
+  echo implode('</li><li>', $form->getErrors());              
+  echo "</li></ul></div>";                          
+}          
+else {
+  echo ("
             <p>Chcete si domluvit nezávaznou schůzku? Rádi byste kalkulaci projektu? Nebo si jen potřebujete promluvit s&nbsp;někým, kdo Vám bude rozumět?</p>
             <p>Neváhejte se na nás obrátit v&nbsp;jakékoliv záležitosti. Rádi Vám odpovíme a poradíme.</p>
-");          
-  if($form = App::getForm('contactform')) {            
-    if($form->isError()) {              
-      echo "
-      <div class=\"errorbox\">Formulář nebyl odeslán, protože došlo k těmto chybám:<ul><li>";              
-      echo implode('</li><li>', $form->getErrors());              
-      echo "</li></ul></div>";                          
-    }          
-  }
-  else
-    $form = new Form;
+");         
+ 
+}  
   
   //Zde prosím nastylovat formulář
+if(!issetRequest('success'))
 echo ("     <div id=\"contactform_form_box\">
               <form action=\"\" method=\"post\" />  
                 <table class=\"formular\">
                   <tr><td colspan=\"2\"><input type=\"hidden\" name=\"action\" value=\"sendform\" /></td></tr>
                   <tr><td colspan=\"2\"><input type=\"hidden\" name=\"formid\" value=\"contactform\"/></td></tr>
+                  <tr><td colspan=\"2\"><input type=\"hidden\" name=\"referer\" value=\"kontakt\"/></td></tr>
+                  <tr><td colspan=\"2\"><input type=\"hidden\" name=\"successprm\" value=\"success\"/></td></tr>
                   <tr><th colspan=\"2\">Předmět:</th></tr>
                   <tr><td colspan=\"2\"><input type=\"input\" name=\"subject\" size=\"40\" value=\"{$form->getHtml('subject')}\" /></td></tr>
                   <tr><th colspan=\"2\">Zpráva:</th></tr>
@@ -72,13 +85,17 @@ echo ("     <div id=\"contactform_form_box\">
                 </table>
               </form>
             </div>
+");
+
+echo ("
             <div class=\"bottom\" id=\"contactform_form_more\"></div>
           </div>  
           </div>  
           <div class=\"text_box\">            
           <div class=\"cleaner\"></div>
           </div>".nl);
-if(!App::getForm('contactform')) :                 
+          
+if(!App::getForm('contactform') && !issetRequest('success')&& !issetRequest('nohidecontactform')) :                 
 ?>
 <script type="text/javascript">
   var contactform = {
@@ -89,8 +106,8 @@ if(!App::getForm('contactform')) :
   
   contactform.float.className += " more";
   contactform.form.className += " hidden";
-  contactform.more.innerHTML = "<p class=\"read_next fakelink\" >zaslat dotaz</p>";
-  contactform.more.onclick = show_contactform;
+  contactform.more.innerHTML = "<p class=\"read_next\" ><a href=\"?nohidecontactform\" onclick=\"show_contactform();return false;\">zaslat dotaz</a></p>";
+  //contactform.more.onclick = show_contactform;
   
   function show_contactform() {
     contactform.float.className = contactform.float.className.replace(/(^| )more( |$)/, '$2');

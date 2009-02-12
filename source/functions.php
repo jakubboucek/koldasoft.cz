@@ -17,3 +17,7 @@
     
     return $default;
   }
+  
+  function issetRequest($name) {
+    return isset($_REQUEST[$name]);
+  }

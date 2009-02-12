@@ -67,5 +67,14 @@ if(!$form->isError()) {
 }
 
 if(!$form->isError()) {
-  header("Location: /kontakt-odeslano/", TRUE, 303);
+  $formreferer = getRequest('referer');
+  $formsuccessprm =  getRequest('successprm');
+  header("Location: /$formreferer/?$formsuccessprm", TRUE, 303);
 }
+
+
+
+
+
+
+
