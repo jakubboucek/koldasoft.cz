@@ -233,7 +233,7 @@
                 <p class=\"long\">Středně rozsáhlé webové stránky společnosti Vrata&nbsp;a&nbsp;brány,&nbsp;s.r.o. prezentují nabídku produktů a služeb přehledným způsobem. Důraz byl kladen na jasný a stručný popis nabízeného produktu, doplněného o fotografie, ceník a odkaz na příslušenství i související produkty.</p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"http://www.vrataabrany.cz/\" title=\"Přejít na stránky Vrata a brány\"><img src=\"".$cesta."reference/vrataabrany_200.png\" alt =\"Náhled: projekt Vrata a brány\" width=\"200\" height=\"200\" /></a></p>
+                <p><a href=\"http://www.vrataabrany.cz/\" title=\"Přejít na stránky Vrata a brány\"><img src=\"".$cesta."reference/vrataabrany_206.png\" alt =\"Náhled: projekt Vrata a brány\" width=\"206\" height=\"206\" /></a></p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -247,7 +247,7 @@
                 <p>Webové stránky jsou provozovány na vlastních serverech sdružení Airnet Group.</p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"http://www.airnet-cz.net/\" title=\"Přejít na stránky Airnet Group\"><img src=\"".$cesta."reference/airnet_200.png\" alt =\"Náhled: projekt Airnet Group\" width=\"200\" height=\"200\" /></a></p>
+                <p><a href=\"http://www.airnet-cz.net/\" title=\"Přejít na stránky Airnet Group\"><img src=\"".$cesta."reference/airnet_206.png\" alt =\"Náhled: projekt Airnet Group\" width=\"206\" height=\"206\" /></a></p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -260,7 +260,7 @@
                 <p class=\"long\">Webové stránky informující širokou veřejnost o&nbsp;každoroční soutěži ohňostrojů &bdquo;Plzeňské ohýnky&ldquo;. Stručný obsah stránek je vyvážen bohatou grafikou.</p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"http://www.plzenske-ohynky.cz/\" title=\"Přejít na stránky Plzeňské ohýnky\"><img src=\"".$cesta."reference/plzenske_ohynky_200.png\" alt =\"Náhled: projekt Plzeňské ohýnky\" width=\"200\" height=\"200\" /></a></p>
+                <p><a href=\"http://www.plzenske-ohynky.cz/\" title=\"Přejít na stránky Plzeňské ohýnky\"><img src=\"".$cesta."reference/plzenske_ohynky_206.png\" alt =\"Náhled: projekt Plzeňské ohýnky\" width=\"206\" height=\"206\" /></a></p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -273,7 +273,7 @@
                 <p class=\"long\">Aktuální nabídka ojetých vozů autobazaru Auta-Míra. Nabízené vozy, jejich popis a fotogalerii si spravuje sám majitel autobazaru prostřednictvím jednoduchého administračního rozhraní. Při tvorbě stránek jsme se zaměřili na jednoduché ovládání a přehlednost.</p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"".$cesta."reference/auta_mira.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/auta_mira_200.png\" alt =\"Náhled: projekt Auta Míra\" width=\"200\" height=\"200\" /></a></p>
+                <p><a href=\"".$cesta."reference/auta_mira.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/auta_mira_206.png\" alt =\"Náhled: projekt Auta Míra\" width=\"206\" height=\"206\" /></a></p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -286,7 +286,7 @@
                 <p class=\"long\">Jednoduché prezentační stránky módního ochodu H-móda mají za úkol zviditelnit prodejnu na internetu a představit její nabídku. Grafický vzhled byl navržen s cílem zaujmout ženy a doplněn tématicky vhodnou grafikou.</p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"http://www.h-moda.cz/\" title=\"Přejít na stránky H-móda\"><img src=\"".$cesta."reference/h_moda_200.png\" alt =\"Náhled: projekt H-móda\" width=\"200\" height=\"200\" /></a></p>
+                <p><a href=\"http://www.h-moda.cz/\" title=\"Přejít na stránky H-móda\"><img src=\"".$cesta."reference/h_moda_206.png\" alt =\"Náhled: projekt H-móda\" width=\"206\" height=\"206\" /></a></p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -300,7 +300,7 @@
                 <p>Jedná se o přepracování původních graficky a technicky zastaralých stránek. Jednotlivé části katalogu byly sjednoceny a jsou nadále rozšiřovány.</p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"http://www.krtkuv-raj.cz/\" title=\"Přejít na stránky Krtkův ráj\"><img src=\"".$cesta."reference/krtkuv_raj_200.png\" alt =\"Náhled: projekt Krtkův ráj\" width=\"200\" height=\"200\" /></a></p>
+                <p><a href=\"http://www.krtkuv-raj.cz/\" title=\"Přejít na stránky Krtkův ráj\"><img src=\"".$cesta."reference/krtkuv_raj_206.png\" alt =\"Náhled: projekt Krtkův ráj\" width=\"206\" height=\"206\" /></a></p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -313,7 +313,7 @@
                 <p class=\"long\">Nová webová prezentace pražského autoservisu představuje nabídku služeb a jejich velmi stručný popis. Stránky jsou doplněny jednoduchou grafikou se zaměřením na obsah.</p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"http://www.autoservis-sk.cz/\" title=\"Přejít na stránky Autoservis S+K\"><img src=\"".$cesta."reference/autoservis_sk_200.png\" alt =\"Náhled: projekt Autoservis S+K\" width=\"200\" height=\"200\" /></a></p>
+                <p><a href=\"http://www.autoservis-sk.cz/\" title=\"Přejít na stránky Autoservis S+K\"><img src=\"".$cesta."reference/autoservis_sk_206.png\" alt =\"Náhled: projekt Autoservis S+K\" width=\"206\" height=\"206\" /></a></p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -327,7 +327,7 @@
                 <p>Webové stránky jsou vytvořeny ve dvou jazykových mutacích (česky, anglicky).</p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"http://www.zdravotniporadenstvi.cz/\" title=\"Přejít na stránky Zdravotní poradenství\"><img src=\"".$cesta."reference/zdravotniporadenstvi_200.png\" alt =\"Náhled: projekt Zdravotní poradenství\" width=\"200\" height=\"200\" /></a></p>
+                <p><a href=\"http://www.zdravotniporadenstvi.cz/\" title=\"Přejít na stránky Zdravotní poradenství\"><img src=\"".$cesta."reference/zdravotniporadenstvi_206.png\" alt =\"Náhled: projekt Zdravotní poradenství\" width=\"206\" height=\"206\" /></a></p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
