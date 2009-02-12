@@ -284,6 +284,11 @@ h4 {  /* Nadpis 4. urovne - sloupec */
   border: 0;  
 }
 
+.reference_text {  /* Popis reference */
+  width: 320px;
+  float: right;
+}
+
 .reference .text {  /* Popis reference */
   width: 400px;
   float: right;
@@ -438,7 +443,7 @@ p {  /* Horizontalni linky */
 
 #main .text_box .member h2 {
   margin: 0; padding: 0;
-  position: absolute; top: 15px; left: 20px;
+  position: absolute; top: 12px; left: 20px;
 }
 
 #main .text_box .member img {
