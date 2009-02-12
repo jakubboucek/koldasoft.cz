@@ -459,4 +459,6 @@ form {
 .fakelink {  /* Polozka seznamu */
   text-decoration: underline;
   color: #0c9100;
+  cursor:pointer;
+
 }
