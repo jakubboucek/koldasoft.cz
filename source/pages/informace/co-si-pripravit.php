@@ -39,7 +39,7 @@
               <li><strong>bankovní spojení</strong></li>
             </ul> 
             <p>Dále pak přístupová hesla ke službám (např. registrace v katalozích, doména, &hellip;).</p>
-            <p>Připravit vhodné ".mylink("domeny", "doménové jméno")." pro Vaše webové stránky, pokud jej již nevlastníte.</p>
+            <p>Připravit vhodné doménové jméno pro Vaše webové stránky, pokud jej již nevlastníte.</p>
             <h3>Firemní dokumenty a propagační materiály</h3>
             <p>Pro jednotnou prezentaci Vaší firmy si připravte např. grafický manuál s logem firmy, popř. stávající propagační materiály (vizitky, letáčky, &hellip;), které nám umožní vytvoření Vaší prezentace ve stejném duchu.</p>
             <h3>Konkurenční stránky</h3>
