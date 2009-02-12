@@ -51,14 +51,14 @@
       <div class=\"page\">
         <h4>Hlavní nabídka</h4>
         <ul>
-          <li><a".($open == "uvod" ? " class = \"active\"" : "")." href=\"$cesta\" title=\"Úvodní stránka\">Úvod</a></li>
-          <li>".mylink("nabidka-sluzeb", "Služby", "", "", (($open == "nabidka-sluzeb" || $page_info[4][0] == "nabidka-sluzeb") ? "active" : ""))."</li>
-          <li>".mylink("informace", "", "", "", (($open == "informace" || $page_info[4][0] == "informace") ? "active" : ""))."</li>
-          <li>".mylink("znalosti", "", "", "", (($open == "znalosti" || $page_info[4][0] == "znalosti") ? "active" : ""))."</li>
-          <li>".mylink("reference", "", "", "", (($open == "reference" || $page_info[4][0] == "reference") ? "active" : ""))."</li>
-          <li>".mylink("cenik", "", "", "", (($open == "cenik" || $page_info[4][0] == "cenik") ? "active" : ""))."</li>
-          <li>".mylink("o-nas", "", "", "", (($open == "o-nas" || $page_info[4][0] == "o-nas") ? "active" : ""))."</li>
-          <li>".mylink("kontakt", "", "", "", (($open == "kontakt" || $page_info[4][0] == "kontakt") ? "last active" : "last"))."</li>
+          <li".($page_type == "uvod" ? " class=\"active\"" : "")."><a href=\"$cesta\" title=\"Úvodní stránka\">Úvod</a></li>
+          <li".($page_type == "nabidka-sluzeb" ? " class=\"active\"" : "").">".mylink("nabidka-sluzeb", "Služby")."</li>
+          <li".($page_type == "informace" ? " class=\"active\"" : "").">".mylink("informace")."</li>
+          <li".($page_type == "znalosti" ? " class=\"active\"" : "").">".mylink("znalosti")."</li>
+          <li".($page_type == "reference" ? " class=\"active\"" : "").">".mylink("reference")."</li>
+          <li".($page_type == "cenik" ? " class=\"active\"" : "").">".mylink("cenik")."</li>
+          <li".($page_type == "o-nas" ? " class=\"active\"" : "").">".mylink("o-nas")."</li>
+          <li".($page_type == "kontakt" ? " class=\"last active\"" : "lastlast").">".mylink("kontakt")."</li>
         </ul>
       </div>
       <div class=\"cleaner\"></div>
