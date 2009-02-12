@@ -41,7 +41,7 @@
         $found_j = 0;  //Nulovani pom. prom.  
         For($j = 0; $j < count($all_page_info); $j++)  //Cyklus projde vsechny stranky (hleda se "potomek")
         {
-          If($all_page_info[$j][4][0] == $page_info[4][0] && isset($all_page_info[$j][4][1]) && $all_page_info[$i][0] == $all_page_info[$j][4][1] && ($all_page_info[$j][4][1] == $page_info[0] || $all_page_info[$j][4][1] == $page_info[4][1]))  //Pokud se potomek nasel (cesta zanoreni je shodna)
+          If($all_page_info[$j][4][0] == $page_info[4][0] && isset($all_page_info[$j][4][1]) && $all_page_info[$i][0] == $all_page_info[$j][4][1] && ($all_page_info[$j][4][1] == $page_info[0] ||     isset($page_info[4][1]) &&    ($all_page_info[$j][4][1] == $page_info[4][1])      ))  //Pokud se potomek nasel (cesta zanoreni je shodna)
           {
             If(!$found_j)  //Pokud dosud nebylo nalezeno
             {
