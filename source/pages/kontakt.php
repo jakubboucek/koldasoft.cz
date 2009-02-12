@@ -37,15 +37,10 @@
             <p>Neváhejte také kontaktovat kohokoliv z&nbsp;".mylink("nas-tym", "našeho týmu").".</p>
             <h3></h3>
 
-          <div class=\"float_box left mail more\">
+          <div class=\"float_box left mail more\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Kontaktní formulář, aneb napište nám</strong></p>
             <p>Chcete si domluvit nezávaznou schůzku? Rádi byste kalkulaci projektu? Nebo si jen potřebujete promluvit s&nbsp;někým, kdo Vám bude rozumět?</p>
             <p>Neváhejte se na nás obrátit v&nbsp;jakékoliv záležitosti. Rádi Vám odpovíme a poradíme.</p>
-            <div class=\"bottom\"><p class=\"read_next\"><a href=\"#\">zaslat dotaz</a></p></div>
-          </div>  
-          </div>  
-          <div class=\"text_box\">            
-          <div class=\"cleaner\"></div>
 ");          
   if($form = App::getForm('contactform')) {            
     if($form->isError()) {              
@@ -59,24 +54,32 @@
     $form = new Form;
   
   //Zde prosím nastylovat formulář
-echo ("
-            <form action=\"\" method=\"post\" />  
-              <table class=\"formular\">
-                <tr><td colspan=\"2\"><input type=\"hidden\" name=\"action\" value=\"sendform\" /></td></tr>
-                <tr><td colspan=\"2\"><input type=\"hidden\" name=\"formid\" value=\"contactform\"/></td></tr>
-                <tr><th colspan=\"2\">Předmět:</th></tr>
-                <tr><td colspan=\"2\"><input type=\"input\" name=\"subject\" size=\"30\" value=\"{$form->getHtml('subject')}\" /></td></tr>
-                <tr><th colspan=\"2\">Zpráva:</th></tr>
-                <tr><td colspan=\"2\"><textarea name=\"message\" cols=\"40\" rows=\"8\">{$form->getHtml('message')}</textarea></td></tr>
-                <tr><th colspan=\"2\">Jméno:</th></tr>
-                <tr><td colspan=\"2\"><input type=\"input\" name=\"name\" size=\"49\" value=\"{$form->getHtml('name')}\" /></td></tr>
-                <tr><th>E-mail:</th><th>Telefon:</th></tr>
-                <tr><td><input type=\"input\" name=\"mail\" size=\"20\" value=\"{$form->getHtml('mail')}\" /></td>
-                <td><input type=\"input\" name=\"phone\" size=\"20\" value=\"{$form->getHtml('phone')}\" /></td></tr>
-                <tr><th colspan=\"2\"><input type=\"submit\" value=\"Odeslat\" /></th></tr>
-              </table>
-            </form>
-");
-
-echo ("          </div>".nl);
-                  
+echo ("     <div id=\"contactform_form_box\">
+              <form action=\"\" method=\"post\" />  
+                <table class=\"formular\">
+                  <tr><td colspan=\"2\"><input type=\"hidden\" name=\"action\" value=\"sendform\" /></td></tr>
+                  <tr><td colspan=\"2\"><input type=\"hidden\" name=\"formid\" value=\"contactform\"/></td></tr>
+                  <tr><th colspan=\"2\">Předmět:</th></tr>
+                  <tr><td colspan=\"2\"><input type=\"input\" name=\"subject\" size=\"30\" value=\"{$form->getHtml('subject')}\" /></td></tr>
+                  <tr><th colspan=\"2\">Zpráva:</th></tr>
+                  <tr><td colspan=\"2\"><textarea name=\"message\" cols=\"40\" rows=\"8\">{$form->getHtml('message')}</textarea></td></tr>
+                  <tr><th colspan=\"2\">Jméno:</th></tr>
+                  <tr><td colspan=\"2\"><input type=\"input\" name=\"name\" size=\"49\" value=\"{$form->getHtml('name')}\" /></td></tr>
+                  <tr><th>E-mail:</th><th>Telefon:</th></tr>
+                  <tr><td><input type=\"input\" name=\"mail\" size=\"20\" value=\"{$form->getHtml('mail')}\" /></td>
+                  <td><input type=\"input\" name=\"phone\" size=\"20\" value=\"{$form->getHtml('phone')}\" /></td></tr>
+                  <tr><th colspan=\"2\"><input type=\"submit\" value=\"Odeslat\" /></th></tr>
+                </table>
+              </form>
+            </div>
+            <div class=\"bottom\"><p class=\"read_next fakelink\" id=\"contactform_form_box\"><span class=\"\">zaslat dotaz</span></p></div>
+          </div>  
+          </div>  
+          <div class=\"text_box\">            
+          <div class=\"cleaner\"></div>
+          </div>".nl);
+//if(!                 
+?>
+<script type="text/javascript">
+  
+</script>
