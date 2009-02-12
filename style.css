@@ -458,9 +458,8 @@ p {  /* Horizontalni linky */
   line-height: 1.4em;
 }
 
-#main .text_box .member .end {
-  background: url('/pictures/uvozovky_top.gif') 0 0 no-repeat;
-  width: 17px; height: 15px; float: right; margin: 0 25px 4px 0;
+#main .text_box .member h2 em {
+  font-size: .85em;
 }
 
 #main .text_box .member ul {
