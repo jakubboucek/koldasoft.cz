@@ -37,7 +37,7 @@
             <p>Neváhejte také kontaktovat kohokoliv z&nbsp;".mylink("nas-tym", "našeho týmu").".</p>
             <h3></h3>
 
-          <div class=\"float_box left mail more\" id=\"contactform_float_box\">
+          <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Kontaktní formulář, aneb napište nám</strong></p>
             <p>Chcete si domluvit nezávaznou schůzku? Rádi byste kalkulaci projektu? Nebo si jen potřebujete promluvit s&nbsp;někým, kdo Vám bude rozumět?</p>
             <p>Neváhejte se na nás obrátit v&nbsp;jakékoliv záležitosti. Rádi Vám odpovíme a poradíme.</p>
@@ -72,7 +72,7 @@ echo ("     <div id=\"contactform_form_box\">
                 </table>
               </form>
             </div>
-            <div class=\"bottom\"><p class=\"read_next fakelink\" id=\"contactform_form_box\"><span class=\"\">zaslat dotaz</span></p></div>
+            <div class=\"bottom\" id=\"contactform_form_more\"></div>
           </div>  
           </div>  
           <div class=\"text_box\">            
@@ -81,5 +81,22 @@ echo ("     <div id=\"contactform_form_box\">
 //if(!                 
 ?>
 <script type="text/javascript">
+  var contactform = {
+    float: document.getElementById('contactform_float_box'),
+    form: document.getElementById('contactform_form_box'),
+    more: document.getElementById('contactform_form_more')
+  }
+  
+  contactform.float.className += " more";
+  contactform.form.className += " hidden";
+  contactform.more.innerHTML = "<p class=\"read_next fakelink\" >zaslat dotaz</p>";
+  contactform.more.onclick = show_contactform;
+  
+  function show_contactform() {
+    contactform.float.className = contactform.float.className.replace(/(^| )more( |$)/, '$2');
+    contactform.form.className = contactform.form.className.replace(/(^| )hidden( |$)/, '$2');
+    contactform.more.innerHTML = "";
+    contactform.more.onclick = null;
+  }
   
 </script>
