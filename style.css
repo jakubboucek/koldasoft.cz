@@ -143,11 +143,11 @@ body {  /* Telo stranky */
 }
 
 #hmenu a:hover, #hmenu a:active, #hmenu a:focus {  /* Aktivni polozka menu */
-  background: #47d713 url('/pictures/hmenu_button_normal.jpg') center bottom no-repeat;
+  background: #25a70f url('/pictures/hmenu_button_normal.jpg') center bottom no-repeat;
 }
 
 #hmenu .active a, #hmenu .active a:hover, #hmenu .active a:active, #hmenu .active a:focus {  /* Aktivni polozka menu */
-  background: #47d713 url('/pictures/hmenu_button_active.jpg') center bottom no-repeat;
+  background: #25a70f url('/pictures/hmenu_button_active.jpg') center bottom no-repeat;
 }
 
 #hmenu h4, #breadcrumb h4 {  /* skryte nadpisy */
