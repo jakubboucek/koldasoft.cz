@@ -23,7 +23,7 @@
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_kolarik_v2.1.pdf\" title=\"Vizitka Jiří Kolařík (formát PDF, 32 kB)\">Vizitka</a></li>
                 <li>".(mylink("jiri-kolarik", "Více informací"))."</li>
               </ul>
-              <p>Chcete obchodovat? Chcete realizovat zajímavý projekt? Chcete se prosadit? Tomu říkám výzva a nic pro mě není překážkou...<div class=\"end\">&nbsp;</div></p>
+              <p>Chcete obchodovat? Chcete realizovat zajímavý projekt? Chcete se prosadit? Tomu říkám výzva a nic pro mě není překážkou...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div class=\"end\">&nbsp;</div></p>
             </div>
 
             <div class=\"member\">
@@ -36,7 +36,7 @@
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_brandyska_v2.1.pdf\" title=\"Vizitka Radek Věchet (formát PDF, 32 kB)\">Vizitka</a></li>
                 <li>".(mylink("lucie-brandyska", "Více informací"))."</li>
               </ul>
-              <p>Fakturu připravím na počkání, zázraky do druhého dne! A kafíčko k&nbsp;tomu...<div class=\"end\">&nbsp;</div></p>
+              <p>Fakturu připravím na počkání, zázraky do druhého dne! A kafíčko k&nbsp;tomu...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div class=\"end\">&nbsp;</div></p>
             </div>
             <div class=\"cleaner\"></div>
             <div class=\"member\">
@@ -50,7 +50,7 @@
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_vechet_v2.1.pdf\" title=\"Vizitka Radek Věchet (formát PDF, 32 kB)\">Vizitka</a></li>
                 <li>".(mylink("radek-vechet", "Více informací"))."</li>
               </ul>
-              <p>Nalezení kompromisu mezi krásným návrhem a jeho techickým provedením je mojí posedlostí.<div class=\"end\">&nbsp;</div></p>
+              <p>Nalezení kompromisu mezi krásným návrhem a jeho techickým provedením je mojí posedlostí.<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div class=\"end\">&nbsp;</div></p>
             </div>
             <div class=\"cleaner\"></div>
             <div class=\"member\">
@@ -64,7 +64,7 @@
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_boucek_v2.1.pdf\" title=\"Vizitka Jakub Bouček (formát PDF, 32 kB)\">Vizitka</a></li>
                 <li>".(mylink("jakub-boucek", "Více informací"))."</li>
               </ul>
-              <p>Jestli je někde něco, co se dá naprogramovat, pusťe mě k&nbsp;tomu. Není nic, do čeho bych nedokázal napsat alespoň ".'$kousek_kodu'.".<div class=\"end\">&nbsp;</div></p>
+              <p>Jestli je někde něco, co se dá naprogramovat, pusťe mě k&nbsp;tomu. Není nic, do čeho bych nedokázal napsat alespoň ".'$kousek_kodu'.".<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div class=\"end\">&nbsp;</div></p>
             </div>
             <div class=\"cleaner\"></div>
             <div class=\"member\">
@@ -77,7 +77,7 @@
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_drahorad_v2.1.pdf\" title=\"Vizitka Jiří Drahorád (formát PDF, 32 kB)\">Vizitka</a></li>
                 <li>".(mylink("jiri-drahorad", "Více informací"))."</li>
               </ul>
-              <p>Mám rád lidi kolem sebe. Mám rád, když jich je alespoň 64: krásných a mladých žen. Mám rád svůj harém...<div class=\"end\">&nbsp;</div></p>
+              <p>Mám rád lidi kolem sebe. Mám rád, když jich je alespoň 64: krásných a mladých žen. Mám rád svůj harém&hellip;<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div class=\"end\">&nbsp;</div></p>
             </div>
           </div>".nl);
 

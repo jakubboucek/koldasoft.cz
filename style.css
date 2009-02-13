@@ -62,6 +62,7 @@ body {  /* Telo stranky */
   position: absolute;
   top: 28px; left: 29px;
   border: 0;
+  color: #036800;
 }
 
 #change { /* hlavicka - menici se obrazek */
@@ -624,12 +625,18 @@ p {  /* Horizontalni linky */
 #main .text_box .member p {
   position: absolute;
   top: 50px; left: 385px;
-  background: url('/pictures/uvozovky_bottom.gif') 90% 80% no-repeat;
   width: 225px; height: 120px;
   padding: 5px 10px 0px 10px;
   text-indent: 2em;
   font-style: italic;
 }
+
+#main .text_box .member .cite {
+  background: url('/pictures/uvozovky_bottom.gif') 90% 100% no-repeat;
+  margin: 10px;
+
+}
+
 
 #main .text_box .member h2 em {
   font-size: .85em;
