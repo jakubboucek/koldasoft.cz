@@ -458,6 +458,10 @@ p {  /* Horizontalni linky */
   background: url('/pictures/box_mailto_simple_footer.png') bottom center no-repeat;
 }
 
+.float_box.mail input, .float_box.mail textarea {
+  background: url('/pictures/form_input_background.gif') 0 0 repeat-x;
+}
+
 /* otaznik */
 .float_box.alert .title {
   background: url('/pictures/box_red_header.gif') 50% 0% no-repeat;
