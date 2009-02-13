@@ -390,13 +390,14 @@ p {  /* Horizontalni linky */
 .float_box .bottom {
   position: absolute;
   left: 0px; bottom: 0px;
-  width: 100%; min-height: 10px; _height: 10px;
+  width: 100%; 
+  min-height: 10px; _height: 10px;
   background: url('/pictures/box_green_simple_footer.gif') bottom center no-repeat;
   padding-bottom: .1em;
 }
 
 .float_box.more .bottom {
-  min-height: 48px; _height: 48px;
+  min-height: 40px; _height: 48px;
   background: url('/pictures/box_green_footer.gif') bottom center no-repeat;
 }
 
@@ -414,7 +415,7 @@ p {  /* Horizontalni linky */
 }
 
 .float_box.more {
-  padding: 58px 0 54px 0;
+  padding: 58px 0 30px 0;
 }
 
 #main .float_box ul {
@@ -479,21 +480,30 @@ p {  /* Horizontalni linky */
   background: #fadfdd url('/pictures/box_red_stripe.gif') top center repeat-y;
 }
 
-.float_box.alert .title strong {
-  color: #993900;
+.float_box.alert .title strong, #main .float_box.alert a {
+  color: #bf492e;
+}
+
+#main .float_box.alert a:hover {
+  color: #751e0a;
 }
 
 .float_box.alert .bottom {
-  background: url('/pictures/box_alert_simple_footer.gif') bottom center no-repeat;
+  background: url('/pictures/box_red_simple_footer.gif') bottom center no-repeat;
 }
 
 .float_box.alert.more .bottom {
-  background: url('/pictures/box_alert_footer.gif') bottom center no-repeat;
+  /*background: url('/pictures/box_red_footer.gif') bottom center no-repeat;*/
 }
 
 #main .float_box.alert li {  /* Polozka seznamu */
   background: url('/pictures/bullet_level_01_red.gif') 0 .6em no-repeat;
 }
+
+#main .float_box.alert .read_next a {
+  background: url('/pictures/icon_more_red.gif') no-repeat scroll 0 55%;
+}
+
 /* Tip - modry box */
 .float_box.tip .title {
   background: url('/pictures/box_blue_header.gif') top center no-repeat;
@@ -503,8 +513,12 @@ p {  /* Horizontalni linky */
   background: #cfeaf7 url('/pictures/box_blue_stripe.gif') top center repeat-y;
 }
 
-.float_box.tip .title strong {
-  color: blue;
+.float_box.tip .title strong, #main .float_box.tip a {
+  color: #2e59bf;
+}
+
+#main .float_box.tip a:hover {
+  color: #17316e;
 }
 
 .float_box.tip .bottom {
@@ -512,12 +526,17 @@ p {  /* Horizontalni linky */
 }
 
 .float_box.tip.more .bottom {
-  background: url('/pictures/box_blue_footer.gif') bottom center no-repeat;
+  /* background: url('/pictures/box_blue_footer.gif') bottom center no-repeat; */
 }
 
 #main .float_box.tip li {  /* Polozka seznamu */
   background: url('/pictures/bullet_level_01_blue.gif') 0 .6em no-repeat;
 }
+
+#main .float_box.tip .read_next a {
+  background: url('/pictures/icon_more_blue.gif') no-repeat scroll 0 55%;
+}
+
 /* info - fialovy box */
 .float_box.info .title {
   background: url('/pictures/box_violet_header.gif') top center no-repeat;
@@ -527,8 +546,12 @@ p {  /* Horizontalni linky */
   background: #e7d5f1 url('/pictures/box_violet_stripe.gif') top center repeat-y;
 }
 
-.float_box.info .title strong {
-  color: navy;
+.float_box.info .title strong, #main .float_box.info a {
+  color: #aa43a8;
+}
+
+#main .float_box.info a:hover {
+  color: #561055;
 }
 
 .float_box.info .bottom {
@@ -536,12 +559,17 @@ p {  /* Horizontalni linky */
 }
 
 .float_box.info.more .bottom {
-  background: url('/pictures/box_violet_footer.gif') bottom center no-repeat;
+  /*background: url('/pictures/box_violet_footer.gif') bottom center no-repeat;*/
 }
 
 #main .float_box.info li {  /* Polozka seznamu */
   background: url('/pictures/bullet_level_01_violet.gif') 0 .6em no-repeat;
 }
+
+#main .float_box.info .read_next a {
+  background: url('/pictures/icon_more_violet.gif') no-repeat scroll 0 55%;
+}
+
 /* otazka - zluty box */
 .float_box.question .title {
   background: url('/pictures/box_yellow_header.gif') top center no-repeat;
@@ -551,8 +579,12 @@ p {  /* Horizontalni linky */
   background: #fff3ba url('/pictures/box_yellow_stripe.gif') top center repeat-y;
 }
 
-.float_box.question .title strong {
-  color: navy;
+.float_box.question .title strong, #main .float_box.question a {
+  color: #a88a01;
+}
+
+#main .float_box.question a:hover {
+  color: #664600;
 }
 
 .float_box.question .bottom {
@@ -560,12 +592,17 @@ p {  /* Horizontalni linky */
 }
 
 .float_box.question.more .bottom {
-  background: url('/pictures/box_yellow_footer.gif') bottom center no-repeat;
+  /*background: url('/pictures/box_yellow_footer.gif') bottom center no-repeat;*/
 }
 
 #main .float_box.question li {  /* Polozka seznamu */
   background: url('/pictures/bullet_level_01_yellow.gif') 0 .6em no-repeat;
 }
+
+#main .float_box.question .read_next a {
+  background: url('/pictures/icon_more_yellow.gif') no-repeat scroll 0 55%;
+}
+
 /* member */
 #main .text_box .member {
   background: url('/pictures/member_background.png') top center no-repeat;
@@ -592,7 +629,6 @@ p {  /* Horizontalni linky */
   padding: 5px 10px 0px 10px;
   text-indent: 2em;
   font-style: italic;
-
 }
 
 #main .text_box .member h2 em {
