@@ -65,7 +65,7 @@ body {  /* Telo stranky */
 }
 
 #change { /* hlavicka - menici se obrazek */
-  width: 680px;
+  width: 670px;
   height: 157px;
   position: absolute;
   top: 0; right: 0;
@@ -73,6 +73,36 @@ body {  /* Telo stranky */
 
 .mapa-webu #change  {
   background: url('/pictures/headers/mapa_webu.jpg') top right no-repeat;
+}
+.znalosti #change  {
+  background: url('/pictures/headers/znalosti.jpg') top right no-repeat;
+}
+.o-nas #change  {
+  background: url('/pictures/headers/o_nas.jpg') top right no-repeat;
+}
+.cenik #change  {
+  background: url('/pictures/headers/cenik.jpg') top right no-repeat;
+}
+.informace #change  {
+  background: url('/pictures/headers/informace.jpg') top right no-repeat;
+}
+.job #change  {
+  background: url('/pictures/headers/job.jpg') top right no-repeat;
+}
+.kontakt #change  {
+  background: url('/pictures/headers/kontakt.jpg') top right no-repeat;
+}
+.partneri #change  {
+  background: url('/pictures/headers/partneri.jpg') top right no-repeat;
+}
+.pristupnost #change  {
+  background: url('/pictures/headers/pristupnost.jpg') top right no-repeat;
+}
+.reference #change  {
+  background: url('/pictures/headers/reference.jpg') top right no-repeat;
+}
+.nabidka-sluzeb #change  {
+  background: url('/pictures/headers/sluzby.jpg') top right no-repeat;
 }
 
 #skip_menu {  /* Preskoceni menu */
@@ -109,12 +139,12 @@ body {  /* Telo stranky */
   overflow: hidden;
 }
 
-#hmenu .active {  /* Aktivni polozka menu */
-  background: #47d713 url('/pictures/hmenu_button_active.jpg') center bottom no-repeat;
+#hmenu a:hover, #hmenu a:active, #hmenu a:focus {  /* Aktivni polozka menu */
+  background: #47d713 url('/pictures/hmenu_button_normal.jpg') center bottom no-repeat;
 }
 
-#hmenu a:hover, #hmenu a:active, #hmenu a:focus, #hmenu .active a:hover, #hmenu .active a:active, #hmenu .active a:focus {  /* Aktivni polozka menu */
-  background: #47d713 url('/pictures/hmenu_button_normal.jpg') center bottom no-repeat;
+#hmenu .active a, #hmenu .active a:hover, #hmenu .active a:active, #hmenu .active a:focus {  /* Aktivni polozka menu */
+  background: #47d713 url('/pictures/hmenu_button_active.jpg') center bottom no-repeat;
 }
 
 #hmenu h4, #breadcrumb h4 {  /* skryte nadpisy */
