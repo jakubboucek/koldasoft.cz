@@ -208,5 +208,12 @@
 
   //O nas/Nas tym
   my_db_add_line("source/page.db", array("jiri-kolarik", "Jiří Kolařík", "Jiří Kolařík", "Jiří Kolařík", array("o-nas", "nas-tym")));
-  */
+  my_db_add_line("source/page.db", array("lucie-brandyska", "Lucie Brandýská", "Lucie Brandýská", "Lucie Brandýská", array("o-nas", "nas-tym")));
+  my_db_add_line("source/page.db", array("radek-vechet", "Radek Věchet", "Radek Věchet", "Radek Věchet", array("o-nas", "nas-tym")));
+  my_db_add_line("source/page.db", array("jakub-boucek", "Jakub Bouček", "Jakub Bouček", "Jakub Bouček", array("o-nas", "nas-tym")));
+  my_db_add_line("source/page.db", array("jiri-drahorad", "Jiří Drahorád", "Jiří Drahorád", "Jiří Drahorád", array("o-nas", "nas-tym")));
+  
+*/  
+  
+  
   
