@@ -2,7 +2,7 @@
 
   echo("          <div class=\"text_box\">
             <h1>$page_name</h1>
-            <p>Nabízíme Vám komplexní služby v&nbsp;oblasti ".mylink("tvorba", "prezentace na internetu")." a ".mylink("graficke-prace", "grafických prací").". <strong>Stačí Vám pouze nápad a odhodlání</strong>, vše ostatní již zařídíme my. Váš nápad převedeme do skutečnosti a vytvoříme Vám tak kvalitní prezentaci na internetu, doplněnou čistou a nápaditou grafikou. Dále Vám vytvoříme firemní grafický styl se vším, co budete potřebovat. Zejména se jedná o logo, vizitky, tiskoviny, reklamní letáčky a další.</p>
+            <p>Nabízíme Vám komplexní služby v&nbsp;oblasti ".mylink("tvorba", "prezentace na internetu")." a ".mylink("graficke-prace", "grafických prací").". Stačí Vám pouze nápad a odhodlání, vše ostatní již zařídíme my. Váš nápad převedeme do skutečnosti a vytvoříme Vám tak kvalitní prezentaci na internetu, doplněnou čistou a nápaditou grafikou. Dále Vám vytvoříme firemní grafický styl se vším, co budete potřebovat. Zejména se jedná o logo, vizitky, tiskoviny, reklamní letáčky a další.</p>
             <p>Rádi Vám poskytneme kteroukoliv službu z&nbsp;naší nabídky samostatně. Můžete tak například požadovat pouze grafický návrh a stránky si naprogramovat sami.</p>
           </div>  
           <div class=\"text_box\">
