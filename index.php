@@ -106,7 +106,7 @@
   { 
     echo("          <div class=\"box minireference\">
             <h4>Poslední reference</h4>
-            <p>".mylink("reference", "<img src=\"".$cesta."reference/psa_170.png\" alt=\"Náhled: projekt Pro Sport Activities\" width=\"170\" height=\"170\" />", "ref_psa", "Pro Sport Activities")."</p>
+            <p>".mylink("pro-sport-activities", "<img src=\"".$cesta."reference/psa/box_panel.png\" alt=\"Náhled: projekt Pro Sport Activities\" width=\"174\" height=\"174\" />")."</p>
             <p>Pro Sport Activities, 2008<br /><a href=\"http://www.pro-sport.cz/\" title=\"Přejít na stránky Pro Sport Activities\">www.pro-sport.cz</a></p>
             <p class=\"read_next\">".mylink("reference", "Další reference&hellip;")."</p>          
           </div>".nl);
@@ -205,4 +205,8 @@
   my_db_add_line("source/page.db", array("proc-zvolit-koldasoft", "Proč zvolit Koldasoft?", "Proč zvolit Koldasoft?", " Proč zvolit Koldasoft?", array("o-nas")));
   my_db_add_line("source/page.db", array("nase-znacka", "Naše značka", "Naše značka", " Naše značka", array("o-nas")));
 
-*/
+
+  //O nas/Nas tym
+  my_db_add_line("source/page.db", array("jiri-kolarik", "Jiří Kolařík", "Jiří Kolařík", "Jiří Kolařík", array("o-nas", "nas-tym")));
+  */
+  
