@@ -95,7 +95,7 @@ body {  /* Telo stranky */
 .partneri #change  {
   background: url('/pictures/headers/partneri.jpg') top right no-repeat;
 }
-.pristupnost #change  {
+.prohlaseni-o-pristupnosti #change  {
   background: url('/pictures/headers/pristupnost.jpg') top right no-repeat;
 }
 .reference #change  {
