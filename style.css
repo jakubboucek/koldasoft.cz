@@ -462,13 +462,13 @@ p {  /* Horizontalni linky */
   background: url('/pictures/form_input_background.gif') 0 0 repeat-x;
 }
 
-/* otaznik */
+/* cerveny box */
 .float_box.alert .title {
-  background: url('/pictures/box_red_header.gif') 50% 0% no-repeat;
+  background: url('/pictures/box_red_header.gif') top center no-repeat;
 }
 
 .float_box.alert {
-  background: #fadfdd url('/pictures/box_red_stripe.gif') 50% 0% repeat-y;
+  background: #fadfdd url('/pictures/box_red_stripe.gif') top center repeat-y;
 }
 
 .float_box.alert .title strong {
@@ -479,8 +479,86 @@ p {  /* Horizontalni linky */
   background: url('/pictures/box_alert_simple_footer.gif') bottom center no-repeat;
 }
 
-/* member */
+.float_box.alert.more .bottom {
+  background: url('/pictures/box_alert_footer.gif') bottom center no-repeat;
+}
 
+#main .float_box.alert li {  /* Polozka seznamu */
+  background: url('/pictures/bullet_level_01_red.gif') 0 .6em no-repeat;
+}
+/* Tip - modry box */
+.float_box.tip .title {
+  background: url('/pictures/box_blue_header.gif') top center no-repeat;
+}
+
+.float_box.tip {
+  background: #cfeaf7 url('/pictures/box_blue_stripe.gif') top center repeat-y;
+}
+
+.float_box.tip .title strong {
+  color: blue;
+}
+
+.float_box.tip .bottom {
+  background: url('/pictures/box_blue_simple_footer.gif') bottom center no-repeat;
+}
+
+.float_box.tip.more .bottom {
+  background: url('/pictures/box_blue_footer.gif') bottom center no-repeat;
+}
+
+#main .float_box.tip li {  /* Polozka seznamu */
+  background: url('/pictures/bullet_level_01_blue.gif') 0 .6em no-repeat;
+}
+/* info - fialovy box */
+.float_box.info .title {
+  background: url('/pictures/box_violet_header.gif') top center no-repeat;
+}
+
+.float_box.info {
+  background: #e7d5f1 url('/pictures/box_violet_stripe.gif') top center repeat-y;
+}
+
+.float_box.info .title strong {
+  color: navy;
+}
+
+.float_box.info .bottom {
+  background: url('/pictures/box_violet_simple_footer.gif') bottom center no-repeat;
+}
+
+.float_box.info.more .bottom {
+  background: url('/pictures/box_violet_footer.gif') bottom center no-repeat;
+}
+
+#main .float_box.info li {  /* Polozka seznamu */
+  background: url('/pictures/bullet_level_01_violet.gif') 0 .6em no-repeat;
+}
+/* otazka - zluty box */
+.float_box.question .title {
+  background: url('/pictures/box_yellow_header.gif') top center no-repeat;
+}
+
+.float_box.question {
+  background: #fff3ba url('/pictures/box_yellow_stripe.gif') top center repeat-y;
+}
+
+.float_box.question .title strong {
+  color: navy;
+}
+
+.float_box.question .bottom {
+  background: url('/pictures/box_yellow_simple_footer.gif') bottom center no-repeat;
+}
+
+.float_box.question.more .bottom {
+  background: url('/pictures/box_yellow_footer.gif') bottom center no-repeat;
+}
+
+#main .float_box.question li {  /* Polozka seznamu */
+  background: url('/pictures/bullet_level_01_yellow.gif') 0 .6em no-repeat;
+}
+/* member */
 #main .text_box .member {
   background: url('/pictures/member_background.png') top center no-repeat;
   width: 630; height: 189px;
