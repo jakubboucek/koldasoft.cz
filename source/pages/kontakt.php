@@ -55,7 +55,7 @@ if(issetRequest('success'))
 ");         
 elseif($form->isError()) {              
   echo "
-  <div class=\"errorbox\">Formulář nebyl odeslán, protože došlo k těmto chybám:<ul><li>";              
+  <div class=\"errorbox\">Formulář nebyl odeslán, protože došlo k následujícím chybám:<ul><li>";              
   echo implode('</li><li>', $form->getErrors());              
   echo "</li></ul></div>";                          
 }          
