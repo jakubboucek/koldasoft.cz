@@ -58,7 +58,7 @@
           <li".($page_type == "reference" ? " class=\"active\"" : "").">".mylink("reference")."</li>
           <li".($page_type == "cenik" ? " class=\"active\"" : "").">".mylink("cenik")."</li>
           <li".($page_type == "o-nas" ? " class=\"active\"" : "").">".mylink("o-nas")."</li>
-          <li".($page_type == "kontakt" ? " class=\"last active\"" : "lastlast").">".mylink("kontakt")."</li>
+          <li".($page_type == "kontakt" ? " class=\"last active\"" : " class=\"last\"").">".mylink("kontakt")."</li>
         </ul>
       </div>
       <div class=\"cleaner\"></div>
