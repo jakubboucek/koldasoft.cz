@@ -27,6 +27,9 @@ p, h4 {  /* Text, nadpis 2., 3. a 4. urovne */
   margin: 0.2em;
 }
 
+h2 a, h3 a, h4 a, .float_box .title a {
+  text-decoration: none;
+}
 
 #header .logo {  /* Logo */
   border: 0;
