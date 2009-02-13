@@ -19,12 +19,14 @@
             <p>sady&nbsp;Pětatřicátníků&nbsp;48/33 (<a href=\"http://www.mapy.cz/#x=130647296@y=134780992@z=14@mm=ZP@sa=s@st=s@ssq=sady%20P%C4%9Btat%C5%99ic%C3%A1tn%C3%ADk%C5%AF%2048/33,%20Plze%C5%88@sss=1@ssp=130642112_134773584_130671232_134798656\" title=\"Najít adresu na Mapy.cz\">mapa</a>)</p>
             <p>301&nbsp;00 Plzeň &ndash; Jižní Předměstí</p>
             <p><strong>IČ:</strong> <a href=\"http://www.rzp.cz/cgi-bin/aps_cacheWEB.sh?Action=Search&amp;VSS_SERV=ZVWSBJFND&amp;ICO=28009703\" title=\"Zobrazit výpis ze živnostenského rejstříku\">28009703</a>
+
+            <img style=\"float: right;\" src=\"".$cesta."pictures/box_magnum_01.png\" alt=\"Budova Magnum\" width=\"280\" height=\"458\" />
+
             <p><strong>DIČ:</strong> <a href=\"http://adisreg.mfcr.cz/adistc/DphReg?ZPRAC=RDPHI1&amp;id=1&amp;pocet=1&amp;fu=&amp;dic=28009703&amp;OK=+Hledej+\" title=\"Zobrazit výpis z rejstříku pláctů DPH\">CZ28009703</a>, jsme plátci DPH</p>
             <p><strong>č.ú.:</strong> 43-1580080207/0100 (KB)</p>
             <p><strong>IBAN:</strong> CZ4501000000431580080207</p>
             <p>Obchodní společnost s ručením omezeným je zapsána u Krajského soudu v Plzni,<br />oddíl&nbsp;C, vložka&nbsp;21277 (<a href=\"http://wwwinfo.mfcr.cz/cgi-bin/ares/ares_es.cgi?jazyk=cz&amp;ico=28009703&amp;cestina=cestina&amp;maxpoc=200&amp;setrid=ZADNE&amp;xml=1\" title=\"Zobrazit výpis z obchodního rejstříku\">ARES</a>).</p>
             
-            <img style=\"float: right;\" src=\"".$cesta."pictures/box_magnum_01.png\" alt=\"Budova Magnum\" width=\"280\" height=\"458\" />
             
             <h3>Pobočka Pardubice</h3>
             <p>třída&nbsp;Míru&nbsp;2800 (<a href=\"http://www.mapy.cz/#x=136163648@y=135773312@z=14@mm=ZP@ax=136165888@ay=135774592@at=Pal%C3%A1c%20Magnum@ad=Koldasoft,%20s.r.o\" title=\"Najít adresu na Mapy.cz\">mapa</a>)</p>
