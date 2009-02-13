@@ -104,6 +104,9 @@ body {  /* Telo stranky */
 .nabidka-sluzeb #change  {
   background: url('/pictures/headers/sluzby.jpg') top right no-repeat;
 }
+.uvod #change  {
+  background: url('/pictures/headers/uvod.jpg') top right no-repeat;
+}
 
 #skip_menu {  /* Preskoceni menu */
   position: absolute;
