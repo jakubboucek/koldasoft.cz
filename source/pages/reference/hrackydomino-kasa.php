@@ -11,6 +11,13 @@
                 <p><a href=\"".$cesta."reference/domino_kasa_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_kasa_detail.png\" alt=\"Náhled: projekt Hračky Domino - pokladní systém\" height=\"310\" width=\"310\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
+            <div class=\"text_box\">
+              <h2>Fotogalerie</h2>
+              <p>
+                <a href=\"".$cesta."reference/domino_kasa/ean_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_kasa/ean.png\" alt =\"Náhled: projekt Hračky Domino - pokladna\" width=\"195\" height=\"195\" /></a>
+                <a href=\"".$cesta."reference/domino_kasa/platba_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_kasa/platba.png\" alt =\"Náhled: projekt Hračky Domino - pokladna\" width=\"195\" height=\"195\" /></a>
+              </p>
+            </div>
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Chtěli byste také podobné řešení?</strong></p>
 ");

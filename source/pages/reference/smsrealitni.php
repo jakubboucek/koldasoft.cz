@@ -12,6 +12,13 @@
                 <p><a href=\"http://www.smsrealitni.cz/\" title=\"Přejít na stránky smsRealitni.cz\"><img src=\"".$cesta."reference/smsrealitni_detail.png\" alt =\"Náhled: projekt smsRealitni.cz\" width=\"310\" height=\"310\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
+            <div class=\"text_box\">
+              <h2>Fotogalerie</h2>
+              <p><a href=\"".$cesta."reference/smsrealitni/admin_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/smsrealitni/admin.png\" alt =\"Náhled: projekt smsRealitni.cz\" width=\"195\" height=\"195\" /></a>
+              <a href=\"".$cesta."reference/smsrealitni/holding_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/smsrealitni/holding.png\" alt =\"Náhled: projekt smsRealitni.cz\" width=\"195\" height=\"195\" /></a>
+              <a href=\"".$cesta."reference/smsrealitni/tym_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/smsrealitni/tym.png\" alt =\"Náhled: projekt smsRealitni.cz\" width=\"195\" height=\"195\" /></a>
+              <a href=\"".$cesta."reference/smsrealitni/kontakt_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/smsrealitni/kontakt.png\" alt =\"Náhled: projekt smsRealitni.cz\" width=\"195\" height=\"195\" /></a></p>
+            </div>
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Chtěli byste také podobné řešení?</strong></p>
 ");
