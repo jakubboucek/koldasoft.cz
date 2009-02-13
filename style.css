@@ -482,14 +482,13 @@ p {  /* Horizontalni linky */
 
 #main .text_box .member p {
   position: absolute;
-  top: 50px; left: 360px;
-  background: url('/pictures/uvozovky_bottom.gif') 6px 4px no-repeat;
-  width: 250px; height: 120px;
+  top: 50px; left: 385px;
+  background: url('/pictures/uvozovky_bottom.gif') 90% 80% no-repeat;
+  width: 225px; height: 120px;
   padding: 5px 10px 0px 10px;
-  text-indent: 1.4em;
+  text-indent: 2em;
   font-style: italic;
-  border-left: 1px dotted #7fd275;
-  line-height: 1.4em;
+
 }
 
 #main .text_box .member h2 em {
