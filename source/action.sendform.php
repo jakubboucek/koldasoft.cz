@@ -17,8 +17,10 @@
 
 $form = App::createForm(getRequest('formid'));
 
-$form->loadRequests(split(',','name,mail,phone,message,subject'));
+//Načtení proměnných
+$form->loadRequests(split(',','name,mail,phone,message,subject,reference'));
  
+//Otestování proměnných 
 if($form->isEmpty(split(',','name')))
   $form->addError('Jméno musí být vyplněno!');
 
@@ -30,6 +32,9 @@ if($form->isEmpty('message'))
 
 if(!preg_match('/^.+@.+\..+$/',$form->getField('mail')))
   $form->addError('E-mail není platný!');
+
+if((!$form->isEmpty('phone')) && !preg_match('#^[-0-9 /+()]+$#',$form->getField('phone')))
+  $form->addError('Telefon není platný!');
 
 if(!$form->isError()) {
   $mailer = new PHPMailer();
@@ -67,9 +72,7 @@ if(!$form->isError()) {
 }
 
 if(!$form->isError()) {
-  $formreferer = getRequest('referer');
-  $formsuccessprm =  getRequest('successprm');
-  header("Location: /$formreferer/?$formsuccessprm", TRUE, 303);
+  header("Location: /odeslany-formular/", TRUE, 303);
 }
 
 

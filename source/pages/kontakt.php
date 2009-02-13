@@ -48,14 +48,9 @@
 if(!($form = App::getForm('contactform'))) 
   $form = new Form;
 
-if(issetRequest('success'))
-  echo ("
-            <p>Vaše zpráva byla odeslána do společnosti Koldasoft, s.r.o.</p>
-            <p>Děkujeme.</p>
-");         
-elseif($form->isError()) {              
+if($form->isError()) {              
   echo "
-  <div class=\"errorbox\">Formulář nebyl odeslán, protože došlo k následujícím chybám:<ul><li>";              
+  <div class=\"errorbox\">Formulář nebyl odeslán, neboť došlo k těmto chybám:<ul><li>";              
   echo implode('</li><li>', $form->getErrors());              
   echo "</li></ul></div>";                          
 }          
@@ -66,25 +61,22 @@ else {
 ");         
  
 }  
-  
   //Zde prosím nastylovat formulář
-if(!issetRequest('success'))
 echo ("     <div id=\"contactform_form_box\">
-              <form action=\"\" method=\"post\" />  
+              <form action=\"./#contactform_float_box\" method=\"post\" >  
                 <table class=\"formular\">
                   <tr><td colspan=\"2\"><input type=\"hidden\" name=\"action\" value=\"sendform\" /></td></tr>
                   <tr><td colspan=\"2\"><input type=\"hidden\" name=\"formid\" value=\"contactform\"/></td></tr>
                   <tr><td colspan=\"2\"><input type=\"hidden\" name=\"referer\" value=\"kontakt\"/></td></tr>
-                  <tr><td colspan=\"2\"><input type=\"hidden\" name=\"successprm\" value=\"success\"/></td></tr>
                   <tr><th colspan=\"2\">Předmět:</th></tr>
-                  <tr><td colspan=\"2\"><input type=\"input\" name=\"subject\" size=\"40\" value=\"{$form->getHtml('subject')}\" /></td></tr>
+                  <tr><td colspan=\"2\"><input type=\"text\" name=\"subject\" size=\"40\" value=\"{$form->getHtml('subject')}\" /></td></tr>
                   <tr><th colspan=\"2\">Zpráva:</th></tr>
                   <tr><td colspan=\"2\"><textarea name=\"message\" cols=\"48\" rows=\"8\">{$form->getHtml('message')}</textarea></td></tr>
                   <tr><th colspan=\"2\">Jméno:</th></tr>
-                  <tr><td colspan=\"2\"><input type=\"input\" name=\"name\" size=\"40\" value=\"{$form->getHtml('name')}\" /></td></tr>
+                  <tr><td colspan=\"2\"><input type=\"text\" name=\"name\" size=\"40\" value=\"{$form->getHtml('name')}\" /></td></tr>
                   <tr><th>E-mail:</th><th>Telefon:</th></tr>
-                  <tr><td><input type=\"input\" name=\"mail\" size=\"29\" value=\"{$form->getHtml('mail')}\" /></td>
-                  <td><input type=\"input\" name=\"phone\" size=\"28\" value=\"{$form->getHtml('phone')}\" /></td></tr>
+                  <tr><td><input type=\"text\" name=\"mail\" size=\"29\" value=\"{$form->getHtml('mail')}\" /></td>
+                  <td><input type=\"text\" name=\"phone\" size=\"28\" value=\"{$form->getHtml('phone')}\" /></td></tr>
                   <tr><th class=\"send\" colspan=\"2\"><input type=\"submit\" value=\"Odeslat\" /></th></tr>
                 </table>
               </form>
@@ -99,9 +91,10 @@ echo ("
           <div class=\"cleaner\"></div>
           </div>".nl);
           
-if(!App::getForm('contactform') && !issetRequest('success')&& !issetRequest('nohidecontactform')) :                 
+if(!App::getForm('contactform') && !issetRequest('nohidecontactform')) :                 
 ?>
 <script type="text/javascript">
+// <![CDATA[
   var contactform = {
     float: document.getElementById('contactform_float_box'),
     form: document.getElementById('contactform_form_box'),
@@ -119,7 +112,7 @@ if(!App::getForm('contactform') && !issetRequest('success')&& !issetRequest('noh
     contactform.more.innerHTML = "";
     contactform.more.onclick = null;
   }
-  
+// ]]>
 </script>
 <?php
 endif;
