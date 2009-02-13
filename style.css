@@ -337,14 +337,6 @@ h4 {  /* Nadpis 4. urovne - sloupec */
   padding-top: 0;
 }
 
-.half {
-  width: 45%;
-  float: left;
-  border: 1px solid silver;
-  padding: 0 10px;
-  margin-bottom: 10px;
-}
-
 .right {
   float: right;
 }
@@ -471,6 +463,24 @@ p {  /* Horizontalni linky */
   background: url('/pictures/form_input_background.gif') 0 0 repeat-x;
   border: 1px solid #cdcdcd;
 }
+
+/* Half box homepage */
+.float_box.half {
+  width: 309px;
+}
+
+.float_box.half .title {
+  background: url('/pictures/box_green_half_header.png') top center no-repeat;
+}
+
+.float_box.half {
+  background: #e3f8d5 url('/pictures/box_green_half_stripe.gif') top center repeat-y;
+}
+
+.float_box.half .bottom {
+  background: url('/pictures/box_green_half_simple_footer.png') bottom center no-repeat;
+}
+
 
 /* cerveny box */
 .float_box.alert .title {

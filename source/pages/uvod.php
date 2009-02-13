@@ -5,7 +5,7 @@
             <p>Snadná cesta k vlastnímu webu.</p>
 
 
-          <div class=\"float_box left tip more\">
+          <div class=\"float_box left half more\">
             <div class=\"title\"><strong>".mylink("nabidka-sluzeb", "Naše nabídka")."</strong></div>
             <p>Nabízíme komplexní služby, zejména:</p>
             <ul>
@@ -17,7 +17,7 @@
           </div>  
 
 
-          <div class=\"float_box question more\">
+          <div class=\"float_box half more\">
             <div class=\"title\"><strong>".mylink("proc-zvolit-koldasoft", "Proč si vybrat nás?")."</strong></div>
             <p>Nabízíme komplexní služby, zejména:</p>
             <ul>
