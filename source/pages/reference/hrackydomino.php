@@ -14,10 +14,14 @@
               <div class=\"cleaner\"></div>
             <div class=\"text_box\">
               <h2>Fotogalerie</h2>
-              <p><a href=\"".$cesta."reference/domino_eshop/kosik_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/kosik.png\" alt =\"Náhled: projekt ANG-Network - interní\" width=\"195\" height=\"195\" /></a>
-              <a href=\"".$cesta."reference/domino_eshop/detail_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/detail.png\" alt =\"Náhled: projekt ANG-Network - interní\" width=\"195\" height=\"195\" /></a>
-              <a href=\"".$cesta."reference/domino_eshop/program_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/program.png\" alt =\"Náhled: projekt ANG-Network - interní\" width=\"195\" height=\"195\" /></a>
-              <a href=\"".$cesta."reference/domino_eshop/kontakt_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/kontakt.png\" alt =\"Náhled: projekt ANG-Network - interní\" width=\"195\" height=\"195\" /></a></p>
+              <p><a href=\"".$cesta."reference/domino_eshop/kosik_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/kosik.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a>
+              <a href=\"".$cesta."reference/domino_eshop/kosik-udaje_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/kosik-udaje.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a>
+              <a href=\"".$cesta."reference/domino_eshop/kosik-shrnuti_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/kosik-shrnuti.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a>
+              <a href=\"".$cesta."reference/domino_eshop/kosik-objednano_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/kosik-objednano.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a>
+              <a href=\"".$cesta."reference/domino_eshop/detail_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/detail.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a>
+              <a href=\"".$cesta."reference/domino_eshop/objednavky_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/objednavky.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a>
+              <a href=\"".$cesta."reference/domino_eshop/program_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/program.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a>
+              <a href=\"".$cesta."reference/domino_eshop/kontakt_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/kontakt.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a></p>
             </div>
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Chtěli byste také podobné řešení?</strong></p>
