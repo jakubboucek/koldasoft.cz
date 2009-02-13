@@ -24,7 +24,7 @@
             <p><strong>IBAN:</strong> CZ4501000000431580080207</p>
             <p>Obchodní společnost s ručením omezeným je zapsána u Krajského soudu v Plzni,<br />oddíl&nbsp;C, vložka&nbsp;21277 (<a href=\"http://wwwinfo.mfcr.cz/cgi-bin/ares/ares_es.cgi?jazyk=cz&amp;ico=28009703&amp;cestina=cestina&amp;maxpoc=200&amp;setrid=ZADNE&amp;xml=1\" title=\"Zobrazit výpis z obchodního rejstříku\">ARES</a>).</p>
             
-            <img style=\"float: right;\" src=\"".$cesta."pictures/img.png\" alt=\"foto magnum\" width=\"200\" height=\"150\" />
+            <img style=\"float: right;\" src=\"".$cesta."pictures/box_magnum_01.png\" alt=\"Budova Magnum\" width=\"280\" height=\"458\" />
             
             <h3>Pobočka Pardubice</h3>
             <p>třída&nbsp;Míru&nbsp;2800 (<a href=\"http://www.mapy.cz/#x=136163648@y=135773312@z=14@mm=ZP@ax=136165888@ay=135774592@at=Pal%C3%A1c%20Magnum@ad=Koldasoft,%20s.r.o\" title=\"Najít adresu na Mapy.cz\">mapa</a>)</p>
@@ -36,6 +36,8 @@
             <p>Webové stránky: <a href=\"http://www.koldasoft.cz/\" title=\"Přejít na webové stránky společnosti Koldasoft, s.r.o.\">www.koldasoft.cz</a></p>
             <p>Neváhejte také kontaktovat kohokoliv z&nbsp;".mylink("nas-tym", "našeho týmu").".</p>
             <h3></h3>
+            
+            <div class=\"cleaner\"></div>
 
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Kontaktní formulář, aneb napište nám</strong></p>

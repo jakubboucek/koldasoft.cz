@@ -406,10 +406,6 @@ p {  /* Horizontalni linky */
   padding: 60px 0 12px 0;
 }
 
-.float_box.mail {
-  width: auto;
-}
-
 .float_box.more {
   padding: 58px 0 54px 0;
 }
@@ -442,6 +438,24 @@ p {  /* Horizontalni linky */
   font-size: 1.2em;
   color: green;
   padding: 0 0 0 3.3em;
+}
+
+/* napiste nam */
+.float_box.mail {
+  width: 630px;
+  margin: 1em auto;
+}
+
+.float_box.mail .title {
+  background: url('/pictures/box_mailto_header.png') top center no-repeat;
+}
+
+.float_box.mail {
+  background: #e3f8d5 url('/pictures/box_mailto_stripe.gif') top center repeat-y;
+}
+
+.float_box.mail .bottom {
+  background: url('/pictures/box_mailto_simple_footer.png') bottom center no-repeat;
 }
 
 /* otaznik */
