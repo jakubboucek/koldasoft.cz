@@ -23,7 +23,7 @@ body {  /* Telo stranky */
   float: left;
   width: 690px;
   position: relative;
-  min-height: 600px; _height: 600px;
+  min-height: 800px; _height: 800px;
   background: url('/pictures/panel_border_left_stripe.gif') top right repeat-y;
 }
 
