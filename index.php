@@ -151,6 +151,7 @@
   my_db_add_line("source/page.db", array("cenik", "Ceník", "Ceník", "Ceník", "/"));
   my_db_add_line("source/page.db", array("o-nas", "O nás", "O nás", " O nás", "/"));
   my_db_add_line("source/page.db", array("kontakt", "Kontakt", "Kontakt", "Kontaktní informace", "/"));
+  my_db_add_line("source/page.db", array("odeslany-formular", "Děkujeme za odeslání formuláře", "Děkujeme za odeslání formuláře", "Děkujeme za odeslání formuláře", "/"));
   my_db_add_line("source/page.db", array("mapa-webu", "Mapa webu", "Mapa webu", "Mapa webu", "/"));
   my_db_add_line("source/page.db", array("job", "Hledáme externisty", "Hledáme externisty", "Hledáme externisty", "/"));
   my_db_add_line("source/page.db", array("partneri", "Partneři", "Partneři", "Partneři", "/"));
