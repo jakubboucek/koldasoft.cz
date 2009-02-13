@@ -7,7 +7,7 @@
           </div>  
           <div class=\"text_box\">
             <h2 id=\"cilova-skupina\">Cílová skupina</h2>
-            <p>Určení skupiny uživatelů, pro které jsou webové stránky určeny, je jedno z nejdůležitějších rozhodnutí. Stránky pro mladé teenagery budou zcela jistě jinak graficky a obsahově zpracovány než stránky určené vědeckým pracovníkům.</p>
+            <p>Určení skupiny uživatelů, pro které jsou webové stránky určeny, je jedno z&nbsp;nejdůležitějších rozhodnutí. Stránky pro mladé teenagery budou zcela jistě jinak graficky a obsahově zpracovány než stránky určené vědeckým pracovníkům.</p>
             <p>Příklady dalších speciálních skupin:</p>
             <ul>
               <li><strong>děti</strong> - výrazná grafika, jednoduché texty, lepší ochrana proti zneužití</li>
@@ -28,9 +28,9 @@
             <h2 id=\"podklady\">Podklady</h2>
             <p>Množství a kvalita dodaných podkladů velmi ovlivňuje výslednou ".mylink("cenik", "cenu tvorby")." webových stránek.</p>
             <h3>Obsah - texty, fotografie</h3>
-            <p>Nejdůležitějším obsahem každé webové stránky jsou právě texty. Texty, fotografie a multimédia je nejlepší zpracovat a dodat v digitální podobě.</p>
+            <p>Nejdůležitějším obsahem každé webové stránky jsou právě texty. Texty, fotografie a multimédia je nejlepší zpracovat a dodat v&nbsp;digitální podobě.</p>
             <h3>Firemní, osobní údaje</h3>
-            <p>Vaše firemní a osobní údaje budou použity především pro registrace služeb u našich dodavatelů a partnerů, fakturace za služby (".mylink("domeny-hosting", "domény, hosting").") a interní potřeby.</p>
+            <p>Vaše firemní a osobní údaje budou použity především pro registrace služeb u&nbsp;našich dodavatelů a partnerů, fakturace za služby (".mylink("domeny-hosting", "domény, hosting").") a interní potřeby.</p>
             <p>Jedná se zejména o:</p>
             <ul>
               <li><strong>název firmy</strong>, její právní formu, IČ, DIČ</li>
@@ -38,12 +38,12 @@
               <li><strong>kontaktní adresu</strong> a adresu sídla: ulice, č.p., PSČ, město</li>
               <li><strong>bankovní spojení</strong></li>
             </ul> 
-            <p>Dále pak přístupová hesla ke službám (např. registrace v katalozích, doména, &hellip;).</p>
+            <p>Dále pak přístupová hesla ke službám (např. registrace v&nbsp; katalozích, doména, &hellip;).</p>
             <p>Připravit vhodné doménové jméno pro Vaše webové stránky, pokud jej již nevlastníte.</p>
             <h3>Firemní dokumenty a propagační materiály</h3>
-            <p>Pro jednotnou prezentaci Vaší firmy si připravte např. grafický manuál s logem firmy, popř. stávající propagační materiály (vizitky, letáčky, &hellip;), které nám umožní vytvoření Vaší prezentace ve stejném duchu.</p>
+            <p>Pro jednotnou prezentaci Vaší firmy si připravte např. grafický manuál s&nbsp;logem firmy, popř. stávající propagační materiály (vizitky, letáčky, &hellip;), které nám umožní vytvoření Vaší prezentace ve stejném duchu.</p>
             <h3>Konkurenční stránky</h3>
-            <p>Velmi oceníme seznam tématicky podobných či konkurenčních stránek s komentáři.</p>
+            <p>Velmi oceníme seznam tématicky podobných či konkurenčních stránek s&nbsp;komentáři.</p>
           </div>".nl);
 
 ?>
