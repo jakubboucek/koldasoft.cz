@@ -8,7 +8,7 @@
                 <p class=\"long\">Vytvoření aplikace pokladního systému kamenného obchodu prodávající hračky. Součástí realizace bylo také zajištění potřebného hardwaru. Aplikaci je možné kompletně ovládat čtečkou čárových kódů. Samozřejmostí je propojení s&nbsp;databází nebo systémem vystavení faktur.</p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"".$cesta."reference/domino_kasa_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_kasa_detail.png\" alt=\"Náhled: projekt Hračky Domino - pokladní systém\" height=\"310\" width=\"310\" /></a></p>
+                <p><a href=\"".$cesta."reference/domino_kasa/nakup_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_kasa_detail.png\" alt=\"Náhled: projekt Hračky Domino - pokladní systém\" height=\"310\" width=\"310\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
             <div class=\"text_box\">

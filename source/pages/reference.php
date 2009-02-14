@@ -273,7 +273,7 @@
                 <p class=\"long\">Aktuální nabídka ojetých vozů autobazaru Auta-Míra. Nabízené vozy, jejich popis a fotogalerii si spravuje sám majitel autobazaru prostřednictvím jednoduchého administračního rozhraní. Při tvorbě stránek jsme se zaměřili na jednoduché ovládání a přehlednost.</p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"".$cesta."reference/auta_mira.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/auta_mira_206.png\" alt =\"Náhled: projekt Auta Míra\" width=\"206\" height=\"206\" /></a></p>
+                <p><a href=\"".$cesta."reference/auta_mira_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/auta_mira_206.png\" alt =\"Náhled: projekt Auta Míra\" width=\"206\" height=\"206\" /></a></p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
