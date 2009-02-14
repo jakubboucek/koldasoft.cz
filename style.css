@@ -447,6 +447,10 @@ p {  /* Horizontalni linky */
   margin: 1em auto;
 }
 
+.float_box.mail .title strong {
+  padding-left: 4.8em;
+}  
+
 .float_box.mail .title {
   background: url('/pictures/box_mailto_header.png') top center no-repeat;
 }
@@ -467,6 +471,10 @@ p {  /* Horizontalni linky */
 /* Half box homepage */
 .float_box.half {
   width: 309px;
+}
+
+.float_box.half .title strong {
+  padding-left: 1em;
 }
 
 .float_box.half .title {
@@ -599,7 +607,7 @@ p {  /* Horizontalni linky */
 }
 
 .float_box.question .bottom {
-  background: url('/pictures/box_yellow_simple_footer.gif') bottom center no-repeat;
+  background: url('/pictures/box_yellow_footer_simple.png') bottom center no-repeat;
 }
 
 .float_box.question.more .bottom {
