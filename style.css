@@ -404,7 +404,7 @@ p {  /* Horizontalni linky */
   width: 290px;
   background: #e3f8d5 url('/pictures/box_green_stripe.gif') 50% 0% repeat-y;
   margin: .2em .2em .2em .6em;
-  padding: 60px 0 12px 0;
+  padding: 55px 0 12px 0;
 }
 
 .float_box.more {
@@ -412,7 +412,7 @@ p {  /* Horizontalni linky */
 }
 
 #main .float_box ul {
-  padding: .1em 1em; margin: 0;
+  padding: 12px 1em 5px 1em; margin: 0 0;
 }
 
 #main .float_box ul li {
@@ -420,7 +420,7 @@ p {  /* Horizontalni linky */
 }
 
 .float_box p {
-  padding: .1em .9em; 
+  padding: 10px 1em 5px 1em;
 }
 
 .float_box.left {
