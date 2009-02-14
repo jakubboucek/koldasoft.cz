@@ -37,7 +37,14 @@
               <li>".mylink("o-nas")."
                 <ul>
                   <li>".mylink("nase-znacka")."</li>
-                  <li>".mylink("nas-tym")."</li>
+                  <li>".mylink("nas-tym")."
+                    <ul>
+                      <li>".mylink("jiri-kolarik")."
+                      <li>".mylink("lucie-brandyska")."
+                      <li>".mylink("radek-vechet")."
+                      <li>".mylink("jakub-boucek")."
+                      <li>".mylink("jiri-drahorad")."
+                    </ul></li>
                   <li>".mylink("proc-zvolit-koldasoft")."</li>
                 </ul></li>
               <li>".mylink("kontakt")."</li>
