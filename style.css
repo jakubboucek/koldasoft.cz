@@ -632,7 +632,7 @@ p {  /* Horizontalni linky */
 
 #main .text_box .member h2 {
   margin: 0; padding: 0;
-  position: absolute; top: 12px; left: 20px;
+  position: absolute; top: 12px; left: 15px;
 }
 
 #main .text_box .member img {
@@ -640,13 +640,21 @@ p {  /* Horizontalni linky */
   top: 44px; left: 3px;
 }
 
-#main .text_box .member p {
+#main .text_box .member p.about {
   position: absolute;
-  top: 50px; left: 385px;
+  top: 50px; left: 375px;
   width: 225px; height: 120px;
   padding: 5px 10px 0px 10px;
   text-indent: 2em;
   font-style: italic;
+}
+
+
+#main .text_box .member .more {
+  position: absolute;
+  bottom: 0; right: 270px;  
+  width: 225px; height: 1.5em;
+  text-align: right;
 }
 
 #main .text_box .member .cite {
@@ -661,8 +669,10 @@ p {  /* Horizontalni linky */
 }
 
 #main .text_box .member ul {
-  padding: 50px 0 5px 136px; margin: 0;
+  padding: 50px 0 5px 130px; margin: 0;
 }
+
+
 
 /* formular */
 
