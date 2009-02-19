@@ -34,7 +34,7 @@
                 <li><strong>ICQ:</strong> 212-188-049</li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_brandyska_v2.1.pdf\" title=\"Vizitka Radek Věchet (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
-              <p class=\"about\">Fakturu připravím na počkání, zázraky do druhého dne! A kafíčko k&nbsp;tomu...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div class=\"end\">&nbsp;</div></p>
+              <p class=\"about\">Práce všeho druhu. Kódování xHTML šablon, příprava faktur na počkání. A zázraky do druhého dne...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div class=\"end\">&nbsp;</div></p>
               <p class=\"more read_next\">".(mylink("lucie-brandyska", "Více informací"))."</p>
             </div>
             <div class=\"cleaner\"></div>
