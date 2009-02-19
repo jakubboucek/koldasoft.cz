@@ -668,6 +668,11 @@ p {  /* Horizontalni linky */
   font-size: .85em;
 }
 
+#main .text_box h1 em {
+  font-size: .85em;
+}
+
+
 #main .text_box .member ul {
   padding: 50px 0 5px 130px; margin: 0;
 }
