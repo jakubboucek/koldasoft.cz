@@ -2,31 +2,32 @@
 
   echo("          <div class=\"text_box\">
             <h1>Koldasoft</h1>
-            <p>Snadná cesta k vlastnímu webu.</p>
 
+          <div class=\"float_box half more\">
+            <div class=\"title\"><strong>".mylink("proc-zvolit-koldasoft", "Proč si vybrat nás?")."</strong></div>
+            <ul>
+              <li>".mylink("proc-zvolit-koldasoft", "Máme chuť a odhodlání", "chut-odhodlani", "Máme chuť a odhodlání")."</li>  
+              <li>".mylink("proc-zvolit-koldasoft", "Nabízíme komplexní služby", "komplexni-sluzby", "Nabízíme komplexní služby")."</li>
+              <li>".mylink("proc-zvolit-koldasoft", "Preferujeme individuální přístup", "individualni-pristup", "Individuálním přístupem dosahujeme našich cílů")."</li>  
+              <li>".mylink("proc-zvolit-koldasoft", "Nabízíme zajímavé ceny", "zajimave-ceny", "Nabízíme zajímavé ceny")."</li>  
+              <li>".mylink("reference", "Máme se čím pochlubit")."</li>  
+            </ul>      
+            <div class=\"bottom\"><p class=\"read_next\">".mylink("proc-zvolit-koldasoft", "Proč zvolit Koldasoft")."</p></div>
+          </div>  
+
+            <p>Snadná cesta k&nbsp;vlastnímu webu.</p>
 
           <div class=\"float_box left half more\">
-            <div class=\"title\"><strong>".mylink("nabidka-sluzeb", "Naše nabídka")."</strong></div>
-            <p>Nabízíme komplexní služby, zejména:</p>
+            <div class=\"title\"><strong>".mylink("nabidka-sluzeb", "Nabízíme komplexní služby")."</strong></div>
             <ul>
                 <li>".mylink("tvorba")."</li>
                 <li>".mylink("redesign", "Přepracování webových stránek")."</li>
                 <li>".mylink("graficke-prace")."</li>
             </ul>          
-            <div class=\"bottom\"><p class=\"read_next\">".mylink("nabidka-sluzeb", "Kompletní nabídka služeb&hellip;")."</p></div>
+            <div class=\"bottom\"><p class=\"read_next\">".mylink("nabidka-sluzeb", "Kompletní nabídka služeb")."</p></div>
           </div>  
 
 
-          <div class=\"float_box half more\">
-            <div class=\"title\"><strong>".mylink("proc-zvolit-koldasoft", "Proč si vybrat nás?")."</strong></div>
-            <p>Nabízíme komplexní služby, zejména:</p>
-            <ul>
-              <li>".mylink("tvorba")."</li>
-              <li>".mylink("redesign", "Přepracování webových stránek")."</li>
-              <li>".mylink("graficke-prace")."</li>
-            </ul>          
-            <div class=\"bottom\"><p class=\"read_next\">".mylink("proc-zvolit-koldasoft", "Proč zvolit Koldasoft&hellip;")."</p></div>
-          </div>  
 
 
             <div class=\"cleaner\">&nbsp;</div>
