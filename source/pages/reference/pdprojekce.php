@@ -12,12 +12,10 @@
                 <p><a href=\"".$cesta."reference/pdp_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/pdp_detail.png\" alt=\"Náhled: projekt PDProjekce\" height=\"310\" width=\"310\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-             <div class=\"text_box\">
               <h2>Fotogalerie</h2>
               <p><a href=\"".$cesta."reference/pdp/dopravni_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/pdp/dopravni.png\" alt =\"Náhled: projekt ANG-Network - interní\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/pdp/pozemni_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/pdp/pozemni.png\" alt =\"Náhled: projekt ANG-Network - interní\" width=\"195\" height=\"195\" /></a>
               </p>
-            </div>
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Chtěli byste také podobné řešení?</strong></p>
 ");

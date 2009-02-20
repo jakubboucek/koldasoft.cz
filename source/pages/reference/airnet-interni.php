@@ -12,12 +12,10 @@
                 <p><a href=\"".$cesta."reference/airnet_interni/uvod_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/angnetwork_interni_detail.png\" alt=\"Náhled: projekt ANG - Network - Interní web\" height=\"310\" width=\"310\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            <div class=\"text_box\">
               <h2>Fotogalerie</h2>
               <p><a href=\"".$cesta."reference/airnet_interni/admin_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/airnet_interni/admin.png\" alt =\"Náhled: projekt ANG-Network - interní\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/airnet_interni/poplatky_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/airnet_interni/poplatky.png\" alt =\"Náhled: projekt ANG-Network - interní\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/airnet_interni/uzivatele_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/airnet_interni/uzivatele.png\" alt =\"Náhled: projekt ANG-Network - interní\" width=\"195\" height=\"195\" /></a></p>
-            </div>
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Chtěli byste také podobné řešení?</strong></p>
 ");

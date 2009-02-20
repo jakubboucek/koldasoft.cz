@@ -12,14 +12,12 @@
                 <p><a href=\"http://www.lakikincl.cz/index.php?open=homepage\" title=\"Přejít na stránky Fa. Laki\"><img src=\"".$cesta."reference/laki_detail.png\" alt=\"Náhled: projekt Fa. Laki\" height=\"310\" width=\"310\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-             <div class=\"text_box\">
               <h2>Fotogalerie</h2>
               <p>
                 <a href=\"".$cesta."reference/laki/pyrotechnika_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/laki/pyrotechnika.png\" alt =\"Náhled: projekt Fa.Laki\" width=\"195\" height=\"195\" /></a>
                 <a href=\"".$cesta."reference/laki/zbozi_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/laki/zbozi.png\" alt =\"Náhled: projekt Fa.Laki\" width=\"195\" height=\"195\" /></a>
                 <a href=\"".$cesta."reference/laki/kontakt_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/laki/kontakt.png\" alt =\"Náhled: projekt Fa.Laki\" width=\"195\" height=\"195\" /></a>
               </p>
-            </div>
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Chtěli byste také podobné řešení?</strong></p>
 ");

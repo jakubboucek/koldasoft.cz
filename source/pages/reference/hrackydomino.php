@@ -12,7 +12,6 @@
                 <p><a href=\"http://shop.hrackydomino.cz/\" title=\"Přejít na stránky Hračky Domino\"><img src=\"".$cesta."reference/domino_eshop_detail.png\" alt=\"Náhled: projekt Hračky Domino\" height=\"310\" width=\"310\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            <div class=\"text_box\">
               <h2>Fotogalerie</h2>
               <p><a href=\"".$cesta."reference/domino_eshop/kosik_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/kosik.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/domino_eshop/kosik-udaje_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/kosik-udaje.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a>
@@ -22,7 +21,6 @@
               <a href=\"".$cesta."reference/domino_eshop/objednavky_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/objednavky.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/domino_eshop/program_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/program.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/domino_eshop/kontakt_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/kontakt.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a></p>
-            </div>
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Chtěli byste také podobné řešení?</strong></p>
 ");

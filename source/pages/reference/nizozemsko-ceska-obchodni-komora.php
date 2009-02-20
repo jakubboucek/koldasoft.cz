@@ -12,13 +12,11 @@
                 <p><a href=\"http://www.nccc.cz/\" title=\"Přejít na stránky Nizozemsko-české obchodní komory\"><img src=\"".$cesta."reference/hok_detail.png\" alt=\"Náhled: projekt Holandská obchodní komora\" height=\"310\" width=\"310\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-             <div class=\"text_box\">
               <h2>Fotogalerie</h2>
               <p><a href=\"".$cesta."reference/hok/ekonomika_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/hok/ekonomika.png\" alt =\"Náhled: projekt Nizozemsko-česká obchodní komora\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/hok/predstavenstvo_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/hok/predstavenstvo.png\" alt =\"Náhled: projekt Nizozemsko-česká obchodní komora\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/hok/bulletin_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/hok/bulletin.png\" alt =\"Náhled: projekt Nizozemsko-česká obchodní komora\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/hok/editace_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/hok/editace.png\" alt =\"Náhled: projekt Nizozemsko-česká obchodní komora\" width=\"195\" height=\"195\" /></a></p>
-            </div>
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Chtěli byste také podobné řešení?</strong></p>
 ");

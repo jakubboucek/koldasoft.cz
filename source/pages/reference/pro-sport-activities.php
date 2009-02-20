@@ -11,13 +11,11 @@
                 <p><a href=\"http://www.pro-sport.cz/\" title=\"Přejít na stránky Pro Sport Activities\"><img src=\"".$cesta."reference/psa_detail.png\" alt=\"Náhled: projekt Pro Sport Activities\" height=\"310\" width=\"310\" /></a></p>
               </div>
             <div class=\"cleaner\"></div>
-             <div class=\"text_box\">
               <h2>Fotogalerie</h2>
               <p><a href=\"".$cesta."reference/psa/pulmaraton_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/psa/pulmaraton.png\" alt =\"Náhled: projekt Pro Sport Activities\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/psa/fotogalerie_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/psa/fotogalerie.png\" alt =\"Náhled: projekt Pro Sport Activities\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/psa/listina_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/psa/listina.png\" alt =\"Náhled: projekt Pro Sport Activities\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/psa/vysledky_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/psa/vysledky.png\" alt =\"Náhled: projekt Pro Sport Activities\" width=\"195\" height=\"195\" /></a></p>
-            </div>
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Chtěli byste také podobné řešení?</strong></p>
 ");

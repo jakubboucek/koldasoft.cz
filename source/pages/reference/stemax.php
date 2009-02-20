@@ -12,10 +12,8 @@
                 <p><a href=\"".$cesta."reference/stemax_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/stemax_detail.png\" alt=\"Náhled: projekt Stemax\" height=\"310\" width=\"310\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            <div class=\"text_box\">
               <h2>Fotogalerie</h2>
               <p><a href=\"".$cesta."reference/stemax/cerveny_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/stemax/cerveny.png\" alt =\"Náhled: projekt Stemax\" width=\"195\" height=\"195\" /></a></p>
-            </div>
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Chtěli byste také podobné řešení?</strong></p>
 ");

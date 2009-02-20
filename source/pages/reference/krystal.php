@@ -13,12 +13,10 @@
                 <p><a href=\"http://www.fa-krystal.cz/nase-sluzby/\" title=\"Přejít na stránky Krystal\"><img src=\"".$cesta."reference/fa-krystal_detail.png\" alt =\"Náhled: projekt Krystal\" width=\"310\" height=\"310\" /></a></p>
               </div>
               <div class=\"cleaner\"></div>
-            <div class=\"text_box\">
               <h2>Fotogalerie</h2>
               <p><a href=\"".$cesta."reference/krystal/cenik_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/krystal/cenik.png\" alt =\"Náhled: projekt Fa.Krystal\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/krystal/fotogalerie_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/krystal/fotogalerie.png\" alt =\"Náhled: projekt Fa.Krystal\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/krystal/kontakt_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/krystal/kontakt.png\" alt =\"Náhled: projekt Fa.Krystal\" width=\"195\" height=\"195\" /></a></p>
-            </div>
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Chtěli byste také podobné řešení?</strong></p>
 ");
