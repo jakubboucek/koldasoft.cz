@@ -14,7 +14,13 @@
                       <li>".mylink("redesign")."</li>
                       <li>".mylink("nasledna-sprava")."</li>
                     </ul></li>
-                  <li>".mylink("graficke-prace")."</li>
+                  <li>".mylink("graficke-prace")."
+                    <ul>
+                      <li>".mylink("webdesign")."</li>
+                      <li>".mylink("corporate-design")."</li>
+                      <li>".mylink("tistena-grafika")."</li>
+                      <li>".mylink("interaktivni-flashova-grafika")."</li>
+                    </ul></li>
                 </ul></li>
               <li>".mylink("informace")."
                 <ul>

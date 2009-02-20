@@ -159,6 +159,7 @@
 
   //Nabidka sluzeb
   my_db_add_line("source/page.db", array("tvorba", "Tvorba webových stránek",  "Tvorba webových stránek", "Tvorba webových stránek", array("nabidka-sluzeb")));
+  my_db_add_line("source/page.db", array("graficke-prace", "Grafické práce", "Grafické práce", "Grafické práce", array("nabidka-sluzeb")));
 
   //Nabidka sluzeb/Tvorba webovych stranek
   my_db_add_line("source/page.db", array("optimalizace-pro-vyhledavace", "Optimalizace pro vyhledávače (SEO)", "SEO optimalizace", "Optimalizace pro vyhledávače (SEO)", array("nabidka-sluzeb", "tvorba")));
@@ -167,8 +168,11 @@
   my_db_add_line("source/page.db", array("nasledna-sprava", "Následná správa webových stránek", "Následná správa", "Následná správa webových stránek", array("nabidka-sluzeb", "tvorba")));
   my_db_add_line("source/page.db", array("redesign", "Přepracování (redesign) webových stránek", "Přepracování (redesign)", "Přepracování (redesign) webových stránek", array("nabidka-sluzeb", "tvorba")));
 
-  //Graficke prace
-  my_db_add_line("source/page.db", array("graficke-prace", "Grafické práce", "Grafické práce", "Grafické práce", array("nabidka-sluzeb")));
+  //Nabidka sluzeb/Graficke prace
+  my_db_add_line("source/page.db", array("webdesign", "Webdesign", "Webdesign", "Webdesign", array("nabidka-sluzeb", "graficke-prace")));
+  my_db_add_line("source/page.db", array("corporate-design", "Corporate design", "Corporate design", "Corporate design", array("nabidka-sluzeb", "graficke-prace")));
+  my_db_add_line("source/page.db", array("tistena-grafika", "Tištěná grafika", "Tištěná grafika", "Tištěná grafika", array("nabidka-sluzeb", "graficke-prace")));
+  my_db_add_line("source/page.db", array("interaktivni-flashova-grafika", "Interaktivní flashová grafika", "Flashová grafika", "Interaktivní flashová grafika", array("nabidka-sluzeb", "graficke-prace")));
 
   //Znalosti
   my_db_add_line("source/page.db", array("pouzitelnost-pristupnost", "Použitelnost a přístupnost webových stránek", "Použitelnost a přístupnost", "Použitelnost a přístupnost webových stránek", array("znalosti")));
@@ -213,7 +217,7 @@
   my_db_add_line("source/page.db", array("jakub-boucek", "Jakub Bouček", "Jakub Bouček", "Jakub Bouček", array("o-nas", "nas-tym")));
   my_db_add_line("source/page.db", array("jiri-drahorad", "Jiří Drahorád", "Jiří Drahorád", "Jiří Drahorád", array("o-nas", "nas-tym")));
   
+
 */  
-  
   
   

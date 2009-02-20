@@ -13,12 +13,16 @@ a:5:{i:0;s:3:"job";i:1;s:19:"Hledáme externisty";i:2;s:19:"Hledáme externisty"
 a:5:{i:0;s:8:"partneri";i:1;s:9:"Partneři";i:2;s:9:"Partneři";i:3;s:9:"Partneři";i:4;s:1:"/";}
 a:5:{i:0;s:25:"prohlaseni-o-pristupnosti";i:1;s:30:"Prohlášení o přístupnosti";i:2;s:30:"Prohlášení o přístupnosti";i:3;s:31:" Prohlášení o přístupnosti";i:4;s:1:"/";}
 a:5:{i:0;s:6:"tvorba";i:1;s:25:"Tvorba webových stránek";i:2;s:25:"Tvorba webových stránek";i:3;s:25:"Tvorba webových stránek";i:4;a:1:{i:0;s:14:"nabidka-sluzeb";}}
+a:5:{i:0;s:14:"graficke-prace";i:1;s:16:"Grafické práce";i:2;s:16:"Grafické práce";i:3;s:16:"Grafické práce";i:4;a:1:{i:0;s:14:"nabidka-sluzeb";}}
 a:5:{i:0;s:28:"optimalizace-pro-vyhledavace";i:1;s:36:"Optimalizace pro vyhledávače (SEO)";i:2;s:16:"SEO optimalizace";i:3;s:36:"Optimalizace pro vyhledávače (SEO)";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
 a:5:{i:0;s:22:"registrace-do-katalogu";i:1;s:23:"Registrace do katalogů";i:2;s:23:"Registrace do katalogů";i:3;s:23:"Registrace do katalogů";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
 a:5:{i:0;s:14:"domeny-hosting";i:1;s:17:"Domény a hosting";i:2;s:17:"Domény a hosting";i:3;s:17:"Domény a hosting";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
 a:5:{i:0;s:15:"nasledna-sprava";i:1;s:37:"Následná správa webových stránek";i:2;s:18:"Následná správa";i:3;s:37:"Následná správa webových stránek";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
 a:5:{i:0;s:8:"redesign";i:1;s:45:"Přepracování (redesign) webových stránek";i:2;s:26:"Přepracování (redesign)";i:3;s:45:"Přepracování (redesign) webových stránek";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:6:"tvorba";}}
-a:5:{i:0;s:14:"graficke-prace";i:1;s:16:"Grafické práce";i:2;s:16:"Grafické práce";i:3;s:16:"Grafické práce";i:4;a:1:{i:0;s:14:"nabidka-sluzeb";}}
+a:5:{i:0;s:9:"webdesign";i:1;s:9:"Webdesign";i:2;s:9:"Webdesign";i:3;s:9:"Webdesign";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:14:"graficke-prace";}}
+a:5:{i:0;s:16:"corporate-design";i:1;s:16:"Corporate design";i:2;s:16:"Corporate design";i:3;s:16:"Corporate design";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:14:"graficke-prace";}}
+a:5:{i:0;s:15:"tistena-grafika";i:1;s:18:"Tištěná grafika";i:2;s:18:"Tištěná grafika";i:3;s:18:"Tištěná grafika";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:14:"graficke-prace";}}
+a:5:{i:0;s:29:"interaktivni-flashova-grafika";i:1;s:31:"Interaktivní flashová grafika";i:2;s:17:"Flashová grafika";i:3;s:31:"Interaktivní flashová grafika";i:4;a:2:{i:0;s:14:"nabidka-sluzeb";i:1;s:14:"graficke-prace";}}
 a:5:{i:0;s:24:"pouzitelnost-pristupnost";i:1;s:48:"Použitelnost a přístupnost webových stránek";i:2;s:29:"Použitelnost a přístupnost";i:3;s:48:"Použitelnost a přístupnost webových stránek";i:4;a:1:{i:0;s:8:"znalosti";}}
 a:5:{i:0;s:10:"metody-seo";i:1;s:43:"Metody optimalizace pro vyhledávače (SEO)";i:2;s:43:"Metody optimalizace pro vyhledávače (SEO)";i:3;s:43:"Metody optimalizace pro vyhledávače (SEO)";i:4;a:1:{i:0;s:8:"znalosti";}}
 a:5:{i:0;s:16:"proc-mit-stranky";i:1;s:28:"Proč mít webové stránky?";i:2;s:28:"Proč mít webové stránky?";i:3;s:28:"Proč mít webové stránky?";i:4;a:1:{i:0;s:9:"informace";}}

@@ -27,11 +27,10 @@
             <h2 id=\"graficke-prace\">".mylink("graficke-prace")."</h2>
             <p>Nabízíme Vám nejen stránky s&nbsp;kvalitním, svěžím a originálním vzhledem, ale i široké spektrum grafických služeb. Zejména návrhy různých forem tištěné a počítačové grafiky, včetně 3D vizualizací. ".mylink("graficke-prace", "čtěte dále")."</p>
             <ul class=\"link_farm\">
-              <li>".mylink("graficke-prace", "Corporate design (firemní grafický styl)", "corporate-design", "Corporate design (firemní grafický styl)")."</li>
-              <li>".mylink("graficke-prace", "Prezentace na CD, DVD", "prezentace-cd-dvd", "Prezentace na CD, DVD")."</li>
-              <li>".mylink("graficke-prace", "Tištěná grafika", "tistena-grafika", "Tištěná grafika")."</li>
-              <li>".mylink("graficke-prace", "Počítačová grafika", "pocitacova-grafika", "Počítačová grafika")."</li>
-              <li>".mylink("graficke-prace", "3D grafika", "grafika-3d", "3D grafika")."</li>
+              <li>".mylink("webdesign")."</li>
+              <li>".mylink("corporate-design")."</li>
+              <li>".mylink("tistena-grafika")."</li>
+              <li>".mylink("interaktivni-flashova-grafika")."</li>
             </ul>
           </div>".nl);
 
