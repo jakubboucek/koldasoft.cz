@@ -19,7 +19,7 @@
 
          <div class=\"float_box info\">
             <div class=\"title\"><strong>Několik slov</strong></div>
-              <p><em>Mám rád lidi kolem sebe. Mám rád, když jich je alespoň 64: krásných a mladých žen. Mám rád svůj harém...</em><div class=\"end\">&nbsp;</div></p>
+              <p><em>Kritizovat, kritizovat, kritizovat a požadovat kvalitu. To je má práce. Výsledkem bývá pochvala od klienta, ode mne ji však nečekejte&hellip;</em><div class=\"end\">&nbsp;</div></p>
             <div class=\"bottom\"></div>
           </div>  
 

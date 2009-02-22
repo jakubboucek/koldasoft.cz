@@ -20,7 +20,7 @@
 
          <div class=\"float_box info\">
             <div class=\"title\"><strong>Několik slov</strong></div>
-              <p><em>Jestli je někde něco, co se dá naprogramovat, pusťe mě k&nbsp;tomu. Není nic, do čeho bych nedokázal napsat alespoň ".'$kousek_kodu'.".</em><div class=\"end\">&nbsp;</div></p>
+              <p><em>Jestli je někde něco, co se dá naprogramovat, pusťe mě k&nbsp;tomu.<br /> Není nic, do čeho bych nedokázal napsat alespoň ".'$kousek_kodu'.".</em><div class=\"end\">&nbsp;</div></p>
             <div class=\"bottom\"></div>
           </div>  
 
