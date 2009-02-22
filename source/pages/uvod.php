@@ -2,6 +2,7 @@
 
   echo("          <div class=\"text_box\">
             <h1>Koldasoft</h1>
+            <p>Snadná cesta k&nbsp;vlastnímu webu.</p>
 
           <div class=\"float_box half more\">
             <div class=\"title\"><strong>".mylink("proc-zvolit-koldasoft", "Proč si vybrat nás?")."</strong></div>
@@ -15,14 +16,15 @@
             <div class=\"bottom\"><p class=\"read_next\">".mylink("proc-zvolit-koldasoft", "Proč zvolit Koldasoft")."</p></div>
           </div>  
 
-            <p>Snadná cesta k&nbsp;vlastnímu webu.</p>
 
           <div class=\"float_box left half more\">
             <div class=\"title\"><strong>".mylink("nabidka-sluzeb", "Nabízíme komplexní služby")."</strong></div>
             <ul>
                 <li>".mylink("tvorba")."</li>
                 <li>".mylink("redesign", "Přepracování webových stránek")."</li>
+                <li>".mylink("domeny-hosting")."</li>
                 <li>".mylink("graficke-prace")."</li>
+                <li>".mylink("tistena-grafika")."</li>
             </ul>          
             <div class=\"bottom\"><p class=\"read_next\">".mylink("nabidka-sluzeb", "Kompletní nabídka služeb")."</p></div>
           </div>  
