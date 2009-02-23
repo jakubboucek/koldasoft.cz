@@ -16,6 +16,10 @@ body {  /* Telo stranky */
 
 #main {  /* dolni vnitrni okraj hlavni casto */
   padding-bottom: 1.5em;
+  text-align: center;
+}
+
+#main .page {  /* dolni vnitrni okraj hlavni casto */
   text-align: left;
 }
 
