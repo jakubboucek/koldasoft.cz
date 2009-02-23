@@ -23,7 +23,7 @@ body {  /* Telo stranky */
   float: left;
   width: 690px;
   position: relative;
-  min-height: 800px; _height: 800px;
+  min-height: 700px; _height: 700px;
   background: url('/pictures/panel_border_left_stripe.gif') top right repeat-y;
 }
 
@@ -115,7 +115,7 @@ body {  /* Telo stranky */
 }
 
 /***** Menu *****/
-#hmenu .page {
+#hmenu .page, #footer .page  {
   width: 921px;
 }
 
@@ -344,7 +344,11 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 /***** Paticka *****/
 
 .footer_background {  /* Pozadi bloku (presah grafiky) */
-  background: #89d468 url('/pictures/body_bottom_stripe.jpg') 0% 50% repeat-x;
+  background: #89d468 url('/pictures/body_bottom_stripe.jpg') top center repeat-x;
+}
+
+#footer {  /* Pozadi bloku (presah grafiky) */
+  background: url('/pictures/page_bottom_02.jpg') top center no-repeat;
 }
 
 #footer .page {

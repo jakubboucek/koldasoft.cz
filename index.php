@@ -88,7 +88,7 @@
     echo("          <div class=\"box\">
             <h4>Rychlé kontakty</h4>
             <p><strong>E-mail:</strong> <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></p>
-            <p><strong>Tel.:</strong> 775&nbsp;77&nbsp;15&nbsp;00,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;775&nbsp;77&nbsp;15&nbsp;10</p>
+            <p><strong>Tel.:</strong> 775&nbsp;77&nbsp;15&nbsp;00,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;775&nbsp;77&nbsp;15&nbsp;10</p>
             <p class=\"read_next\">".mylink("kontakt", "Další kontakty")."</p>          
           </div>".nl);
   // Hledame externisty \\
@@ -121,17 +121,11 @@
       </div>
     </div>  
     <hr />
-    <div id=\"footer\" class=\"footer_background\">
+    <div class=\"footer_background\"><div id=\"footer\">
       <div class=\"page\">
-        <div class=\"main\">
-          <p>&copy; 2007".(date('Y') > 2007 ? " - ".date('Y') : "")." ".mylink("kontakt", "Koldasoft")."<span class=\"hidden\"> | </span><span class=\"spacer\">E-mail: <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></span><span class=\"hidden\"> | </span><span class=\"spacer\">Created by <a href=\"http://www.koldasoft.cz/\" title=\"Koldasoft - snadná cesta k vlastnímu webu\">Koldasoft</a></span><span class=\"hidden\">(www.koldasoft.cz)</span><span class=\"hidden\"> | </span><span class=\"spacer\">".mylink("prohlaseni-o-pristupnosti")."</span><span class=\"hidden\"> | </span><span class=\"spacer\">".mylink("mapa-webu")."</span></p>
-        </div>
-        <div class=\"second\">
-          <p></p>  
-        </div> 
-        <div class=\"cleaner\"></div> 
+        <p>&copy; 2007".(date('Y') > 2007 ? " - ".date('Y') : "")." ".mylink("kontakt", "Koldasoft")."<span class=\"hidden\"> | </span><span class=\"spacer\">E-mail: <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></span><span class=\"hidden\"> | </span><span class=\"spacer\">Created by <a href=\"http://www.koldasoft.cz/\" title=\"Koldasoft - snadná cesta k vlastnímu webu\">Koldasoft</a></span><span class=\"hidden\">(www.koldasoft.cz)</span><span class=\"hidden\"> | </span><span class=\"spacer\">".mylink("prohlaseni-o-pristupnosti")."</span><span class=\"hidden\"> | </span><span class=\"spacer\">".mylink("mapa-webu")."</span></p>
       </div>
-    </div>
+    </div></div>
   <script src=\"http://www.google-analytics.com/ga.js\" type=\"text/javascript\"></script>
   <script src=\"/_gat/UA-5969628-1-UA-5969628-2-go.js\" type=\"text/javascript\"></script>
   </body>
