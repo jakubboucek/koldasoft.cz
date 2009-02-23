@@ -20,7 +20,7 @@
 
          <div class=\"float_box info\">
             <div class=\"title\"><strong>Několik slov</strong></div>
-              <p><em>Chcete obchodovat? Chcete realizovat zajímavý projekt? Chcete se prosadit? Tomu říkám výzva a nic pro mě není překážkou...</em><div class=\"end\">&nbsp;</div></p>
+              <p><em>Chcete obchodovat? Chcete realizovat zajímavý projekt? Chcete se prosadit? Tomu říkám výzva a nic pro mě není překážkou...</em></p>
             <div class=\"bottom\"></div>
           </div>  
 

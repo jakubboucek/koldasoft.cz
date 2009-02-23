@@ -20,7 +20,7 @@
 
          <div class=\"float_box info\">
             <div class=\"title\"><strong>Několik slov</strong></div>
-              <p><em>Práce všeho druhu. Kódování xHTML šablon, příprava faktur na počkání. A zázraky do druhého dne...</em><div class=\"end\">&nbsp;</div></p>
+              <p><em>Práce všeho druhu. Kódování xHTML šablon, příprava faktur na počkání. A zázraky do druhého dne...</em></p>
             <div class=\"bottom\"></div>
           </div>
           

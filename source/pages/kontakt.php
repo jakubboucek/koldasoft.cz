@@ -18,9 +18,9 @@
             <h2>Koldasoft,&nbsp;s.r.o.</h2>
             <p>sady&nbsp;Pětatřicátníků&nbsp;48/33 (<a href=\"http://www.mapy.cz/#x=130647296@y=134780992@z=14@mm=ZP@sa=s@st=s@ssq=sady%20P%C4%9Btat%C5%99ic%C3%A1tn%C3%ADk%C5%AF%2048/33,%20Plze%C5%88@sss=1@ssp=130642112_134773584_130671232_134798656\" title=\"Najít adresu na Mapy.cz\">mapa</a>)</p>
             <p>301&nbsp;00 Plzeň &ndash; Jižní Předměstí</p>
-            <p><strong>IČ:</strong> <a href=\"http://www.rzp.cz/cgi-bin/aps_cacheWEB.sh?Action=Search&amp;VSS_SERV=ZVWSBJFND&amp;ICO=28009703\" title=\"Zobrazit výpis ze živnostenského rejstříku\">28009703</a>
+            <p><strong>IČ:</strong> <a href=\"http://www.rzp.cz/cgi-bin/aps_cacheWEB.sh?Action=Search&amp;VSS_SERV=ZVWSBJFND&amp;ICO=28009703\" title=\"Zobrazit výpis ze živnostenského rejstříku\">28009703</a></p>
 
-            <img style=\"float: right;\" src=\"".$cesta."pictures/box_magnum_02.png\" alt=\"Foto: Budova Magnum\" width=\"220\" height=\"251\" />
+            <img class=\"right\" src=\"".$cesta."pictures/box_magnum_02.png\" alt=\"Foto: Budova Magnum\" width=\"220\" height=\"251\" />
 
             <p><strong>DIČ:</strong> <a href=\"http://adisreg.mfcr.cz/adistc/DphReg?ZPRAC=RDPHI1&amp;id=1&amp;pocet=1&amp;fu=&amp;dic=28009703&amp;OK=+Hledej+\" title=\"Zobrazit výpis z rejstříku pláctů DPH\">CZ28009703</a>, jsme plátci DPH</p>
             <p><strong>č.ú.:</strong> 43-1580080207/0100 (KB)</p>

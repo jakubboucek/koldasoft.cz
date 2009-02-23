@@ -21,7 +21,7 @@
                 <li><strong>Skype:</strong> jiri.kolda</li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_kolarik_v2.1.pdf\" title=\"Vizitka Jiří Kolařík (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
-              <p class=\"about\">Chcete obchodovat? Chcete realizovat zajímavý projekt? Chcete se prosadit? Tomu říkám výzva a nic pro mě není překážkou...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div class=\"end\">&nbsp;</div></p>
+              <p class=\"about\">Chcete obchodovat? Chcete realizovat zajímavý projekt? Chcete se prosadit? Tomu říkám výzva a nic pro mě není překážkou...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
               <p class=\"more read_next\">".(mylink("jiri-kolarik", "Více informací"))."</p>
             </div>
 
@@ -34,7 +34,7 @@
                 <li><strong>ICQ:</strong> 212-188-049</li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_brandyska_v2.1.pdf\" title=\"Vizitka Radek Věchet (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
-              <p class=\"about\">Práce všeho druhu. Kódování xHTML šablon, příprava faktur na počkání. A zázraky do druhého dne...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div class=\"end\">&nbsp;</div></p>
+              <p class=\"about\">Práce všeho druhu. Kódování xHTML šablon, příprava faktur na počkání. A zázraky do druhého dne...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
               <p class=\"more read_next\">".(mylink("lucie-brandyska", "Více informací"))."</p>
             </div>
             <div class=\"cleaner\"></div>
@@ -48,7 +48,7 @@
                 <li><strong>Skype:</strong> xxx_radek_xxx</li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_vechet_v2.1.pdf\" title=\"Vizitka Radek Věchet (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
-              <p class=\"about\">Nalezení kompromisu mezi krásným návrhem a jeho techickým provedením je mojí posedlostí&hellip;<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div class=\"end\">&nbsp;</div></p>
+              <p class=\"about\">Nalezení kompromisu mezi krásným návrhem a jeho techickým provedením je mojí posedlostí&hellip;<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
               <p class=\"more read_next\">".(mylink("radek-vechet", "Více informací"))."</p>
             </div>
             <div class=\"cleaner\"></div>
@@ -62,7 +62,7 @@
                 <li><strong>Skype:</strong> jakub.boucek.info</li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_boucek_v2.1.pdf\" title=\"Vizitka Jakub Bouček (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
-              <p class=\"about\">Jestli je někde něco, co se dá naprogramovat, pusťe mě k&nbsp;tomu. Není nic, do čeho bych nedokázal napsat alespoň ".'$kousek_kodu'.".<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div class=\"end\">&nbsp;</div></p>
+              <p class=\"about\">Jestli je někde něco, co se dá naprogramovat, pusťe mě k&nbsp;tomu. Není nic, do čeho bych nedokázal napsat alespoň ".'$kousek_kodu'.".<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
               <p class=\"more read_next\">".(mylink("jakub-boucek", "Více informací"))."</p>
             </div>
             <div class=\"cleaner\"></div>
@@ -75,7 +75,7 @@
                 <li><strong>ICQ:</strong> 233-445-142</li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_drahorad_v2.1.pdf\" title=\"Vizitka Jiří Drahorád (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
-              <p class=\"about\">Kritizovat, kritizovat, kritizovat a požadovat kvalitu. To je má práce. Výsledkem bývá pochvala od klienta, ode mne ji však nečekejte&hellip;<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div class=\"end\">&nbsp;</div></p>
+              <p class=\"about\">Kritizovat, kritizovat, kritizovat a požadovat kvalitu. To je má práce. Výsledkem bývá pochvala od klienta, ode mne ji však nečekejte&hellip;<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
               <p class=\"more read_next\">".(mylink("jiri-drahorad", "Více informací"))."</p>
             </div>
           </div>".nl);

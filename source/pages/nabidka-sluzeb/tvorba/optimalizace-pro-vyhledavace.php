@@ -25,8 +25,8 @@
           <div class=\"float_box tip more\">
             <p class=\"title\"><strong>".mylink("metody-seo", "Základní prvky SEO")."</strong></p>
             <ul>
-              <li><strong><acronym>Validní</acronym> a optimalizovaný kód</li>
-              <li><acronym>Sémanticky</acronym> správný kód</strong> stránek</li>
+              <li><strong><acronym>Validní</acronym> a optimalizovaný kód</strong></li>
+              <li><strong><acronym>Sémanticky</acronym> správný kód</strong> stránek</li>
               <li><strong>Analýza a optimalizace</strong> klíčových slov</li>
               <li><strong>Optimalizace stránek</strong> pro vyhledávače</li>
               <li><strong>Registrace stránek</strong> do katalogů</li>

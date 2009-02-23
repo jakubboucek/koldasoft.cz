@@ -48,7 +48,6 @@
             <p>Máte své webové stránky? Chcete vědět, jestli vyhovují všem standardům? Zda jsou <acronym>validní</acronym>, <acronym>použitelné</acronym> a <acronym>přístupné</acronym>? Jak si stojí Vaše stránky ve <acronym>vyhledávačích</acronym>? Lze Vaše stránky najít v&nbsp;<acronym>katalozích</acronym>? Jsou tedy snadno nalezitelné? Vypracujeme pro Vás analýzu Vašich stávajících stránek&hellip;</p>
             <h2 id=\"poradenstvi\">Poradenství</h2>
             <p>Chtěli byste více informací o webových stránkách? O prezentaci na internetu? Váháte, zda Vám vytvoření stránek pomůže, přinese nové klienty a zvýší zisky? Poskytneme Vám požadované informace a poradíme&hellip;</p>
-            </p>
           </div>".nl);
 
 ?>
