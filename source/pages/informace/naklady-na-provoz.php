@@ -4,13 +4,11 @@
             <h1>$page_name</h1>
             <p>Dnes není nic zadarmo a ani provoz webových stránek není výjimkou. Zajímá Vás, jaké poplatky a v&nbsp;jaké výši je třeba hradit? Jak často?</p>
 
-
-          <div class=\"float_box info\">
-            <p class=\"title\"><strong>Náklady Vám vyčíslíme</strong></p>
-            <p>Nemusíte se obávat nečekaných výdajů &ndash; na přání Vám vyčíslíme veškeré náklady, které budou s&nbsp;Vaším projektem spojeny&hellip;</p>
-            <div class=\"bottom\"></div>
-          </div>  
-
+            <div class=\"float_box info\">
+              <p class=\"title\"><strong>Náklady Vám vyčíslíme</strong></p>
+              <p>Nemusíte se obávat nečekaných výdajů &ndash; na přání Vám vyčíslíme veškeré náklady, které budou s&nbsp;Vaším projektem spojeny&hellip;</p>
+              <div class=\"bottom\"></div>
+            </div>
 
             <p>Platby lze rozdělit na jednorázové (prvotní) a opakované (provozní). Speciální pozornost si pak zaslouží reklamní kampaně, které mají za úkol přivést na webové stránky nové návštěvníky.</p>
           </div>  

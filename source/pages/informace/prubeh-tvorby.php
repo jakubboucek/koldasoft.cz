@@ -3,22 +3,22 @@
   echo("          <div class=\"text_box\">
 
 
-          <div class=\"float_box info\">
-            <p class=\"title\"><strong>Postup v&nbsp;rychlosti</strong></p>
-            <ul class=\"link_farm\">
-              <li>".mylink("prubeh-tvorby", "Základní rozvaha", "zakladni-rozvaha", "Základní rozvaha")."</li>
-              <li>".mylink("prubeh-tvorby", "Návrh (analýza)", "navrh", "Návrh (analýza)")."</li>
-              <li>".mylink("prubeh-tvorby", "Grafický návrh (design)", "graficky-navrh", "Grafický návrh (design)")."</li>
-              <li>".mylink("prubeh-tvorby", "Programování", "programovani", "Programování")."</li>
-              <li>".mylink("prubeh-tvorby", "Testování webu (betaverze)", "testovani", "Testování webu (betaverze)")."</li>
-              <li>".mylink("prubeh-tvorby", "Naplnění obsahem", "naplneni-obsahem", "Naplnění obsahem")."</li>
-              <li>".mylink("prubeh-tvorby", "Zřízení domény a hostingu", "domena-hosting", "Zřízení domény a hostingu")."</li>
-              <li>".mylink("prubeh-tvorby", "Umístění a zprovoznění", "umisteni-zprovozneni", "Umístění a zprovoznění")."</li>
-              <li>".mylink("prubeh-tvorby", "Registrace do katalogů", "registrace-do-katalogu", "Registrace do katalogů")."</li>
-              <li>".mylink("prubeh-tvorby", "Hotovo", "hotovo", "Hotovo")."</li>
-            </ul>  
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box info\">
+              <p class=\"title\"><strong>Postup v&nbsp;rychlosti</strong></p>
+              <ul class=\"link_farm\">
+                <li>".mylink("prubeh-tvorby", "Základní rozvaha", "zakladni-rozvaha", "Základní rozvaha")."</li>
+                <li>".mylink("prubeh-tvorby", "Návrh (analýza)", "navrh", "Návrh (analýza)")."</li>
+                <li>".mylink("prubeh-tvorby", "Grafický návrh (design)", "graficky-navrh", "Grafický návrh (design)")."</li>
+                <li>".mylink("prubeh-tvorby", "Programování", "programovani", "Programování")."</li>
+                <li>".mylink("prubeh-tvorby", "Testování webu (betaverze)", "testovani", "Testování webu (betaverze)")."</li>
+                <li>".mylink("prubeh-tvorby", "Naplnění obsahem", "naplneni-obsahem", "Naplnění obsahem")."</li>
+                <li>".mylink("prubeh-tvorby", "Zřízení domény a hostingu", "domena-hosting", "Zřízení domény a hostingu")."</li>
+                <li>".mylink("prubeh-tvorby", "Umístění a zprovoznění", "umisteni-zprovozneni", "Umístění a zprovoznění")."</li>
+                <li>".mylink("prubeh-tvorby", "Registrace do katalogů", "registrace-do-katalogu", "Registrace do katalogů")."</li>
+                <li>".mylink("prubeh-tvorby", "Hotovo", "hotovo", "Hotovo")."</li>
+              </ul>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <h1>$page_name</h1>
@@ -34,11 +34,11 @@
             <p>Po odsouhlasení návrhu se vytvoří grafický návrh, tzv. layout webu. Grafický návrh musí být v&nbsp;souladu se zaměřením firmy, volen dle rozsahu a určení internetové prezentace. </p>
 
 
-          <div class=\"float_box left tip\">
-            <p class=\"title\"><strong>".mylink("reference", "Naše reference")."</strong></p>
-            <p>Prohlédněte si ".mylink("reference", "naše reference")." a přesvědčte se sami o kvalitě našich grafických návrhů.</p>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box left tip\">
+              <p class=\"title\"><strong>".mylink("reference", "Naše reference")."</strong></p>
+              <p>Prohlédněte si ".mylink("reference", "naše reference")." a přesvědčte se sami o kvalitě našich grafických návrhů.</p>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <p>Design celé stránky musí být shodný s&nbsp;firemním grafickým stylem (corporate design) a tvořit tak spolu s&nbsp;ostatními propagačními materiály jednotný celek. V&nbsp;případě absence firemního grafického stylu Vám s&nbsp;jeho tvorbou rádi pomůžeme. Dále se vytvoří grafické doplňky (odrážky, linky). Grafický návrh je předveden zákazníkovi a je přetvářen tak dlouho, dokud není bezvýhradně schválen.</p>
@@ -56,12 +56,12 @@
             <h2 id=\"registrace-do-katalogu\">Registrace do katalogů</h2>
             
 
-          <div class=\"float_box info more\">
-            <p class=\"title\"><strong>".mylink("pozadavky-kvalitni-stranky", "Kvalitní webové stránky")."</strong></p>
-            <p>Tvoříme <strong>kvalitní webové stránky</strong>, které budou k&nbsp;užitku návštěvníkům i klientovi.</p>
-            <p> Zajímá Vás, jak by měla taková kvalitní webová stránka vypadat? A jak se pozná?</p>
-            <div class=\"bottom\"><p class=\"read_next\">".mylink("pozadavky-kvalitni-stranky", "Více informací")."</p></div>
-          </div>  
+            <div class=\"float_box info more\">
+              <p class=\"title\"><strong>".mylink("pozadavky-kvalitni-stranky", "Kvalitní webové stránky")."</strong></p>
+              <p>Tvoříme <strong>kvalitní webové stránky</strong>, které budou k&nbsp;užitku návštěvníkům i klientovi.</p>
+              <p> Zajímá Vás, jak by měla taková kvalitní webová stránka vypadat? A jak se pozná?</p>
+              <div class=\"bottom\"><p class=\"read_next\">".mylink("pozadavky-kvalitni-stranky", "Více informací")."</p></div>
+            </div>
 
 
             <p>Stránky je potřeba ".mylink("registrace-do-katalogu", "zaregistrovat do katalogů").", aby je mohli uživatelé snadno nalézt a vyčkat, než budou zařazeny. Tento proces obvykle trvá několik dní.</p>

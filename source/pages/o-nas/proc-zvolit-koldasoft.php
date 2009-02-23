@@ -2,8 +2,7 @@
 
   echo("          <div class=\"text_box\">
             <h1>$page_name</h1>
-            <p>Volba obchodního partnera je vždy těžká. Rádi bychom Vám nabídli několik důvodů, proč spolupracovat právě s&nbsp;námi.
-Přesvědčte se, že umíme být silným partnerem&hellip;</p>
+            <p>Volba obchodního partnera je vždy těžká. Rádi bychom Vám nabídli několik důvodů, proč spolupracovat právě s&nbsp;námi. Přesvědčte se, že umíme být silným partnerem&hellip;</p>
           </div>  
           <div class=\"text_box\">
             <h2 id=\"chut-odhodlani\">Máme chuť a odhodlání</h2>
@@ -11,11 +10,11 @@ Přesvědčte se, že umíme být silným partnerem&hellip;</p>
             <p>Neustále se vzděláváme v&nbsp;oboru a sledujeme moderní trend vývoje prezentace na internetu.</p>
 
 
-          <div class=\"float_box tip more\">
-            <div class=\"title\"><strong>".mylink("reference", "Naše reference")."</strong></div>
-            <p>Zajímá Vás, co jsme dokázali? Jaké projekty vytvořili? Jak taková  webová stránka od nás může vypadat?</p>
-            <div class=\"bottom\"><p class=\"read_next\">".mylink("reference", "Prohlédnout reference")."</p></div>
-          </div>  
+            <div class=\"float_box tip more\">
+              <div class=\"title\"><strong>".mylink("reference", "Naše reference")."</strong></div>
+              <p>Zajímá Vás, co jsme dokázali? Jaké projekty vytvořili? Jak taková  webová stránka od nás může vypadat?</p>
+              <div class=\"bottom\"><p class=\"read_next\">".mylink("reference", "Prohlédnout reference")."</p></div>
+            </div>
 
 
             <h2 id=\"komplexni-sluzby\">Nabízíme komplexní služby</h2>
@@ -24,12 +23,12 @@ Přesvědčte se, že umíme být silným partnerem&hellip;</p>
             <p>Individuálním přístupem, využitím našich znalostí a kreativity v&nbsp;oblasti webdesignu, dosahujeme ".mylink("o-nas", "našich cílů", "cile", "Náš cíl").".</p>
 
 
-          <div class=\"float_box left info\">
-            <div class=\"title\"><strong>Každý je jedinečný</strong></div>
-            <p>Každý z&nbsp;nás je jedinečný. A stejně tak projekty, které realizujeme.</p>
-            <p>Nechte nás, vyjít Vám zcela vstříc&hellip;</p>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box left info\">
+              <div class=\"title\"><strong>Každý je jedinečný</strong></div>
+              <p>Každý z&nbsp;nás je jedinečný. A stejně tak projekty, které realizujeme.</p>
+              <p>Nechte nás, vyjít Vám zcela vstříc&hellip;</p>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <p>Víme, že <strong>každý projekt je jedinečný</strong> a zaslouží si tak vlastní, specifický přístup a řešení. Vycházíme z&nbsp;osvědčených postupů a řešení, ale naše dílo je vždy originálem. </p>

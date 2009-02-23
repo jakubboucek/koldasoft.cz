@@ -4,11 +4,11 @@
             <h1>$page_name</h1>
 
 
-          <div class=\"float_box tip more\">
-            <p class=\"title\"><strong>".mylink("slovnicek-pojmu")."</strong></p>
-            <p>Nabízíme seznam nejpoužívanějších pojmů v&nbsp;oblasti webdesignu&hellip;</p>
-            <div class=\"bottom\"><p class=\"read_next\">".mylink("slovnicek-pojmu", "Prohlédněte si slovníček pojmů")."</p></div>
-          </div>  
+            <div class=\"float_box tip more\">
+              <p class=\"title\"><strong>".mylink("slovnicek-pojmu")."</strong></p>
+              <p>Nabízíme seznam nejpoužívanějších pojmů v&nbsp;oblasti webdesignu&hellip;</p>
+              <div class=\"bottom\"><p class=\"read_next\">".mylink("slovnicek-pojmu", "Prohlédněte si slovníček pojmů")."</p></div>
+            </div>
 
 
             <p>Za vlastní tvorbou ".mylink("pozadavky-kvalitni-stranky", "kvalitních webových stránek")." je skryta, i když to nemusí být na první pohled patrné, složitá a komplexní práce, vyžadující hluboké znalosti, odbornost a pochopení celé problematiky.</p>

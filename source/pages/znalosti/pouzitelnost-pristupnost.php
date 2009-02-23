@@ -9,11 +9,11 @@
             <p>Návštěvník by měl vždy vědět, na jaké stránce se nachází, jak se vrátit na předchozí stránku, jak se vrátit na úvodní stránku a jak pokračovat&hellip; Menu by mělo být jasné, přehledné a úplné. Prvky na stránkách by měly být vhodně umístěny a neměly by svoji polohu měnit.</p>
 
 
-          <div class=\"float_box question\">
-            <div class=\"title\"><strong>Co je to použitelnost?</strong></div>
-            <p>Použitelnost je vlastně o tom, jak snadno se webové stránky návštěvníkovi ovládají, zda je <strong>ovládání intuitivní</strong> a jak se návštěvník na stránkách cítí.</p>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box question\">
+              <div class=\"title\"><strong>Co je to použitelnost?</strong></div>
+              <p>Použitelnost je vlastně o tom, jak snadno se webové stránky návštěvníkovi ovládají, zda je <strong>ovládání intuitivní</strong> a jak se návštěvník na stránkách cítí.</p>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <p>Pokud se návštěvník bude cítit na Vašich stránkách dobře, <strong>zvýší se tím jeho důvěra</strong> ve Vaši firmu a může se stát zákazníkem. Naopak, pokud bude návštěvník jakkoliv odrazen, nebude si jistý a jeho důvěru nezískáte.</p>
@@ -30,11 +30,11 @@
             <p>Mezi hendikepované uživatele řadíme všechny, kteří <strong>nemohou použít webovou stránku běžným způsobem</strong>. Mohou tedy mít zrakové, sluchové nebo pohybové problémy. Často se však zapomíná, že dočasně hendikepovaným uživatelem může být kdokoliv – např. při ostrém svitu sluníčka na monitor je zhoršena viditelnost, ovládání myši může být velkým problémem, pokud má návštěvník zlomenou ruku, &hellip; Hendikepovaným návštěvníkem tedy může být i ten, který v běžném životě žádný hendikep nemá.</p>
 
 
-          <div class=\"float_box question\">
-            <div class=\"title\"><strong>Co je to přístupnost?</strong></div>
-            <p>Snahou je zpřístupnit webové stránky co <strong>nejširší veřejnosti</strong> bez ohledu na jejich technické a softwarové vybavení nebo možný hendikep, který mohou návštěvníci mít.</p>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box question\">
+              <div class=\"title\"><strong>Co je to přístupnost?</strong></div>
+              <p>Snahou je zpřístupnit webové stránky co <strong>nejširší veřejnosti</strong> bez ohledu na jejich technické a softwarové vybavení nebo možný hendikep, který mohou návštěvníci mít.</p>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <p>Návštěvníci mohou používat <strong>různé internetové <acronym>prohlížeče</acronym></strong>, tzv. browsery. K&nbsp;prohlížení webových stránek se dnes používá mnoho zařízení, zejména <acronym>PDA</acronym> nebo mobilní telefony. Nikdy nelze přesně určit, jak bude stránka prezentovaná (obrazovka PC, PDA, projektor či <acronym>hlasová čtečka</acronym>). Práci s&nbsp;webovou stránkou řídí vždy uživatel (nastavení stránky jako domovské, otevření stránky v&nbsp;novém okně, &hellip;).</p>
@@ -43,11 +43,11 @@
             <p>Jistě jste se na internetu setkali s&nbsp;některou z&nbsp;níže uvedených chyb, která Vás omezila:</p>
 
 
-          <div class=\"float_box tip\">
-            <div class=\"title\"><strong>Další informace</strong></div>
-            <p>Více informací o přístupnosti můžete získat na adrese: <a href=\"http://pristupnost.nawebu.cz\" title=\"\">http://pristupnost.nawebu.cz</a>.</p>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box tip\">
+              <div class=\"title\"><strong>Další informace</strong></div>
+              <p>Více informací o přístupnosti můžete získat na adrese: <a href=\"http://pristupnost.nawebu.cz\" title=\"\">http://pristupnost.nawebu.cz</a>.</p>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <ul>

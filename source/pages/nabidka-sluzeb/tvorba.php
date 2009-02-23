@@ -4,16 +4,15 @@
             <h1>$page_name</h1>
             <p>Chcete vytvořit nové webové stránky? Potřebujete upravit Vaše stávající stránky? Mají Vaše stránky nízkou návštěvnost a chcete získat nové návštěvníky, potenciální zákazníky?</p>
 
-
-          <div class=\"float_box tip\">
-            <p class=\"title\"><strong>Nechte práci na nás</strong></p>
-            <p>Stačí Vám pouze nápad a odhodlání, vše ostatní již zařídíme my&hellip;</p>
-            <div class=\"bottom\"></div>
-          </div>  
-
+            <div class=\"float_box tip\">
+              <p class=\"title\"><strong>Nechte práci na nás</strong></p>
+              <p>Stačí Vám pouze nápad a odhodlání, vše ostatní již zařídíme my&hellip;</p>
+              <div class=\"bottom\"></div>
+            </div>
 
             <p>Vytvoříme Vám internetové stránky za použití moderních technologií, podle aktuálního trendu vývoje v oblasti prezentace na internetu. Samozřejmě budou Vaše stránky maximálně ".mylink("pouzitelnost-pristupnost", "přístupné a použitelné").", kód stránek <acronym>validní</acronym>, <acronym>sémanticky</acronym> správný. Součástí naší nabídky je i ".mylink("optimalizace-pro-vyhledavace", "optimalizace pro vyhledávače (SEO)").", ".mylink("registrace-do-katalogu", "registrace do katalogů").", poradenství a další&hellip;</p>
-          </div>  
+          </div>
+           
           <div class=\"text_box\">
             <h2 id=\"prezentace\">Prezentace na internetu</h2>
             <p>Základem prezentace na internetu jsou především ".mylink("pozadavky-kvalitni-stranky", "kvalitní webové stránky").". Co si představit pod tímto pojmem? Kvalitní webové stránky by měly být především obsahově hodnotné, doplněné pěkným a přehledným designem. Grafika by měla být doplňkem k Vaší prezentaci, nikoliv základem.</p>
@@ -31,18 +30,15 @@
             <p>Ani po vytvoření a umístění webových stránek práce nekončí. Stránky je potřeba aktualizovat, občas něco přidat, něco ubrat&hellip; ".mylink("nasledna-sprava", "čtěte dále")."</p>
 
 
-
-          <div class=\"float_box question\">
-            <p class=\"title\"><strong>Kam pokračovat dál?</strong></p>
-            
-            <ul>
-              <li>".mylink("informace", "Chci více informací o webových stránkách")."</li>
-              <li>".mylink("pozadavky-kvalitni-stranky", "Co je to kvalitní webová stránka?")."</li>
-              <li>".mylink("kontakt", "Chci kontaktovat společnost")."</li>
-            </ul>  
-              
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box question\">
+              <p class=\"title\"><strong>Kam pokračovat dál?</strong></p>
+              <ul>
+                <li>".mylink("informace", "Chci více informací o webových stránkách")."</li>
+                <li>".mylink("pozadavky-kvalitni-stranky", "Co je to kvalitní webová stránka?")."</li>
+                <li>".mylink("kontakt", "Chci kontaktovat společnost")."</li>
+              </ul>
+              <div class=\"bottom\"></div>
+            </div>
 
             <h2 id=\"analyza-stranek\">Analýza stávajících stránek</h2>
             <p>Máte své webové stránky? Chcete vědět, jestli vyhovují všem standardům? Zda jsou <acronym>validní</acronym>, <acronym>použitelné</acronym> a <acronym>přístupné</acronym>? Jak si stojí Vaše stránky ve <acronym>vyhledávačích</acronym>? Lze Vaše stránky najít v&nbsp;<acronym>katalozích</acronym>? Jsou tedy snadno nalezitelné? Vypracujeme pro Vás analýzu Vašich stávajících stránek&hellip;</p>

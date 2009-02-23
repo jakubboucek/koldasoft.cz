@@ -3,20 +3,19 @@
   echo("          <div class=\"text_box\">
 
 
-          <div class=\"float_box tip\">
-            <p class=\"title\"><strong>Mohlo by Vás zajímat</strong></p>
-            <ul>
-              <li>".mylink("o-nas")." - aneb kdo jsme a co děláme</li>
-              <li>".mylink("cenik")." - co Vás to bude stát?</li>
-              <li>".mylink("kontakt")." - zavolejte nám, nebo napište&hellip;</li>
-            </ul>
-            <div class=\"bottom\"></div>
-          </div>  
-
+            <div class=\"float_box tip\">
+              <p class=\"title\"><strong>Mohlo by Vás zajímat</strong></p>
+              <ul>
+                <li>".mylink("o-nas")." - aneb kdo jsme a co děláme</li>
+                <li>".mylink("cenik")." - co Vás to bude stát?</li>
+                <li>".mylink("kontakt")." - zavolejte nám, nebo napište&hellip;</li>
+              </ul>
+              <div class=\"bottom\"></div>
+            </div>
 
             <h1>$page_name</h1>
-              <p>Prohlédněte si naši dosavadní tvorbu a přesvědčte se o kvalitě naší práce. Každý projekt jsme tvořili dle našich nejosvědčenějších postupů, za plného využití našeho potenciálu a se zcela individuálním přístupem.</p>
-              <p><strong>Jsme hrdi na svoji práci</strong>, nemáme se za co stydět. Však, posuďte sami&hellip; Líbí se Vám naše práce?</p>
+            <p>Prohlédněte si naši dosavadní tvorbu a přesvědčte se o kvalitě naší práce. Každý projekt jsme tvořili dle našich nejosvědčenějších postupů, za plného využití našeho potenciálu a se zcela individuálním přístupem.</p>
+            <p><strong>Jsme hrdi na svoji práci</strong>, nemáme se za co stydět. Však, posuďte sami&hellip; Líbí se Vám naše práce?</p>
           </div>  
           <div class=\"text_box\">
             <h2 id=\"rok_2008\">Webové stránky spuštěné v&nbsp;roce 2008</h2>

@@ -2,11 +2,11 @@
 
   echo("          <div class=\"text_box\">
 
-          <div class=\"float_box tip more\">
-            <p class=\"title\"><strong>".mylink("nas-tym", "Lidé v týmu")."</strong></p>
-            <p>Hledáte někoho konkrétního? Potřebujete číslo nebo mailovou adresu? Rádi byste hovořili přímo s grafikem či programátorem?</p>
-            <div class=\"bottom\"><p class=\"read_next\">".mylink("nas-tym", "Koukněte na náš tým")."</p></div>
-          </div>  
+            <div class=\"float_box tip more\">
+              <p class=\"title\"><strong>".mylink("nas-tym", "Lidé v týmu")."</strong></p>
+              <p>Hledáte někoho konkrétního? Potřebujete číslo nebo mailovou adresu? Rádi byste hovořili přímo s grafikem či programátorem?</p>
+              <div class=\"bottom\"><p class=\"read_next\">".mylink("nas-tym", "Koukněte na náš tým")."</p></div>
+            </div>
 
 
             <h1>$page_name</h1>
@@ -41,8 +41,8 @@
             
             <div class=\"cleaner\"></div>
 
-          <div class=\"float_box left mail\" id=\"contactform_float_box\">
-            <p class=\"title\"><strong>Kontaktní formulář, aneb napište nám</strong></p>
+            <div class=\"float_box left mail\" id=\"contactform_float_box\">
+              <p class=\"title\"><strong>Kontaktní formulář, aneb napište nám</strong></p>
 ");
 
 if(!($form = App::getForm('contactform'))) 

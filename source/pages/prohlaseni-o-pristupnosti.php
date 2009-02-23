@@ -7,11 +7,11 @@
             <p>Tyto webové stránky byly připraveny s&nbsp;ohledem k&nbsp;přístupnosti a bezbariérovosti webu tak, aby splňovaly zásady přístupnosti podle metodik <a href=\"http://www.blindfriendly.cz/\" title=\"Přístupnost stránek pro nevidomé a slabozraké\">Blind Friendly Web</a>,  <a href=\"http://www.pristupnost.cz/wcag/\" title=\"Pravidla WCAG\">WCAG 1.0</a> a <a href=\"http://www.pravidla-pristupnosti.cz/\" title=\"Pravidla přístupného webu\">Pravidel tvorby přístupného webu</a>.</p>
 
 
-          <div class=\"float_box question more\">
-            <div class=\"title\"><strong>".mylink("pouzitelnost-pristupnost", "Co je přístupnost webu?", "pristupnost")."</strong></div>
-            <p>Nevíte, co si představit pod pojmem přístupnost webové stránky? </p>
-            <div class=\"bottom\"><p class=\"read_next\">".mylink("pouzitelnost-pristupnost", "Více informací o přístupnosti", "pristupnost")."</p></div>
-          </div>  
+            <div class=\"float_box question more\">
+              <div class=\"title\"><strong>".mylink("pouzitelnost-pristupnost", "Co je přístupnost webu?", "pristupnost")."</strong></div>
+              <p>Nevíte, co si představit pod pojmem přístupnost webové stránky? </p>
+              <div class=\"bottom\"><p class=\"read_next\">".mylink("pouzitelnost-pristupnost", "Více informací o přístupnosti", "pristupnost")."</p></div>
+            </div>
 
 
             <p>Web je vytvořen podle specifikace <a href=\"http://www.w3.org/TR/xhtml1/\" title=\"Specifikace standardu XHTML 1.0\">XHTML&nbsp;1.0 Strict</a> a dodržuje syntaktickou a sémantickou správnost. Obsah je kompletně oddělen od stylu pomocí <a href=\"http://www.w3.org/TR/CSS21/\" title=\"Specifikace standardu CSS 2.1\">CSS</a>, díky tomu je možné web prezentovat na dalších výstupních zařízeních. Velikost písma je definovaná v&nbsp;relativních jednotkách, takže písmo se dá zvětšovat i zmenšovat pomocí nastavení prohlížeče.</p>

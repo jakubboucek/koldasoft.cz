@@ -3,20 +3,18 @@
   echo("          <div class=\"text_box\">
             <h1>$page_name</h1>
 
-
-          <div class=\"float_box tip\">
-            <p class=\"title\"><strong>Mohlo by Vás zajímat</strong></p>
-            <ul>
-              <li>".mylink("pozadavky-kvalitni-stranky", "Jak vypadá kvalitní webová stránka?")."</li>
-              <li>".mylink("prubeh-tvorby")."</li>
-              <li>".mylink("naklady-na-provoz")."</li>
-              <li>".mylink("proc-nechat-delat")."</li>
-              <li>".mylink("proc-mit-stranky")."</li>
-              <li>".mylink("o-nas", "Náš cíl, naše Vize", "cile", "Náš cíl, naše Vize")."</li>
-              <li>".mylink("reference")."</li>            </ul>
-            <div class=\"bottom\"></div>
-          </div>  
-
+            <div class=\"float_box tip\">
+              <p class=\"title\"><strong>Mohlo by Vás zajímat</strong></p>
+              <ul>
+                <li>".mylink("pozadavky-kvalitni-stranky", "Jak vypadá kvalitní webová stránka?")."</li>
+                <li>".mylink("prubeh-tvorby")."</li>
+                <li>".mylink("naklady-na-provoz")."</li>
+                <li>".mylink("proc-nechat-delat")."</li>
+                <li>".mylink("proc-mit-stranky")."</li>
+                <li>".mylink("o-nas", "Náš cíl, naše Vize", "cile", "Náš cíl, naše Vize")."</li>
+                <li>".mylink("reference")."</li>            </ul>
+              <div class=\"bottom\"></div>
+            </div>
 
             <p>Cenu za vytvoření webových stránek nelze jednoznačně stanovit. Celková cena za naše služby může být různá a závisí na mnoha faktorech, zejména na:</p>
             <ul>

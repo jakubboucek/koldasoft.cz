@@ -4,16 +4,16 @@
             <h1>$page_name</h1>
 
 
-          <div class=\"float_box tip\">
-            <p class=\"title\"><strong>Mohlo by Vás zajímat</strong></p>
-            <ul>
-              <li>".mylink("pozadavky-kvalitni-stranky", "Požadavky kvalitní webové stránky")."</li>
-              <li>".mylink("prubeh-tvorby")."</li>
-              <li>".mylink("cenik")." - co Vás to bude stát?</li>
-              <li>".mylink("kontakt")." - zavolejte nám, nebo napište&hellip;</li>
-            </ul>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box tip\">
+              <p class=\"title\"><strong>Mohlo by Vás zajímat</strong></p>
+              <ul>
+                <li>".mylink("pozadavky-kvalitni-stranky", "Požadavky kvalitní webové stránky")."</li>
+                <li>".mylink("prubeh-tvorby")."</li>
+                <li>".mylink("cenik")." - co Vás to bude stát?</li>
+                <li>".mylink("kontakt")." - zavolejte nám, nebo napište&hellip;</li>
+              </ul>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <p>Máte své webové stránky? Nevyhovují Vám? Nelíbí se Vám jejich grafický vzhled? Nepůsobí moderním dojmem? Jsou již zastaralé? Máte pocit, že je návštěvnost příliš nízká? <strong>Potřebujete stránky předělat?</strong></p>

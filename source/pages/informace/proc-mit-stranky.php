@@ -3,11 +3,11 @@
   echo("          <div class=\"text_box\">
             <h1>$page_name</h1>
 
-          <div class=\"float_box question more\">
-            <div class=\"title\"><strong>".mylink("vyhody-nevyhody", "Výhody a nevýhody?")."</strong></div>
-            <p>Webové stránky jsou dnes opravdu populárními: Zajímá Vás, jaké jsou jejich výhody a nevýhody?</p>
-            <div class=\"bottom\"><p class=\"read_next\">".mylink("vyhody-nevyhody")."</p></div>
-          </div>  
+            <div class=\"float_box question more\">
+              <div class=\"title\"><strong>".mylink("vyhody-nevyhody", "Výhody a nevýhody?")."</strong></div>
+              <p>Webové stránky jsou dnes opravdu populárními: Zajímá Vás, jaké jsou jejich výhody a nevýhody?</p>
+              <div class=\"bottom\"><p class=\"read_next\">".mylink("vyhody-nevyhody")."</p></div>
+            </div>
 
             <p>Internet je médium, stejně jako televize nebo noviny, které je velmi rozšířené mezi širokou veřejností, potencionálními zákazníky. Někteří jej používají pro zábavu, jiní pro práci, ale drtivá většina ho používá <strong>pro získávání informací</strong>. Na rozdíl od novin a televize je internet médium plně otevřené, a je proto velmi jednoduché, abyste se vyhledanou informací stali právě Vy.</p>
             <p>Dnes, kdy je používání internetu samozřejmostí, by měla být prezentace na internetu nezbytnou součástí každé firmy.</p>
@@ -19,14 +19,14 @@
             <h2 id=\"zviditelneni\">Zviditelnění</h2>
 
 
-          <div class=\"float_box tip\">
-            <p class=\"title\"><strong>Mohlo by Vás zajímat</strong></p>
-            <ul>
-              <li>".mylink("registrace-do-katalogu")."</li>
-              <li>".mylink("optimalizace-pro-vyhledavace")."</li>
-            </ul>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box tip\">
+              <p class=\"title\"><strong>Mohlo by Vás zajímat</strong></p>
+              <ul>
+                <li>".mylink("registrace-do-katalogu")."</li>
+                <li>".mylink("optimalizace-pro-vyhledavace")."</li>
+              </ul>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <p>Kdo ještě používá zlaté stránky? Lidé dnes vyměňují telefonní seznamy za internetové <acronym>vyhledávače</acronym> a <acronym>katalogy</acronym>, které se tak stávají jejich hlavními zdroji kontaktů. Pokud je firma dobře zavedená v&nbsp;těchto katalozích a je k&nbsp;nalezení ve vyhledávačích, zákazníci si Vaší webovou stránku jistě najdou.</p>
@@ -42,14 +42,14 @@
             <h2 id=\"nizka-cena\">Nízká cena</h2>
 
 
-          <div class=\"float_box tip\">
-            <p class=\"title\"><strong>Mohlo by Vás zajímat</strong></p>
-            <ul>
-              <li>".mylink("cenik", "Ceník našich služeb")."</li>
-              <li>".mylink("naklady-na-provoz")."</li>
-            </ul>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box tip\">
+              <p class=\"title\"><strong>Mohlo by Vás zajímat</strong></p>
+              <ul>
+                <li>".mylink("cenik", "Ceník našich služeb")."</li>
+                <li>".mylink("naklady-na-provoz")."</li>
+              </ul>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <p>Díky nízkým nákladům a širokému pokrytí jsou webové stránky tou pravou volbou. ".mylink("pozadavky-kvalitni-stranky", "Kvalitní webové stránky")." lze vytvořit <strong>".mylink("cenik", "za rozumnou cenu")."</strong> a ani jejich ".mylink("naklady-na-provoz", "následný provoz")." není nikterak drahý. Rozumnou považujeme ve srovnání s&nbsp;jinou formou prezentace, tedy například s&nbsp;tištěnými reklamními letáčky nebo katalogy, kde návrh, tisk a následné rozšíření stojí mnohem více. Navíc je taková reklama pouze lokální (tedy město, kraj, apod.). Prezentace na internetu je oproti tomu celosvětová.</p>

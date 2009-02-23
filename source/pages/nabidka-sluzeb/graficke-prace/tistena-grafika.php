@@ -6,11 +6,11 @@
             <p>Tištěná grafika zahrnuje prakticky všechno, co se dá vytisknout na papír (nebo jiná média) či vyřezat a následně nalepit. I v&nbsp;digitálním věku se prakticky žádná společnost neobejde bez faktur, dopisů nebo vizitek. Specifika tištěné grafiky jsou zejména <strong>typografie a sazba</strong>, úprava pro barvový prostor CMYK a následně <strong>příprava pro tisk</strong> (tzv. prepress).</p>
             <p>Pro lepší představu zde nabízíme popis a ukázky několika tištěných dokumentů, které naši klienti často požadují.</p>
 
-          <div class=\"float_box tip more\">
-            <p class=\"title\"><strong>".mylink("corporate-design", "Potřebujete corporate design?")."</strong></p>
-            <p>Corporate design znamená firemní grafický styl neboli &bdquo;tvář firmy&rdquo;, kterou se firma prezentuje na veřejnosti. Základem corporate designu je grafický manuál, který obsahuje logotyp (značku) firmy a popisuje, jak toto logo a prvky s&nbsp;ním související správně aplikovat v&nbsp;praxi a jak s&nbsp;ním naopak nezacházet.</p>
-            <div class=\"bottom\"><p class=\"read_next\">".mylink("corporate-design")."</p></div>
-          </div>  
+            <div class=\"float_box tip more\">
+              <p class=\"title\"><strong>".mylink("corporate-design", "Potřebujete corporate design?")."</strong></p>
+              <p>Corporate design znamená firemní grafický styl neboli &bdquo;tvář firmy&rdquo;, kterou se firma prezentuje na veřejnosti. Základem corporate designu je grafický manuál, který obsahuje logotyp (značku) firmy a popisuje, jak toto logo a prvky s&nbsp;ním související správně aplikovat v&nbsp;praxi a jak s&nbsp;ním naopak nezacházet.</p>
+              <div class=\"bottom\"><p class=\"read_next\">".mylink("corporate-design")."</p></div>
+            </div>
 
             <h2 id=\"vizitky\">Vizitky</h2>
             <p>Nejsnazší a nejreprezentativnější způsob, jak někomu rychle předat své kontaktní informace je pomocí pěkné a přehledné vizitky. Taková vizitka se vyznačuje především <strong>dobrou čitelností</strong>, jasně <strong>strukturovaným obsahem</strong>, kvalitně provedeným tiskem i ořezem na papír o patřičné tvrdosti (gramáži) a povrchové úpravě (lesk, mat atd.)</p>

@@ -11,11 +11,11 @@
             <p>Jistě znáte adresu &bdquo;www.seznam.cz&rdquo;. A zajisté byste byli rádi, kdyby Vaše nové webové stránky měly také takovou podobnou adresu. Takové adrese se říká doména. Dle Vašeho výběru si můžete pronajmout vlastní doménu. Jedinou podmínkou je, že Vámi zvolená doména nesmí být již obsazená.</p>
 
 
-          <div class=\"float_box info\">
-            <p class=\"title\"><strong>Vše zařídíme za Vás</strong></p>
-            <p>Doménou a hostingem se většinou jako klient nemusíte zabývat. Vše pro Vás rádi zařídíme a to <strong>na míru Vašemu projektu</strong>, Vašim potřebám a požadavkům.</p>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box info\">
+              <p class=\"title\"><strong>Vše zařídíme za Vás</strong></p>
+              <p>Doménou a hostingem se většinou jako klient nemusíte zabývat. Vše pro Vás rádi zařídíme a to <strong>na míru Vašemu projektu</strong>, Vašim potřebám a požadavkům.</p>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <p>Domény se lidé snaží často uhádnout. Pokud hledají např. výrobce plastových oken, zkusí adresu www.plastovaokna.cz. Je zřejmé, že firma, která vlastní tuto doménu, má konkurenční výhodu. Je tedy důležité zvolit správné jméno domény.</p>

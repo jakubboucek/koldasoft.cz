@@ -5,6 +5,7 @@
             <p>Webové stránky se staly opravdu populárními, avšak se svými tištěnými kolegy toho nemají moc společného. Ba naopak, jedná se o dvě naprosto odlišné formy prezentace.</p>
             <p>Je zajímavé připomenout, jaké jsou výhody a nevýhody webových stránek.</p>
           </div>  
+          
           <div class=\"text_box\">
             <h2 id=\"vyhody\">Výhody webových stránek</h2>
             <p>Výhodou je jistě rozšířenost a prostor pro prezentaci své práce bez nutnosti návštěvy obchodu či kanceláře nějaké organizace, popřípadě čekání ve frontě, pro nějakou drobnou informaci na úřadech. Za normálních okolností jsou stránky přístupné 24&nbsp;hodin denně, a tak se zájemce o služby nemusí starat o provozní dobu firmy.</p>

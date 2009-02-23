@@ -9,12 +9,12 @@
             <p>Internet je jedno z&nbsp;nejrychlejších médií. Je proto důležité, udržovat Vaše webové stránky <strong>stále aktuální</strong>. V&nbsp;žádném případě by se na stránkách neměla vyskytnout neaktuální informace.</p>
 
 
-          <div class=\"float_box info\">
-            <div class=\"title\"><strong>Aktuální obsah</strong></div>
-            <p>Návštěvníci očekávají <strong>změnu a aktuálnost.</strong></p>
-            <p>Záměrem je, aby se návštěvníci opět (a rádi) vraceli. Dejte jim k&nbsp;tomu důvod&hellip;</p>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box info\">
+              <div class=\"title\"><strong>Aktuální obsah</strong></div>
+              <p>Návštěvníci očekávají <strong>změnu a aktuálnost.</strong></p>
+              <p>Záměrem je, aby se návštěvníci opět (a rádi) vraceli. Dejte jim k&nbsp;tomu důvod&hellip;</p>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <p>Uveďme si jednoduchý příklad: Představte si, že máte uvedeno: &bdquo;Přijmeme řidiče, nástup možný ihned.&ldquo; Datum vložení - rok ".(date('Y') - (date('m') > 3 ? 1 : 2)).". Je to nesmyslné! Snadno tak přijdete o důvěru. Buďto si návštěvník pomyslí, že Vaše firma nebyla schopná si za celý rok sehnat zaměstnance, nebo že Vaše firma není schopná aktualizovat informace na vlastních webových stránkách.</p>

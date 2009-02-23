@@ -3,17 +3,16 @@
   echo("          <div class=\"text_box\">
             <h1>$page_name</h1>
 
-
-          <div class=\"float_box question\">
-            <p class=\"title\"><strong>Máte otázky a žádné odpovědi?</strong></p>
-            <p>Nabízíme základní informace, které Vám <strong>pomohou se zorientovat v&nbsp;oblasti webdesignu</strong> a pomohou Vám s&nbsp;rozhodováním, zda jsou pro Vás webové stránky vhodným řešením&hellip;</p>
-            <div class=\"bottom\"></div>
-          </div>  
-
+            <div class=\"float_box question\">
+              <p class=\"title\"><strong>Máte otázky a žádné odpovědi?</strong></p>
+              <p>Nabízíme základní informace, které Vám <strong>pomohou se zorientovat v&nbsp;oblasti webdesignu</strong> a pomohou Vám s&nbsp;rozhodováním, zda jsou pro Vás webové stránky vhodným řešením&hellip;</p>
+              <div class=\"bottom\"></div>
+            </div>
 
             <p>Váháte, zda Vám vytvoření stránek pomůže, přinese nové klienty a vyšší zisky?</p>
             <p>Ohledně tvorby webových stránek a jejich následného provozu Vás může napadnout mnoho otázek, na které byste rádi znali odpověď dříve, než se rozhodnete pro své vlastní.</p>
-          </div>  
+          </div>
+            
           <div class=\"text_box\">
             <h2 id=\"proc-mit-stranky\">".mylink("proc-mit-stranky")."</h2>
             <p>Přemýšlíte, zda je dobré mít vlastní webové stránky? A proč? Nabídneme Vám několik pádných důvodů, proč byste je měli mít právě Vy&hellip; ".mylink("proc-mit-stranky", "čtěte dále")."</p>
@@ -30,14 +29,12 @@
             <h2 id=\"co-si-pripravit\">".mylink("co-si-pripravit")."</h2>
             <p>Uvažujete-li o vlastních webových stránkách, poradíme Vám, co byste si měli promyslet a připravit, než si stránky necháte dělat. ".mylink("co-si-pripravit", "čtěte dále")."</p>
 
-
-          <div class=\"float_box tip\">
-            <p class=\"title\"><strong>Nenašli jste odpověď?</strong></p>
-            <p>Pokud Vám ani jeden z&nbsp;našich článků nezodpověděl Vaše dotazy, ".mylink("kontakt", "kontaktujte nás")."!</p>
-            <p>My Vám jistě odpověď dáme&hellip;</p>
-            <div class=\"bottom\"></div>
-          </div>  
-
+            <div class=\"float_box tip\">
+              <p class=\"title\"><strong>Nenašli jste odpověď?</strong></p>
+              <p>Pokud Vám ani jeden z&nbsp;našich článků nezodpověděl Vaše dotazy, ".mylink("kontakt", "kontaktujte nás")."!</p>
+              <p>My Vám jistě odpověď dáme&hellip;</p>
+              <div class=\"bottom\"></div>
+            </div>
 
             <h2 id=\"slovnicek-pojmu\">".mylink("slovnicek-pojmu")."</h2>
             <p>Ve světě internetu a webdesignu se používá mnoho zkratek a výrazů, které však nemusí být vždy úplně jasné. Nabízíme Vám seznam nejpoužívanějších pojmů. ".mylink("slovnicek-pojmu", "čtěte dále")."</p>

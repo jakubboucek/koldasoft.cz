@@ -4,11 +4,11 @@
             <h1>$page_name</h1>
 
 
-          <div class=\"float_box question\">
-            <p class=\"title\"><strong>Mohu si je udělat sám?</strong></p>
-            <p>Udělat si webové stránky můžete dnes celkem snadno sami, rychle a prakticky zadarmo. <strong>Nečekejte od nich však velké úspěchy</strong>, protože pro vytvoření účinných a ".mylink("pozadavky-kvalitni-stranky", "kvalitních webových stránek")." je zapotřebí mnoho ".mylink("znalosti", "znalostí").", ".mylink("reference", "zkušeností")." a nástrojů.</p>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box question\">
+              <p class=\"title\"><strong>Mohu si je udělat sám?</strong></p>
+              <p>Udělat si webové stránky můžete dnes celkem snadno sami, rychle a prakticky zadarmo. <strong>Nečekejte od nich však velké úspěchy</strong>, protože pro vytvoření účinných a ".mylink("pozadavky-kvalitni-stranky", "kvalitních webových stránek")." je zapotřebí mnoho ".mylink("znalosti", "znalostí").", ".mylink("reference", "zkušeností")." a nástrojů.</p>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <p>Tvorba webových stránek je, ač se to někomu nezdá, <strong>složitá a komplexní práce</strong>, vyžadující hluboké znalosti, odbornost a pochopení celé problematiky. Obsahuje mnoho dílčích odvětví a je takřka nemožné je všechny obsáhnout a kvalitně zvládat. Proto je vhodná spolupráce ".mylink("nas-tym", "několika odborníků").", kteří navíc musí neustále sledovat neuvěřitelně rychlý vývoj v&nbsp;oboru, nové trendy i problémy. Přenechejte tvorbu webových stránek tomu, kdo se touto oblastí zabývá a ušetřený čas tak můžete věnovat do svého byznysu, kterému rozumíte nejlépe Vy.</p>
@@ -28,16 +28,16 @@
             <p>S&nbsp;vytvořením, umístěním a provozem webových stránek na internetu je spojeno mnoho náležitostí, přenechejte tedy práci raději odborníkům. My Vám nabízíme:</p>
 
 
-          <div class=\"float_box question more\">
-            <div id=\"proc-zvolit-koldasoft\" class=\"title\"><strong>".mylink("proc-zvolit-koldasoft", "Proč zvolit Koldasoft?")."</strong></div>
-            <ul>
-              <li>".mylink("proc-zvolit-koldasoft", "Máme chuť a odhodlání", "chut-odhodlani", "Máme chuť a odhodlání")."</li>  
-              <li>".mylink("proc-zvolit-koldasoft", "Nabízíme komplexní služby", "komplexni-sluzby", "Nabízíme komplexní služby")."</li>
-              <li>".mylink("proc-zvolit-koldasoft", "Preferujeme individuální přístup", "individualni-pristup", "Individuálním přístupem dosahujeme našich cílů")."</li>  
-              <li>".mylink("proc-zvolit-koldasoft", "Nabízíme zajímavé ceny", "zajimave-ceny", "Nabízíme zajímavé ceny")."</li>  
-            </ul>      
-            <div class=\"bottom\"><p class=\"read_next\">".mylink("proc-zvolit-koldasoft", "Více informací")."</p></div>
-          </div>  
+            <div class=\"float_box question more\">
+              <div id=\"proc-zvolit-koldasoft\" class=\"title\"><strong>".mylink("proc-zvolit-koldasoft", "Proč zvolit Koldasoft?")."</strong></div>
+              <ul>
+                <li>".mylink("proc-zvolit-koldasoft", "Máme chuť a odhodlání", "chut-odhodlani", "Máme chuť a odhodlání")."</li>
+                <li>".mylink("proc-zvolit-koldasoft", "Nabízíme komplexní služby", "komplexni-sluzby", "Nabízíme komplexní služby")."</li>
+                <li>".mylink("proc-zvolit-koldasoft", "Preferujeme individuální přístup", "individualni-pristup", "Individuálním přístupem dosahujeme našich cílů")."</li>
+                <li>".mylink("proc-zvolit-koldasoft", "Nabízíme zajímavé ceny", "zajimave-ceny", "Nabízíme zajímavé ceny")."</li>
+              </ul>
+              <div class=\"bottom\"><p class=\"read_next\">".mylink("proc-zvolit-koldasoft", "Více informací")."</p></div>
+            </div>
 
 
             <ul>

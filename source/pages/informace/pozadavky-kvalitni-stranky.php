@@ -4,20 +4,20 @@
             <h1>$page_name</h1>
 
 
-          <div class=\"float_box info\">
-            <p class=\"title\"><strong>Kvalitní webová stránka</strong></p>
-            <ul class=\"link_farm\">
-              <li>".mylink("pozadavky-kvalitni-stranky", "Validnost, moderní technologie", "validnost", "Validnost, moderní technologie")."</li>
-              <li>".mylink("pozadavky-kvalitni-stranky", "Pěkný grafický návrh (design)", "design", "Pěkný grafický návrh (design)")."</li>
-              <li>".mylink("pozadavky-kvalitni-stranky", "Hodnotný obsah", "hodnotny-obsah", "Hodnotný obsah")."</li>
-              <li>".mylink("pozadavky-kvalitni-stranky", "Přístupnost a použitelnost", "pristupnost-pouzitelnost", "Přístupnost a použitelnost")."</li>
-              <li>".mylink("pozadavky-kvalitni-stranky", "Podpora různých prohlížečů", "podpora-prohlizecu", "Podpora různých prohlížečů")."</li>
-              <li>".mylink("pozadavky-kvalitni-stranky", "Funkčnost bez stylů, obrázků a skriptů", "funkcnost-bez-doplnku", "Funkčnost bez stylů, obrázků a skriptů")."</li>
-              <li>".mylink("pozadavky-kvalitni-stranky", "Rychlé načítání", "rychle-nacitani", "Rychlé načítání")."</li>
-              <li>".mylink("pozadavky-kvalitni-stranky", "Tisknutelná verze", "tisknutelna-verze", "Tisknutelná verze")."</li>
-            </ul>  
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box info\">
+              <p class=\"title\"><strong>Kvalitní webová stránka</strong></p>
+              <ul class=\"link_farm\">
+                <li>".mylink("pozadavky-kvalitni-stranky", "Validnost, moderní technologie", "validnost", "Validnost, moderní technologie")."</li>
+                <li>".mylink("pozadavky-kvalitni-stranky", "Pěkný grafický návrh (design)", "design", "Pěkný grafický návrh (design)")."</li>
+                <li>".mylink("pozadavky-kvalitni-stranky", "Hodnotný obsah", "hodnotny-obsah", "Hodnotný obsah")."</li>
+                <li>".mylink("pozadavky-kvalitni-stranky", "Přístupnost a použitelnost", "pristupnost-pouzitelnost", "Přístupnost a použitelnost")."</li>
+                <li>".mylink("pozadavky-kvalitni-stranky", "Podpora různých prohlížečů", "podpora-prohlizecu", "Podpora různých prohlížečů")."</li>
+                <li>".mylink("pozadavky-kvalitni-stranky", "Funkčnost bez stylů, obrázků a skriptů", "funkcnost-bez-doplnku", "Funkčnost bez stylů, obrázků a skriptů")."</li>
+                <li>".mylink("pozadavky-kvalitni-stranky", "Rychlé načítání", "rychle-nacitani", "Rychlé načítání")."</li>
+                <li>".mylink("pozadavky-kvalitni-stranky", "Tisknutelná verze", "tisknutelna-verze", "Tisknutelná verze")."</li>
+              </ul>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <p>Mít kvalitní webové stránky je základem úspěchu! Zajímá Vás, co si představit pod pojmem kvalitní webová stránka? Jak taková stránka vypadá a jak se pozná?</p>
@@ -33,12 +33,12 @@
             <p>Zajímavý, pěkný a přehledný design je základem pro každou webovou stránku a doplňuje tak její hodnotný obsah. Design <strong>zapůsobí na návštěvníka</strong> prvním dojmem již při vstupu na stránku. Design celé stránky musí být shodný s&nbsp;firemním grafickým stylem (corporate design) a tvořit tak spolu s ostatními propagačními materiály jednotný celek.</p>
 
 
-          <div class=\"float_box tip\">
-            <p class=\"title\"><strong>Kvalitní obsah především</strong></p>
-            <p>Návštěvníci hledají na internetu převážně informace, tak proč jim je nenabídnout?</p>
-            <p>Kvalitní obsah si získá návštěvníky a přiměje je k&nbsp;opětovnému návratu!</p>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box tip\">
+              <p class=\"title\"><strong>Kvalitní obsah především</strong></p>
+              <p>Návštěvníci hledají na internetu převážně informace, tak proč jim je nenabídnout?</p>
+              <p>Kvalitní obsah si získá návštěvníky a přiměje je k&nbsp;opětovnému návratu!</p>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <h2 id=\"hodnotny-obsah\">Hodnotný obsah</h2>

@@ -4,11 +4,11 @@
             <h1>$page_name</h1>
 
 
-          <div class=\"float_box question\">
-            <p class=\"title\"><strong>Proč optimalizovat?</strong></p>
-            <p>Kvalitní SEO optimalizace může webové stránce zajistit zobrazení na předních příčkách výsledků vyhledávačů.</p>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box question\">
+              <p class=\"title\"><strong>Proč optimalizovat?</strong></p>
+              <p>Kvalitní SEO optimalizace může webové stránce zajistit zobrazení na předních příčkách výsledků vyhledávačů.</p>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <p>SEO – optimalizace stránek pro <acronym>vyhledávače</acronym> je náročná činnost, která vyžaduje dodržení základních prvků, které jsou dle způsobu aplikování rozděleny na dvě skupiny: ".mylink("metody-seo", "on-page", "on-page", "On-page faktory")." a ".mylink("metody-seo", "off-page", "off-page", "Off-page faktory")." faktory.</p>
@@ -23,11 +23,11 @@
             <p>Do struktury webové stránky patří zejména její jasná <acronym>navigace</acronym>, členění nadpisů a textů. Struktura by měla být vždy jasná a pochopitelná. Procházení kategorií a podkategorií jasné a přehledné. Mapa webu pak slouží k&nbsp;přehlednému zobrazení všech stránek, včetně vnořených.</p>
 
 
-          <div class=\"float_box info\">
-            <p class=\"title\"><strong>Nejdůležitější je obsah</strong></p>
-            <p>Kvalitní obsah webových stránek je nejlepším základním kamenem pro SEO optimalizaci.</p>
-            <div class=\"bottom\"></div>
-          </div>  
+            <div class=\"float_box info\">
+              <p class=\"title\"><strong>Nejdůležitější je obsah</strong></p>
+              <p>Kvalitní obsah webových stránek je nejlepším základním kamenem pro SEO optimalizaci.</p>
+              <div class=\"bottom\"></div>
+            </div>
 
 
             <h3>Obsah, texty a klíčová slova</h3>
