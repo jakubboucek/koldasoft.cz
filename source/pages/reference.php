@@ -239,6 +239,19 @@
             
             <div class=\"reference\">
               <div class=\"text\">
+                <h3 id=\"ref_airnet\">Autofólie LLumar</h3>
+                <p class=\"link\"><a href=\"http://www.autofolie-llumar.cz/\" title=\"Přejít na stránky Autofólie LLumar\">www.autofolie-llumar.cz</a></p>
+                <p class=\"short\"><strong>Pouze grafický návrh</strong>, září&nbsp;2007</p>
+                <p class=\"long\">Webové stránky nabízející polep autoskel fóliemi. Grafický návrh má působit poutavým dojmem na cílovou skupinu zákazníků, která se zajímá o&nbsp;vizuální vylepšování vozidel.</p>
+              </div>
+              <div class=\"foto\">
+                <p><a href=\"".$cesta."reference/autofolie_navrh.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/autofolie.png\" alt =\"Náhled: projekt Airnet Group\" width=\"206\" height=\"206\" /></a></p>
+              </div>
+              <div class=\"cleaner\"></div>
+            </div>
+            
+            <div class=\"reference\">
+              <div class=\"text\">
                 <h3 id=\"ref_airnet\">Airnet Group o.s.</h3>
                 <p class=\"link\"><a href=\"http://www.airnet-cz.net/\" title=\"Přejít na stránky Airnet Group\">www.airnet-cz.net</a></p>
                 <p class=\"short\"><strong>Kompletní realizace</strong>, <strong>logotyp</strong>, srpen&nbsp;2007</p>
