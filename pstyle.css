@@ -39,15 +39,18 @@ a {  /* Odkaz */
   color: black;
 }
   
+a img {  /* Odkaz */
+  border: none;
+}
+
+.cleaner {
+  clear: both;
+}
+
 .phidden {  /* Trida pro uplne skryti */
   display: none;
 }   
-  
-
-
-
 
 abbr, acronym {
   border-bottom: 1px dotted silver;
 }
-

@@ -25,6 +25,8 @@
             </div>
 
 
+            <div class=\"cleaner\"></div>
+
 
           </div>".nl);
 

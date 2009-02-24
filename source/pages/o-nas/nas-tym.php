@@ -12,7 +12,7 @@
 
           <div class=\"text_box\">
             <div class=\"member\">
-              <h2 id=\"kolda\">".(mylink("jiri-kolarik", "Jiří Kolařík - <em>ředitel společnosti</em>"))."</h2>
+              <h2 id=\"jiri-kolarik\">".(mylink("jiri-kolarik", "Jiří Kolařík - <em>ředitel společnosti</em>"))."</h2>
               ".(mylink("jiri-kolarik", "<img src=\"".$cesta."pictures/portrait_jiri_kolarik.jpg\" alt=\"Foto: Jiří Kolařík\" width=\"115\" height=\"139\" />"))."
               <ul>
                 <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;00</li>
@@ -26,7 +26,7 @@
             </div>
 
             <div class=\"member\">
-              <h2 id=\"lucka\">".(mylink("lucie-brandyska", "Lucie Brandýská - <em>asistentka ředitele</em>"))."</h2>
+              <h2 id=\"lucie-brandyska\">".(mylink("lucie-brandyska", "Lucie Brandýská - <em>asistentka ředitele</em>"))."</h2>
               ".(mylink("lucie-brandyska", "<img src=\"".$cesta."pictures/portrait_lucie_brandyska.jpg\" alt=\"Foto: Lucie Brandýská\" width=\"115\" height=\"139\" />"))."
               <ul>
                 <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;10</li>
@@ -39,7 +39,7 @@
             </div>
             <div class=\"cleaner\"></div>
             <div class=\"member\">
-              <h2 id=\"morty\">".(mylink("radek-vechet", "Radek Věchet - <em>hlavní grafik</em>"))."</h2>
+              <h2 id=\"radek-vechet\">".(mylink("radek-vechet", "Radek Věchet - <em>hlavní grafik</em>"))."</h2>
               ".(mylink("radek-vechet", "<img src=\"".$cesta."pictures/portrait_radek_vechet.jpg\" alt=\"Foto: Radek Věchet\" width=\"115\" height=\"139\" />"))."
               <ul>
                 <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;20</li>
@@ -53,7 +53,7 @@
             </div>
             <div class=\"cleaner\"></div>
             <div class=\"member\">
-              <h2 id=\"bukaj\">".(mylink("jakub-boucek", "Jakub Bouček - <em>hlavní programátor</em>"))."</h2>
+              <h2 id=\"jakub-boucek\">".(mylink("jakub-boucek", "Jakub Bouček - <em>hlavní programátor</em>"))."</h2>
               ".(mylink("jakub-boucek", "<img src=\"".$cesta."pictures/portrait_jakub_boucek.jpg\" alt=\"Foto: Jakub Bouček\" width=\"115\" height=\"139\" />"))."
               <ul>
                 <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;30</li>
@@ -67,7 +67,7 @@
             </div>
             <div class=\"cleaner\"></div>
             <div class=\"member\">
-              <h2 id=\"harem_master\">".(mylink("jiri-drahorad", "Jiří Drahorád - <em>designer</em>"))."</h2>
+              <h2 id=\"jiri-drahorad\">".(mylink("jiri-drahorad", "Jiří Drahorád - <em>designer</em>"))."</h2>
               ".(mylink("jiri-drahorad", "<img src=\"".$cesta."pictures/portrait_jiri_drahorad.jpg\" alt=\"Foto: Jiří Drahorád\" width=\"115\" height=\"139\" />"))."
               <ul>
                 <li><strong>Mobil:</strong> (+420) 720&nbsp;24&nbsp;92&nbsp;92</li>

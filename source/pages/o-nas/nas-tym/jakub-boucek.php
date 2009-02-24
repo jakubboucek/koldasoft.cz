@@ -5,7 +5,7 @@
             <h1>$page_name<em> - hlavní programátor</em></h1>
             <a href=\"".$cesta."pictures/photo_personal_jakub_boucek.jpg\" title=\"Otevřít fotografii v plném rozlišení\"><img src=\"".$cesta."pictures/photo_personal_jakub_boucek_small.jpg\" height=\"463\" width=\"310\" alt=\"Foto: Jakub Bouček\" style=\"float: left;\"/></a>
 
-           <div class=\"float_box tip\">
+            <div class=\"float_box tip\">
               <div class=\"title\"><strong>Kontaktní údaje</strong></div>
                 <ul>
                   <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;30</li>
@@ -18,11 +18,13 @@
             </div>
 
 
-           <div class=\"float_box info\">
+            <div class=\"float_box info\">
               <div class=\"title\"><strong>Několik slov</strong></div>
                 <p><em>Jestli je někde něco, co se dá naprogramovat, pusťe mě k&nbsp;tomu.<br /> Není nic, do čeho bych nedokázal napsat alespoň ".'$kousek_kodu'.".</em></p>
               <div class=\"bottom\"></div>
             </div>
+            
+            <div class=\"cleaner\"></div>
 
 
           </div>".nl);
