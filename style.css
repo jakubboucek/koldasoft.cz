@@ -5,7 +5,7 @@ body {  /* Telo stranky */
   font: .8em/1.3 "Arial CE", "Helvetica CE", arial, helvetica, sans-serif;
   position: relative;
   color: #595959;
-  background: #ffffff url('/pictures/page_stripe.gif') top center repeat-y;
+  background: #ffffff url('/pictures/page_stripe_02.gif') 50% 0% repeat-y;
   margin: 0;
 }
       
@@ -52,12 +52,14 @@ body {  /* Telo stranky */
 }
 
 #header_background #header {  /* Hlavicka */
-  background: url('/pictures/header_background.jpg') top center no-repeat;
+  background: url('/pictures/header_background_02.jpg') top center no-repeat;
+  *background: #ffffff url('/pictures/header_background.jpg') top center no-repeat;
 }
 
 #header .page {  /* Obsah hlavicky */
   height: 164px;
-  background: #ffffff url('/pictures/header_background.jpg') top center no-repeat;
+  background: #ffffff url('/pictures/header_background_02.jpg') top center no-repeat;
+  *background: #ffffff url('/pictures/header_background.jpg') top center no-repeat;
   overflow: hidden;
   position: relative;
 }
@@ -73,7 +75,7 @@ body {  /* Telo stranky */
   width: 670px;
   height: 157px;
   position: absolute;
-  top: 0; right: 0;
+  top: 0; right: 1px;
 }
 
 .mapa-webu #change  {
@@ -119,13 +121,16 @@ body {  /* Telo stranky */
 }
 
 /***** Menu *****/
-#hmenu .page, #footer .page  {
-  width: 921px;
+
+
+
+#hmenu {
+  margin: 0 0 0 -1px; padding: 0;
 }
 
 #hmenu ul {
   list-style-type: none;
-  margin: 0; padding: 0;
+  margin: 0 0; padding: 0;
 }
 
 #hmenu li {  /* Polozka seznamu */
@@ -353,6 +358,7 @@ h4 {  /* Nadpis 4. urovne - sloupec */
 
 #footer {  /* Pozadi bloku (presah grafiky) */
   background: url('/pictures/page_bottom_02.jpg') top center no-repeat;
+  margin: 0 0 0 -1px; *margin: 0 0 0 1px; _margin: 0 0 0 1px;
 }
 
 #footer .page {
