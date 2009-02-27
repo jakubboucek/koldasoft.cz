@@ -70,7 +70,7 @@
               <h2 id=\"jiri-drahorad\">".(mylink("jiri-drahorad", "Jiří Drahorád - <em>designer</em>"))."</h2>
               ".(mylink("jiri-drahorad", "<img src=\"".$cesta."pictures/portrait_jiri_drahorad.jpg\" alt=\"Foto: Jiří Drahorád\" width=\"115\" height=\"139\" />"))."
               <ul>
-                <li><strong>Mobil:</strong> (+420) 720&nbsp;24&nbsp;92&nbsp;92</li>
+                <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;40</li>
                 <li><strong>E-mail:</strong> <a href=\"mailto:jiri.drahorad@koldasoft.cz\" title=\"\">jiri.drahorad@koldasoft.cz</a></li>
                 <li><strong>ICQ:</strong> 233-445-142</li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_drahorad_v2.1.pdf\" title=\"Vizitka Jiří Drahorád (formát PDF, 32 kB)\">Vizitka</a></li>
