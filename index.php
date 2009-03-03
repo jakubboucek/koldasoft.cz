@@ -106,8 +106,8 @@
   { 
     echo("          <div class=\"box minireference\">
             <h4>Poslední reference</h4>
-            <p>".mylink("pro-sport-activities", "<img src=\"".$cesta."reference/psa/box_panel.png\" alt=\"Náhled: projekt Pro Sport Activities\" width=\"174\" height=\"174\" />")."</p>
-            <p>Pro Sport Activities, 2008<br /><a href=\"http://www.pro-sport.cz/\" title=\"Přejít na stránky Pro Sport Activities\">www.pro-sport.cz</a></p>
+            <p>".mylink("mevs", "<img src=\"".$cesta."reference/mevs/nahled.png\" alt=\"Náhled: projekt MěVS\" width=\"174\" height=\"174\" />")."</p>
+            <p>Městská veterinární správa v&nbsp;Praze, 2009<br /><a href=\"http://www.mevs.cz/\" title=\"Přejít na stránky Městské veterinární správy v Praze\">www.mevs.cz</a></p>
             <p class=\"read_next\">".mylink("reference", "Další reference&hellip;")."</p>          
           </div>".nl);
 /*    echo("          <div class=\"box\">
@@ -183,6 +183,7 @@
   my_db_add_line("source/page.db", array("slovnicek-pojmu", "Slovníček pojmů", "Slovníček pojmů", "Slovníček pojmů", array("informace")));
 
   //Reference
+  my_db_add_line("source/page.db", array("mevs", "Městská veterinární správa v&nbsp;Praze", "MěVS", "Městská veterinární správa v&nbsp;Praze", array("reference")));
   my_db_add_line("source/page.db", array("pro-sport-activities", "Pro Sport Activities", "P.S.A.", "Pro Sport Actvities", array("reference")));
   my_db_add_line("source/page.db", array("nizozemsko-ceska-obchodni-komora", "Nizozemsko-česká obchodní komora", "NČOK", "Nizozemsko-česká obchodní komora", array("reference")));
   my_db_add_line("source/page.db", array("hrackydomino", "Hračky Domino - eshop", "Hračky Domino - eshop", "Hračky Domino - eshop", array("reference")));

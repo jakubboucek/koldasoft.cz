@@ -18,6 +18,26 @@
             <p><strong>Jsme hrdi na svoji práci</strong>, nemáme se za co stydět. Však, posuďte sami&hellip; Líbí se Vám naše práce?</p>
           </div>  
           <div class=\"text_box\">
+            <h2 id=\"rok_2008\">Webové stránky spuštěné v&nbsp;roce 2009</h2>
+            <p>Výběr webových stránek a projektů realizovaných během roku 2009.</p>
+
+
+            <div class=\"reference\">
+              <div class=\"text\">
+                <h3 id=\"ref_psa\">".mylink("mevs")."</h3>
+                <p class=\"link\"><a href=\"http://www.mevs.cz/\" title=\"Přejít na stránky MěVS\">www.mevs.cz</a></p>
+                <p class=\"short\"><strong>Redesign, Kompletní realizace</strong>, únor&nbsp;2009</p>
+                <p class=\"long\">Realizace webových stránek Městské veterinární správy v&nbsp;Praze. Potřebné informace jsou zde zobrazeny v přehledné formě a&nbsp;jsou doplněny lehkou grafikou. Stránky obsahují odkazy na důležité dokumenty, které je možné stáhnout ve&nbsp;formátech PDF nebo DOC.</p>
+                <p class=\"read_next\">".mylink("mevs", "Více o tomto projektu")."</p>
+              </div>
+              <div class=\"foto\">
+                <p>".mylink("mevs", "<img src=\"".$cesta."reference/mevs/mevs.png\" alt=\"Náhled Pro Sport Activities\" height=\"206\" width=\"206\" />")."</p>
+              </div>
+              <div class=\"cleaner\"></div>
+            </div>
+          </div>
+            
+          <div class=\"text_box\">
             <h2 id=\"rok_2008\">Webové stránky spuštěné v&nbsp;roce 2008</h2>
             <p>Výběr webových stránek a projektů realizovaných během roku 2008.</p>
 
