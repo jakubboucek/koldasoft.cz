@@ -1,9 +1,14 @@
 <?php  //Vytvoreni zakladnich promennych a jmen pro danou stranku
 
   // Osetreni pro domovskou stranku \\
-  If(isset($_GET['open']))  //Pokud je promenna ziskana pres GET
-    $open = $_GET['open'];  //Ziskani promenne z adresove radky
-  Else  //Pokud neexistuje promenna open (pozadavek na otevreni domovske stranky)
+/*  If(isset($_GET['open']))  //Pokud je promenna ziskana pres GET
+    $open = $_GET['open'];  //Ziskani promenne z adresove radky*/
+    
+  $open = NULL;
+  if(!empty($_SERVER['REQUEST_URI'])) 
+    $open = trim($_SERVER['REQUEST_URI'],'/');
+  
+  if(!$open)  //Pokud neexistuje promenna open (pozadavek na otevreni domovske stranky)
   {
     $open = "uvod";  //Nastaveni vychozi stranky pro otevreni
     $page_ph = "snadná cesta k vlastnímu webu"; //Ulozeni pridane hodnoty

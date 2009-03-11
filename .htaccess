@@ -1,10 +1,22 @@
 
 RewriteEngine on
 
+RewriteRule ^calendar/?$ http://calendar.koldasoft.cz/ [R=302,L]
+RewriteRule ^gmail/?$ http://gmail.koldasoft.cz/ [R=302,L]
+
 RewriteCond %{HTTP_HOST} ^koldasoft\.cz$
 RewriteRule ^(.*)$ http://www.koldasoft.cz$1 [R=301,L]
+
+RewriteCond %{REQUEST_URI} ^_gat/.*\.js$
 RewriteRule ^_gat/.*\.js$ _gat.php [L,QSA]
-RewriteRule  ^([A-Za-z0-9-]+)$  $1/  [R]
-RewriteRule  ^([A-Za-z0-9-]+)/$  index.php?open=$1  [L,QSA]
 
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteCond %{REQUEST_URI} !^/files/
+RewriteCond %{REQUEST_URI} !^/pictures/
+RewriteCond %{REQUEST_URI} !^/reference/
+RewriteCond %{REQUEST_FILENAME} !\.css$
+RewriteCond %{REQUEST_URI} ^(.+[^/])$
+RewriteRule  .*  %1/  [R=301,L]
 
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule  ^(.+)/$  index.php
