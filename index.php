@@ -29,7 +29,7 @@
     <meta name=\"description\" content=\"Koldasoft - webdesign studio nabízející komplexní služby pro Vaše webové stránky.\" />
     <meta name=\"keywords\" content=\"Koldasoft, webdesign, webové stránky, internetové stránky\" />
     <title>".(isset($page_ph) ? "" : $page_name." | ")."Koldasoft".(isset($page_ph) ? " - ".$page_ph : "")."</title>
-    <link rel=\"shortcut icon\" href=\"favicon.ico\" />
+    <link rel=\"shortcut icon\" href=\"/favicon.ico\" />
     <style type=\"text/css\" media=\"print\">
       @import \"".$cesta."pstyle.css\";
     </style>
