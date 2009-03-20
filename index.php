@@ -133,6 +133,7 @@
 
 
 //  Vytvoreni nazvu stranek 
+
 /*
   unlink ("source/page.db");
   my_db_add_line("source/page.db", array("Page", "Full name",  "Short name", "", "Uroven"));
@@ -183,6 +184,7 @@
   my_db_add_line("source/page.db", array("slovnicek-pojmu", "Slovníček pojmů", "Slovníček pojmů", "Slovníček pojmů", array("informace")));
 
   //Reference
+  my_db_add_line("source/page.db", array("maly-archeolog", "Malý archeolog", "Malý archeolog", "Malý archeolog", array("reference")));
   my_db_add_line("source/page.db", array("mevs", "Městská veterinární správa v&nbsp;Praze", "MěVS", "Městská veterinární správa v&nbsp;Praze", array("reference")));
   my_db_add_line("source/page.db", array("pro-sport-activities", "Pro Sport Activities", "P.S.A.", "Pro Sport Actvities", array("reference")));
   my_db_add_line("source/page.db", array("nizozemsko-ceska-obchodni-komora", "Nizozemsko-česká obchodní komora", "NČOK", "Nizozemsko-česká obchodní komora", array("reference")));
@@ -198,7 +200,6 @@
   my_db_add_line("source/page.db", array("mathis", "Mathis", "Mathis", "Mathis", array("reference")));
   my_db_add_line("source/page.db", array("krystal", "Krystal", "Krystal", "Krystal", array("reference")));
   my_db_add_line("source/page.db", array("smsrealitni", "smsRealitni.cz", "smsRealitni.cz", "smsRealitni.cz", array("reference")));
-  my_db_add_line("source/page.db", array("maly-archeolog", "Malý archeolog", "DINO", "Malý archeolog", array("reference")));
 
   //O nas
   my_db_add_line("source/page.db", array("nas-tym", "Náš tým", "Náš tým", " Náš tým", array("o-nas")));
@@ -213,7 +214,7 @@
   my_db_add_line("source/page.db", array("jakub-boucek", "Jakub Bouček", "Jakub Bouček", "Jakub Bouček", array("o-nas", "nas-tym")));
   my_db_add_line("source/page.db", array("jiri-drahorad", "Jiří Drahorád", "Jiří Drahorád", "Jiří Drahorád", array("o-nas", "nas-tym")));
   
-
 */
+
   
   
