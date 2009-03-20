@@ -106,8 +106,8 @@
   { 
     echo("          <div class=\"box minireference\">
             <h4>Poslední reference</h4>
-            <p>".mylink("mevs", "<img src=\"".$cesta."reference/mevs/nahled.png\" alt=\"Náhled: projekt MěVS\" width=\"174\" height=\"174\" />")."</p>
-            <p>Městská veterinární správa v&nbsp;Praze, 2009<br /><a href=\"http://www.mevs.cz/\" title=\"Přejít na stránky Městské veterinární správy v Praze\">www.mevs.cz</a></p>
+            <p>".mylink("maly-archeolog", "<img src=\"".$cesta."reference/dino/nahled.png\" alt=\"Náhled: projekt Malý Archeolog\" width=\"174\" height=\"174\" />")."</p>
+            <p>Malý archeolog, 2009<br /><a href=\"http://www.maly-archeolog.cz/\" title=\"Přejít na stránky Malý archeolog\">www.maly-archeolog.cz</a></p>
             <p class=\"read_next\">".mylink("reference", "Další reference&hellip;")."</p>          
           </div>".nl);
 /*    echo("          <div class=\"box\">
@@ -198,6 +198,7 @@
   my_db_add_line("source/page.db", array("mathis", "Mathis", "Mathis", "Mathis", array("reference")));
   my_db_add_line("source/page.db", array("krystal", "Krystal", "Krystal", "Krystal", array("reference")));
   my_db_add_line("source/page.db", array("smsrealitni", "smsRealitni.cz", "smsRealitni.cz", "smsRealitni.cz", array("reference")));
+  my_db_add_line("source/page.db", array("maly-archeolog", "Malý archeolog", "DINO", "Malý archeolog", array("reference")));
 
   //O nas
   my_db_add_line("source/page.db", array("nas-tym", "Náš tým", "Náš tým", " Náš tým", array("o-nas")));
@@ -213,6 +214,6 @@
   my_db_add_line("source/page.db", array("jiri-drahorad", "Jiří Drahorád", "Jiří Drahorád", "Jiří Drahorád", array("o-nas", "nas-tym")));
   
 
-*/  
+*/
   
   

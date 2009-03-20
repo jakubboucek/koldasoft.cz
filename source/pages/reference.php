@@ -24,6 +24,20 @@
 
             <div class=\"reference\">
               <div class=\"text\">
+                <h3 id=\"ref_psa\">".mylink("maly-archeolog")."</h3>
+                <p class=\"link\"><a href=\"http://www.maly-archeolog.cz/\" title=\"Přejít na stránky Malý archeolog\">www.maly-archeolog.cz</a></p>
+                <p class=\"short\"><strong>Kompletní realizace</strong>, březen&nbsp;2009</p>
+                <p class=\"long\">Webová prezentace určená především malým archeologům, ale také starším zájemcům o&nbsp;zábavnou hru „Dig it up“. Výrazný design v&nbsp;pestrých barvách naprosto vystihuje obsah stránek, který je tvořen podrobnými popisky her i&nbsp;skutečných dinosaurů. Samozřejmostí je i&nbsp;dostatek fotografií.</p>
+                <p class=\"read_next\">".mylink("maly-archeolog", "Více o tomto projektu")."</p>
+              </div>
+              <div class=\"foto\">
+                <p>".mylink("maly-archeolog", "<img src=\"".$cesta."reference/dino.png\" alt=\"Náhled Malý archeolog\" height=\"206\" width=\"206\" />")."</p>
+              </div>
+              <div class=\"cleaner\"></div>
+            </div>
+            
+            <div class=\"reference\">
+              <div class=\"text\">
                 <h3 id=\"ref_psa\">".mylink("mevs")."</h3>
                 <p class=\"link\"><a href=\"http://www.mevs.cz/\" title=\"Přejít na stránky MěVS\">www.mevs.cz</a></p>
                 <p class=\"short\"><strong>Redesign, Kompletní realizace</strong>, únor&nbsp;2009</p>
