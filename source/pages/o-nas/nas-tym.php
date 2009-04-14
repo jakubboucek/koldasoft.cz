@@ -17,7 +17,6 @@
               <ul>
                 <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;00</li>
                 <li><strong>E-mail:</strong> <a href=\"mailto:jiri.kolarik@koldasoft.cz\" title=\"\">jiri.kolarik@koldasoft.cz</a></li>
-                <li><strong>Skype:</strong> jiri.kolda</li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_kolarik_v2.1.pdf\" title=\"Vizitka Jiří Kolařík (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
               <p class=\"about\">Chcete obchodovat? Chcete realizovat zajímavý projekt? Chcete se prosadit? Tomu říkám výzva a nic pro mě není překážkou...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
@@ -42,7 +41,6 @@
               <ul>
                 <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;20</li>
                 <li><strong>E-mail:</strong> <a href=\"mailto:radek.vechet@koldasoft.cz\" title=\"\">radek.vechet@koldasoft.cz</a></li>
-                <li><strong>Skype:</strong> xxx_radek_xxx</li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_vechet_v2.1.pdf\" title=\"Vizitka Radek Věchet (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
               <p class=\"about\">Nalezení kompromisu mezi krásným návrhem a jeho techickým provedením je mojí posedlostí&hellip;<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
@@ -55,7 +53,6 @@
               <ul>
                 <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;30</li>
                 <li><strong>E-mail:</strong> <a href=\"mailto:jakub.boucek@koldasoft.cz\" title=\"\">jakub.boucek@koldasoft.cz</a></li>
-                <li><strong>Skype:</strong> jakub.boucek.info</li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_boucek_v2.1.pdf\" title=\"Vizitka Jakub Bouček (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
               <p class=\"about\">Jestli je někde něco, co se dá naprogramovat, pusťe mě k&nbsp;tomu. Není nic, do čeho bych nedokázal napsat alespoň ".'$kousek_kodu'.".<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>

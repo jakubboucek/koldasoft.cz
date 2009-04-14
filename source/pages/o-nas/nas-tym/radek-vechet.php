@@ -10,7 +10,6 @@
                 <ul>
                   <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;20</li>
                   <li><strong>E-mail:</strong> <a href=\"mailto:radek.vechet@koldasoft.cz\" title=\"\">radek.vechet@koldasoft.cz</a></li>
-                  <li><strong>Skype:</strong> xxx_radek_xxx</li>
                   <li><a href=\"".$cesta."files/koldasoft_vizitka_vechet_v2.1.pdf\" title=\"Vizitka Radek Věchet (formát PDF, 32 kB)\">Vizitka</a></li>
                 </ul>
               <div class=\"bottom\"></div>
