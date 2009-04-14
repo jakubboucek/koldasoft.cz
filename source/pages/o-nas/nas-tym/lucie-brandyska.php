@@ -11,7 +11,6 @@
                 <ul>
                   <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;10</li>
                   <li><strong>E-mail:</strong> <a href=\"mailto:lucie.brandyska@koldasoft.cz\" title=\"\">lucie.brandyska@koldasoft.cz</a></li>
-                  <li><strong>ICQ:</strong> 212-188-049</li>
                   <li><a href=\"".$cesta."files/koldasoft_vizitka_brandyska_v2.1.pdf\" title=\"Vizitka Radek Věchet (formát PDF, 32 kB)\">Vizitka</a></li>
                 </ul>
               <div class=\"bottom\"></div>
