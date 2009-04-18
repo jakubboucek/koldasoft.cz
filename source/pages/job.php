@@ -22,7 +22,8 @@
               <li>spolupráce v&nbsp;týmu založená na zaběhlých pravidlech</li>
               <li>oceníme kreativní přístup k&nbsp;vlastnímu řešení</li>
             </ul>  
-
+            <p><strong>Pozn.:</strong> Vzhledem k potřebě velmi úzké spolupráce v současnosti požadujeme možnost osobního jednání v&nbsp;naší kanceláři Pardubicích 1&ndash;2× týdně.</p>
+                        
             <div class=\"float_box question\">
               <div class=\"title\"><strong>Jste grafik?</strong></div>
               <p>Máte cit pro grafiku? Rádi navrhujete a tvoříte? Hrajete si s barvami a tvary? Chtěli byste se podílet návrhu grafických layoutů pro webové stránky? A ne jen pro ně? Pak hledáme přesně Vás!</p>
