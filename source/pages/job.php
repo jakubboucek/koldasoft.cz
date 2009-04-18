@@ -22,7 +22,7 @@
               <li>spolupráce v&nbsp;týmu založená na zaběhlých pravidlech</li>
               <li>oceníme kreativní přístup k&nbsp;vlastnímu řešení</li>
             </ul>  
-            <p><strong>Pozn.:</strong> Vzhledem k potřebě velmi úzké spolupráce v současnosti požadujeme možnost osobního jednání v&nbsp;naší kanceláři Pardubicích 1&ndash;2× týdně.</p>
+            <p><strong>Pozn.:</strong> Vzhledem k potřebě velmi úzké spolupráce v současnosti požadujeme možnost osobního jednání v&nbsp;naší kanceláři v Pardubicích 1&ndash;2&nbsp;× týdně.</p>
                         
             <div class=\"float_box question\">
               <div class=\"title\"><strong>Jste grafik?</strong></div>
