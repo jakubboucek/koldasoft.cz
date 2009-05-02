@@ -9,7 +9,12 @@
   define ('CONFIG_FILE', SYSTEM_ROOT . 'config.php');             //Soubor config.php 
 
   
-  require_once(CONFIG_FILE);
+  if(file_exists(CONFIG_FILE))
+    require_once(CONFIG_FILE);
+  else {
+    header('Content-Type: text/plain; charset=utf-8', TRUE, 500);
+    die("ERROR\nDošlo k chybě: Konfigurační soubor \"".CONFIG_FILE."\" nebyl nalezen.\n\nTip: Najděte soubor \"".CONFIG_FILE.".default\" a zkopírujte (nikoliv přejmenujte) jej na soubor \"".CONFIG_FILE."\".");
+  }
   include INCLUDE_PATH . "init.php";  //Spouštění globálních inicializačních procesů
   include INCLUDE_PATH . "functions.php";  //Nacteni zakladnich funkci
   include INCLUDE_PATH . "my_db_functions.php";  //Nacteni zakladnich fci pro praci s databazi
