@@ -1,0 +1,22 @@
+#logo {
+  margin: 1em 0 0 1em;
+} 
+
+table.form td,table.form th {
+  padding-top: 0.8em;
+}
+
+table.form th {
+  vertical-align: top;
+  text-align: right;  
+  padding-right: 1em;
+}
+
+table.users th,table.users td {
+  padding: 0.1em 0.8em;
+  text-align: left;
+}
+
+.err {
+  color: #C00000;
+}
