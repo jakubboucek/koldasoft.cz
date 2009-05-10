@@ -1,0 +1,260 @@
+/************* Style for screen ************/
+
+body { 
+  font-family: arial;
+  background: #ffffff;
+  color: #000000;
+  font-size: 0.8em;
+    }
+    
+a  {
+  text-decoration: none; 
+    } 
+
+#page {  /* Cela stranka */
+  width: 702px;
+  margin: 10px auto;
+  text-align: left;
+  border: 1px solid #e0e0e0;
+    }
+         
+#main {  /* Hlavni obsah */
+  width: 682px;
+  height: 583px;
+  position: relative;
+  background: url('pictures/background_img.jpg') no-repeat #cadef6;
+  margin: 0px auto; 
+   }
+   
+#logo {  
+  width: 359px;
+  height: 65px;
+  position: relative; 
+  top: 15px; 
+  left: 10px;
+    }
+
+#logo h1 {  
+  margin: 0px 0px; 
+  padding: 0px 0px;
+    }
+    
+#znacka {  
+  width: 359px;
+  height: 65px; 
+  position: absolute;
+  overflow: hidden;
+  left: 0px;
+  top: 0px; 
+}
+
+#znacka img {  
+  border: none; 
+}
+    
+/******************* LOGIN BOX **************************/  
+               
+#login_box {  /* Blok sirky stranky */
+  width: 355px;
+  height: 255px;
+  background: #ffffff url('pictures/background_login.jpg') no-repeat;
+  position: relative;
+  overflow: hidden;
+  top: 102px; left: 177px;
+  font-size: 0.85em;
+      }
+
+#login_nadpis{  /* Login box - nadpis */
+  position: relative;
+  height: 37px; 
+  width: 136px;
+  top: 0px; 
+  left: 0px;
+  }
+      
+#login_nadpis h2 { 
+  color: #1f7a0a;
+  height: 37px; width: 136px;
+  font-size: 1em;
+  position: relative;
+  margin: 0px 0px; 
+  padding: 0px 0px;
+      }
+
+#login_nadpis h2 span { 
+  position: absolute;
+  height: 100%; 
+  width: 100%;
+  background: url('pictures/background_login.jpg') no-repeat;
+  position: absolute; 
+      }
+                 
+#login_log {
+  position: absolute;
+  width: 304px;
+  height: 90px;
+  overflow: hidden;
+  top: 30px; 
+  left: 13px;
+      }
+      
+#login_log.show_error_img {
+  background: #b2ff95 url('pictures/login_error.gif') 95% 40px no-repeat;
+}      
+      
+table {
+  text-align: left;
+  margin: 0px 0px; 
+  padding: 0px 0px;
+  font-size: 1em;
+    }
+
+table td {
+  padding: 5px 5px 0 0; 
+  }
+
+table td input {
+  font-size: 1em;
+}
+
+.prihlasit {
+  color: #1f7a0a;
+  margin: 0px 0px 0px 33px;
+    }
+      
+#login_log p {  /* Zalogovani do systemu */
+  position: absolute;
+  width: 150px;
+  left: 160px;
+  top: 5px;
+  margin: 0px; 
+  }
+      
+#login_log p strong { /* prihlaseni se nezdarilo */
+  display: block; 
+  }
+      
+#login_trial {  /* O trialu */
+  width: 260px;
+  height: 70px;
+  position: absolute;
+  top: 135px; left: 13px;
+  background: #ff7900;
+  overflow: hidden;
+  color: #ffffff;
+  }
+
+#login_trial p {  /* Zalogovani do systemu */
+  margin: 0px 0px;
+  padding: 0px 0px 8px 0px;
+  }
+       
+.zkusit {
+  color: #1f7a0a;
+  margin: 0px 0px 0px 33px;
+  }
+            
+#login_trial .o_trialu { /* vice o trialu */
+  position: absolute;
+  width: 100px;
+  top: 55px;
+  background: url('pictures/link_arrows.jpg') no-repeat;
+  margin: 0px 0px 0px 170px;
+  _margin: 0px 0px 0px 30px; /* pro IE */
+  padding: 0px 0px 0px 15px;
+  }
+            
+.o_trialu a {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #ffffff;
+  text-decoration: underline;
+    }
+      
+#login_info {  /* Login - ifno */
+  width: 310px;
+  height: 50px;
+  position: absolute;
+  top: 220px; 
+  left: 13px;
+  color: #6e6d6d;
+}
+      
+#login_info p {  /* Login - ifno */
+  margin: 0;
+}
+      
+#login_info span {  /* hotline */
+  color: #000000;
+  }
+      
+/************** MENU ******************************/
+
+#menu {  
+  width: 682px;
+  margin: 10px auto 0px auto; 
+  min-height: 29px;
+  height: auto;
+  _height: 29px;
+  background: #e0e0e0 url('pictures/menu_stripe.gif') 0 0 repeat-x;
+  padding: 0px 0px; 
+  }
+      
+#menu ul {  /* Seznam v obsahove casti */
+  list-style-type: none;
+  line-height: 29px;
+  font-weight: bold;
+  text-align: center;
+  padding: 0px 0px; 
+  margin: 0px 0px;
+  }
+  
+
+#menu li {  /* Polozka seznamu s obrazkem*/
+  padding: 0px 15px 0px 20px; 
+  display: inline;
+  background: url('pictures/menu_odr.gif') 0 5px no-repeat;
+  }
+      
+#menu li.first {  /* Prvni polozka menu*/
+  background: none; 
+  }
+
+#menu ul a {
+  color: #6e6d6d;
+  } 
+
+#menu a:hover, #menu a:active, #menu a:focus {  /* Aktivni polozka menu */
+  color: #000000; 
+  }
+      
+/****************   FOOTER *******************************/
+
+#footer {  /* Paticka stranky */
+  width: 682px;
+  min-height: 42px;
+  height: auto;
+  _height: 42px;
+  background: url('pictures/footer_stripe.gif') 100% 100% repeat-x #e0e0e0;
+  text-align: center;
+  color: #6e6d6d; 
+  font-size: 0.85em;
+  margin: 0px auto 10px auto;
+  }
+      
+#footer p {  /* Paticka - text */
+  line-height: 15px;
+  margin: 0px 0px;
+  padding: 6px 2px;
+  }
+
+#footer a {
+  color: #6e6d6d;
+  text-decoration: underline; 
+}
+
+/********************* POPUP **************************/
+
+#popup h1 {
+  color: green;
+}
