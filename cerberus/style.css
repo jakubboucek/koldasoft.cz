@@ -1,0 +1,61 @@
+/************* Style for screen *************/
+
+body { 
+    font-family: arial;
+    background: #cccccc;
+    color: #707072;
+    text-align: center;
+    font-size: 0.8em;
+    margin: 0;
+    padding: 0;
+    }
+
+#uvod {
+  padding: 0;
+  margin: 20% auto 0 auto;
+  min-width: 400px;
+  position: relative;
+}
+
+#uvod p { /*odstavec */
+  padding: 0;
+  margin: 0.2em 0 0.5em 0;
+}
+
+#uvod p span { /*tucny text */
+  font-weight: bold;
+}
+
+#uvod a { /*odstavec */
+  color: #707072;
+  text-decoration: underline;
+}
+/******* logo stranky ************/
+
+#logo {  
+  width: 576px;
+  height: 120px;
+  background: url('pics/cerberus_banner.png') top center no-repeat; 
+  position: relative; 
+  margin: 0 auto 2.5em auto;
+  top: 0px; 
+  left: 0px;
+    }
+
+#logo h1 {  
+  margin: 0px 0px; 
+  padding: 0px 0px;
+    }
+    
+#znacka {  
+  width: 576px;
+  height: 120px; 
+  position: absolute;
+  overflow: hidden;
+  left: 0px;
+  top: 0px; 
+}
+
+#znacka img {  
+  border: none; 
+}
