@@ -27,6 +27,7 @@
     <link rel="stylesheet" type="text/css" href="./main.css">
   </head>
   <body>
+    <div><img src="./logo.png" alt="Koldasoft" id="logo"/></div>
     <h1>TEST [PHP/MySQL]</h1>
     <h2>4. část</h2>
     <ul>
