@@ -9,7 +9,6 @@
           </div>  
 
           <div class=\"cleaner\"></div>
-
           <div class=\"text_box\">
             <div class=\"member\">
               <h2 id=\"jiri-kolarik\">".(mylink("jiri-kolarik", "Jiří Kolařík - <em>ředitel společnosti</em>"))."</h2>
@@ -22,7 +21,6 @@
               <p class=\"about\">Chcete obchodovat? Chcete realizovat zajímavý projekt? Chcete se prosadit? Tomu říkám výzva a nic pro mě není překážkou...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
               <p class=\"more read_next\">".(mylink("jiri-kolarik", "Více informací"))."</p>
             </div>
-
             <div class=\"member\">
               <h2 id=\"lucie-brandyska\">".(mylink("lucie-brandyska", "Lucie Brandýská - <em>asistentka ředitele</em>"))."</h2>
               ".(mylink("lucie-brandyska", "<img src=\"".$cesta."pictures/portrait_lucie_brandyska.jpg\" alt=\"Foto: Lucie Brandýská\" width=\"115\" height=\"139\" />"))."
@@ -69,6 +67,17 @@
               </ul>
               <p class=\"about\">Kritizovat, kritizovat, kritizovat a požadovat kvalitu. To je má práce. Výsledkem bývá pochvala od klienta, ode mne ji však nečekejte&hellip;<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
               <p class=\"more read_next\">".(mylink("jiri-drahorad", "Více informací"))."</p>
+            </div>
+            <div class=\"member\">
+              <h2 id=\"vaclav-mares\">".(mylink("vaclav-mares", "Václav Mareš - <em>technik</em>"))."</h2>
+              ".(mylink("vaclav-mares", "<img src=\"".$cesta."pictures/portrait_vaclav_mares.jpg\" alt=\"Foto: Václav Mareš\" width=\"115\" height=\"139\" />"))."
+              <ul>
+                <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;50</li>
+                <li><strong>E-mail:</strong> <a href=\"mailto:vaclav.mares@koldasoft.cz\" title=\"\">vaclav.mares@koldasoft.cz</a></li>
+                <li><a href=\"".$cesta."files/koldasoft_vizitka_mares_v2.2.pdf\" title=\"Vizitka Václav Mareš (formát PDF, 32 kB)\">Vizitka</a></li>
+              </ul>
+              <p class=\"about\">Starám se o&nbsp;všechny technické problémy a k&nbsp;tomu stíhám zlobit programátory svým neúprosným testováním aplikací.<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+              <p class=\"more read_next\">".(mylink("vaclav-mares", "Více informací"))."</p>
             </div>
           </div>".nl);
 
