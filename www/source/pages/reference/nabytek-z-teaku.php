@@ -1,20 +1,20 @@
-<?php  //Maly Archeolog (DINO)
+<?php  //Nabytek z Teaku
 
     echo(" <div class=\"text_box\">
               <div class=\"reference_text\">
                 <h1>$page_name</h1>
-                <p class=\"link\"><a href=\"http://www.maly-archeolog.cz/\" title=\"Přejít na stránky Malý archeolog\">www.maly-archeolog.cz</a></p>
-                <p class=\"short\"><strong>Kompletní realizace</strong>, březen&nbsp;2009</p>
-                <p class=\"long\">Webová prezentace určená především malým archeologům, ale také starším zájemcům o&nbsp;zábavnou hru, kde cílem je vykopat si vlastního dinosaura. Výrazný design v&nbsp;pestrých barvách naprosto vystihuje obsah stránek, který je tvořen podrobnými popisky her i&nbsp;skutečných dinosaurů. Samozřejmostí je i&nbsp;dostatek fotografií. </p>
+                <p class=\"link\"><a href=\"http://www.nabytekzteaku.cz/\" title=\"Přejít na stránky Nábytek z teaku\">www.naybtekzteaku.cz</a></p>
+                <p class=\"short\"><strong>Kompletní realizace</strong>, květen&nbsp;2009</p>
+                <p class=\"long\">Kompletní realizace stránek zaměřených na prodej teakového nábytku. Stránky jsou laděny do příjemné hnědé barvy ve stylu teakového dřeva a obsahují přehledný katalog s&nbsp;nejdůležitějšími parametry produktů. Naleznete zde i několik informací o&nbsp;samotném teakovém dřevu a jeho zpracování.</p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"http://www.maly-archeolog.cz/\" title=\"Přejít na stránky Malý archeolog\"><img src=\"".$cesta."reference/dino_detail.png\" alt=\"Náhled: projekt Malý archeolog\" height=\"310\" width=\"310\" /></a></p>
+                <p><a href=\"http://www.nabytekzteaku.cz/\" title=\"Přejít na stránky Nábytek z teaku\"><img src=\"".$cesta."reference/teak_detail.png\" alt=\"Náhled: projekt Nábytek z teaku\" height=\"310\" width=\"310\" /></a></p>
               </div>
             <div class=\"cleaner\"></div>
               <h2>Fotogalerie</h2>
-              <p><a href=\"".$cesta."reference/dino/detail_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/dino/detail.png\" alt =\"Náhled: projekt Malý archeolog\" width=\"195\" height=\"195\" /></a>
-              <a href=\"".$cesta."reference/dino/eggs_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/dino/eggs.png\" alt =\"Náhled: projekt Malý archeolog\" width=\"195\" height=\"195\" /></a>
-              <a href=\"".$cesta."reference/dino/skeleton_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/dino/skeleton.png\" alt =\"Náhled: projekt Malý archeolog\" width=\"195\" height=\"195\" /></a></p>
+              <p><a href=\"".$cesta."reference/teak/stoly_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/teak/stoly.png\" alt =\"Náhled: projekt Nábytek z teaku\" width=\"195\" height=\"195\" /></a>
+              <a href=\"".$cesta."reference/teak/o_teaku_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/teak/o_teaku.png\" alt =\"Náhled: projekt Nábytek z teaku\" width=\"195\" height=\"195\" /></a>
+              <a href=\"".$cesta."reference/teak/kontakt_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/teak/kontakt.png\" alt =\"Náhled: projekt Nábytek z teaku\" width=\"195\" height=\"195\" /></a></p>
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Chtěli byste také podobné řešení?</strong></p>
 ");

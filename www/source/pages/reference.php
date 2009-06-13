@@ -24,6 +24,20 @@
 
             <div class=\"reference\">
               <div class=\"text\">
+                <h3 id=\"ref_teak\">".mylink("nabytek-z-teaku")."</h3>
+                <p class=\"link\"><a href=\"http://www.nabytekzteaku.cz/\" title=\"Přejít na stránky Nábytek z teaku\">www.nabytekzteaku.cz</a></p>
+                <p class=\"short\"><strong>Kompletní realizace</strong>, květen&nbsp;2009</p>
+                <p class=\"long\">Kompletní realizace stránek zaměřených na prodej teakového nábytku. Stránky jsou laděny do příjemné hnědé barvy ve stylu teakového dřeva a obsahují přehledný katalog s&nbsp;nejdůležitějšími parametry produktů. Naleznete zde i několik informací o&nbsp;samotném teakovém dřevu a jeho zpracování.</p>
+                <p class=\"read_next\">".mylink("nabytek-z-teaku", "Více o tomto projektu")."</p>
+              </div>
+              <div class=\"foto\">
+                <p>".mylink("nabytek-z-teaku", "<img src=\"".$cesta."reference/teak.png\" alt=\"Náhled Nábytek z teaku\" height=\"206\" width=\"206\" />")."</p>
+              </div>
+              <div class=\"cleaner\"></div>
+            </div>
+            
+            <div class=\"reference\">
+              <div class=\"text\">
                 <h3 id=\"ref_psa\">".mylink("maly-archeolog")."</h3>
                 <p class=\"link\"><a href=\"http://www.maly-archeolog.cz/\" title=\"Přejít na stránky Malý archeolog\">www.maly-archeolog.cz</a></p>
                 <p class=\"short\"><strong>Kompletní realizace</strong>, březen&nbsp;2009</p>

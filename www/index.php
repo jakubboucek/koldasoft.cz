@@ -111,8 +111,8 @@
   { 
     echo("          <div class=\"box minireference\">
             <h4>Poslední reference</h4>
-            <p>".mylink("maly-archeolog", "<img src=\"".$cesta."reference/dino/nahled.png\" alt=\"Náhled: projekt Malý Archeolog\" width=\"174\" height=\"174\" />")."</p>
-            <p>Malý archeolog, 2009<br /><a href=\"http://www.maly-archeolog.cz/\" title=\"Přejít na stránky Malý archeolog\">www.maly-archeolog.cz</a></p>
+            <p>".mylink("nabytek-z-teaku", "<img src=\"".$cesta."reference/teak/nahled.png\" alt=\"Náhled: projekt Nábytek z teaku\" width=\"174\" height=\"174\" />")."</p>
+            <p>Nábytek z teaku, 2009<br /><a href=\"http://www.nabytekzteaku.cz/\" title=\"Přejít na stránky Nábytek z teaku\">www.nabytekzteaku.cz</a></p>
             <p class=\"read_next\">".mylink("reference", "Další reference&hellip;")."</p>          
           </div>".nl);
 /*    echo("          <div class=\"box\">
@@ -189,6 +189,7 @@
   my_db_add_line("source/page.db", array("slovnicek-pojmu", "Slovníček pojmů", "Slovníček pojmů", "Slovníček pojmů", array("informace")));
 
   //Reference
+  my_db_add_line("source/page.db", array("nabytek-z-teaku", "Nábytek z teaku", "Nábytek z teaku", "Nábytek z teaku", array("reference")));
   my_db_add_line("source/page.db", array("maly-archeolog", "Malý archeolog", "Malý archeolog", "Malý archeolog", array("reference")));
   my_db_add_line("source/page.db", array("mevs", "Městská veterinární správa v&nbsp;Praze", "MěVS", "Městská veterinární správa v&nbsp;Praze", array("reference")));
   my_db_add_line("source/page.db", array("pro-sport-activities", "Pro Sport Activities", "P.S.A.", "Pro Sport Actvities", array("reference")));
@@ -219,8 +220,9 @@
   my_db_add_line("source/page.db", array("jakub-boucek", "Jakub Bouček", "Jakub Bouček", "Jakub Bouček", array("o-nas", "nas-tym")));
   my_db_add_line("source/page.db", array("jiri-drahorad", "Jiří Drahorád", "Jiří Drahorád", "Jiří Drahorád", array("o-nas", "nas-tym")));
   my_db_add_line("source/page.db", array("vaclav-mares", "Václav Mareš", "Václav Mareš", "Václav Mareš", array("o-nas", "nas-tym")));
-  
+
 */
+
 
   
   
