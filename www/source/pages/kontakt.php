@@ -29,7 +29,7 @@
             <h3>Pobočka Pardubice</h3>
             <p>třída&nbsp;Míru&nbsp;65 (<a href=\"http://jdem.cz/bj536\" title=\"Najít adresu na Mapy.cz\">mapa</a>)</p>
             <p>530&nbsp;02 Pardubice &ndash; Zelené Předměstí</p>
-            <p>Najdete nás na třídě Míru, naproti České poště, <br />průchod do dvora vedle zlastnictví Lejhanec.<br />Navedou Vás naše orientační cedule.</p>
+            <p>Najdete nás na třídě Míru, naproti České poště, <br />průchod do dvora vedle zlatnictví Lejhanec.<br />Navedou Vás naše orientační cedule.</p>
 
             <h3>Přestěhovali jsme se&hellip;</h3>
             <p>Přestěhovali jsme se z&nbsp;budovy Magnum o&nbsp;několik set metrů dále po třídě&nbsp;Míru na adresu třída&nbsp;Míru&nbsp;65&hellip;<br />Rádi Vás přivítáme v&nbsp;našich nových a větších prostorech.</p>
