@@ -18,7 +18,7 @@
 
            <div class=\"float_box info\">
               <div class=\"title\"><strong>Několik slov</strong></div>
-                <p><em>Nalezení kompromisu mezi krásným návrhem a jeho techickým provedením je mojí posedlostí.</em></p>
+                <p><em>Nalezení kompromisu mezi krásným návrhem a&nbsp;jeho technickým provedením je mojí posedlostí.</em></p>
               <div class=\"bottom\"></div>
             </div>
 

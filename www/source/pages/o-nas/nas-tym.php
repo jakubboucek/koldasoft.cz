@@ -18,7 +18,7 @@
                 <li><strong>E-mail:</strong> <a href=\"mailto:jiri.kolarik@koldasoft.cz\" title=\"\">jiri.kolarik@koldasoft.cz</a></li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_kolarik_v2.2.pdf\" title=\"Vizitka Jiří Kolařík (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
-              <p class=\"about\">Chcete obchodovat? Chcete realizovat zajímavý projekt? Chcete se prosadit? Tomu říkám výzva a nic pro mě není překážkou...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+              <p class=\"about\">Chcete obchodovat? Chcete realizovat zajímavý projekt? Chcete se prosadit? Tomu říkám výzva a&nbsp;nic pro mě není překážkou...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
               <p class=\"more read_next\">".(mylink("jiri-kolarik", "Více informací"))."</p>
             </div>
             <div class=\"member\">
@@ -41,7 +41,7 @@
                 <li><strong>E-mail:</strong> <a href=\"mailto:radek.vechet@koldasoft.cz\" title=\"\">radek.vechet@koldasoft.cz</a></li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_vechet_v2.2.pdf\" title=\"Vizitka Radek Věchet (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
-              <p class=\"about\">Nalezení kompromisu mezi krásným návrhem a jeho techickým provedením je mojí posedlostí&hellip;<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+              <p class=\"about\">Nalezení kompromisu mezi krásným návrhem a&nbsp;jeho technickým provedením je mojí posedlostí&hellip;<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
               <p class=\"more read_next\">".(mylink("radek-vechet", "Více informací"))."</p>
             </div>
             <div class=\"cleaner\"></div>
