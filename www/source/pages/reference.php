@@ -24,6 +24,20 @@
 
             <div class=\"reference\">
               <div class=\"text\">
+                <h3 id=\"ref_kam-pujdem\">".mylink("kam-pujdem")."</h3>
+                <p class=\"link\"><a href=\"http://www.kam-pujdem.cz/\" title=\"Přejít na stránky Kam-půjdem.cz\">www.kam-pujdem.cz</a></p>
+                <p class=\"short\"><strong>Kompletní realizace</strong>, červenec&nbsp;2009</p>
+                <p class=\"long\">Portál &bdquo;kam-půjdem.cz&rdquo; má snahu zaregistrovat co nejvíce podniků z&nbsp;oblasti gastronomie a stát se tak ideálním pomocníkem při hledání vhodného místa pro různé společenské akce, jako jsou například služební obědy, posezení s&nbsp;přáteli nebo romantické večeře.</p>
+                <p class=\"read_next\">".mylink("kam-pujdem", "Více o tomto projektu")."</p>
+              </div>
+              <div class=\"foto\">
+                <p>".mylink("kam-pujdem", "<img src=\"".$cesta."reference/kam-pujdem.png\" alt=\"Náhled Kam-půjdem.cz\" height=\"206\" width=\"206\" />")."</p>
+              </div>
+              <div class=\"cleaner\"></div>
+            </div>
+
+            <div class=\"reference\">
+              <div class=\"text\">
                 <h3 id=\"ref_teak\">".mylink("nabytek-z-teaku")."</h3>
                 <p class=\"link\"><a href=\"http://www.nabytekzteaku.cz/\" title=\"Přejít na stránky Nábytek z teaku\">www.nabytekzteaku.cz</a></p>
                 <p class=\"short\"><strong>Kompletní realizace</strong>, květen&nbsp;2009</p>
