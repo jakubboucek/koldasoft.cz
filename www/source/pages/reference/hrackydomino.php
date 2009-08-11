@@ -22,6 +22,7 @@
               <a href=\"".$cesta."reference/domino_eshop/program_original2.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/program2.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/domino_eshop/kontakt_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/kontakt.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a>
               <a href=\"".$cesta."reference/domino_eshop/registrace_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/registrace.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a></p>
+              <a href=\"".$cesta."reference/domino_eshop/homepage_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/domino_eshop/homepage.png\" alt =\"Náhled: projekt Hračky Domino\" width=\"195\" height=\"195\" /></a></p>
           <div class=\"float_box left mail\" id=\"contactform_float_box\">
             <p class=\"title\"><strong>Chtěli byste také podobné řešení?</strong></p>
 ");
