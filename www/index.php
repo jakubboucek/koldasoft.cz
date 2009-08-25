@@ -33,6 +33,7 @@
     <meta name=\"copyright\" content=\"&copy; 2007".(date('Y') > 2007 ? " - ".date('Y') : "")." Koldasoft, Všechna práva vyhrazena.\" />    
     <meta name=\"description\" content=\"Koldasoft - webdesign studio nabízející komplexní služby pro Vaše webové stránky.\" />
     <meta name=\"keywords\" content=\"Koldasoft, webdesign, webové stránky, internetové stránky\" />
+    <meta name=\"robots\" content=\"all,follow\" />
     <title>".(isset($page_ph) ? "" : $page_name." | ")."Koldasoft".(isset($page_ph) ? " - ".$page_ph : "")."</title>
     <link rel=\"shortcut icon\" href=\"/favicon.ico\" />
     <style type=\"text/css\" media=\"print\">
