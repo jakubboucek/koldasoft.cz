@@ -18,23 +18,11 @@
             <p>301&nbsp;00 Plzeň &ndash; Jižní Předměstí</p>
             <p><strong>IČ:</strong> <a href=\"http://www.rzp.cz/cgi-bin/aps_cacheWEB.sh?Action=Search&amp;VSS_SERV=ZVWSBJFND&amp;ICO=28009703\" title=\"Zobrazit výpis ze živnostenského rejstříku\">28009703</a></p>
 
-            <img style=\"margin-left: 5px;\" class=\"right\" src=\"".$cesta."pictures/box_skolka_exterier.jpg\" alt=\"Foto: Budova třída Míru č.p.&nbsp;65, naše kancelář\" width=\"289\" height=\"330\" />
-
             <p><strong>DIČ:</strong> <a href=\"http://adisreg.mfcr.cz/adistc/DphReg?ZPRAC=RDPHI1&amp;id=1&amp;pocet=1&amp;fu=&amp;dic=28009703&amp;OK=+Hledej+\" title=\"Zobrazit výpis z rejstříku pláctů DPH\">CZ28009703</a>, jsme plátci DPH</p>
             <p><strong>č.ú.:</strong> 43-1580080207/0100 (KB)</p>
             <p><strong>IBAN:</strong> CZ4501000000431580080207</p>
             <p>Obchodní společnost s&nbsp;ručením omezeným je zapsána u&nbsp;Krajského soudu v&nbsp;Plzni, oddíl&nbsp;C, vložka&nbsp;21277 (<a href=\"http://wwwinfo.mfcr.cz/cgi-bin/ares/ares_es.cgi?jazyk=cz&amp;ico=28009703&amp;cestina=cestina&amp;maxpoc=200&amp;setrid=ZADNE&amp;xml=1\" title=\"Zobrazit výpis z obchodního rejstříku\">ARES</a>).</p>
             
-            
-            <h3>Pobočka Pardubice</h3>
-            <p>třída&nbsp;Míru&nbsp;65 (<a href=\"http://jdem.cz/bj536\" title=\"Najít adresu na Mapy.cz\">mapa</a>)</p>
-            <p>530&nbsp;02 Pardubice &ndash; Zelené Předměstí</p>
-            <p>Najdete nás na třídě Míru, naproti České poště, <br />průchod do dvora vedle zlatnictví Lejhanec.<br />Navedou Vás naše orientační cedule.</p>
-
-            <h3>Přestěhovali jsme se&hellip;</h3>
-            <p>Přestěhovali jsme se z&nbsp;budovy Magnum o&nbsp;několik set metrů dále po třídě&nbsp;Míru na adresu třída&nbsp;Míru&nbsp;65&hellip;<br />Rádi Vás přivítáme v&nbsp;našich nových a větších prostorech.</p>
-            <a href=\"http://jdem.cz/bj536\" title=\"Najít adresu na Mapy.cz\"><img src=\"".$cesta."pictures/migration_map.gif\" alt=\"Foto: Mapa stěhování\" width=\"643\" height=\"193\" /></a>
-
             <h3>Další kontaktní informace</h3>
             <p><strong>Telefon:</strong> 775&nbsp;77&nbsp;15&nbsp;00&nbsp;(".mylink("nas-tym", "Jiří Kolařík", "jiri-kolarik", "Jiří Kolařík").", ředitel) a 775&nbsp;77&nbsp;15&nbsp;10&nbsp;(".mylink("nas-tym", "Lucie Brandýská", "lucie-brandyska", "Lucie Brandýská").", asistentka)</p>
             <p><strong>E-mail:</strong> <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></p>
