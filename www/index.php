@@ -97,17 +97,6 @@
             <p><strong>Tel.:</strong> 775&nbsp;77&nbsp;15&nbsp;00,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;775&nbsp;77&nbsp;15&nbsp;10</p>
             <p class=\"read_next\">".mylink("kontakt", "Další kontakty")."</p>          
           </div>".nl);
-  // Hledame externisty \\
-  If($open != "job")  //Pro vsechny krome job (hledame externisty)        
-    echo("          <div class=\"box\">
-            <h4>Hledáme nové kolegy</h4>
-            <p>Do ".mylink("nas-tym", "našeho týmu")." hledáme:</p>
-            <ul>
-              <li><strong>programátora</strong> PHP</li>
-              <li><strong>grafika</strong></li>
-            </ul>
-            <p class=\"read_next\">".mylink("job", "Více informací")."</p>          
-          </div>".nl);
   If($open == "uvod")  //Pouze pro uvodni stranu
   { 
     echo("          <div class=\"box minireference\">
