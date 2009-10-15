@@ -112,8 +112,8 @@
   { 
     echo("          <div class=\"box minireference\">
             <h4>Poslední reference</h4>
-            <p>".mylink("kam-pujdem", "<img src=\"".$cesta."reference/kam_pujdem/nahled.png\" alt=\"Náhled: projekt Kam-půjdem.cz\" width=\"174\" height=\"174\" />")."</p>
-            <p>Kam-půjdem.cz, 2009<br /><a href=\"http://www.kam-pujdem.cz/\" title=\"Přejít na stránky Kam-půjdem.cz\">www.kam-pujdem.cz</a></p>
+            <p>".mylink("cihelna", "<img src=\"".$cesta."reference/cihelna/nahled.png\" alt=\"Náhled: projekt Nová Cihelna\" width=\"174\" height=\"174\" />")."</p>
+            <p>Nová Cihelna, 2009<br /><a href=\"http://www.novacihelna.cz/\" title=\"Přejít na stránky Nová Cihelna\">www.novacihelna.cz</a></p>
             <p class=\"read_next\">".mylink("reference", "Další reference&hellip;")."</p>          
           </div>".nl);
 /*    echo("          <div class=\"box\">
@@ -190,6 +190,7 @@
   my_db_add_line("source/page.db", array("slovnicek-pojmu", "Slovníček pojmů", "Slovníček pojmů", "Slovníček pojmů", array("informace")));
 
   //Reference
+  my_db_add_line("source/page.db", array("cihelna", "Nová Cihelna", "Nová Cihelna", "Nová Cihelna", array("reference")));
   my_db_add_line("source/page.db", array("kam-pujdem", "Kam-půjdem.cz", "Kam-půjdem.cz", "Kam-půjdem.cz", array("reference")));
   my_db_add_line("source/page.db", array("nabytek-z-teaku", "Nábytek z teaku", "Nábytek z teaku", "Nábytek z teaku", array("reference")));
   my_db_add_line("source/page.db", array("maly-archeolog", "Malý archeolog", "Malý archeolog", "Malý archeolog", array("reference")));
@@ -223,8 +224,8 @@
   my_db_add_line("source/page.db", array("jiri-drahorad", "Jiří Drahorád", "Jiří Drahorád", "Jiří Drahorád", array("o-nas", "nas-tym")));
   my_db_add_line("source/page.db", array("vaclav-mares", "Václav Mareš", "Václav Mareš", "Václav Mareš", array("o-nas", "nas-tym")));
 
-
 */
+
 
   
   

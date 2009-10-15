@@ -21,6 +21,20 @@
             <h2 id=\"rok_2008\">Webové stránky spuštěné v&nbsp;roce 2009</h2>
             <p>Výběr webových stránek a projektů realizovaných během roku 2009.</p>
 
+            <div class=\"reference\">
+              <div class=\"text\">
+                <h3 id=\"ref_cihelna\">".mylink("cihelna")."</h3>
+                <p class=\"link\"><a href=\"http://www.novacihelna.cz/\" title=\"Přejít na stránky Nová Cihelna\">www.novacihelna.cz</a></p>
+                <p class=\"short\"><strong>Kompletní realizace</strong> bez grafického návrhu, říjen&nbsp;2009</p>
+                <p class=\"long\">Cílem této prezentace je sdělení základních informací o&nbsp;celém projektu a jeho přiblížení široké veřejnosti.</p>
+                <p class=\"long\">V&nbsp;přehledné formě je zde nabídnut přehled typů domů, které zde budou postaveny, jejich obsazenost, možnosti financování a spousty dalších informací, potřebných v&nbsp;případě zájmu o&nbsp;nové bydlení.</p>
+                <p class=\"read_next\">".mylink("cihelna", "Více o tomto projektu")."</p>
+              </div>
+              <div class=\"foto\">
+                <p>".mylink("cihelna", "<img src=\"".$cesta."reference/cihelna.png\" alt=\"Náhled Nová Cihelna\" height=\"206\" width=\"206\" />")."</p>
+              </div>
+              <div class=\"cleaner\"></div>
+            </div>
 
             <div class=\"reference\">
               <div class=\"text\">
