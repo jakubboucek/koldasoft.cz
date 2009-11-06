@@ -50,7 +50,7 @@
 
 <div id="respond">
 
-<h3><?php comment_form_title( 'Leave a Reply', 'Leave a Reply to %s' ); ?></h3>
+<h3><?php comment_form_title( 'Váš komentář', 'Váš komentář k %s' ); ?></h3>
 
 <div class="cancel-comment-reply">
 	<small><?php cancel_comment_reply_link(); ?></small>
@@ -64,7 +64,7 @@
 
 <?php if ( is_user_logged_in() ) : ?>
 
-<p>Logged in as <a href="<?php echo get_option('siteurl'); ?>/wp-admin/profile.php"><?php echo $user_identity; ?></a>. <a href="<?php echo wp_logout_url(get_permalink()); ?>" title="Log out of this account">Log out &raquo;</a></p>
+<p>Přihlášen jako <a href="<?php echo get_option('siteurl'); ?>/wp-admin/profile.php"><?php echo $user_identity; ?></a>. <a href="<?php echo wp_logout_url(get_permalink()); ?>" title="Odhlásit">Log out &raquo;</a></p>
 
 <?php else : ?>
 
@@ -83,7 +83,7 @@
 
 <p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
 
-<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Odeslat komentář" />
 <?php comment_id_fields(); ?>
 </p>
 <?php do_action('comment_form', $post->ID); ?>
