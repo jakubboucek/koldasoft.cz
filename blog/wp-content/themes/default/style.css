@@ -272,13 +272,13 @@ body {
 
 .widecolumn {
 	padding: 10px 0 20px 0;
-	margin: 5px 0 0 150px;
-	width: 450px;
+	margin: 5px 0 0 35px;
+	width: 690px;
 	}
 
 .post {
 	margin: 0 0 40px;
-	text-align: justify;
+	/*text-align: justify;*/
 	}
 
 .post hr {
@@ -709,6 +709,12 @@ div.aligncenter {
 	line-height: 17px;
 	padding: 0 4px 5px;
 	margin: 0;
+}
+
+.post pre {
+  width: 100%;
+  overflow: scroll;
+  padding-bottom: 0.3em;
 }
 /* End captions */
 
