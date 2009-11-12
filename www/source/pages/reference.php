@@ -328,20 +328,6 @@
             
             <div class=\"reference\">
               <div class=\"text\">
-                <h3 id=\"ref_airnet\">Airnet Group o.s.</h3>
-                <p class=\"link\"><a href=\"http://www.airnet-cz.net/\" title=\"Přejít na stránky Airnet Group\">www.airnet-cz.net</a></p>
-                <p class=\"short\"><strong>Kompletní realizace</strong>, <strong>logotyp</strong>, srpen&nbsp;2007</p>
-                <p class=\"long\">Intranetové stránky určené pro komunitní počítačovou síť občanského sdružení Airnet Group. Web obsahuje rozsáhlou správu uživatelů, správu plateb a základní účetní systém. Důraz byl kladen především na funkčnost a spolehlivost.</p>
-                <p>Webové stránky jsou provozovány na vlastních serverech sdružení Airnet Group.</p>
-              </div>
-              <div class=\"foto\">
-                <p><a href=\"".$cesta."reference/airnet.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/airnet_206.png\" alt =\"Náhled: projekt Airnet Group\" width=\"206\" height=\"206\" /></a></p>
-              </div>  
-              <div class=\"cleaner\"></div>
-            </div>
-            
-            <div class=\"reference\">
-              <div class=\"text\">
                 <h3 id=\"ref_plzenske_ohynky\">Plzeňské ohýnky</h3>
                 <p class=\"link\"><a href=\"http://www.plzenske-ohynky.cz/\" title=\"Přejít na stránky Plzeňské ohýnky\">www.plzenske-ohynky.cz</a></p>
                 <p class=\"short\"><strong>Kompletní realizace</strong>, červenec&nbsp;2007</p>
@@ -356,7 +342,6 @@
             <div class=\"reference\">
               <div class=\"text\">
                 <h3>Auta Míra</h3>
-                <p class=\"link\"><a href=\"".$cesta."reference/auta_mira.png\" title=\"Zobrazit velký náhled\">www.auta-mira.cz</a></p>
                 <p class=\"short\"><strong>Kompletní realizace</strong>, <strong>logotyp</strong>, červen&nbsp;2007</p>
                 <p class=\"long\">Aktuální nabídka ojetých vozů autobazaru Auta-Míra. Nabízené vozy, jejich popis a fotogalerii si spravuje sám majitel autobazaru prostřednictvím jednoduchého administračního rozhraní. Při tvorbě stránek jsme se zaměřili na jednoduché ovládání a přehlednost.</p>
               </div>
@@ -382,13 +367,12 @@
             <div class=\"reference\">
               <div class=\"text\">
                 <h3>Krtkův ráj</h3>
-                <p class=\"link\"><a href=\"http://www.krtkuv-raj.cz/\" title=\"Přejít na stránky Krtkův ráj\">www.krtkuv-raj.cz</a></p>
                 <p class=\"short\"><strong>Redesign</strong>, <strong>kompletní realizace</strong>, <strong>logotyp</strong>, duben&nbsp;2007</p>
                 <p class=\"long\">Prezentace je určena zájemcům o&nbsp;nákup, příslušenství a servis zahradní techniky. Stránky obsahují rozsáhlý katalog výrobků od více známých výrobců (Honda, VARI, Karsit, atd.).</p>
                 <p>Jedná se o přepracování původních graficky a technicky zastaralých stránek. Jednotlivé části katalogu byly sjednoceny a jsou nadále rozšiřovány.</p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"http://www.krtkuv-raj.cz/\" title=\"Přejít na stránky Krtkův ráj\"><img src=\"".$cesta."reference/krtkuv_raj_206.png\" alt =\"Náhled: projekt Krtkův ráj\" width=\"206\" height=\"206\" /></a></p>
+                <p><a href=\"".$cesta."reference/krtkuv_raj.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/krtkuv_raj_206.png\" alt =\"Náhled: projekt Krtkův ráj\" width=\"206\" height=\"206\" /></a></p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
@@ -406,18 +390,6 @@
               <div class=\"cleaner\"></div>
             </div>
             
-            <div class=\"reference\">
-              <div class=\"text\">
-                <h3>Zdravotní poradentsví</h3>
-                <p class=\"short\"><strong>Kompletní realizace</strong>, únor&nbsp;2007</p>
-                <p class=\"long\">Jednoduché webové stránky nabízejí odborné poradenství v oblasti zdravotnictví. Cílem stránek je představit lékaře a jejich nabídku.</p>
-                <p>Webové stránky jsou vytvořeny ve dvou jazykových mutacích (česky, anglicky).</p>
-              </div>
-              <div class=\"foto\">
-                <p><a href=\"".$cesta."reference/zdravotniporadenstvi.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/zdravotniporadenstvi_206.png\" alt =\"Náhled: projekt Zdravotní poradenství\" width=\"206\" height=\"206\" /></a></p>
-              </div>  
-              <div class=\"cleaner\"></div>
-            </div>
           </div>".nl);
             
 /*
