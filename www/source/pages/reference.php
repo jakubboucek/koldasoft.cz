@@ -23,6 +23,20 @@
 
             <div class=\"reference\">
               <div class=\"text\">
+                <h3 id=\"ref_dotacni_kalkulator\">".mylink("dotacni_kalkulator")."</h3>
+                <p class=\"short\"><strong>Kompletní realizace</strong>, listopad&nbsp;2009</p>
+                <p class=\"long\">Tento projekt, realizovaný pro potřeby Zoologické a botanické zahrady města Plzně, zaměstnal spíše programátory našeho týmu.</p>
+                <p class=\"long\">Jedná se o dotační kalkulátor, ve kterém se evidují všechny potřebné informace z&nbsp;provozu zoologické zahrady, jako jsou například spotřeby energií nebo přehled zvířat.</p>
+                <p class=\"read_next\">".mylink("dotacni_kalkulator", "Více o tomto projektu")."</p>
+              </div>
+              <div class=\"foto\">
+                <p>".mylink("dotacni_kalkulator", "<img src=\"".$cesta."reference/zoo.png\" alt=\"Náhled Dotační kalkulátor\" height=\"206\" width=\"206\" />")."</p>
+              </div>
+              <div class=\"cleaner\"></div>
+            </div>
+
+            <div class=\"reference\">
+              <div class=\"text\">
                 <h3 id=\"ref_cihelna\">".mylink("cihelna")."</h3>
                 <p class=\"link\"><a href=\"http://www.novacihelna.cz/\" title=\"Přejít na stránky Nová Cihelna\">www.novacihelna.cz</a></p>
                 <p class=\"short\"><strong>Kompletní realizace</strong> bez grafického návrhu, říjen&nbsp;2009</p>
