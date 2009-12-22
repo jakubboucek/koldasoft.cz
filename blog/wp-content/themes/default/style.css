@@ -101,9 +101,14 @@ h1 {
 	text-align: center;
 	}
 
+#headerimg h1 {
+	visibility: hidden;
+}
+
 #headerimg .description {
 	font-size: 1.2em;
 	text-align: center;
+	visibility: hidden;
 	}
 
 h2 {

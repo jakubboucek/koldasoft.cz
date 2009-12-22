@@ -34,7 +34,7 @@ function kubrick_head() {
 		echo $head . $output . $foot;
 }
 
-add_action('wp_head', 'kubrick_head');
+//add_action('wp_head', 'kubrick_head');
 
 function kubrick_header_image() {
 	return apply_filters('kubrick_header_image', get_option('kubrick_header_image'));
