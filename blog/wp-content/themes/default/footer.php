@@ -9,10 +9,10 @@
 <div id="footer" role="contentinfo">
 <!-- If you'd like to support WordPress, having the "powered by" link somewhere on your blog is the best way; it's our only promotion or advertising. -->
 	<p>
-		<?php bloginfo('name'); ?> hrdì pouívá
+		<?php bloginfo('name'); ?> hrdÄ› pouÅ¾Ã­vÃ¡
 		<a href="http://wordpress.org/">WordPress</a>
-		<br /><a href="<?php bloginfo('rss2_url'); ?>">Odbìr èlánkù (RSS)</a>,
-		<a href="<?php bloginfo('comments_rss2_url'); ?>">komentáøù (RSS)</a>
+		<br /><a href="<?php bloginfo('rss2_url'); ?>">OdbÄ›r ÄlÃ¡nkÅ¯ (RSS)</a>,
+		<a href="<?php bloginfo('comments_rss2_url'); ?>">komentÃ¡Å™Å¯ (RSS)</a>
 		<!-- <?php echo get_num_queries(); ?> queries. <?php timer_stop(1); ?> seconds. -->
 	</p>
 </div>
