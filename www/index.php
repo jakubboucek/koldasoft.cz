@@ -118,7 +118,7 @@
     <hr />
     <div class=\"footer_background\"><div id=\"footer\">
       <div class=\"page\">
-        <p>&copy; 2007".(date('Y') > 2007 ? " - ".date('Y') : "")." ".mylink("kontakt", "Koldasoft")."<span class=\"hidden\"> | </span><span class=\"spacer\">E-mail: <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></span><span class=\"hidden\"> | </span><span class=\"spacer\">Created by <a href=\"http://www.koldasoft.cz/\" title=\"Koldasoft - snadná cesta k vlastnímu webu\">Koldasoft</a></span><span class=\"hidden\">(www.koldasoft.cz)</span><span class=\"hidden\"> | </span><span class=\"spacer\">".mylink("prohlaseni-o-pristupnosti")."</span><span class=\"hidden\"> | </span><span class=\"spacer\">".mylink("mapa-webu")."</span></p>
+        <p>&copy; 2007".(date('Y') > 2007 ? " - ".date('Y') : "")." ".mylink("kontakt", "Koldasoft")."<span class=\"hidden\"> | </span><span class=\"spacer\">E-mail: <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></span><span class=\"hidden\"> | </span><span class=\"spacer\">Created by <a href=\"http://www.koldasoft.cz/\" title=\"Koldasoft - snadná cesta k vlastnímu webu\">Koldasoft</a></span><span class=\"hidden\">(www.koldasoft.cz)</span><span class=\"hidden\"> | </span><span class=\"spacer\">".mylink("prohlaseni-o-pristupnosti")."</span><span class=\"hidden\"> | </span><span class=\"spacer\">".mylink("mapa-webu")."</span><span class=\"hidden\"> | </span><span class=\"spacer\"><a href=\"http://blog.koldasoft.cz/\" title=\"Blog společnosti Koldasoft\">Blog</a></span></p>
       </div>
     </div></div>
   <script src=\"http://www.google-analytics.com/ga.js\" type=\"text/javascript\"></script>

@@ -40,6 +40,9 @@
             <div class=\"cleaner\"></div>
             <h2 id=\"nase-znacka\">Naše značka</h2>
             <p>Získejte více informací o ".mylink("nase-znacka", "naší značce").", která je základem pro náš jednotný grafický styl.</p>
+
+            <h2 id=\"nas-blog\">Náš blog</h2>
+            <p>Spustili jsme náš <a href=\"http://blog.koldasoft.cz/\" title=\"Blog společnosti Koldasoft\">firemní blog</a>, kde můžete najít zajímavé informace ohledně dění ve společnosti, novinkách, našich akcích, realizovaných projektech, ale i našich postřehů a nápadů z&nbsp;oblasti webu a vůbec dění okolo.</p>
           </div>".nl);
 
 ?>
