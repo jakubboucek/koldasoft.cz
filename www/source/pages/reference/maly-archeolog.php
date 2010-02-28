@@ -3,12 +3,11 @@
     echo(" <div class=\"text_box\">
               <div class=\"reference_text\">
                 <h1>$page_name</h1>
-                <p class=\"link\"><a href=\"http://www.maly-archeolog.cz/\" title=\"Přejít na stránky Malý archeolog\">www.maly-archeolog.cz</a></p>
                 <p class=\"short\"><strong>Kompletní realizace</strong>, březen&nbsp;2009</p>
                 <p class=\"long\">Webová prezentace určená především malým archeologům, ale také starším zájemcům o&nbsp;zábavnou hru, kde cílem je vykopat si vlastního dinosaura. Výrazný design v&nbsp;pestrých barvách naprosto vystihuje obsah stránek, který je tvořen podrobnými popisky her i&nbsp;skutečných dinosaurů. Samozřejmostí je i&nbsp;dostatek fotografií. </p>
               </div>
               <div class=\"foto\">
-                <p><a href=\"http://www.maly-archeolog.cz/\" title=\"Přejít na stránky Malý archeolog\"><img src=\"".$cesta."reference/dino_detail.png\" alt=\"Náhled: projekt Malý archeolog\" height=\"310\" width=\"310\" /></a></p>
+                <p><a href=\"".$cesta."reference/dino/domu_original.png\" title=\"Zobrazit velký náhled\"><img src=\"".$cesta."reference/dino_detail.png\" alt=\"Náhled: projekt Malý archeolog\" height=\"310\" width=\"310\" /></a></p>
               </div>
             <div class=\"cleaner\"></div>
               <h2>Fotogalerie</h2>
