@@ -27,18 +27,18 @@ get_header();
 
 				<p class="postmetadata alt">
 					<small>
-						Tento článek byl publikován
+						This entry was posted
 						<?php /* This is commented, because it requires a little adjusting sometimes.
 							You'll need to download this plugin, and follow the instructions:
 							http://binarybonsai.com/wordpress/time-since/ */
 							/* $entry_datetime = abs(strtotime($post->post_date) - (60*120)); echo time_since($entry_datetime); echo ' ago'; */ ?>
-						dne <?php the_time('j. n. Y') ?>, <?php the_time() ?>
-						v kategorii <?php the_category(', ') ?>.<br />
-						Sledujte tento článek pomocí <?php post_comments_feed_link('RSS 2.0'); ?> čtečky.<br />
+						on <?php the_time('l, F jS, Y') ?> at <?php the_time() ?>
+						and is filed under <?php the_category(', ') ?>.
+						You can follow any responses to this entry through the <?php post_comments_feed_link('RSS 2.0'); ?> feed.
 
 						<?php if ( comments_open() && pings_open() ) {
 							// Both Comments and Pings are open ?>
-							Zanechte nám <a href="#respond">komentář</a>, nebo <a href="<?php trackback_url(); ?>" rel="trackback">odkaz</a> na vlastní stránky.
+							You can <a href="#respond">leave a response</a>, or <a href="<?php trackback_url(); ?>" rel="trackback">trackback</a> from your own site.
 
 						<?php } elseif ( !comments_open() && pings_open() ) {
 							// Only Pings are Open ?>
@@ -52,7 +52,7 @@ get_header();
 							// Neither Comments, nor Pings are open ?>
 							Both comments and pings are currently closed.
 
-						<?php } edit_post_link('Upravit tento článek','','.'); ?>
+						<?php } edit_post_link('Edit this entry','','.'); ?>
 
 					</small>
 				</p>

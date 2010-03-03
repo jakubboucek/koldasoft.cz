@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: WordPress CZ (2.9.1)\n"
+"Project-Id-Version: WordPress CZ (2.9.2)\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
-"POT-Creation-Date: 2010-01-05 04:57+0000\n"
-"PO-Revision-Date: 2010-01-06 15:52+0100\n"
+"POT-Creation-Date: 2010-02-15 17:47+0000\n"
+"PO-Revision-Date: 2010-02-18 13:29+0100\n"
 "Last-Translator: Separatista <pavelevap@separatista.net>\n"
 "Language-Team: Separatista <pavelevap@separatista.net>\n"
 "MIME-Version: 1.0\n"
@@ -106,7 +106,7 @@ msgstr "Omlouváme se, ale pro vložení odpovědi na komentář se musíte nejd
 
 #: wp-admin/admin-ajax.php:734
 #: wp-admin/admin-ajax.php:780
-#: wp-comments-post.php:74
+#: wp-comments-post.php:77
 msgid "Error: please type a comment."
 msgstr "Chyba: Napište prosím nějaký text komentáře."
 
@@ -7808,7 +7808,7 @@ msgstr "Trvalé odkazy"
 msgid "Miscellaneous"
 msgstr "Ostatní"
 
-#: wp-admin/menu.php:309
+#: wp-admin/menu.php:311
 msgid "You do not have sufficient permissions to access this page."
 msgstr "Nemáte dostatečné oprávnění pro přístup na tuto stránku."
 
@@ -10085,15 +10085,15 @@ msgstr "Při přístupu k informacím týkajících se umístění souboru se ob
 msgid "Sorry, comments are closed for this item."
 msgstr "Komentáře k tomuto příspěvku nejsou bohužel povoleny."
 
-#: wp-comments-post.php:61
+#: wp-comments-post.php:64
 msgid "Sorry, you must be logged in to post a comment."
 msgstr "Pro přidání komentáře se musíte nejdříve přihlásit."
 
-#: wp-comments-post.php:68
+#: wp-comments-post.php:71
 msgid "Error: please fill the required fields (name, email)."
 msgstr "Chyba: Zadejte prosím požadované údaje (jméno, email)."
 
-#: wp-comments-post.php:70
+#: wp-comments-post.php:73
 msgid "Error: please enter a valid email address."
 msgstr "Chyba: Zadejte prosím správnou emailovou adresu."
 
@@ -11466,7 +11466,7 @@ msgstr "Zkuste to prosím znovu."
 msgid "&laquo; Back"
 msgstr "&laquo; Zpět"
 
-#. #-#-#-#-#  wordpress.pot (WordPress 2.9.1)  #-#-#-#-#
+#. #-#-#-#-#  wordpress.pot (WordPress 2.9.2)  #-#-#-#-#
 #. Not gettexted string WP_I18N_ERROR_TITLE
 #: wp-includes/functions.php:2521
 #: wp-load.php:50
