@@ -22,5 +22,8 @@
 <?php /* "Just what do you think you're doing Dave?" */ ?>
 
 		<?php wp_footer(); ?>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script src="/_gat/UA-5969628-3-go.js" type="text/javascript"></script>
+
 </body>
 </html>
