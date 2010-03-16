@@ -28,7 +28,7 @@
             <p><strong>E-mail:</strong> <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></p>
             <p>Webové stránky: <a href=\"http://www.koldasoft.cz/\" title=\"Přejít na webové stránky společnosti Koldasoft, s.r.o.\">www.koldasoft.cz</a></p>
             <p>Twitter: <a href=\"http://twitter.com/Koldasoft\" title=\"Koldasoft na Twitteru\">twitter.com/Koldasoft</a></p>
-            <p>Facebook: <a href=\"http://www.facebook.com/pages/Koldasoft-sro/349733356011\" title=\"Koldasoft na Facebooku\">Koldasoft-sro</a></p>
+            <p>Facebook: <a href=\"http://www.facebook.com/pages/Koldasoft-sro/349733356011\" title=\"Koldasoft na Facebooku\">Koldasoft, s.r.o.</a></p>
             <p>Neváhejte také kontaktovat kohokoliv z&nbsp;".mylink("nas-tym", "našeho týmu").".</p>
             <h3></h3>
             
