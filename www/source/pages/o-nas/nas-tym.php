@@ -25,7 +25,6 @@
               <h2 id=\"lucie-brandyska\">".(mylink("lucie-brandyska", "Lucie Brandýská - <em>asistentka ředitele</em>"))."</h2>
               ".(mylink("lucie-brandyska", "<img src=\"".$cesta."pictures/portrait_lucie_brandyska.jpg\" alt=\"Foto: Lucie Brandýská\" width=\"115\" height=\"139\" />"))."
               <ul>
-                <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;10</li>
                 <li><strong>E-mail:</strong> <a href=\"mailto:lucie.brandyska@koldasoft.cz\" title=\"\">lucie.brandyska@koldasoft.cz</a></li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_brandyska_v2.2.pdf\" title=\"Vizitka Radek Věchet (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
@@ -37,7 +36,6 @@
               <h2 id=\"radek-vechet\">".(mylink("radek-vechet", "Radek Věchet - <em>hlavní grafik</em>"))."</h2>
               ".(mylink("radek-vechet", "<img src=\"".$cesta."pictures/portrait_radek_vechet.jpg\" alt=\"Foto: Radek Věchet\" width=\"115\" height=\"139\" />"))."
               <ul>
-                <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;20</li>
                 <li><strong>E-mail:</strong> <a href=\"mailto:radek.vechet@koldasoft.cz\" title=\"\">radek.vechet@koldasoft.cz</a></li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_vechet_v2.2.pdf\" title=\"Vizitka Radek Věchet (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
@@ -61,7 +59,6 @@
               <h2 id=\"jiri-drahorad\">".(mylink("jiri-drahorad", "Jiří Drahorád - <em>designer</em>"))."</h2>
               ".(mylink("jiri-drahorad", "<img src=\"".$cesta."pictures/portrait_jiri_drahorad.jpg\" alt=\"Foto: Jiří Drahorád\" width=\"115\" height=\"139\" />"))."
               <ul>
-                <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;40</li>
                 <li><strong>E-mail:</strong> <a href=\"mailto:jiri.drahorad@koldasoft.cz\" title=\"\">jiri.drahorad@koldasoft.cz</a></li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_drahorad_v2.2.pdf\" title=\"Vizitka Jiří Drahorád (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
@@ -72,7 +69,6 @@
               <h2 id=\"vaclav-mares\">".(mylink("vaclav-mares", "Václav Mareš - <em>technik</em>"))."</h2>
               ".(mylink("vaclav-mares", "<img src=\"".$cesta."pictures/portrait_vaclav_mares.jpg\" alt=\"Foto: Václav Mareš\" width=\"115\" height=\"139\" />"))."
               <ul>
-                <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;50</li>
                 <li><strong>E-mail:</strong> <a href=\"mailto:vaclav.mares@koldasoft.cz\" title=\"\">vaclav.mares@koldasoft.cz</a></li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_mares_v2.2.pdf\" title=\"Vizitka Václav Mareš (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>

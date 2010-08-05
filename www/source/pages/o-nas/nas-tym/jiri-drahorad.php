@@ -8,7 +8,6 @@
             <div class=\"float_box tip\">
               <div class=\"title\"><strong>Kontaktní údaje</strong></div>
                 <ul>
-                  <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;40</li>
                   <li><strong>E-mail:</strong> <a href=\"mailto:jiri.drahorad@koldasoft.cz\" title=\"\">jiri.drahorad@koldasoft.cz</a></li>
                   <li><a href=\"".$cesta."files/koldasoft_vizitka_drahorad_v2.2.pdf\" title=\"Vizitka Jiří Drahorád (formát PDF, 32 kB)\">Vizitka</a></li>
                 </ul>

@@ -95,6 +95,7 @@
             <h4>Rychlé kontakty</h4>
             <p><strong>E-mail:</strong> <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></p>
             <p><strong>Tel.:</strong> 775&nbsp;77&nbsp;15&nbsp;00</p>
+            <p><strong>Tech. podpora:</strong> 775&nbsp;77&nbsp;15&nbsp;30</p>
             <p class=\"read_next\">".mylink("kontakt", "Další kontakty")."</p>          
           </div>".nl);
   If($open == "uvod")  //Pouze pro uvodni stranu
