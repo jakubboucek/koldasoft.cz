@@ -11,11 +11,12 @@
           <div class=\"cleaner\"></div>
           <div class=\"text_box\">
             <div class=\"member\">
-              <h2 id=\"jiri-kolarik\">".(mylink("jiri-kolarik", "Jiří Kolařík - <em>ředitel společnosti</em>"))."</h2>
+              <h2 id=\"jiri-kolarik\">".(mylink("jiri-kolarik", "Jiří Kolařík - <em>jednatel společnosti</em>"))."</h2>
               ".(mylink("jiri-kolarik", "<img src=\"".$cesta."pictures/portrait_jiri_kolarik.jpg\" alt=\"Foto: Jiří Kolařík\" width=\"115\" height=\"139\" />"))."
               <ul>
                 <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;00</li>
                 <li><strong>E-mail:</strong> <a href=\"mailto:jiri.kolarik@koldasoft.cz\" title=\"\">jiri.kolarik@koldasoft.cz</a></li>
+                <li><strong>Web:</strong> <a href=\"http://www.jiri-kolarik.cz/\" title=\"Soukromý Koldovo blog\">www.jiri-kolarik.cz</a></li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_kolarik_v2.2.pdf\" title=\"Vizitka Jiří Kolařík (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
               <p class=\"about\">Chcete obchodovat? Chcete realizovat zajímavý projekt? Chcete se prosadit? Tomu říkám výzva a&nbsp;nic pro mě není překážkou...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
