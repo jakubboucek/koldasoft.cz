@@ -129,7 +129,7 @@
             <div class=\"reference\">
               <div class=\"text\">
                 <h3 id=\"ref_hok\">".mylink("nizozemsko-ceska-obchodni-komora")."</h3>
-                <p class=\"short\"><a href=\"http://www.nccc.cz/\" title=\"Přejít na stránky Nizozemsko-české obchodní komory\">www.nccc.cz</a></p>
+                <p class=\"short\"><a href=\"http://www.nlchamber.cz/\" title=\"Přejít na stránky Nizozemsko-české obchodní komory\">www.nlchamber.cz</a></p>
                 <p class=\"short\"><strong>Kompletní realizace</strong>, prosinec&nbsp;2008</p>
                 <p class=\"long\">Kompletní realizace stránek pro firmu pomáhající společnostem i jednotlivcům podnikat v&nbsp;Nizozemí nebo v&nbsp;České republice. Stránky obsahují přehled o akcích pořádaných společností, jejich členech a spousty jiných informací o této společnosti. Web nabízí několik jazykových mutací.</p>
                 <p class=\"read_next\">".mylink("nizozemsko-ceska-obchodni-komora", "Více o tomto projektu")."</p>
