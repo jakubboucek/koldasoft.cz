@@ -5,7 +5,7 @@
               <div class=\"reference_text\">
                 <h1>$page_name</h1>
                 <p class=\"short\">Interní stránky</p>
-                <p class=\"short\"><strong>Kompletní realizace</strong>, srpen&nbsp;2008</p>
+                <p class=\"short\"><strong>Kompletní realizace</strong></p>
                 <p class=\"long\">Pro firmu ANG-Network naše společnost kompletně realizovala interní stránky určené výhradně klientum. Jednoduché a logicky barevně uspořádané prvky stránek slouží klientům ke snadné orientaci v&nbsp;důležitých upozorněních a potřebných informacích.</p>
               </div>
               <div class=\"foto\">

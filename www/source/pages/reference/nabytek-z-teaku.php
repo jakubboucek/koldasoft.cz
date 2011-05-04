@@ -4,7 +4,7 @@
               <div class=\"reference_text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.nabytekzteaku.cz/\" title=\"Přejít na stránky Nábytek z teaku\">www.naybtekzteaku.cz</a></p>
-                <p class=\"short\"><strong>Kompletní realizace</strong>, květen&nbsp;2009</p>
+                <p class=\"short\"><strong>Kompletní realizace</strong></p>
                 <p class=\"long\">Kompletní realizace stránek zaměřených na prodej teakového nábytku. Stránky jsou laděny do příjemné hnědé barvy ve stylu teakového dřeva a obsahují přehledný katalog s&nbsp;nejdůležitějšími parametry produktů. Naleznete zde i několik informací o&nbsp;samotném teakovém dřevu a jeho zpracování.</p>
               </div>
               <div class=\"foto\">

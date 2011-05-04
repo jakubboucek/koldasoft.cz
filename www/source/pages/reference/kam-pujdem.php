@@ -4,7 +4,7 @@
               <div class=\"reference_text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.kam-pujdem.cz/\" title=\"Přejít na stránky Kam-půjdem.cz\">www.kam-pujdem.cz</a></p>
-                <p class=\"short\"><strong>Kompletní realizace</strong>, červenec&nbsp;2009</p>
+                <p class=\"short\"><strong>Kompletní realizace</strong></p>
                 <p class=\"long\">Portál &bdquo;kam-půjdem.cz&rdquo; má snahu zaregistrovat co nejvíce podniků z&nbsp;oblasti gastronomie a stát se tak ideálním pomocníkem při hledání vhodného místa pro různé společenské akce, jako jsou například služební obědy, posezení s&nbsp;přáteli nebo romantické večeře.</p>
                 <p class=\"long\">Moderní vzhled portálu v&nbsp;příjemných barvách je doplněn o různé grafické prvky znázorňující vlastnosti podniků.</p>
                 <p class=\"long\">Portál využívá technologii AJAX, díky níž je jeho ovládání velice snadné a efektivní.  Pro jistotu byl však vytvořen podrobný průvodce popisující kompletní ovládání portálu i bez funkčnosti této technologie.</p>

@@ -3,7 +3,7 @@
     echo(" <div class=\"text_box\">
               <div class=\"reference_text\">
                 <h1>$page_name</h1>
-                <p class=\"short\"><strong>Kompletní realizace</strong>, listopad&nbsp;2009</p>
+                <p class=\"short\"><strong>Kompletní realizace</strong></p>
                 <p class=\"long\">Tento projekt, realizovaný pro potřeby Zoologické a botanické zahrady města Plzně, zaměstnal spíše programátory našeho týmu.</p>
                 <p class=\"long\">Jedná se o dotační kalkulátor, ve kterém se evidují všechny potřebné informace z&nbsp;provozu zoologické zahrady, jako jsou například spotřeby energií nebo přehled zvířat.</p>
                 <p class=\"long\">Důraz projektu byl kladen na přehlednost dat a jednoduché ovládání. Celý systém skrývá mnoho variant pro zobrazení, lze zobrazit/skrýt každý box obsahující údaje, menu na levé i nápovědu na pravé straně, ale také hlavičku stránky.</p>

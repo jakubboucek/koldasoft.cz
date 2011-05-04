@@ -5,7 +5,7 @@
               <div class=\"reference_text\">
                 <h1>$page_name</h1>
                 <p class=\"short\">Projekt nebyl spuštěn.</p>
-                <p class=\"short\"><strong>Kompletní realizace</strong>, květen&nbsp;2008</p>
+                <p class=\"short\"><strong>Kompletní realizace</strong></p>
                 <p class=\"long\">Kompletní realizace stránek středního rozsahu pro klienta poskytující služby v&nbsp;oblasti stínící techniky. Vzhled byl navrhnut tak, aby korespondoval s&nbsp;obsahem stránek. Jednoduché menu je ztvárněno do podoby žaluzií.</p>
               </div>
               <div class=\"foto\">

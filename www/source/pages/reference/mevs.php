@@ -4,7 +4,7 @@
               <div class=\"reference_text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.mevs.cz/\" title=\"Přejít na stránky Městské veterinární správy v Praze\">www.mevs.cz</a></p>
-                <p class=\"short\"><strong>Redesign, Kompletní realizace</strong>, únor&nbsp;2009</p>
+                <p class=\"short\"><strong>Redesign, Kompletní realizace</strong></p>
                 <p class=\"long\">Realizace webových stránek Městské veterinární správy v&nbsp;Praze. Potřebné informace jsou zde zobrazeny v přehledné formě a&nbsp;jsou doplněny lehkou grafikou. Stránky obsahují odkazy na důležité dokumenty, které je možné stáhnout ve&nbsp;formátech PDF nebo DOC.</p>
               </div>
               <div class=\"foto\">

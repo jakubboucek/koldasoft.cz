@@ -4,7 +4,7 @@
               <div class=\"reference_text\">
                 <h1>$page_name</h1>
                 <p class=\"short\">Interní aplikace</p>
-                <p class=\"short\"><strong>Kompletní realizace</strong>, říjen&nbsp;2008</p>
+                <p class=\"short\"><strong>Kompletní realizace</strong></p>
                 <p class=\"long\">Vytvoření aplikace pokladního systému kamenného obchodu prodávající hračky. Součástí realizace bylo také zajištění potřebného hardwaru. Aplikaci je možné kompletně ovládat čtečkou čárových kódů. Samozřejmostí je propojení s&nbsp;databází nebo systémem vystavení faktur.</p>
               </div>
               <div class=\"foto\">

@@ -4,7 +4,7 @@
               <div class=\"reference_text\">
                 <h1>$page_name</h1>
                 <p class=\"link\"><a href=\"http://www.novacihelna.cz/\" title=\"Přejít na stránky Nová Cihelna\">www.novacihelna.cz</a></p>
-                <p class=\"short\"><strong>Kompletní realizace</strong> bez grafického návrhu, říjen&nbsp;2009</p>
+                <p class=\"short\"><strong>Kompletní realizace</strong> bez grafického návrhu</p>
                 <p class=\"long\">Kompletní realizace webových stránek projektu „Nová&nbsp;Cihelna“ – výstavba rodinných domů a bytového domu v&nbsp;Pardubicích.</p>
                 <p class=\"long\">Cílem této prezentace je sdělení základních informací o&nbsp;celém projektu a jeho přiblížení široké veřejnosti.</p>
                 <p class=\"long\">V&nbsp;přehledné formě je zde nabídnut přehled typů domů, které zde budou postaveny, jejich obsazenost, možnosti financování a spousty dalších informací, potřebných v&nbsp;případě zájmu o&nbsp;nové bydlení.</p>
