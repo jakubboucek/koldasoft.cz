@@ -103,7 +103,7 @@
     echo("          <div class=\"box minireference\">
             <h4>Poslední reference</h4>
             <p>".mylink("dotacni_kalkulator", "<img src=\"".$cesta."reference/dotacni_kalkulator/nahled.png\" alt=\"Náhled: projekt Dotační kalkulátor\" width=\"174\" height=\"174\" />")."</p>
-            <p>Dotační kalkulátor, 2009<br /></p>
+            <p>Dotační kalkulátor<br /></p>
             <p class=\"read_next\">".mylink("reference", "Další reference&hellip;")."</p>          
           </div>".nl);
 /*    echo("          <div class=\"box\">
