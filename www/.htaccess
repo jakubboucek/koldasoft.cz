@@ -4,6 +4,8 @@ RewriteEngine on
 RewriteRule ^calendar/?$ http://calendar.koldasoft.cz/ [R=302,L]
 RewriteRule ^gmail/?$ http://gmail.koldasoft.cz/ [R=302,L]
 
+RewriteRule ^t$ http://www.teamviewer.com/download/TeamViewerQS_cs.exe [R=302,L,NC]
+
 RewriteCond %{HTTP_HOST} ^koldasoft\.cz$
 RewriteRule ^(.*)$ http://www.koldasoft.cz/$1 [R=301,L]
 
