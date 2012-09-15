@@ -47,8 +47,7 @@ a:5:{i:0;s:14:"databaze-kupcu";i:1;s:16:"Databáze kupců";i:2;s:16:"Databáze k
 a:5:{i:0;s:9:"lakikincl";i:1;s:8:"Fa. LAKI";i:2;s:8:"Fa. LAKI";i:3;s:8:"Fa. LAKI";i:4;a:1:{i:0;s:9:"reference";}}
 a:5:{i:0;s:13:"airnet-public";i:1;s:20:"ANG-Network - Public";i:2;s:20:"ANG-Network - Public";i:3;s:20:"ANG-Network - Public";i:4;a:1:{i:0;s:9:"reference";}}
 a:5:{i:0;s:14:"airnet-hotspot";i:1;s:21:"ANG-Network - Hotspot";i:2;s:21:"ANG-Network - Hotspot";i:3;s:21:"ANG-Network - Hotspot";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:14:"airnet-interni";i:1;s:26:"ANG-Network - Interní web";i:2;s:26:"ANG-Network - Interní web";i:3;s:26:"ANG-Network - Interní web";i:4;a:1:{i:0;s:9:"reference";}}
-a:5:{i:0;s:10:"pdprojekce";i:1;s:10:"PDProjekce";i:2;s:10:"PDProjekce";i:3;s:10:"PDProjekce";i:4;a:1:{i:0;s:9:"reference";}}
+a:5:{i:0;s:14:"airnet-interni";i:1;s:26:"ANG-Network - Interní web";i:2;s:26:"ANG-Network - Interní web";i:3;s:26:"ANG-Network - Interní web";i:4;
 a:5:{i:0;s:6:"stemax";i:1;s:6:"Stemax";i:2;s:6:"Stemax";i:3;s:6:"Stemax";i:4;a:1:{i:0;s:9:"reference";}}
 a:5:{i:0;s:6:"mathis";i:1;s:6:"Mathis";i:2;s:6:"Mathis";i:3;s:6:"Mathis";i:4;a:1:{i:0;s:9:"reference";}}
 a:5:{i:0;s:7:"krystal";i:1;s:7:"Krystal";i:2;s:7:"Krystal";i:3;s:7:"Krystal";i:4;a:1:{i:0;s:9:"reference";}}
