@@ -150,20 +150,6 @@
 
             <div class=\"reference\">
               <div class=\"text\">
-                <h3 id=\"ref_domino_kasa\">".mylink("hrackydomino-kasa")."</h3>
-                <p class=\"short\">Interní aplikace</p>
-                <p class=\"short\"><strong>Kompletní realizace</strong></p>
-                <p class=\"long\">Vytvoření aplikace pokladního systému kamenného obchodu prodávající hračky. Součástí realizace bylo také zajištění potřebného hardwaru. Aplikaci je možné kompletně ovládat čtečkou čárových kódů. Samozřejmostí je propojení s&nbsp;databází nebo systémem vystavení faktur.</p>
-                <p class=\"read_next\">".mylink("hrackydomino-kasa", "Více o tomto projektu")."</p>
-              </div>
-              <div class=\"foto\">
-                <p>".mylink("hrackydomino-kasa","<img src=\"".$cesta."reference/domino_kasa.png\" alt=\"Náhled Hračky Domino - kasa\" height=\"206\" width=\"206\" />")."</p>
-              </div>  
-              <div class=\"cleaner\"></div>
-            </div>
-
-            <div class=\"reference\">
-              <div class=\"text\">
                 <h3 id=\"ref_databazekupcu\">".mylink("databaze-kupcu")."</h3>
                 <p class=\"link\"><a href=\"http://www.databazekupcu.cz/\" title=\"Přejít na stránky Databáze kupců\">www.databazekupcu.cz</a></p>
                 <p class=\"short\"><strong>Kompletní realizace</strong></p>
@@ -186,48 +172,6 @@
               </div>
               <div class=\"foto\">
                 <p>".mylink("lakikincl","<img src=\"".$cesta."reference/laki.png\" alt=\"Náhled Fa.Laki\" height=\"206\" width=\"206\" />")."</p>
-              </div>  
-              <div class=\"cleaner\"></div>
-            </div>
-
-            <div class=\"reference\">
-              <div class=\"text\">
-                <h3 id=\"ref_angnetwork_public\">".mylink("airnet-public")."</h3>
-                <p class=\"link\"><a href=\"http://www.ang-network.cz/public/\" title=\"Přejít na stránky ANG - Network\">www.ang-network.cz</a></p>
-                <p class=\"short\"><strong>Kompletní realizace</strong></p>
-                <p class=\"long\">Internetové stránky metropolitní sítě ANG-Network Plzeň. Jedná se o&nbsp;stránky přístupné široké veřejnosti se všemi potřebnými informacemi pro zájemce o připojení. Samozřejmostí je možnost přihlášení pro stávající klienty, kterým se tak zpřístupní interní stránky.</p>
-                <p class=\"read_next\">".mylink("airnet-public","Více o tomto projektu")."</p>
-              </div>
-              <div class=\"foto\">
-                <p>".mylink("airnet-public","<img src=\"".$cesta."reference/angnetwork_public.png\" alt=\"Náhled ANG-Network Public\" height=\"206\" width=\"206\" />")."</p>
-              </div>  
-              <div class=\"cleaner\"></div>
-            </div>
-
-            <div class=\"reference\">
-              <div class=\"text\">
-                <h3 id=\"ref_angnetwork_hotspot\">".mylink("airnet-hotspot")."</h3>
-                <p class=\"short\">Speciální interní stránky</p>
-                <p class=\"short\"><strong>Kompletní realizace</strong></p>
-                <p class=\"long\">Kompletně realizované stránky pro službu Hotspot od firmy ANG-Network. Hotspot umožňuje všem klientům připojení k&nbsp;internetu pomocí wifi kdekoliv po Plzni. Grafický návrh byl zpracován tak, aby korespondoval s&nbsp;návrhem ostatních aplikací společnosti ANG-Network a tím tvořil jednotný styl.</p>
-                <p class=\"read_next\">".mylink("airnet-hotspot","Více o tomto projektu")."</p>
-              </div>
-              <div class=\"foto\">
-                <p>".mylink("airnet-hotspot","<img src=\"".$cesta."reference/angnetwork_hotspot.png\" alt=\"Náhled ANG-Network Hotspot\" height=\"206\" width=\"206\" />")."</p>
-              </div>  
-              <div class=\"cleaner\"></div>
-            </div>
-
-            <div class=\"reference\">
-              <div class=\"text\">
-                <h3 id=\"ref_angnetwork_interni\">".mylink("airnet-interni")."</h3>
-                <p class=\"short\">Interní stránky</p>
-                <p class=\"short\"><strong>Kompletní realizace</strong></p>
-                <p class=\"long\">Pro firmu ANG-Network naše společnost kompletně realizovala interní stránky určené výhradně klientům. Jednoduché a logicky barevně uspořádané prvky stránek slouží klientům ke snadné orientaci v&nbsp;důležitých upozorněních a potřebných informacích.</p>
-                <p class=\"read_next\">".mylink("airnet-interni","Více o tomto projektu")."</p>
-              </div>
-              <div class=\"foto\">
-                <p>".mylink("airnet-interni","<img src=\"".$cesta."reference/angnetwork_interni.png\" alt=\"Náhled ANG-Network interní\" height=\"206\" width=\"206\" />")."</p>
               </div>  
               <div class=\"cleaner\"></div>
             </div>
