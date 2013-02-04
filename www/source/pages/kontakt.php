@@ -25,7 +25,7 @@
             
             <h3>Další kontaktní informace</h3>
             <p><strong>Telefon:</strong> 775&nbsp;77&nbsp;15&nbsp;00&nbsp;(".mylink("nas-tym", "Jiří Kolařík", "jiri-kolarik", "Jiří Kolařík").")</p>
-            <p><strong>Technická podpora:</strong> 775&nbsp;77&nbsp;15&nbsp;03&nbsp;(".mylink("nas-tym", "Jakub Bouček", "jakub-boucek", "Jakub Bouček").")</p>
+            <p><strong>Technická podpora:</strong> 608&nbsp;25&nbsp;94&nbsp;97&nbsp;(".mylink("nas-tym", "Jakub Bouček", "jakub-boucek", "Jakub Bouček").")</p>
             <p><strong>E-mail:</strong> <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></p>
             <p>Webové stránky: <a href=\"http://www.koldasoft.cz/\" title=\"Přejít na webové stránky společnosti Koldasoft, s.r.o.\">www.koldasoft.cz</a></p>
             <p>Twitter: <a href=\"http://twitter.com/Koldasoft\" title=\"Koldasoft na Twitteru\">twitter.com/Koldasoft</a></p>

@@ -68,10 +68,9 @@
 
             <h2 id=\"kontakt\">Kontakt</h2>
             <ul>
-              <li><strong>Mobil:</strong> 775&nbsp;77&nbsp;15&nbsp;10&nbsp;(".mylink("nas-tym", "Lucie Brandýská", "lucka", "Lucie Brandýská").", asistentka)</li>
-              <li><strong>E-mail:</strong> <a href=\"mailto:job@koldasoft.cz\" title=\"Poslat E-mail\">job@koldasoft.cz</a></li>
+              <li><strong>E-mail:</strong> <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">info@koldasoft.cz</a></li>
             </ul>  
-            <p>Pokud Vás naše nabídka zaujala a myslíte, že byste právě Vy mohli být přínosem pro naši společnost, neváhejte nás <a href=\"mailto:job@koldasoft.cz\" title=\"Poslat E-mail\">kontaktovat</a>.</p>
+            <p>Pokud Vás naše nabídka zaujala a myslíte, že byste právě Vy mohli být přínosem pro naši společnost, neváhejte nás <a href=\"mailto:info@koldasoft.cz\" title=\"Poslat E-mail\">kontaktovat</a>.</p>
             <p>Na spolupráci a nové kolegy se těší ".(mylink("nas-tym", "tým Koldasoft")).".</p>
           </div>".nl);
 

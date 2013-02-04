@@ -15,7 +15,7 @@
               ".(mylink("jiri-kolarik", "<img src=\"".$cesta."pictures/portrait_jiri_kolarik.jpg\" alt=\"Foto: Jiří Kolařík\" width=\"115\" height=\"139\" />"))."
               <ul>
                 <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;00</li>
-                <li><strong>E-mail:</strong> <a href=\"mailto:jiri.kolarik@koldasoft.cz\" title=\"\">jiri@kolarik.cz</a></li>
+                <li><strong>E-mail:</strong> <a href=\"mailto:jiri@kolarik.cz\" title=\"\">jiri@kolarik.cz</a></li>
                 <li><strong>Web:</strong> <a href=\"http://www.jiri-kolarik.cz/\" title=\"Soukromý Koldovo blog\">www.jiri-kolarik.cz</a></li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_kolarik_v2.2.pdf\" title=\"Vizitka Jiří Kolařík (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
@@ -40,7 +40,7 @@
               <ul>
                 <li><strong>Mobil:</strong> (+420) 608&nbsp;25&nbsp;94&nbsp;97</li>
 
-                <li><strong>E-mail:</strong> <a href=\"mailto:jakub.boucek@koldasoft.cz\" title=\"\">pan@jakubboucek.cz</a></li>
+                <li><strong>E-mail:</strong> <a href=\"mailto:pan@jakubboucek.cz\" title=\"\">pan@jakubboucek.cz</a></li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_boucek_v2.2.pdf\" title=\"Vizitka Jakub Bouček (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
               <p class=\"about\">Jestli je někde něco, co se dá naprogramovat, pusťe mě k&nbsp;tomu. Není nic, do čeho bych nedokázal napsat alespoň ".'$kousek_kodu'.".<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
