@@ -178,20 +178,6 @@
 
             <div class=\"reference\">
               <div class=\"text\">
-                <h3 id=\"ref_pdp\">".mylink("pdprojekce")."</h3>
-                <p class=\"short\">Projekt nebyl spuštěn.</p>
-                <p class=\"short\"><strong>Kompletní realizace</strong></p>
-                <p class=\"long\">Tyto stránky byly kompletně realizovány pro firmu, která zpracovává dopravní a pozemní projekce. Stránky vynikají svou přehledností, doplněnou o&nbsp;jednoduchou grafiku, tvořenou ze dvou barev v&nbsp;různých odstínech.</p>
-                <p class=\"read_next\">".mylink("pdprojekce","Více o tomto projektu")."</p>
-              </div>
-              <div class=\"foto\">
-                <p>".mylink("pdprojekce","<img src=\"".$cesta."reference/pdp.png\" alt=\"Náhled PDProjekce\" height=\"206\" width=\"206\" />")."</p>
-              </div>  
-              <div class=\"cleaner\"></div>
-            </div>
-
-            <div class=\"reference\">
-              <div class=\"text\">
                 <h3 id=\"ref_stemax\">".mylink("stemax")."</h3>
                 <p class=\"short\">Projekt nebyl spuštěn.</p>
                 <p class=\"short\"><strong>Grafický návrh</strong></p>

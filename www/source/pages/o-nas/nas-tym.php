@@ -15,22 +15,12 @@
               ".(mylink("jiri-kolarik", "<img src=\"".$cesta."pictures/portrait_jiri_kolarik.jpg\" alt=\"Foto: Jiří Kolařík\" width=\"115\" height=\"139\" />"))."
               <ul>
                 <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;00</li>
-                <li><strong>E-mail:</strong> <a href=\"mailto:jiri.kolarik@koldasoft.cz\" title=\"\">jiri.kolarik@koldasoft.cz</a></li>
+                <li><strong>E-mail:</strong> <a href=\"mailto:jiri.kolarik@koldasoft.cz\" title=\"\">jiri@kolarik.cz</a></li>
                 <li><strong>Web:</strong> <a href=\"http://www.jiri-kolarik.cz/\" title=\"Soukromý Koldovo blog\">www.jiri-kolarik.cz</a></li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_kolarik_v2.2.pdf\" title=\"Vizitka Jiří Kolařík (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
               <p class=\"about\">Chcete obchodovat? Chcete realizovat zajímavý projekt? Chcete se prosadit? Tomu říkám výzva a&nbsp;nic pro mě není překážkou...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
               <p class=\"more read_next\">".(mylink("jiri-kolarik", "Více informací"))."</p>
-            </div>
-            <div class=\"member\">
-              <h2 id=\"lucie-brandyska\">".(mylink("lucie-brandyska", "Lucie Brandýská - <em>asistentka ředitele</em>"))."</h2>
-              ".(mylink("lucie-brandyska", "<img src=\"".$cesta."pictures/portrait_lucie_brandyska.jpg\" alt=\"Foto: Lucie Brandýská\" width=\"115\" height=\"139\" />"))."
-              <ul>
-                <li><strong>E-mail:</strong> <a href=\"mailto:lucie.brandyska@koldasoft.cz\" title=\"\">lucie.brandyska@koldasoft.cz</a></li>
-                <li><a href=\"".$cesta."files/koldasoft_vizitka_brandyska_v2.2.pdf\" title=\"Vizitka Radek Věchet (formát PDF, 32 kB)\">Vizitka</a></li>
-              </ul>
-              <p class=\"about\">Práce všeho druhu. Kódování xHTML šablon, příprava faktur na počkání. A zázraky do druhého dne...<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
-              <p class=\"more read_next\">".(mylink("lucie-brandyska", "Více informací"))."</p>
             </div>
             <div class=\"cleaner\"></div>
             <div class=\"member\">
@@ -48,8 +38,9 @@
               <h2 id=\"jakub-boucek\">".(mylink("jakub-boucek", "Jakub Bouček - <em>hlavní programátor</em>"))."</h2>
               ".(mylink("jakub-boucek", "<img src=\"".$cesta."pictures/portrait_jakub_boucek.jpg\" alt=\"Foto: Jakub Bouček\" width=\"115\" height=\"139\" />"))."
               <ul>
-                <li><strong>Mobil:</strong> (+420) 775&nbsp;77&nbsp;15&nbsp;30</li>
-                <li><strong>E-mail:</strong> <a href=\"mailto:jakub.boucek@koldasoft.cz\" title=\"\">jakub.boucek@koldasoft.cz</a></li>
+                <li><strong>Mobil:</strong> (+420) 608&nbsp;25&nbsp;94&nbsp;97</li>
+
+                <li><strong>E-mail:</strong> <a href=\"mailto:jakub.boucek@koldasoft.cz\" title=\"\">pan@jakubboucek.cz</a></li>
                 <li><a href=\"".$cesta."files/koldasoft_vizitka_boucek_v2.2.pdf\" title=\"Vizitka Jakub Bouček (formát PDF, 32 kB)\">Vizitka</a></li>
               </ul>
               <p class=\"about\">Jestli je někde něco, co se dá naprogramovat, pusťe mě k&nbsp;tomu. Není nic, do čeho bych nedokázal napsat alespoň ".'$kousek_kodu'.".<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
@@ -65,16 +56,6 @@
               </ul>
               <p class=\"about\">Kritizovat, kritizovat, kritizovat a požadovat kvalitu. To je má práce. Výsledkem bývá pochvala od klienta, ode mne ji však nečekejte&hellip;<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
               <p class=\"more read_next\">".(mylink("jiri-drahorad", "Více informací"))."</p>
-            </div>
-            <div class=\"member\">
-              <h2 id=\"vaclav-mares\">".(mylink("vaclav-mares", "Václav Mareš - <em>technik</em>"))."</h2>
-              ".(mylink("vaclav-mares", "<img src=\"".$cesta."pictures/portrait_vaclav_mares.jpg\" alt=\"Foto: Václav Mareš\" width=\"115\" height=\"139\" />"))."
-              <ul>
-                <li><strong>E-mail:</strong> <a href=\"mailto:vaclav.mares@koldasoft.cz\" title=\"\">vaclav.mares@koldasoft.cz</a></li>
-                <li><a href=\"".$cesta."files/koldasoft_vizitka_mares_v2.2.pdf\" title=\"Vizitka Václav Mareš (formát PDF, 32 kB)\">Vizitka</a></li>
-              </ul>
-              <p class=\"about\">Starám se o&nbsp;všechny technické problémy a k&nbsp;tomu stíhám zlobit programátory svým neúprosným testováním aplikací.<span class=\"cite\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
-              <p class=\"more read_next\">".(mylink("vaclav-mares", "Více informací"))."</p>
             </div>
           </div>".nl);
 
