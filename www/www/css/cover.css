@@ -19,6 +19,10 @@ a:hover {
   border: 1px solid #666;
 }
 
+h1 {
+  margin: 1em 0 1.5em;
+}
+
 h3 {
   color: #0c9100;
 }
@@ -35,7 +39,6 @@ body {
 body {
   color: #666;
   text-align: center;
-  text-shadow: 0 1px 3px rgba(0,0,0,.3);
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
