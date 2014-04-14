@@ -4,7 +4,8 @@ namespace App\Presenters;
 
 use Nette,
 	App\Model,
-	Nette\Diagnostics\Debugger;
+	Nette\Diagnostics\Debugger,
+	Nette\Http\IResponse;
 
 
 /**
@@ -23,7 +24,7 @@ class ErrorPresenter extends BasePresenter
 			$code = $exception->getCode();
 
 			if($code == 404) {
-				$this->redirect('Homepage:default');
+				$this->redirect(IResponse::S301_MOVED_PERMANENTLY, 'Homepage:default');
 			}
 
 			// load template 403.latte or 404.latte or ... 4xx.latte

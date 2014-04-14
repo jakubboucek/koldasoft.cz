@@ -15,9 +15,10 @@
 		<meta name="keywords" content="Koldasoft, webdesign, webové stránky, internetové stránky">
 		<meta name="author" content="Koldasoft, s.r.o.">
 		<link rel="shortcut icon" href="{$basePath}/favicon.ico">
+		<link rel="sitemap" href="{$basePath}/sitemap.xml">
 		<meta name="robots" content="{$robots}" n:ifset="$robots">
 
-	<title>{block title|striptags}Koldasoft, s.r.o.{/block}</title>
+		<title>{block title|striptags}Koldasoft, s.r.o.{/block}</title>
 
 		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
 		<link href="{$basePath}/css/cover.css" rel="stylesheet">
@@ -26,6 +27,15 @@
 			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 		<![endif]-->
+		<script>
+			(function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments) },i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-5969628-2', 'koldasoft.cz');
+			ga('send', 'pageview');
+		</script>
 		{block head}{/block}
 	</head>
 
@@ -33,10 +43,10 @@
 
 		<div class="site-wrapper">
 			<div class="site-wrapper-inner">
-				<div class="cover-container">
+				<div class="cover-container" {block itemscope}{/block}>
 					<div class="masthead clearfix">
 						<div class="inner">
-							{ifCurrent Homepage:kontakt}<h3 class="masthead-brand"><img src="{$basePath}/images/koldasoft-logo.png" alt="Koldasoft, s.r.o." id="logo" width="130" height="41"></h3>{/ifCurrent}
+							{ifCurrent Homepage:kontakt}<h3 class="masthead-brand"><img src="{$basePath}/images/koldasoft-logo.png" alt="Koldasoft, s.r.o." id="logo" itemprop="image" width="130" height="41"></h3>{/ifCurrent}
 							<ul class="nav masthead-nav">
 								<li {ifCurrent Homepage:default}class="active"{/ifCurrent}><a n:href="Homepage:default">Domů</a></li>
 								<li {ifCurrent Homepage:kontakt}class="active"{/ifCurrent}><a n:href="Homepage:kontakt">Kontakt</a></li>
