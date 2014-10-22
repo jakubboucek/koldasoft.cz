@@ -1,5 +1,7 @@
 <?php
 
+use Nette\Application\Routers\Route;
+
 require __DIR__ . '/../vendor/autoload.php';
 
 $configurator = new Nette\Configurator;
@@ -18,5 +20,7 @@ $configurator->addConfig(__DIR__ . '/config/config.neon');
 $configurator->addConfig(__DIR__ . '/config/config.local.neon');
 
 $container = $configurator->createContainer();
+
+Route::$defaultFlags |= Route::SECURED;
 
 return $container;
