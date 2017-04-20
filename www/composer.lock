@@ -1,22 +1,23 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
     ],
-    "hash": "4f259073700814ce067542643692e185",
+    "content-hash": "4776cd7a1999a7530ee51c1adf69289f",
     "packages": [
         {
             "name": "nette/nette",
-            "version": "v2.1.1",
+            "version": "v2.1.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nette/nette.git",
-                "reference": "9e7e5fc5921053172dbacecda2c06d749f89a71b"
+                "reference": "180d31fdae2b91ff6e98d7588d123f3d33f8c1de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nette/nette/zipball/9e7e5fc5921053172dbacecda2c06d749f89a71b",
-                "reference": "9e7e5fc5921053172dbacecda2c06d749f89a71b",
+                "url": "https://api.github.com/repos/nette/nette/zipball/180d31fdae2b91ff6e98d7588d123f3d33f8c1de",
+                "reference": "180d31fdae2b91ff6e98d7588d123f3d33f8c1de",
                 "shasum": ""
             },
             "require": {
@@ -24,14 +25,36 @@
                 "ext-tokenizer": "*",
                 "php": ">=5.3.1"
             },
+            "replace": {
+                "latte/latte": "self.version",
+                "nette/application": "self.version",
+                "nette/bootstrap": "self.version",
+                "nette/caching": "self.version",
+                "nette/component-model": "self.version",
+                "nette/database": "self.version",
+                "nette/di": "self.version",
+                "nette/finder": "self.version",
+                "nette/forms": "self.version",
+                "nette/http": "self.version",
+                "nette/mail": "self.version",
+                "nette/neon": "self.version",
+                "nette/php-generator": "self.version",
+                "nette/reflection": "self.version",
+                "nette/robot-loader": "self.version",
+                "nette/safe-stream": "self.version",
+                "nette/security": "self.version",
+                "nette/tokenizer": "self.version",
+                "nette/utils": "self.version",
+                "tracy/tracy": "self.version"
+            },
             "require-dev": {
-                "nette/tester": "~1.0.0"
+                "nette/tester": "~1.6"
             },
             "suggest": {
-                "ext-fileinfo": "*",
-                "ext-gd": "*",
-                "ext-mbstring": "*",
-                "ext-pdo": "*"
+                "ext-fileinfo": "",
+                "ext-gd": "",
+                "ext-mbstring": "",
+                "ext-pdo": ""
             },
             "type": "library",
             "autoload": {
@@ -51,15 +74,15 @@
             "authors": [
                 {
                     "name": "David Grudl",
-                    "homepage": "http://davidgrudl.com"
+                    "homepage": "https://davidgrudl.com"
                 },
                 {
                     "name": "Nette Community",
-                    "homepage": "http://nette.org/contributors"
+                    "homepage": "https://nette.org/contributors"
                 }
             ],
             "description": "Nette Framework - innovative framework for fast and easy development of secured web applications in PHP. Write less, have cleaner code and your work will bring you joy.",
-            "homepage": "http://nette.org",
+            "homepage": "https://nette.org",
             "keywords": [
                 "Forms",
                 "database",
@@ -69,7 +92,7 @@
                 "mvc",
                 "templating"
             ],
-            "time": "2014-02-11 04:51:20"
+            "time": "2015-12-03T04:17:19+00:00"
         }
     ],
     "packages-dev": [
@@ -123,20 +146,16 @@
                 "testing",
                 "unit"
             ],
-            "time": "2014-02-08 12:54:09"
+            "time": "2014-02-08T12:54:09+00:00"
         }
     ],
-    "aliases": [
-
-    ],
+    "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [
-
-    ],
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
     "platform": {
         "php": ">= 5.3.7"
     },
-    "platform-dev": [
-
-    ]
+    "platform-dev": []
 }
