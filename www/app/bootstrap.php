@@ -21,6 +21,4 @@ $configurator->addConfig(__DIR__ . '/config/config.local.neon');
 
 $container = $configurator->createContainer();
 
-Route::$defaultFlags |= Route::SECURED;
-
 return $container;
